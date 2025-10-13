@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T15:18:15.234642+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-10-13T16:24:34.684733+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "关于中国，特朗普和万斯嘴软了",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 16时24分]"
         },
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -121,11 +122,26 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
+          "url": "https://www.cls.cn/detail/2166955",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 16时24分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -140,19 +156,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
-          "url": "https://www.cls.cn/detail/2166955",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 15时18分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -170,6 +173,18 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
+          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时24分]"
+        },
+        {
           "title": "特朗普释放信号：愿与中国达成协议",
           "url": "https://www.toutiao.com/trending/7560501650729733674/",
           "source": "今日头条",
@@ -179,18 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时22分]"
-        },
-        {
-          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
-          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 15时18分]"
         },
         {
           "title": "特朗普手握“战斧”威胁普京",
@@ -204,6 +207,18 @@
           "time_info": "[10时01分 ~ 11时22分]"
         },
         {
+          "title": "特朗普连说三遍战争结束了",
+          "url": "https://www.douyin.com/hot/2268110",
+          "source": "抖音",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 16时24分]"
+        },
+        {
           "title": "特朗普：若俄乌冲突无法解决，可能会供乌“战斧”",
           "url": "https://news.ifeng.com/c/8nPCaFawghG",
           "source": "凤凰网",
@@ -213,6 +228,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国总统特朗普：这是伟大的一天，这是全新的开始。",
+          "url": "https://flash.jin10.com/detail/20251013161654773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯将遵守解除武装计划。战争结束了。",
+          "url": "https://flash.jin10.com/detail/20251013161646636800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "特朗普：与以色列总理内塔尼亚胡的关系良好。内塔尼亚胡做得“非常出色”。",
@@ -373,17 +410,6 @@
           "time_info": "[14时55分 ~ 15时18分]"
         },
         {
-          "title": "特朗普连说三遍战争结束了",
-          "url": "https://www.douyin.com/hot/2268110",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 15时18分]"
-        },
-        {
           "title": "特朗普犹太裔女婿现身加沙",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
           "source": "百度热搜",
@@ -460,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：供应“战斧”导弹可能对所有人都会带来严重后果，而其中最严重的，将是美国总统特朗普本人。",
+          "url": "https://flash.jin10.com/detail/20251013161452130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "特朗普：有很多口头保证，我相信这些保证。加沙会没事的。",
@@ -539,6 +576,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "市场消息：美国总统特朗普进入以色列议会。",
+          "url": "https://flash.jin10.com/detail/20251013161006398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
           "url": "https://flash.jin10.com/detail/20251013063154478800",
           "source": "金十数据",
@@ -548,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美政府停摆近两周 特朗普趁机大裁员",
+          "url": "https://www.toutiao.com/trending/7560582028605787690/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国白宫：美国总统特朗普正前往以色列和埃及，签署结束加沙战争的和平协议。",
@@ -740,7 +799,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "为对抗中国在稀土领域地位，美国防部计划采购10亿美元关键矿产",
@@ -752,8 +811,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 16时24分]"
         },
         {
           "title": "小Lin解析美元暴跌",
@@ -767,11 +826,12 @@
             2,
             9,
             15,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 16时24分]"
         },
         {
           "title": "深度解读美元暴跌的背后",
@@ -939,6 +999,18 @@
           "time_info": "[00时28分 ~ 04时27分]"
         },
         {
+          "title": "还有反转？上周五“精准做空”引发全市场关注，神秘交易员再度开出1.6亿美元空单",
+          "url": "https://wallstreetcn.com/articles/3757052",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 16时24分]"
+        },
+        {
           "title": "美元兑韩元汇率涨幅有所收窄，此前韩国当局警告外汇市场波动下避免群体行为。",
           "url": "https://flash.jin10.com/detail/20251013130824318800",
           "source": "金十数据",
@@ -970,18 +1042,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "还有反转？上周五“精准做空”引发全市场关注，神秘交易员再度开出1.6亿美元空单",
-          "url": "https://wallstreetcn.com/articles/3757052",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 15时18分]"
         },
         {
           "title": "韩国企划财政部：预计韩国每年可进行的美国直接投资最高额度约为200亿美元。",
@@ -1214,6 +1274,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "超预期！中国9月以美元计价出口同比增长8.3%，进口同比增7.4% 工业机器人和风电出口增长强劲",
+          "url": "https://wallstreetcn.com/articles/3757056",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "中国9月以美元计算出口年率 8.3%，预期7.1%，前值4.40%。",
           "url": "https://flash.jin10.com/detail/20251013105833599800",
           "source": "金十数据",
@@ -1346,6 +1417,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "富士康计划在印度泰米尔纳德邦投资17亿美元",
+          "url": "https://wallstreetcn.com/livenews/2986605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "现货黄金涨破4040美元",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E6%B6%A8%E7%A0%B44040%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D30%26realpos%3D30%26dgr%3D0%26band_rank%3D30%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E6%25B6%25A8%25E7%25A0%25B44040%25E7%25BE%258E%25E5%2585%2583%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
           "source": "微博",
@@ -1410,18 +1492,19 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪第 1400 万辆新能源车在巴西下线，总统卢拉成为车主，为什么选择在巴西？你怎样看待这一成就？",
           "url": "https://www.zhihu.com/question/1960113239108093233",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 16时24分]"
         },
         {
           "title": "恒生科技指数下跌4%，舜宇光学科技跌超7%，哔哩哔哩、比亚迪电子跌近7%，小米、快手、联想、蔚来等跌超6%。",
@@ -1446,13 +1529,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时27分]"
+        },
+        {
+          "title": "9月乘用车零售再破历史峰值：上汽时隔五月重夺“销冠” 比亚迪同比首现负增长",
+          "url": "https://www.cls.cn/detail/2167353",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2986638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20251013160329025800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
         {
           "title": "海尔集团与阿里巴巴签署全面战略合作协议",
           "url": "https://wallstreetcn.com/livenews/2986459",
