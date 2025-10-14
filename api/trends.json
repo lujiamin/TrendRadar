@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T06:15:32.318409+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2025-10-15T07:16:06.127162+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -40,11 +41,12 @@
             18,
             17,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -54,8 +56,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -64,9 +66,24 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普：我对“两国方案”还没有表态",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            24,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 07时16分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -146,17 +163,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "特朗普向遭枪杀的政治盟友柯克追授总统自由勋章",
-          "url": "https://flash.jin10.com/detail/20251015053608128800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
           "url": "https://flash.jin10.com/detail/20251015021401523800",
           "source": "金十数据",
@@ -212,30 +218,15 @@
           "time_info": "03时13分"
         },
         {
-          "title": "市场消息：伊朗拒绝了特朗普在以色列议会演讲中提出的和平提议。",
-          "url": "https://flash.jin10.com/detail/20251015052734646800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：希望阿根廷民众在中期选举中支持现任总统米莱。 我将在中期选举里全力以赴地支持米莱。",
+          "url": "https://wallstreetcn.com/livenews/2987738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "特朗普：我对“两国方案”还没有表态",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            24,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 06时15分]"
+          "time_info": "07时16分"
         },
         {
           "title": "提醒：美国总统特朗普会见阿根廷总统米莱，财长贝森特在场。",
@@ -263,6 +254,18 @@
           "time_info": "[01时20分 ~ 03时13分]"
         },
         {
+          "title": "特朗普向遭枪杀的政治盟友柯克追授总统自由勋章",
+          "url": "https://flash.jin10.com/detail/20251015053608128800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
           "title": "美国总统特朗普赞赏当前的石油和汽油价格。",
           "url": "https://wallstreetcn.com/livenews/2987673",
           "source": "华尔街见闻-快讯",
@@ -273,6 +276,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时19分]"
+        },
+        {
+          "title": "市场消息：伊朗拒绝了特朗普在以色列议会演讲中提出的和平提议。",
+          "url": "https://flash.jin10.com/detail/20251015052734646800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
         },
         {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
@@ -300,6 +315,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时13分]"
+        },
+        {
+          "title": "特朗普改口称是想帮中国",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E7%A7%B0%E6%98%AF%E6%83%B3%E5%B8%AE%E4%B8%AD%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D24%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2594%25B9%25E5%258F%25A3%25E7%25A7%25B0%25E6%2598%25AF%25E6%2583%25B3%25E5%25B8%25AE%25E4%25B8%25AD%25E5%259B%25BD%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26band_rank%3D23%26flag%3D0%26cate%3D5001%26lcate%3D5001%26realpos%3D23%26display_time%3D1760480017%26pre_seqid%3D1760480017928015315637",
+          "source": "微博",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
+          "url": "https://wallstreetcn.com/livenews/2987715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
         },
         {
           "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
@@ -403,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
-          "url": "https://wallstreetcn.com/livenews/2987715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：我非常想访问阿根廷。",
@@ -554,7 +582,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -579,17 +607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普改口称是想帮中国",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E7%A7%B0%E6%98%AF%E6%83%B3%E5%B8%AE%E4%B8%AD%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D24%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2594%25B9%25E5%258F%25A3%25E7%25A7%25B0%25E6%2598%25AF%25E6%2583%25B3%25E5%25B8%25AE%25E4%25B8%25AD%25E5%259B%25BD%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26band_rank%3D23%26flag%3D0%26cate%3D5001%26lcate%3D5001%26realpos%3D23%26display_time%3D1760480017%26pre_seqid%3D1760480017928015315637",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：他们告诉我他们会解除武装。",
@@ -727,7 +744,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
@@ -737,11 +754,12 @@
             13,
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
@@ -753,17 +771,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 06时15分]"
-        },
-        {
-          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
-          "url": "https://wallstreetcn.com/livenews/2987719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         },
         {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
@@ -779,6 +786,19 @@
           "time_info": "[03时13分 ~ 05时14分]"
         },
         {
+          "title": "周二（10月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1402元，较周一纽约尾盘跌19点，日内整体交投于7.1356-7.1495元区间。",
+          "url": "https://wallstreetcn.com/livenews/2987713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 07时16分]"
+        },
+        {
           "title": "现货白银短线下跌约0.4美元，最新报51.41美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251015034434927800",
           "source": "金十数据",
@@ -789,18 +809,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时14分]"
-        },
-        {
-          "title": "周二（10月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1402元，较周一纽约尾盘跌19点，日内整体交投于7.1356-7.1495元区间。",
-          "url": "https://wallstreetcn.com/livenews/2987713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时15分]"
         },
         {
           "title": "WTI 11月原油期货收跌0.79美元，跌幅1.33%，报58.70美元/桶。 布伦特12月原油期货收跌0.93美元，跌幅1.47%，报62.39美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。",
@@ -825,6 +833,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
+          "url": "https://wallstreetcn.com/livenews/2987719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "纽约期金涨约0.7%，亚太午盘创历史新高、逼近4200美元，纽约铜跌超2.6%",
+          "url": "https://wallstreetcn.com/livenews/2987709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 07时16分]"
         },
         {
           "title": "LME期铜收跌242美元，报10578美元/吨。 LME期铝收跌26美元，报2738美元/吨。 LME期锌收跌80美元，报2942美元/吨。 LME期铅收跌7美元，报1982美元/吨。 LME期镍收跌71美元，报15135美元/吨。 LME期锡收跌537美元，报35189美元/吨。 LME期钴收平，报42725美元/吨。",
@@ -876,18 +909,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时19分]"
-        },
-        {
-          "title": "纽约期金涨约0.7%，亚太午盘创历史新高、逼近4200美元，纽约铜跌超2.6%",
-          "url": "https://wallstreetcn.com/livenews/2987709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时15分]"
         },
         {
           "title": "周二（10月14日），美联储隔夜逆回购协议（RRP）使用规模为35.16亿美元，创2021年4月份以来最低，上个交易日报41.24亿美元。",
@@ -960,6 +981,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "据知情人士透露，智利国家铜业公司（Codelco）寻求对那些关键的欧洲客户实施铜涨价39%，寻求收取每吨325美元的溢价。 如果被接受，这将比智利生产商在过去几年谈判达成的234美元的溢价大幅增加，略高于欧洲生产商Aurubis计划在2026年收取的溢价。 谈判本周在伦敦举行，作为一个重要行业会议的一部分，并将继续进行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2987731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "现货黄金短线下挫超10美元，最新报4135.15美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251015033756099800",
           "source": "金十数据",
@@ -988,7 +1020,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -1010,9 +1042,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "现货黄金短线拉升10逾美元，触及4160美元/盎司，日内涨0.41%。",
+          "url": "https://flash.jin10.com/detail/20251015061527382800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "市场消息：“比特币耶稣”Roger Ver同意支付4990万美元来解决美国司法部的刑事逃税案件。",
@@ -1048,6 +1091,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "国际货币基金组织：经批准后，巴基斯坦将可获得约10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251015060851511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
           "url": "https://wallstreetcn.com/livenews/2987632",
           "source": "华尔街见闻-快讯",
@@ -1079,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "Stellantis计划在美国投资130亿美元以促增长",
+          "url": "https://wallstreetcn.com/livenews/2987711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "西方石油公司高管Hollub：美国石油供应将在2027-30年见顶。 石油价格将在2026年之后高于62美元/桶。",
@@ -1114,11 +1179,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1154,11 +1220,12 @@
           "url": "https://www.cls.cn/detail/2169123",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     }
