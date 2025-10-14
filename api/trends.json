@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T22:18:30.638746+08:00",
-  "total_titles_processed": 2082,
+  "generated_at": "2025-10-14T23:18:38.150969+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 122,
+      "match_count": 127,
       "titles": [
         {
           "title": "还有反转？上周五“精准做空”引发全市场关注，神秘交易员再度开出1.6亿美元空单",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时00分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时00分 ~ 23时18分]"
         },
         {
           "title": "聚焦稀土、机器人等27个领域 摩根大通启动1.5万亿美元投融资项目",
@@ -86,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -563,6 +563,18 @@
           "time_info": "[20时33分 ~ 21时29分]"
         },
         {
+          "title": "加密货币持续走低，以太坊一度跌破3900美元，比特币一度跌破110000美元。",
+          "url": "https://wallstreetcn.com/livenews/2987576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "周一（10月13日）纽约尾盘，彭博谷物分类指数跌0.21%，报28.3002点。 CBOT玉米期货跌0.61%，报1.1025美元/蒲式耳。 CBOT小麦期货跌0.35%，报4.9675美元/蒲式耳。 CBOT大豆期货涨0.15%，报10.0825美元/蒲式耳，豆粕期货跌0.18%，豆油期货涨1.12%。",
           "url": "https://wallstreetcn.com/livenews/2986947",
           "source": "华尔街见闻-快讯",
@@ -573,6 +585,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时13分]"
+        },
+        {
+          "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
+          "url": "https://www.zhihu.com/question/1961389921936828161",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "富士康：在印度泰米尔纳德邦的17亿美元投资并非新计划",
@@ -642,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
+          "url": "https://wallstreetcn.com/livenews/2987601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "人工智能初创公司Lila Sciences获得英伟达1.15亿美元新融资。",
@@ -754,6 +788,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "波音赢得欧盟反垄断批准，完成47亿美元收购Spirit Aerosystems交易。",
+          "url": "https://flash.jin10.com/detail/20251014230034861800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "消息人士：软银旗下日本电子支付工具PayPay预计最早于12月在美国进行IPO，估值可能突破200亿美元。",
           "url": "https://flash.jin10.com/detail/20251014125345571800",
           "source": "金十数据",
@@ -785,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "西方石油公司高管Hollub：美国石油供应将在2027-30年见顶。 石油价格将在2026年之后高于62美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2987597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "现货黄金站上4160美元/盎司，日内涨1.18%。",
@@ -952,17 +1008,6 @@
           "time_info": "16时21分"
         },
         {
-          "title": "加密货币持续走低，以太坊一度跌破3900美元，比特币一度跌破110000美元。",
-          "url": "https://wallstreetcn.com/livenews/2987576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "现货白银站上53美元",
           "url": "https://flash.jin10.com/detail/20251014104829991800",
           "source": "金十数据",
@@ -972,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "西方石油公司高管霍卢布：预计2026年之后油价将升至62美元以上。",
+          "url": "https://flash.jin10.com/detail/20251014223924719800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
@@ -985,15 +1041,15 @@
           "time_info": "19时14分"
         },
         {
-          "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
-          "url": "https://www.zhihu.com/question/1961389921936828161",
-          "source": "知乎",
+          "title": "西方石油公司高管霍卢布：预计今年布伦特原油价格将在每桶58至62美元之间。",
+          "url": "https://flash.jin10.com/detail/20251014223853120800",
+          "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "23时18分"
         },
         {
           "title": "通用汽车美股盘前跌近3%，公司称基于对电动汽车产能和制造布局的规划性战略调整，通用汽车在截至9月30日的第三季度计提16亿美元。",
@@ -1343,7 +1399,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1406,7 +1462,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -1453,6 +1509,18 @@
           "time_info": "[00时21分 ~ 11时00分]"
         },
         {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 20时33分]"
+        },
+        {
           "title": "特朗普签署加沙停火协议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -1465,23 +1533,12 @@
             4,
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时00分 ~ 22时18分]"
-        },
-        {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[11时00分 ~ 23时18分]"
         },
         {
           "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
@@ -1506,6 +1563,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时08分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
+          "url": "https://news.ifeng.com/c/8nRppITbDH3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时18分]"
         },
         {
           "title": "内塔尼亚胡向特朗普赠送金鸽子雕塑",
@@ -1553,11 +1621,12 @@
             20,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 22时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 23时18分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -1570,11 +1639,12 @@
             25,
             23,
             27,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时00分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时00分 ~ 23时18分]"
         },
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -1587,17 +1657,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时18分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
-          "url": "https://news.ifeng.com/c/8nRppITbDH3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时18分]"
         },
         {
           "title": "希拉里罕见赞扬特朗普",
@@ -1625,6 +1684,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时22分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普抱怨：这张照片实在太烂了(图)",
+          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时18分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
@@ -1663,6 +1733,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "据英国金融时报：必和必拓(BHP.N)首席执行官表示，特朗普任内采取的举措促使公司加大了在美国的勘探力度，并推动了对亚利桑那州相关选项的重新评估。",
+          "url": "https://flash.jin10.com/detail/20251014231559742800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "鲁比奥赞扬特朗普时却遭特朗普当场质疑，鲁比奥迅速改口，美媒嘲讽",
           "url": "https://wallstreetcn.com/livenews/2987492",
           "source": "华尔街见闻-快讯",
@@ -1672,17 +1753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "特朗普抱怨：这张照片实在太烂了(图)",
-          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时18分]"
         },
         {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普分享了关于乌克兰所需“战斧”导弹数量的“愿景”，并将于周五讨论具体细节。",
@@ -1730,6 +1800,19 @@
           "time_info": "13时17分"
         },
         {
+          "title": "特朗普指着阿联酋副总统：钱多得没边",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%9D%80%E9%98%BF%E8%81%94%E9%85%8B%E5%89%AF%E6%80%BB%E7%BB%9F%EF%BC%9A%E9%92%B1%E5%A4%9A%E5%BE%97%E6%B2%A1%E8%BE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
           "source": "百度热搜",
@@ -1755,6 +1838,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时00分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普抱怨美媒用他最差照片当封面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            20,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时18分]"
         },
         {
           "title": "特朗普：若看到伊朗愿意对话，则准备解除对伊制裁",
@@ -1793,29 +1890,17 @@
           "time_info": "[05时13分 ~ 06时16分]"
         },
         {
-          "title": "特朗普指着阿联酋副总统：钱多得没边",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%9D%80%E9%98%BF%E8%81%94%E9%85%8B%E5%89%AF%E6%80%BB%E7%BB%9F%EF%BC%9A%E9%92%B1%E5%A4%9A%E5%BE%97%E6%B2%A1%E8%BE%B9",
-          "source": "百度热搜",
+          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时18分]"
-        },
-        {
-          "title": "特朗普抱怨美媒用他最差照片当封面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            22,
             20,
-            18
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时18分]"
+          "time_info": "[20时33分 ~ 23时18分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -1853,18 +1938,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时18分]"
-        },
-        {
-          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时18分]"
         },
         {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
@@ -2022,6 +2095,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
+          "url": "https://wallstreetcn.com/livenews/2987599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "以前总理反驳特朗普：内塔尼亚胡都没认罪，赦免他是巨大的丑闻",
           "url": "https://news.ifeng.com/c/8nRf7tuZiTU",
           "source": "凤凰网",
@@ -2097,6 +2181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：美国总统特朗普政府有权调动资金支付士兵费用。",
+          "url": "https://flash.jin10.com/detail/20251014224038063800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普抱怨时代周刊封面图史上最差",
@@ -2325,8 +2420,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时00分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时00分 ~ 23时18分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -2471,7 +2566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -2573,8 +2668,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时18分]"
         },
         {
           "title": "法尔胜：公司主营业务为金属制品及环保业务，公司不涉及“可控核聚变”相关业务，也未开展相关研发和投入。",
