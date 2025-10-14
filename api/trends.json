@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T15:18:19.626090+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-10-14T16:21:28.612023+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "还有反转？上周五“精准做空”引发全市场关注，神秘交易员再度开出1.6亿美元空单",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时00分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时00分 ~ 16时21分]"
         },
         {
           "title": "德意志银行：将博通(AVGO.O)目标价上调至400美元，此前为350美元。",
@@ -75,18 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "纽约期铜日内一度跌近4%，现报4.969美元/磅。美油、布油均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2987332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -111,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
-        },
-        {
-          "title": "WTI原油日内跌幅达1.0%，报58.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2987329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "金银一路狂飙！现货黄金突破4100美元大关 银价年内涨幅逼近80%",
@@ -201,6 +179,18 @@
           "time_info": "[14时25分 ~ 15时18分]"
         },
         {
+          "title": "纽约期铜日内一度跌近4%，现报4.969美元/磅。美油、布油均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2987332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时21分]"
+        },
+        {
           "title": "美国油服贝克休斯CEO Lorenzo Simonelli：预计（美国总统特朗普挑起的）关税将在2025年对公司造成超过1亿美元的冲击。",
           "url": "https://wallstreetcn.com/livenews/2986931",
           "source": "华尔街见闻-快讯",
@@ -249,6 +239,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时16分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.0%，报58.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2987329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时21分]"
         },
         {
           "title": "现货黄金周二亚盘盘初上破4140美元/盎司，多头情绪浓烈；日本政治局势动荡令日元承压，美元/日元买进信号强烈。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -473,6 +475,18 @@
           "time_info": "[04时18分 ~ 05时13分]"
         },
         {
+          "title": "现货黄金突破4170美元",
+          "url": "https://www.toutiao.com/trending/7560957366821195303/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时21分]"
+        },
+        {
           "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
           "url": "https://wallstreetcn.com/livenews/2986893",
           "source": "华尔街见闻-快讯",
@@ -568,9 +582,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "WTI原油失守58美元/桶，日内跌近2%。布伦特原油日内跌1.9%，现报61.94美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251014160903489800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "消息人士：软银旗下日本电子支付工具PayPay预计最早于12月在美国进行IPO，估值可能突破200亿美元。",
@@ -634,7 +659,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -683,6 +708,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "澳元兑美元下跌0.9%至0.6458，创8月22日以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/2987346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "现货白银站上53美元",
           "url": "https://flash.jin10.com/detail/20251014104829991800",
           "source": "金十数据",
@@ -716,13 +752,24 @@
           "time_info": "12时20分"
         },
         {
+          "title": "英镑兑美元下跌0.6%，至1.3258，创下自8月4日以来新低。",
+          "url": "https://wallstreetcn.com/livenews/2987341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "现货黄金跌破4100美元/盎司，较日高回落近80美元，日内跌0.29%。",
           "url": "https://flash.jin10.com/detail/20251014142438130800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -744,7 +791,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -755,7 +802,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -821,7 +868,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -868,17 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
-        },
-        {
-          "title": "现货黄金突破4170美元",
-          "url": "https://www.toutiao.com/trending/7560957366821195303/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "纽约期银涨超6%，现货白银历史新高，美银预计明年可达到65美元",
@@ -928,7 +964,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -1024,11 +1060,12 @@
             13,
             14,
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 16时21分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -1040,11 +1077,12 @@
             17,
             19,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 16时21分]"
         },
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -1096,8 +1134,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时00分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时00分 ~ 16时21分]"
+        },
+        {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时21分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
@@ -1111,15 +1160,18 @@
           "time_info": "[00时21分 ~ 01时14分]"
         },
         {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            28,
+            5,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时00分 ~ 16时21分]"
         },
         {
           "title": "特朗普马克龙上演26秒掰手腕式握手",
@@ -1170,18 +1222,15 @@
           "time_info": "[12时19分 ~ 13时17分]"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普为何要保住对华贸易",
+          "url": "https://www.toutiao.com/trending/7560960551040323135/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            5,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 15时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "乌克兰总统泽连斯基：将与美国总统特朗普讨论防空和乌克兰的远程能力问题。",
@@ -1279,6 +1328,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 16时21分]"
         },
         {
           "title": "美国总统特朗普：加沙将有许多资金和建筑物。",
@@ -1389,17 +1450,6 @@
           "time_info": "[13时17分 ~ 14时25分]"
         },
         {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时36分]"
-        },
-        {
           "title": "马来西亚外交部长：美国总统特朗普将于10月26日访问马来西亚。",
           "url": "https://flash.jin10.com/detail/20251014125720435800",
           "source": "金十数据",
@@ -1409,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "以前总理反驳特朗普：内塔尼亚胡都没认罪，赦免他是巨大的丑闻",
+          "url": "https://news.ifeng.com/c/8nRf7tuZiTU",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "市场消息：美国总统特朗普与乌克兰总统泽连斯基将于周五就防空和武器问题进行会谈，还将讨论与俄罗斯可能展开的谈判。",
@@ -1461,7 +1522,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1659,6 +1720,20 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时00分 ~ 16时21分]"
+        },
+        {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
           "url": "https://wallstreetcn.com/articles/3757107",
           "source": "华尔街见闻",
@@ -1685,20 +1760,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时00分 ~ 15时18分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
@@ -1909,8 +1970,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时00分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时00分 ~ 16时21分]"
         }
       ]
     }
