@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-10-16T00:17:44.950190+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-16T01:18:14.121275+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "Anthropic预计年化收入高达260亿美元，处于到2025年年底实现（季度）收入90亿美元的正轨之上。（路透）",
+          "url": "https://wallstreetcn.com/livenews/2988352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
         {
           "title": "美国财长贝森特设法为阿根廷争取200亿美元额外的（救助）“工具”。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/2988335",
@@ -19,37 +41,15 @@
           "time_info": "00时17分"
         },
         {
-          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
+          "title": "LME期铜收涨63美元，报10641美元/吨。 LME期铝收涨8美元，报2746美元/吨。 LME期锌收涨6美元，报2948美元/吨。 LME期铅收平，报1982美元/吨。 LME期镍收涨59美元，报15194美元/吨。 LME期锡收涨204美元，报35393美元/吨。 LME期钴收平，报42725美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2988348",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美银：欧洲股票基金四周吸金18.8亿美元 工业板块流入居首",
-          "url": "https://flash.jin10.com/detail/20251015232329260800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "Meta正在美国得州新建一座1 GW数据中心，为此将开支超过15亿美元",
-          "url": "https://wallstreetcn.com/livenews/2988333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时18分"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -57,6 +57,65 @@
           "source": "华尔街见闻",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
+          "url": "https://www.cls.cn/detail/2170336",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "Meta正在美国得州新建一座1 GW数据中心，为此将开支超过15亿美元",
+          "url": "https://wallstreetcn.com/livenews/2988333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "新兴市场股票指数和外汇指数双双有望创6月以来最佳单日表现，美元走软和强劲的业绩报告都利好风险偏好情绪。",
+          "url": "https://wallstreetcn.com/livenews/2988326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "花旗集团在欧洲发行27.5亿欧元（折合32亿美元）债券，包含五年期和九年期。",
+          "url": "https://wallstreetcn.com/livenews/2988322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "美银：欧洲股票基金四周吸金18.8亿美元 工业板块流入居首",
+          "url": "https://flash.jin10.com/detail/20251015232329260800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,37 +133,37 @@
           "time_info": "00时17分"
         },
         {
-          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
-          "url": "https://www.cls.cn/detail/2170336",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "新兴市场股票指数和外汇指数双双有望创6月以来最佳单日表现，美元走软和强劲的业绩报告都利好风险偏好情绪。",
-          "url": "https://wallstreetcn.com/livenews/2988326",
+          "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
+          "url": "https://wallstreetcn.com/livenews/2988341",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时18分"
         },
         {
-          "title": "花旗集团在欧洲发行27.5亿欧元（折合32亿美元）债券，包含五年期和九年期。",
-          "url": "https://wallstreetcn.com/livenews/2988322",
+          "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2988335",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国财长贝森特：我们正在为阿根廷设立一项200亿美元的私营部门融资工具，该工具将与互换额度并行，并用于投资债务。",
+          "url": "https://flash.jin10.com/detail/20251016001117654800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
           "title": "阿斯利康宣布在美国得克萨斯州Copnell经过扩建的新（医药）生产设施。 该公司为这个设施投资4.45亿美元，这是在美国研发和生产领域投资500亿美元计划的一部分。",
@@ -121,7 +180,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -131,19 +190,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
           "url": "https://www.cls.cn/detail/2170153",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "特朗普施压米莱：选举没赢，美援就撤",
@@ -153,8 +213,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
         },
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -164,8 +224,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "中方回应特朗普指责停止进口美大豆",
+          "url": "https://www.toutiao.com/trending/7561238900635762751/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
         }
       ]
     }
