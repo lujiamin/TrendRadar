@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T16:22:22.091020+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-10-15T17:17:42.347343+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 16时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 17时17分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -40,11 +40,12 @@
           "ranks": [
             6,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 17时17分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -102,6 +103,30 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
+          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普：我对“两国方案”还没有表态",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
           "source": "百度热搜",
@@ -117,27 +142,15 @@
           "time_info": "[02时24分 ~ 07时16分]"
         },
         {
-          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
-          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时22分]"
-        },
-        {
-          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
-          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
-          "source": "凤凰网",
+          "title": "中方回应特朗普指责停止进口美大豆",
+          "url": "https://www.toutiao.com/trending/7561238900635762751/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时22分]"
+          "time_info": "[16时22分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -160,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
+          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
@@ -248,17 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "中方回应特朗普指责停止进口美大豆",
-          "url": "https://www.toutiao.com/trending/7561238900635762751/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "特朗普抱怨称中国故意不买美国大豆",
@@ -366,6 +379,18 @@
           "time_info": "[12时19分 ~ 13时16分]"
         },
         {
+          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
+          "url": "https://www.cls.cn/detail/2170153",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
           "title": "市场消息：伊朗拒绝了特朗普在以色列议会演讲中提出的和平提议。",
           "url": "https://flash.jin10.com/detail/20251015052734646800",
           "source": "金十数据",
@@ -453,6 +478,17 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
+          "title": "外交部回应“特朗普威胁报复中方”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
           "title": "美法官再次裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
           "url": "https://wallstreetcn.com/livenews/2987637",
           "source": "华尔街见闻-快讯",
@@ -463,6 +499,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "特朗普呼吁赦免内塔尼亚胡",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
         },
         {
           "title": "美国总统特朗普：周五将掌握一份关于被关闭政府部门的清单。",
@@ -532,17 +579,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
-          "url": "https://www.cls.cn/detail/2170153",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "美国总统特朗普：我非常想访问阿根廷。",
           "url": "https://flash.jin10.com/detail/20251015024234971800",
           "source": "金十数据",
@@ -560,7 +596,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -631,17 +667,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "外交部回应“特朗普威胁报复中方”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -681,18 +706,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "特朗普呼吁赦免内塔尼亚胡",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -747,7 +761,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -805,6 +819,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普指责中国不进口大豆 中方回应",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%BF%9B%E5%8F%A3%E5%A4%A7%E8%B1%86+%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普：解除哈马斯武装将迅速发生，或许还会伴随暴力。",
@@ -873,6 +898,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "特朗普：世界杯在哪办？我说了算",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9C%A8%E5%93%AA%E5%8A%9E%EF%BC%9F%E6%88%91%E8%AF%B4%E4%BA%86%E7%AE%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "美国总统特朗普：由于停摆，我们现在能够做一些以前做不到的事情。",
           "url": "https://flash.jin10.com/detail/20251015025310880800",
           "source": "金十数据",
@@ -909,7 +945,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
@@ -928,6 +964,21 @@
           "time_info": "[00时19分 ~ 09时09分]"
         },
         {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 17时17分]"
+        },
+        {
           "title": "摩根大通宣布“1.5万亿美元规划”：10年，四大领域，振兴美国工业",
           "url": "https://wallstreetcn.com/articles/3757113",
           "source": "华尔街见闻",
@@ -938,20 +989,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 09时09分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 16时22分]"
         },
         {
           "title": "现货黄金向上触及4170美元/盎司，日内涨0.64%。",
@@ -1084,6 +1121,20 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 17时17分]"
+        },
+        {
           "title": "纽约期金涨约0.7%，亚太午盘创历史新高、逼近4200美元，纽约铜跌超2.6%",
           "url": "https://wallstreetcn.com/livenews/2987709",
           "source": "华尔街见闻-快讯",
@@ -1095,19 +1146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
-          "url": "https://www.cls.cn/detail/2169818",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 16时22分]"
         },
         {
           "title": "LME期铜收跌242美元，报10578美元/吨。 LME期铝收跌26美元，报2738美元/吨。 LME期锌收跌80美元，报2942美元/吨。 LME期铅收跌7美元，报1982美元/吨。 LME期镍收跌71美元，报15135美元/吨。 LME期锡收跌537美元，报35189美元/吨。 LME期钴收平，报42725美元/吨。",
@@ -1304,7 +1342,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1373,6 +1411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "现货白银再次站上53美元/盎司，日内涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美联储主席鲍威尔讲话后，现货黄金上涨，波动近30美元，现报4147.48美元/盎司。",
@@ -1461,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "现货钯金日内涨超4.00%，现报1555.67美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015164805198800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "国际货币基金组织：经批准后，巴基斯坦将可获得约10亿美元。",
@@ -1754,6 +1814,49 @@
       ]
     },
     {
+      "keyword_group": "比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待有人先冒充极氪团队再冒充比亚迪员工，骗取创业公司产品方案？",
+          "url": "https://www.zhihu.com/question/1960424640712245570",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 15时21分]"
+        },
+        {
+          "title": "比亚迪在芜湖成立汽车销售服务新公司",
+          "url": "https://wallstreetcn.com/livenews/2988093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
+          "url": "https://wallstreetcn.com/livenews/2987763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴",
       "match_count": 2,
       "titles": [
@@ -1764,7 +1867,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1807,38 +1910,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待有人先冒充极氪团队再冒充比亚迪员工，骗取创业公司产品方案？",
-          "url": "https://www.zhihu.com/question/1960424640712245570",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 15时21分]"
-        },
-        {
-          "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
-          "url": "https://wallstreetcn.com/livenews/2987763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
         }
       ]
     }
