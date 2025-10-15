@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T12:19:40.380789+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-10-15T13:16:36.495889+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -75,6 +75,19 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时16分]"
+        },
+        {
           "title": "特朗普：我对“两国方案”还没有表态",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
           "source": "百度热搜",
@@ -112,19 +125,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 12时19分]"
-        },
-        {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
           "url": "https://flash.jin10.com/detail/20251015021601486800",
           "source": "金十数据",
@@ -158,6 +158,17 @@
           "time_info": "[00时19分 ~ 03时13分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时16分]"
+        },
+        {
           "title": "美国总统特朗普：我们在南美洲取得了巨大进展。",
           "url": "https://flash.jin10.com/detail/20251015021413077800",
           "source": "金十数据",
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "特朗普威胁：如果波士顿存在“不安全”因素，世界杯比赛就换地方办",
-          "url": "https://wallstreetcn.com/livenews/2987910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         },
         {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
@@ -230,7 +230,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -266,17 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 12时19分]"
         },
         {
           "title": "提醒：美国总统特朗普会见阿根廷总统米莱，财长贝森特在场。",
@@ -326,6 +315,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普威胁：如果波士顿存在“不安全”因素，世界杯比赛就换地方办",
+          "url": "https://wallstreetcn.com/livenews/2987910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时16分]"
         },
         {
           "title": "市场消息：伊朗拒绝了特朗普在以色列议会演讲中提出的和平提议。",
@@ -794,7 +795,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "新加坡发行的新元稳定币 XSGD，能否撼动美元稳定币的垄断地位？预计未来全球稳定币竞争格局会如何演绎？",
@@ -836,6 +837,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "瑞士睿盛銀行：对美国体制的信心减弱是美元走软的主要原因",
+          "url": "https://flash.jin10.com/detail/20251015124821741800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "花旗旗下研究机构Citi Research将其铂金和钯金三个月目标价分别上调至1550美元和1350美元，理由是金价反弹以及美国对关键矿产调查截止日期前有大量资金流入。",
           "url": "https://flash.jin10.com/detail/20251015090135524800",
           "source": "金十数据",
@@ -847,17 +859,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "现货黄金突破4190美元/盎司，再创历史新高，日内涨1.12%。",
-          "url": "https://flash.jin10.com/detail/20251015115027295800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "花旗旗下研究机构Citi Research将其铂金和钯金三个月目标价分别上调至1550美元和1350美元，理由是金价反弹以及美国对关键矿产调查截止日期前有大量资金流入。",
           "url": "https://wallstreetcn.com/livenews/2987793",
           "source": "华尔街见闻-快讯",
@@ -867,6 +868,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时16分]"
         },
         {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
@@ -907,6 +920,18 @@
           "time_info": "[04时19分 ~ 05时14分]"
         },
         {
+          "title": "现货黄金突破4190美元/盎司，再创历史新高，日内涨1.12%。",
+          "url": "https://flash.jin10.com/detail/20251015115027295800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时16分]"
+        },
+        {
           "title": "WTI 11月原油期货收跌0.79美元，跌幅1.33%，报58.70美元/桶。 布伦特12月原油期货收跌0.93美元，跌幅1.47%，报62.39美元/桶。 中东Abu Dhabi Murban原油期货跌1.43%，报64.08美元/桶。",
           "url": "https://wallstreetcn.com/livenews/2987670",
           "source": "华尔街见闻-快讯",
@@ -941,18 +966,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 12时19分]"
         },
         {
           "title": "纽约期金涨约0.7%，亚太午盘创历史新高、逼近4200美元，纽约铜跌超2.6%",
@@ -1019,6 +1032,18 @@
           "time_info": "[03时13分 ~ 04时19分]"
         },
         {
+          "title": "现货黄金涨破4190美元/盎司，再创历史新高，日内涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/2987905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时16分]"
+        },
+        {
           "title": "周二（10月14日），美联储隔夜逆回购协议（RRP）使用规模为35.16亿美元，创2021年4月份以来最低，上个交易日报41.24亿美元。",
           "url": "https://wallstreetcn.com/livenews/2987653",
           "source": "华尔街见闻-快讯",
@@ -1078,17 +1103,6 @@
           "time_info": "11时05分"
         },
         {
-          "title": "现货黄金涨破4190美元/盎司，再创历史新高，日内涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/2987905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "美元指数DXY向下触及99。",
           "url": "https://flash.jin10.com/detail/20251015085048874800",
           "source": "金十数据",
@@ -1106,7 +1120,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -1117,7 +1131,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -1232,6 +1246,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "雷神科技(RTX.N)旗下雷神公司启动价值5300万美元的低层防空反导传感器设施扩建工程。",
+          "url": "https://flash.jin10.com/detail/20251015120758216800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "市场消息：“比特币耶稣”Roger Ver同意支付4990万美元来解决美国司法部的刑事逃税案件。",
           "url": "https://flash.jin10.com/detail/20251015010543789800",
           "source": "金十数据",
@@ -1293,7 +1318,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -1378,7 +1403,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -1394,17 +1419,6 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
-          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2987912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
           "url": "https://www.cls.cn/detail/2169533",
           "source": "财联社热门",
@@ -1414,8 +1428,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 13时16分]"
+        },
+        {
+          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2987912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时16分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1435,11 +1461,56 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时16分]"
+        },
+        {
+          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
+          "url": "https://flash.jin10.com/detail/20251015120826259800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
+          "url": "https://flash.jin10.com/detail/20251015120340138800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
+          "url": "https://flash.jin10.com/detail/20251015120332275800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251015120232496800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "富士康董事长：近日会见了OpenAI首席执行官奥尔特曼，探讨了未来合作事宜。",
@@ -1448,9 +1519,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正计划达成协议，为政府和企业提供更多定制化产品。",
+          "url": "https://flash.jin10.com/detail/20251015120212177800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI制定五年商业计划，以实现1万亿美元支出承诺。",
+          "url": "https://flash.jin10.com/detail/20251015120157638800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -1475,11 +1568,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时16分]"
         },
         {
           "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
