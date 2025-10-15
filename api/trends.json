@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T03:14:33.653681+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2025-10-16T04:18:42.718368+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -13,22 +13,47 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时18分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1278元，较周二夜盘收盘点。成交量507.35亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2988380",
+          "title": "WTI原油期货跌幅收窄至不足0.3%，暂报58.12美元。 在美上市印度ETF收涨1.9%，美股盘后跌0.05%。 美国总统特朗普称，印度总理莫迪今天向他保证，印度不会（继续）购买俄罗斯石油。",
+          "url": "https://wallstreetcn.com/livenews/2988405",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "04时18分"
+        },
+        {
+          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
+          "url": "https://www.cls.cn/detail/2170336",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时18分]"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20251016040508196800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美国财长贝森特设法为阿根廷争取200亿美元额外的（救助）“工具”。（Semafor）",
@@ -42,17 +67,15 @@
           "time_info": "00时17分"
         },
         {
-          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
-          "url": "https://www.cls.cn/detail/2170336",
-          "source": "财联社热门",
+          "title": "美联航三季度运营收入152亿美元，分析师预期152.8亿美元。 三季度可获得座位里程数874.2亿，分析师预期865.1亿。 三季度乘客里程收入737.7亿，分析师预期737.1亿。 三季度乘客营收138.2亿美元，分析师预期139.1亿美元。 三季度资本开支14.6亿美元。 预计四季度调整后EPS为3-3.50美元，分析师预期2.82美元。 美联航（UAL）美股盘后涨0.53%，涨幅随后扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/2988400",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "Anthropic预计年化收入高达260亿美元，处于到2025年年底实现（季度）收入90亿美元的正轨之上。（路透）",
@@ -73,11 +96,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时18分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1278元，较周二夜盘收盘点。成交量507.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2988380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时14分]"
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "LME期铜收涨63美元，报10641美元/吨。 LME期铝收涨8美元，报2746美元/吨。 LME期锌收涨6美元，报2948美元/吨。 LME期铅收平，报1982美元/吨。 LME期镍收涨59美元，报15194美元/吨。 LME期锡收涨204美元，报35393美元/吨。 LME期钴收平，报42725美元/吨。",
@@ -115,6 +151,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时23分]"
+        },
+        {
+          "title": "WTI 11月原油期货收跌0.43美元，跌幅0.73%，报58.27美元/桶。 布伦特12月原油期货收跌0.48美元，跌幅0.77%，报61.91美元/桶。 中东Abu Dhabi Murban原油期货跌0.33%，报63.80美元/桶。 NYMEX 11月天然气期货收报3.0160美元/百万英热单位。 NYMEX 11月汽油期货收报1.8344美元/加仑，NYMEX 11月取暖油期货收报2.1748美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/2988375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "新兴市场股票指数和外汇指数双双有望创6月以来最佳单日表现，美元走软和强劲的业绩报告都利好风险偏好情绪。",
@@ -199,17 +247,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "WTI 11月原油期货收跌0.43美元，跌幅0.73%，报58.27美元/桶。 布伦特12月原油期货收跌0.48美元，跌幅0.77%，报61.91美元/桶。 中东Abu Dhabi Murban原油期货跌0.33%，报63.80美元/桶。 NYMEX 11月天然气期货收报3.0160美元/百万英热单位。 NYMEX 11月汽油期货收报1.8344美元/加仑，NYMEX 11月取暖油期货收报2.1748美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/2988375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
           "title": "据Politico：美国总统特朗普本周拨款65亿美元用于发放军人薪酬。",
           "url": "https://flash.jin10.com/detail/20251015231339086800",
           "source": "金十数据",
@@ -230,6 +267,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "周三（10月15日）纽约尾盘，ICE美元指数跌0.29%，报98.762点，日内交投区间为99.078-98.655点，全天持续走低，北京时间23:00过后出现一波加速下挫的行情。 彭博美元指数跌0.28%，报1211.05点，日内交投区间为1214.69-1210.10点。",
+          "url": "https://wallstreetcn.com/livenews/2988387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "周三（10月15日）纽约尾盘，ICE原糖期货跌1.32%，ICE白糖期货跌2.42%。 ICE阿拉比卡咖啡期货跌2.25%，咖啡“C”期货跌2.45%。罗布斯塔咖啡期货涨0.63%。 纽约可可期货跌0.59%，报 美元/吨。伦敦可可期货跌1.97%。 ICE棉花期货涨0.50%。",
+          "url": "https://wallstreetcn.com/livenews/2988386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
+          "url": "https://wallstreetcn.com/livenews/2988383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "阿根廷经济部长：希望在中期选举前“尽快”与美国执行200亿美元货币互换框架协议。",
+          "url": "https://flash.jin10.com/detail/20251016035447288800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美国财长贝森特：我们正在为阿根廷设立一项200亿美元的私营部门融资工具，该工具将与互换额度并行，并用于投资债务。",
@@ -257,7 +338,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -268,8 +349,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时18分]"
         },
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -279,8 +360,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时18分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -312,18 +393,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
-          "url": "https://wallstreetcn.com/livenews/2988378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -334,20 +404,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
         {
-          "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
-          "url": "https://wallstreetcn.com/livenews/2988376",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普谈贩毒集团：我们确实在关注在陆地上采取行动。",
+          "url": "https://flash.jin10.com/detail/20251016040445266800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "04时18分"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -359,8 +429,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时18分]"
+        },
+        {
+          "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
+          "url": "https://wallstreetcn.com/livenews/2988378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
+          "url": "https://wallstreetcn.com/livenews/2988376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "特朗普威胁更换2028年奥运举办地",
@@ -368,11 +462,12 @@
           "source": "微博",
           "ranks": [
             26,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时18分]"
         },
         {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
@@ -381,9 +476,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
+          "url": "https://wallstreetcn.com/livenews/2988372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时18分]"
         },
         {
           "title": "据纽约时报：特朗普政府授权中央情报局在委内瑞拉采取秘密行动。",
@@ -403,7 +510,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -414,18 +521,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
-          "url": "https://wallstreetcn.com/livenews/2988372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -436,7 +532,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -447,7 +543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -458,7 +554,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -469,9 +565,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美国总统特朗普：现在将建议政府官员开始调查旧金山的犯罪问题。",
+          "url": "https://flash.jin10.com/detail/20251016035216971800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：将很快前往其他城市打击犯罪。",
+          "url": "https://flash.jin10.com/detail/20251016035149497800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
+          "url": "https://flash.jin10.com/detail/20251016034449123800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "一名美国法官表示，她很可能会阻止特朗普政府在政府停摆期间实施大规模裁员。",
@@ -483,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国白宫：特朗普将延长联邦雇员招聘冻结期",
+          "url": "https://flash.jin10.com/detail/20251016031912641800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     }
