@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T06:13:24.152952+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-10-17T07:16:28.315566+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "300万亿美元！史上最大“乌龙指”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "美国信贷危机担忧升温 银行股市值蒸发逾1000亿美元",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -64,13 +64,37 @@
           "time_info": "04时19分"
         },
         {
+          "title": "币圈又出大洋相：价值300万亿美元的PayPal稳定币被错误铸造",
+          "url": "https://www.cls.cn/detail/2171816",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时13分 ~ 07时16分]"
+        },
+        {
+          "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美元指数16日下跌",
           "url": "https://flash.jin10.com/detail/20251017053531218800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -141,16 +165,15 @@
           "time_info": "02时23分"
         },
         {
-          "title": "币圈又出大洋相：价值300万亿美元的PayPal稳定币被错误铸造",
-          "url": "https://www.cls.cn/detail/2171816",
-          "source": "财联社热门",
+          "title": "美国宣布对人道豁免入境移民征收1000美元",
+          "url": "https://wallstreetcn.com/livenews/2989241",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 06时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "现货黄金日内涨幅达2.0%，报4292.67美元/盎司。",
@@ -302,6 +325,18 @@
           "time_info": "[05时16分 ~ 06时13分]"
         },
         {
+          "title": "据知情人士透露，Standard Lithium（SLI.US）寻求通过增发股票融资1.2亿美元。 该公司将美国发行价指导区间设在每股4.35-4.65美元，将提供最大19.3%的折扣。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2989214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时16分]"
+        },
+        {
           "title": "美国总统特朗普：预计汽油价格将（反弹并）达到2美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/2989199",
           "source": "华尔街见闻-快讯",
@@ -312,6 +347,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时13分]"
+        },
+        {
+          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
+          "url": "https://wallstreetcn.com/livenews/2989213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时16分]"
         },
         {
           "title": "现货黄金5分钟内上涨6.09美元/盎司，报4302.83美元/盎司，创历史新高。",
@@ -433,17 +480,6 @@
           "time_info": "[05时16分 ~ 06时13分]"
         },
         {
-          "title": "据知情人士透露，Standard Lithium（SLI.US）寻求通过增发股票融资1.2亿美元。 该公司将美国发行价指导区间设在每股4.35-4.65美元，将提供最大19.3%的折扣。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2989214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
           "title": "美国财政部：美国2025财年迄今的海关收入为1,949亿美元，而2024财年的可比收入为770亿美元。",
           "url": "https://flash.jin10.com/detail/20251017020154716800",
           "source": "金十数据",
@@ -466,15 +502,15 @@
           "time_info": "04时19分"
         },
         {
-          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
-          "url": "https://wallstreetcn.com/livenews/2989213",
-          "source": "华尔街见闻-快讯",
+          "title": "美国宣布对人道豁免入境移民征收1000美元",
+          "url": "https://flash.jin10.com/detail/20251017070222791800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时16分"
         },
         {
           "title": "美国财政部：美国9月预算盈余1980亿美元（共识为500亿美元盈余），2024年9月的盈余为800亿美元。",
@@ -505,7 +541,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -686,6 +722,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "现货黄金一度触及4380美元/盎司",
+          "url": "https://flash.jin10.com/detail/20251017062401508800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "COMEX黄金期货日内涨幅达2.0%，报4286.3美元/盎司。 现货黄金5分钟内上涨5.25美元/盎司，报4269.7美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2989093",
           "source": "华尔街见闻-快讯",
@@ -708,6 +755,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。 彭博数据显示，现货黄金价格涨约1%，报4379.93美元。",
+          "url": "https://wallstreetcn.com/livenews/2989215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "现货黄金日内大涨2.00%，现报4292.50美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251017011905349800",
           "source": "金十数据",
@@ -717,12 +775,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "纽约期金日内大涨2.00%，现报4390.70美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017061921134800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -732,8 +801,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -744,8 +813,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -755,8 +824,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 07时16分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -821,7 +890,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -1068,6 +1137,17 @@
           "time_info": "[05时16分 ~ 06时13分]"
         },
         {
+          "title": "联合声明：美国与巴西同意共同努力，尽早安排美国总统特朗普与巴西总统卢拉的会晤。",
+          "url": "https://flash.jin10.com/detail/20251017070457920800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美国总统特朗普：（希望大家）和美国站在一起，明天在伦敦投下反对票。",
           "url": "https://flash.jin10.com/detail/20251017024506125800",
           "source": "金十数据",
@@ -1085,7 +1165,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -1118,9 +1198,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普推进降低药品价格的努力，最新举措意在支持体外受精",
+          "url": "https://wallstreetcn.com/livenews/2989235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：美国不会支持这种“全球绿色新骗局”的运输税，也不会以任何方式或形式遵守它。",
@@ -1143,6 +1234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
+          "url": "https://www.cls.cn/detail/2172088",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：我对国际海事组织本周将在伦敦投票通过全球碳税感到愤怒。",
@@ -1239,7 +1341,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -1253,6 +1355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普称将与普京在布达佩斯会面",
+          "url": "https://www.toutiao.com/trending/7561955734129217050/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "俄罗斯股市在普京与特朗普通话后上涨。",
