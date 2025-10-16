@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T22:27:27.126574+08:00",
-  "total_titles_processed": 2151,
+  "generated_at": "2025-10-16T23:18:46.960665+08:00",
+  "total_titles_processed": 2223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 91,
+      "match_count": 98,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时10分 ~ 22时27分]"
+          "appearance_count": 23,
+          "time_info": "[09时10分 ~ 23时18分]"
         },
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时17分 ~ 22时27分]"
+          "appearance_count": 17,
+          "time_info": "[13时17分 ~ 23时18分]"
         },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -112,6 +112,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "现货黄金站上4270美元/盎司，日内涨1.49%。",
+          "url": "https://flash.jin10.com/detail/20251016230814934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "WTI原油期货跌幅收窄至不足0.3%，暂报58.12美元。 在美上市印度ETF收涨1.9%，美股盘后跌0.05%。 美国总统特朗普称，印度总理莫迪今天向他保证，印度不会（继续）购买俄罗斯石油。",
           "url": "https://wallstreetcn.com/livenews/2988405",
           "source": "华尔街见闻-快讯",
@@ -121,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "COMEX黄金期货日内涨幅达2.0%，报4286.3美元/盎司。 现货黄金5分钟内上涨5.25美元/盎司，报4269.7美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2989093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "现货黄金站上4240美元！又一大行“撕报告”：年底看向4400美元",
@@ -300,6 +322,18 @@
           "time_info": "[14时25分 ~ 15时17分]"
         },
         {
+          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时18分]"
+        },
+        {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
           "url": "https://wallstreetcn.com/articles/3757182",
           "source": "华尔街见闻",
@@ -322,18 +356,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时23分]"
-        },
-        {
-          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时27分]"
         },
         {
           "title": "专家：金价到5000美元将比预期快",
@@ -565,7 +587,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -757,6 +779,28 @@
           "time_info": "14时25分"
         },
         {
+          "title": "纽约期银向上触及53美元/盎司，日内涨3.16%。",
+          "url": "https://flash.jin10.com/detail/20251016222813702800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "现货钯金突破1600美元/盎司，日内涨4.25%。",
+          "url": "https://flash.jin10.com/detail/20251016222810486800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
           "url": "https://wallstreetcn.com/livenews/2988383",
           "source": "华尔街见闻-快讯",
@@ -840,9 +884,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1.00%，现报53.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251016221426222800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "纽约期金突破4250美元/盎司，日内涨1.15%。",
@@ -854,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "机构：避险货币与美元前景承压，投资者转向黄金",
+          "url": "https://flash.jin10.com/detail/20251016221420968800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "韩国在与美国就阿根廷式的货币互换进行谈判，以帮助缓解其根据贸易协定计划的3500亿美元投资承诺所带来的金融稳定风险。（韩国文化日报）",
@@ -922,6 +988,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "现货黄金站上4260美元/盎司，日内涨1.23%。",
+          "url": "https://flash.jin10.com/detail/20251016221023510800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国财政部官员称，政府关门可能给美国经济造成每周150亿美元的损失，更正了财政部长贝森特此前估计每天损失150亿美元的说法。",
           "url": "https://wallstreetcn.com/livenews/2988575",
           "source": "华尔街见闻-快讯",
@@ -983,7 +1060,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1057,7 +1134,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普宣布一个大消息，印度人都不敢相信",
@@ -1104,8 +1181,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时23分 ~ 22时27分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 23时18分]"
         },
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -1178,6 +1255,34 @@
           "time_info": "[02时23分 ~ 09时10分]"
         },
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时19分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            25,
+            10,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
           "url": "https://www.cls.cn/detail/2170153",
           "source": "财联社热门",
@@ -1216,19 +1321,6 @@
           "time_info": "[09时10分 ~ 13时18分]"
         },
         {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 21时29分]"
-        },
-        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
@@ -1264,18 +1356,29 @@
           "time_info": "[11时40分 ~ 12时23分]"
         },
         {
-          "title": "特朗普中东行有何成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            25,
             10,
-            13
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 22时27分]"
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 23时18分]"
+        },
+        {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.toutiao.com/trending/7561368482139373610/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时18分]"
         },
         {
           "title": "特朗普称泽连斯基将阐述进攻俄理由",
@@ -1287,53 +1390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 22时27分]"
-        },
-        {
-          "title": "据AXIOS网站：在与泽连斯基会晤前一天，特朗普将于周四与普京通电话，讨论俄乌冲突。",
-          "url": "https://flash.jin10.com/detail/20251016220759681800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "Lithium Americas跌17%，摩根大通下调评级，称特朗普政府入股对评级的意义不大",
-          "url": "https://wallstreetcn.com/livenews/2989076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "中方回应特朗普让中国停买俄石油",
-          "url": "https://www.toutiao.com/trending/7561368482139373610/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时27分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -1356,17 +1412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "在与乌克兰总统泽连斯基会晤前，美国总统特朗普周四将与俄罗斯总统普京通话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/2989074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "特朗普威胁：若哈马斯不遵守停火协议 其一声令下以色列将恢复行动",
@@ -1450,6 +1495,18 @@
           "time_info": "[06时13分 ~ 07时16分]"
         },
         {
+          "title": "据AXIOS网站：在与泽连斯基会晤前一天，特朗普将于周四与普京通电话，讨论俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20251016220759681800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
           "url": "https://wallstreetcn.com/livenews/2988423",
           "source": "华尔街见闻-快讯",
@@ -1460,6 +1517,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时13分]"
+        },
+        {
+          "title": "Lithium Americas跌17%，摩根大通下调评级，称特朗普政府入股对评级的意义不大",
+          "url": "https://wallstreetcn.com/livenews/2989076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时18分]"
         },
         {
           "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
@@ -1484,6 +1553,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
+        },
+        {
+          "title": "在与乌克兰总统泽连斯基会晤前，美国总统特朗普周四将与俄罗斯总统普京通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2989074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时18分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
@@ -1603,6 +1684,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "欧洲央行管委Olli Rehn：欧元区通胀风险是两个方向的（上行+下行）。 必须对通胀下行风险保持警觉。 通胀已经在我们的目标附近保持稳定。 欧洲央行在利率行动方面是完全自由的（不像美联储那样会频繁地遭到美国总统特朗普的干扰）。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/2989086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
           "url": "https://flash.jin10.com/detail/20251016024630325800",
           "source": "金十数据",
@@ -1623,6 +1715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：我们将就Gateway月球站项目资金削减问题与特朗普展开斗争。",
+          "url": "https://flash.jin10.com/detail/20251016225112742800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "市场消息：一名法官延长了暂时阻止特朗普政府在俄勒冈州波特兰市部署国民警卫队的命令。",
@@ -1656,6 +1759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普与俄罗斯总统普京将于今日通话。",
+          "url": "https://flash.jin10.com/detail/20251016222932645800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "克里姆林宫：俄罗斯可以以更低的价格向那些特朗普正试图说服不购买俄罗斯石油的国家提供高质量的石油。",
@@ -1741,7 +1855,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1832,6 +1946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美媒：特朗普将在会见泽连斯基前一天与普京通话",
+          "url": "https://flash.jin10.com/detail/20251016221042944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
