@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T02:23:55.018607+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-10-17T03:13:41.308156+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "300万亿美元！史上最大“乌龙指”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -41,6 +41,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美元/瑞郎日内跌幅达0.5%，报0.7926。",
+          "url": "https://wallstreetcn.com/livenews/2989168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "【特朗普称，将在布匈牙利达佩斯会见普京】WTI原油期货目前跌1.19%，暂报57.15美元。",
           "url": "https://wallstreetcn.com/livenews/2989141",
           "source": "华尔街见闻-快讯",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "周四（10月16日），韩元兑美元最终涨0.38%，报1416.51韩元，全天持续震荡上行。",
-          "url": "https://wallstreetcn.com/livenews/2989148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -80,9 +80,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国天然气期货日内跌超3.00%，现报2.925美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251017025543588800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国商会起诉总统特朗普提出的10万美元H-1B签证费用政策，称将造成严重损害。",
+          "url": "https://wallstreetcn.com/livenews/2989162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "甲骨文(ORCL.N)高管：分布式云产品业务同比增长77%，平均交易规模达6700万美元。",
@@ -102,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -112,11 +134,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时13分]"
         },
         {
           "title": "周四（10月16日），美联储隔夜逆回购协议（RRP）使用规模为69.60亿美元，上个交易日报54.84亿美元。",
@@ -124,11 +147,87 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "周四（10月16日），韩元兑美元最终涨0.38%，报1416.51韩元，全天持续震荡上行。",
+          "url": "https://wallstreetcn.com/livenews/2989148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时23分]"
+          "time_info": "[02时23分 ~ 03时13分]"
+        },
+        {
+          "title": "LME期铜收涨6美元，报10647美元/吨。 LME期铝收涨42美元，报2788美元/吨。 LME期锌收涨25美元，报2973美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2989132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.0%，报57.2美元/桶。 布伦特原油日内跌幅达1.0%，报61.23美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2989131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "美元/日元日内跌幅达0.5%，报150.28。",
+          "url": "https://wallstreetcn.com/livenews/2989130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "Paxos错误地制造了价值300万亿美元的稳定币PayPal PYUSD，该公司在10月16日称这是一个“技术错误”。 该公司在社交媒体上表示，在内部转账交易之后，公司“立即发现错误，并分会了过剩的PYUSD”。 该公司是美国支付公司PayPal的区块链合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/2989145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时13分]"
+        },
+        {
+          "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
+          "url": "https://wallstreetcn.com/livenews/2989141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时13分]"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
@@ -142,40 +241,16 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "LME期铜收涨6美元，报10647美元/吨。 LME期铝收涨42美元，报2788美元/吨。 LME期锌收涨25美元，报2973美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2989132",
+          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/2989137",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            16
+            13,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时23分]"
-        },
-        {
-          "title": "WTI原油日内跌幅达1.0%，报57.2美元/桶。 布伦特原油日内跌幅达1.0%，报61.23美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2989131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时23分]"
-        },
-        {
-          "title": "美元/日元日内跌幅达0.5%，报150.28。",
-          "url": "https://wallstreetcn.com/livenews/2989130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时23分]"
+          "time_info": "[02时23分 ~ 03时13分]"
         },
         {
           "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
@@ -190,24 +265,13 @@
           "time_info": "[01时25分 ~ 02时23分]"
         },
         {
-          "title": "Paxos错误地制造了价值300万亿美元的稳定币PayPal PYUSD，该公司在10月16日称这是一个“技术错误”。 该公司在社交媒体上表示，在内部转账交易之后，公司“立即发现错误，并分会了过剩的PYUSD”。 该公司是美国支付公司PayPal的区块链合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/2989145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "美国财政部：美国2025财年迄今的海关收入为1,949亿美元，而2024财年的可比收入为770亿美元。",
           "url": "https://flash.jin10.com/detail/20251017020154716800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -218,18 +282,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
-          "url": "https://wallstreetcn.com/livenews/2989141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -245,15 +298,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2989137",
-          "source": "华尔街见闻-快讯",
+          "title": "币圈又出大洋相：价值300万亿美元的PayPal稳定币被错误铸造",
+          "url": "https://www.cls.cn/detail/2171816",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时13分"
         },
         {
           "title": "WTI原油日内跌幅达2.00%，现报57.12美元/桶；布伦特原油失守61美元/桶，日内跌幅1.87%。",
@@ -273,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -306,7 +359,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -344,6 +397,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美国2025财年预算赤字下降410亿美元，至1.775万亿美元",
+          "url": "https://flash.jin10.com/detail/20251017021926041800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "WTI原油期货目前涨0.3%，暂报58美元。 现货黄金日内涨幅达1.5%，报4271.1美元/盎司。 美国总统特朗普称，其正与俄罗斯总统普京通电话。",
           "url": "https://wallstreetcn.com/livenews/2989095",
           "source": "华尔街见闻-快讯",
@@ -361,7 +425,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -383,7 +447,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
@@ -391,7 +455,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 29,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -401,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -413,8 +477,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -423,7 +487,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -439,15 +503,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "克里姆林宫：俄罗斯总统普京支持与美国总统特朗普在匈牙利首都布达佩斯会面这个想法。（国际文传电讯社）",
-          "url": "https://wallstreetcn.com/livenews/2989151",
+          "title": "美国多个监管部门撤销气候相关融资风险标准。 美联储称，贷款机构应该对一系列因素具有韧性。 10月16日稍早，该国总统特朗普宣称，美国不会从任何方式上遵守全球碳税。",
+          "url": "https://wallstreetcn.com/livenews/2989164",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时13分"
         },
         {
           "title": "克里姆林宫官员：特朗普与普京的通话持续了近2.5小时。两国将迅速为峰会做好准备。",
@@ -456,18 +520,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
-          "url": "https://wallstreetcn.com/livenews/2989147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -479,20 +532,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
-          "url": "https://wallstreetcn.com/livenews/2989140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -503,8 +544,45 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
+          "url": "https://wallstreetcn.com/livenews/2989140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时13分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京支持与美国总统特朗普在匈牙利首都布达佩斯会面这个想法。（国际文传电讯社）",
+          "url": "https://wallstreetcn.com/livenews/2989151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时13分]"
+        },
+        {
+          "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
+          "url": "https://wallstreetcn.com/livenews/2989147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时13分]"
         },
         {
           "title": "俄罗斯国家电视台记者：克里姆林宫确认总统普京与美国总统特朗普正在通电话。",
@@ -519,15 +597,92 @@
           "time_info": "[00时21分 ~ 01时25分]"
         },
         {
+          "title": "美国总统特朗普：美国不会从任何方式上遵守全球碳税。",
+          "url": "https://wallstreetcn.com/livenews/2989158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：（希望大家）和美国站在一起，明天在伦敦投下反对票。",
+          "url": "https://flash.jin10.com/detail/20251017024506125800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国参议院举行程序性投票，没能通过关于在特朗普联邦政府关门期间继续向军队提供资金的立法草案，意味着无法举行参议院全体表决。",
+          "url": "https://wallstreetcn.com/livenews/2989156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会容忍美国消费者承受更高的价格，也不会容忍建立一个新的绿色骗局官僚机构，把钱花在他们的绿色梦想上。",
+          "url": "https://flash.jin10.com/detail/20251017024431635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：美国不会支持这种“全球绿色新骗局”的运输税，也不会以任何方式或形式遵守它。",
+          "url": "https://flash.jin10.com/detail/20251017024401742800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：我对国际海事组织本周将在伦敦投票通过全球碳税感到愤怒。",
+          "url": "https://flash.jin10.com/detail/20251017024256133800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "据华尔街日报：美国商会起诉特朗普政府，指控其新出台的H-1B签证收费政策。",
+          "url": "https://flash.jin10.com/detail/20251017022845082800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "克里姆林宫证实普京与特朗普的通话正在进行中。",
@@ -547,9 +702,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普提议布达佩斯作为美俄峰会地点，普京支持该提议",
+          "url": "https://flash.jin10.com/detail/20251017022352802800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "俄罗斯股市在普京与特朗普通话后上涨。",
@@ -558,7 +724,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -569,9 +735,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "克里姆林宫官员：俄罗斯总统普京告诉美国总统特朗普，\"战斧\"导弹不会改变战场局势，但会损害美俄关系及和平进程。",
+          "url": "https://flash.jin10.com/detail/20251017021451678800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "印度回应特朗普称该国承诺停购俄油",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%81%9C%E8%B4%AD%E4%BF%84%E6%B2%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D26%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25AF%25A5%25E5%259B%25BD%25E6%2589%25BF%25E8%25AF%25BA%25E5%2581%259C%25E8%25B4%25AD%25E4%25BF%2584%25E6%25B2%25B9%2523%26c_type%3D31%26cate%3D5001%26pos%3D25%26band_rank%3D26%26stream_entry_id%3D31%26dgr%3D0%26flag%3D0%26display_time%3D1760641909%26pre_seqid%3D17606419095600054905",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国农业部长Rollins：一旦特朗普政府结束停摆，我们将准备铺开农民救助计划。",
@@ -583,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "克里姆林宫官员：普京与特朗普的通话是应俄罗斯方面主动提议进行的。",
+          "url": "https://flash.jin10.com/detail/20251017021426027800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
