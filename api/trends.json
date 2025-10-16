@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T11:40:54.772407+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-10-16T12:23:05.733777+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 07时16分]"
+        },
+        {
+          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 12时23分]"
         },
         {
           "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
@@ -35,15 +46,29 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
-          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
-          "url": "https://wallstreetcn.com/articles/3757230",
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 12时23分]"
+        },
+        {
+          "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
+          "url": "https://www.cls.cn/detail/2170767",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 12时23分]"
         },
         {
           "title": "WTI原油期货跌幅收窄至不足0.3%，暂报58.12美元。 在美上市印度ETF收涨1.9%，美股盘后跌0.05%。 美国总统特朗普称，印度总理莫迪今天向他保证，印度不会（继续）购买俄罗斯石油。",
@@ -127,18 +152,6 @@
           "time_info": "[02时23分 ~ 04时18分]"
         },
         {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时40分]"
-        },
-        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1278元，较周二夜盘收盘点。成交量507.35亿美元。",
           "url": "https://wallstreetcn.com/livenews/2988380",
           "source": "华尔街见闻-快讯",
@@ -162,18 +175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 03时14分]"
-        },
-        {
-          "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
-          "url": "https://www.cls.cn/detail/2170767",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时40分]"
         },
         {
           "title": "美联航三季度运营收入152亿美元，分析师预期152.8亿美元。 三季度可获得座位里程数874.2亿，分析师预期865.1亿。 三季度乘客里程收入737.7亿，分析师预期737.1亿。 三季度乘客营收138.2亿美元，分析师预期139.1亿美元。 三季度资本开支14.6亿美元。 预计四季度调整后EPS为3-3.50美元，分析师预期2.82美元。 美联航（UAL）美股盘后涨0.53%，涨幅随后扩大至3%。",
@@ -367,6 +368,18 @@
           "time_info": "[00时17分 ~ 01时18分]"
         },
         {
+          "title": "现货黄金站上4240美元/盎司，再创历史新高，日内涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/2988635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时23分]"
+        },
+        {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
           "url": "https://wallstreetcn.com/livenews/2988335",
           "source": "华尔街见闻-快讯",
@@ -500,6 +513,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "美元/日元跌至10月7日以来最低点，最新下跌0.33%，报150.54。",
           "url": "https://flash.jin10.com/detail/20251016083322262800",
           "source": "金十数据",
@@ -517,7 +541,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -542,17 +566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "现货黄金站上4240美元/盎司，再创历史新高，日内涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/2988635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "曝威少一年360万美元合同加盟国王",
@@ -605,7 +618,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -728,6 +741,18 @@
           "time_info": "[05时15分 ~ 11时03分]"
         },
         {
+          "title": "特朗普宣布一个大消息，印度人都不敢相信",
+          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 12时23分]"
+        },
+        {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
           "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
           "source": "凤凰网",
@@ -784,18 +809,6 @@
           "time_info": "[02时23分 ~ 09时10分]"
         },
         {
-          "title": "特朗普宣布一个大消息，印度人都不敢相信",
-          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时40分]"
-        },
-        {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
           "url": "https://www.cls.cn/detail/2170153",
           "source": "财联社热门",
@@ -831,6 +844,31 @@
           "time_info": "[07时15分 ~ 09时10分]"
         },
         {
+          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
+          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时23分]"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 12时23分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
           "url": "https://flash.jin10.com/detail/20251016025935957800",
           "source": "金十数据",
@@ -851,17 +889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
-          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "特朗普威胁：若哈马斯不遵守停火协议 其一声令下以色列将恢复行动",
@@ -955,19 +982,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时18分]"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时40分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
@@ -1362,7 +1376,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
