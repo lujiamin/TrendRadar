@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T00:21:03.483205+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2025-10-17T01:25:22.239554+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 22,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时25分]"
         },
         {
           "title": "300万亿美元！史上最大“乌龙指”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时25分]"
         },
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -36,9 +36,64 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "现货黄金日内涨幅达2.0%，报4292.67美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2989144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "周四（10月16日），美联储隔夜逆回购协议（RRP）使用规模为69.60亿美元，上个交易日报54.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2989142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "【特朗普称，将在布匈牙利达佩斯会见普京】WTI原油期货目前跌1.19%，暂报57.15美元。",
+          "url": "https://wallstreetcn.com/livenews/2989141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
+          "url": "https://flash.jin10.com/detail/20251017010558147800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)高管：分布式云产品业务同比增长77%，平均交易规模达6700万美元。",
+          "url": "https://flash.jin10.com/detail/20251017010309932800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
@@ -52,15 +107,125 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "LME期铜收涨6美元，报10647美元/吨。 LME期铝收涨42美元，报2788美元/吨。 LME期锌收涨25美元，报2973美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2989132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "布伦特原油日内跌超2.00%，现报60.90美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251017005422105800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.0%，报57.2美元/桶。 布伦特原油日内跌幅达1.0%，报61.23美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2989131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美元/日元日内跌幅达0.5%，报150.28。",
+          "url": "https://wallstreetcn.com/livenews/2989130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.00%，现报57.12美元/桶；布伦特原油失守61美元/桶，日内跌幅1.87%。",
+          "url": "https://flash.jin10.com/detail/20251017004936586800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内跌超0.50%，现报150.28。",
+          "url": "https://flash.jin10.com/detail/20251017004818262800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
+          "url": "https://wallstreetcn.com/livenews/2989124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017004718362800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
           "title": "WTI原油日内跌幅达0.5%，报57.54美元/桶。 布伦特原油日内跌幅达0.5%，报61.58美元/桶。",
           "url": "https://wallstreetcn.com/livenews/2989105",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "现货黄金延续跌势，较高位回落约30美元，一度跌至4261美元/盎司附近。",
+          "url": "https://flash.jin10.com/detail/20251017004234971800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "现货黄金短线回落约20美元，最新报4271.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017003733530800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "WTI原油期货目前涨0.3%，暂报58美元。 现货黄金日内涨幅达1.5%，报4271.1美元/盎司。 美国总统特朗普称，其正与俄罗斯总统普京通电话。",
@@ -69,7 +234,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -80,7 +245,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         }
@@ -88,7 +253,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -98,19 +263,42 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时25分]"
         },
         {
           "title": "特朗普中东行有何成果",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时25分]"
+        },
+        {
+          "title": "市场消息：俄罗斯总统普京与美国总统特朗普的通话结束。",
+          "url": "https://flash.jin10.com/detail/20251017010918644800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
+          "url": "https://wallstreetcn.com/livenews/2989140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -120,8 +308,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时25分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -131,19 +319,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时25分]"
         },
         {
           "title": "俄罗斯国家电视台记者：克里姆林宫确认总统普京与美国总统特朗普正在通电话。",
           "url": "https://wallstreetcn.com/livenews/2989109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时25分]"
         },
         {
           "title": "克里姆林宫证实普京与特朗普的通话正在进行中。",
@@ -152,7 +341,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -163,7 +352,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         }
