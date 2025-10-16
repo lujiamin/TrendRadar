@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T17:20:03.068120+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-10-16T18:18:25.095245+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时10分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 18时18分]"
         },
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 18时18分]"
         },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时10分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 18时18分]"
         },
         {
           "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
@@ -121,6 +121,18 @@
           "time_info": "04时18分"
         },
         {
+          "title": "现货黄金站上4240美元！又一大行“撕报告”：年底看向4400美元",
+          "url": "https://www.cls.cn/detail/2171161",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时18分]"
+        },
+        {
           "title": "美元指数15日下跌",
           "url": "https://flash.jin10.com/detail/20251016040508196800",
           "source": "金十数据",
@@ -163,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "现货黄金站上4240美元！又一大行“撕报告”：年底看向4400美元",
-          "url": "https://www.cls.cn/detail/2171161",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "Anthropic预计年化收入高达260亿美元，处于到2025年年底实现（季度）收入90亿美元的正轨之上。（路透）",
@@ -418,6 +419,18 @@
           "time_info": "[04时18分 ~ 05时16分]"
         },
         {
+          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
+          "url": "https://wallstreetcn.com/livenews/2988871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
           "title": "花旗集团在欧洲发行27.5亿欧元（折合32亿美元）债券，包含五年期和九年期。",
           "url": "https://wallstreetcn.com/livenews/2988322",
           "source": "华尔街见闻-快讯",
@@ -526,7 +539,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -573,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "花旗：将美光科技(MU.O)目标价上调至240美元，此前为200美元。",
+          "url": "https://flash.jin10.com/detail/20251016173507655800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
@@ -639,17 +663,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
-          "url": "https://wallstreetcn.com/livenews/2988871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "台积电(TSM.N)：预计2025年资本支出为400亿至420亿美元（此前预测为380亿至420亿美元）。",
@@ -867,7 +880,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -926,6 +939,20 @@
           "time_info": "[00时17分 ~ 04时18分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 18时18分]"
+        },
+        {
           "title": "中方回应特朗普指责停止进口美大豆",
           "url": "https://www.toutiao.com/trending/7561238900635762751/",
           "source": "今日头条",
@@ -954,18 +981,15 @@
           "time_info": "[03时14分 ~ 07时16分]"
         },
         {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11,
-            6,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 18时18分]"
         },
         {
           "title": "特朗普威胁更换2028年奥运举办地",
@@ -1007,17 +1031,6 @@
           "time_info": "[00时17分 ~ 02时23分]"
         },
         {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 17时20分]"
-        },
-        {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
           "url": "https://www.cls.cn/detail/2170822",
           "source": "财联社热门",
@@ -1045,6 +1058,18 @@
           "time_info": "[07时15分 ~ 09时10分]"
         },
         {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时18分]"
+        },
+        {
           "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
           "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
           "source": "凤凰网",
@@ -1054,17 +1079,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普回应发军饷：有位绅士愿意付",
-          "url": "https://www.toutiao.com/trending/7560868714460823595/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "特朗普称泽连斯基将阐述进攻俄理由",
@@ -1217,6 +1231,29 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时18分]"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时18分]"
+        },
+        {
           "title": "特朗普挪用五角大楼资金发军饷",
           "url": "https://news.ifeng.com/c/8nUnwVIdU3i",
           "source": "凤凰网",
@@ -1297,28 +1334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普称对西班牙很不爽",
-          "url": "https://www.toutiao.com/trending/7560714140441509924/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "据纽约时报：特朗普政府授权中央情报局在委内瑞拉采取秘密行动。",
