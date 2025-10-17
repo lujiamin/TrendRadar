@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T14:22:51.494480+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2025-10-17T15:17:34.063756+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 97,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
         },
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
         },
         {
           "title": "币圈又出大洋相：价值300万亿美元的PayPal稳定币被错误铸造",
@@ -75,11 +75,12 @@
             6,
             7,
             12,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
         },
         {
           "title": "美国信贷危机担忧升温 银行股市值蒸发逾1000亿美元",
@@ -126,6 +127,28 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美元势创6月以来最差单周表现 受美联储鸽派信号及地区银行担忧影响",
+          "url": "https://wallstreetcn.com/livenews/2989531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "比特币失守107000美元/枚，日内跌幅1.16%。",
+          "url": "https://flash.jin10.com/detail/20251017144429135800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -157,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "以太坊向下触及3800美元/枚，日内跌2.61%。",
+          "url": "https://wallstreetcn.com/livenews/2989529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -276,6 +310,19 @@
           "time_info": "[03时13分 ~ 04时19分]"
         },
         {
+          "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
+          "url": "https://www.cls.cn/detail/2172319",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时17分]"
+        },
+        {
           "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
           "url": "https://flash.jin10.com/detail/20251017045425711800",
           "source": "金十数据",
@@ -346,19 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 14时22分]"
-        },
-        {
-          "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
-          "url": "https://www.cls.cn/detail/2172319",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时22分]"
         },
         {
           "title": "日元兑美元汇率升破150关口，为10月6日以来首次。",
@@ -735,9 +769,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "美国国防部取消5亿美元钴采购招标 关键矿产储备战略遭遇挫折！",
+          "url": "https://www.cls.cn/detail/2172381",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "布伦特原油日内跌超2.00%，现报60.90美元/桶。",
@@ -768,9 +813,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "美元兑日元日内跌0.50%，现报149.68。",
+          "url": "https://wallstreetcn.com/livenews/2989515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "WTI原油日内跌幅达2.00%，现报57.12美元/桶；布伦特原油失守61美元/桶，日内跌幅1.87%。",
@@ -806,6 +862,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "美元兑瑞郎USD/CHF日内下跌0.50%，现报0.7887。",
+          "url": "https://flash.jin10.com/detail/20251017141807051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.37万亿美元。",
           "url": "https://wallstreetcn.com/livenews/2989170",
           "source": "华尔街见闻-快讯",
@@ -815,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "可口可乐据悉考虑让其印度装瓶子公司进行10亿美元IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2989510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
@@ -850,6 +928,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "比特币失守107000美元/枚，日内跌幅1.16%。",
+          "url": "https://wallstreetcn.com/livenews/2989508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "现货黄金延续跌势，较高位回落约30美元，一度跌至4261美元/盎司附近。",
           "url": "https://flash.jin10.com/detail/20251017004234971800",
           "source": "金十数据",
@@ -878,7 +967,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1040,7 +1129,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普中东行有何成果",
@@ -1056,6 +1145,31 @@
           "time_info": "[00时20分 ~ 09时10分]"
         },
         {
+          "title": "特朗普：可能会在未来两周内与普京会面",
+          "url": "https://news.ifeng.com/c/8nVhO0vuMg8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
+        },
+        {
+          "title": "普京三板斧，轻松搞定特朗普",
+          "url": "https://news.ifeng.com/c/8nW9pmO1Xsq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
+        },
+        {
           "title": "中方回应特朗普让中国停买俄石油",
           "url": "https://www.toutiao.com/trending/7561368482139373610/",
           "source": "今日头条",
@@ -1068,30 +1182,6 @@
           "time_info": "[00时20分 ~ 09时10分]"
         },
         {
-          "title": "特朗普：可能会在未来两周内与普京会面",
-          "url": "https://news.ifeng.com/c/8nVhO0vuMg8",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
-        },
-        {
-          "title": "普京三板斧，轻松搞定特朗普",
-          "url": "https://news.ifeng.com/c/8nW9pmO1Xsq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
-        },
-        {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
           "url": "https://www.cls.cn/detail/2172088",
           "source": "财联社热门",
@@ -1102,8 +1192,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时17分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -1113,8 +1203,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 15时17分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -1138,8 +1228,32 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
+        },
+        {
+          "title": "博尔顿遭起诉，特朗普：他是个坏人",
+          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
+          "time_info": "[10时59分 ~ 15时17分]"
+        },
+        {
+          "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
+          "url": "https://wallstreetcn.com/articles/3757333",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 15时17分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -1157,6 +1271,19 @@
           "time_info": "[09时10分 ~ 13时15分]"
         },
         {
+          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 15时17分]"
+        },
+        {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
           "source": "澎湃新闻",
@@ -1167,18 +1294,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时10分 ~ 14时22分]"
-        },
-        {
-          "title": "博尔顿遭起诉，特朗普：他是个坏人",
-          "url": "https://news.ifeng.com/c/8nWGFkRLtLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时22分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -1192,16 +1307,15 @@
           "time_info": "[00时20分 ~ 04时19分]"
         },
         {
-          "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
-          "url": "https://wallstreetcn.com/articles/3757333",
-          "source": "华尔街见闻",
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时22分]"
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时17分]"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -1225,18 +1339,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 04时19分]"
-        },
-        {
-          "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796058",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时22分]"
         },
         {
           "title": "普京正告特朗普",
@@ -1281,17 +1383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
-        },
-        {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
         },
         {
           "title": "巴西外长：卢拉与特朗普的会晤可能于11月举行",
@@ -1498,6 +1589,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时13分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时17分]"
         },
         {
           "title": "特朗普谈关于对俄罗斯实施制裁的法案：时机或许不太恰当。",
@@ -1773,17 +1875,6 @@
           "time_info": "04时19分"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
@@ -1804,6 +1895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：我们将大幅削减试管婴儿的成本。",
@@ -1856,7 +1958,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -2051,8 +2153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时10分 ~ 15时17分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -2100,7 +2202,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪汽车工业有限公司召回部分唐、元Pro汽车",
@@ -2112,6 +2214,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "比亚迪宣布召回部分汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E5%8F%AC%E5%9B%9E%E9%83%A8%E5%88%86%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "可控核聚变",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板指跌3%，深成指跌2.77%，沪指跌1.77%。科创50指数跌3.4%。电网设备、培育钻石、可控核聚变、先进封装板块跌幅居前，全市场超4400只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/2989495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     }
