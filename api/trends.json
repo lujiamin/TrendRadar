@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T22:17:07.798098+08:00",
-  "total_titles_processed": 2067,
+  "generated_at": "2025-10-17T23:17:48.574978+08:00",
+  "total_titles_processed": 2156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 121,
+      "match_count": 124,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时10分 ~ 22时17分]"
+          "appearance_count": 21,
+          "time_info": "[09时10分 ~ 23时17分]"
         },
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -120,8 +120,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "美国信贷危机担忧升温 银行股市值蒸发逾1000亿美元",
@@ -155,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "现货钯金下跌7%，报每盎司1499.75美元。",
-          "url": "https://flash.jin10.com/detail/20251017214425159800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -221,17 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
-        },
-        {
-          "title": "特朗普重新提交对《纽约时报》150亿美元诽谤诉讼",
-          "url": "https://wallstreetcn.com/livenews/2989789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
@@ -322,17 +300,6 @@
           "time_info": "19时14分"
         },
         {
-          "title": "现货黄金短线跳水，失守4270美元/盎司，日内跌近1.5%。",
-          "url": "https://wallstreetcn.com/livenews/2989787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "甲骨文(ORCL.N)高管：分布式云产品业务同比增长77%，平均交易规模达6700万美元。",
           "url": "https://flash.jin10.com/detail/20251017010309932800",
           "source": "金十数据",
@@ -405,6 +372,18 @@
           "time_info": "[11时00分 ~ 12时19分]"
         },
         {
+          "title": "现货钯金下跌7%，报每盎司1499.75美元。",
+          "url": "https://flash.jin10.com/detail/20251017214425159800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
           "title": "美元/瑞郎日内跌幅达0.5%，报0.7926。",
           "url": "https://wallstreetcn.com/livenews/2989168",
           "source": "华尔街见闻-快讯",
@@ -415,6 +394,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普重新提交对《纽约时报》150亿美元诽谤诉讼",
+          "url": "https://wallstreetcn.com/livenews/2989789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
@@ -487,6 +478,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 19时14分]"
+        },
+        {
+          "title": "现货黄金短线跳水，失守4270美元/盎司，日内跌近1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2989787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "交易员：印度央行可能在即期市场开盘前抛售美元，以推动印度卢比升值。",
@@ -894,6 +897,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "摩根士丹利出售投资级债券，寻求融资75亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2989809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国财政部：美国9月预算盈余1980亿美元（共识为500亿美元盈余），2024年9月的盈余为800亿美元。",
           "url": "https://flash.jin10.com/detail/20251017020111924800",
           "source": "金十数据",
@@ -955,7 +969,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -988,7 +1002,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1024,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "现货黄金较纪录高位跌130美元",
+          "url": "https://flash.jin10.com/detail/20251017220439432800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "WTI原油日内跌幅达2.00%，现报57.12美元/桶；布伦特原油失守61美元/桶，日内跌幅1.87%。",
@@ -1068,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "现货白银日内下跌3.00%，现报52.45美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017220119621800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.37万亿美元。",
@@ -1403,7 +1439,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 110,
+      "match_count": 114,
       "titles": [
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -1414,8 +1450,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时18分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[17时18分 ~ 23时17分]"
         },
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -1443,6 +1479,30 @@
           "time_info": "[09时10分 ~ 16时23分]"
         },
         {
+          "title": "特朗普：美国也需要，不能把家底掏空",
+          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时13分 ~ 23时17分]"
+        },
+        {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时18分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普中东行有何成果",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -1468,29 +1528,6 @@
           "time_info": "[00时20分 ~ 09时10分]"
         },
         {
-          "title": "特朗普：美国也需要，不能把家底掏空",
-          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 22时17分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时18分 ~ 22时17分]"
-        },
-        {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
           "url": "https://www.cls.cn/detail/2172088",
           "source": "财联社热门",
@@ -1514,11 +1551,12 @@
             13,
             26,
             24,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时59分 ~ 20时32分]"
+          "appearance_count": 16,
+          "time_info": "[10时59分 ~ 23时17分]"
         },
         {
           "title": "普京特朗普通话细节",
@@ -1534,8 +1572,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时22分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[14时22分 ~ 23时17分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -1546,8 +1584,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时22分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[14时22分 ~ 23时17分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -1559,8 +1597,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时59分 ~ 22时17分]"
+          "appearance_count": 20,
+          "time_info": "[10时59分 ~ 23时17分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -1576,8 +1614,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时59分 ~ 22时17分]"
+          "appearance_count": 20,
+          "time_info": "[10时59分 ~ 23时17分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -1677,6 +1715,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "特朗普施压下 国际海事组织推迟船舶排放收费计划表决",
+          "url": "https://flash.jin10.com/detail/20251017224518874800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
           "url": "https://wallstreetcn.com/articles/3757263",
           "source": "华尔街见闻",
@@ -1755,15 +1804,15 @@
           "time_info": "06时13分"
         },
         {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
-          "url": "https://wallstreetcn.com/livenews/2989785",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普贸易顾问纳瓦罗：我们不认为关税会提高制造业成本。",
+          "url": "https://flash.jin10.com/detail/20251017223116931800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时17分"
         },
         {
           "title": "印度回应特朗普称该国承诺停购俄油",
@@ -1863,6 +1912,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时59分 ~ 12时19分]"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
+          "url": "https://wallstreetcn.com/livenews/2989785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "特朗普：可能在匈牙利与普京会面",
@@ -2337,6 +2398,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "美国总统特朗普的贸易顾问纳瓦罗：不会在产能到位之前看到制造业就业岗位的增加。 不会看到（特朗普挑起的）关税造成美国制造成本上涨。",
+          "url": "https://wallstreetcn.com/livenews/2989804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "欧盟发言人：如果美国总统特朗普与俄罗斯总统普京的拟议会晤有助于乌克兰的和平，我们表示欢迎。",
           "url": "https://flash.jin10.com/detail/20251017182147274800",
           "source": "金十数据",
@@ -2420,7 +2492,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -2599,6 +2671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普重新起诉《纽约时报》",
+          "url": "https://www.toutiao.com/trending/7561736617245904425/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "特朗普：将在两周左右的时间内与普京会面。",
