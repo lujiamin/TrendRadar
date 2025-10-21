@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T11:05:13.913893+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2025-10-21T12:21:27.370172+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -35,11 +35,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -155,8 +156,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时05分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时21分]"
         },
         {
           "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
@@ -166,24 +167,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时05分]"
-        },
-        {
-          "title": "特朗普计划明年初访华",
-          "url": "https://www.toutiao.com/trending/7562415983688908836/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时21分]"
         },
         {
           "title": "特朗普被印度气坏了：莫迪向我保证过",
           "url": "https://news.ifeng.com/c/8ncgfsHRFxN",
           "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普计划明年初访华",
+          "url": "https://www.toutiao.com/trending/7562415983688908836/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
@@ -222,11 +223,24 @@
           "source": "今日头条",
           "ranks": [
             2,
-            10
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.toutiao.com/trending/7562786425306382375/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时05分]"
+          "time_info": "[11时04分 ~ 12时21分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：特朗普政府正在评估房地美和房利美的发行计划，时间可能最早在2025年底。",
@@ -238,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特朗普确认计划近期访问日本",
+          "url": "https://flash.jin10.com/detail/20251021113753205800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美国总统特朗普：波音公司表现不错。",
@@ -292,6 +317,19 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时21分]"
+        },
+        {
           "title": "美国众议院民主党领导人Hakeem Jefferies：总统特朗普需要亲自下场，参与驴象两党之间关于政府临时融资立法草案的谈判。",
           "url": "https://wallstreetcn.com/livenews/2990835",
           "source": "华尔街见闻-快讯",
@@ -305,16 +343,38 @@
           "time_info": "[05时17分 ~ 07时17分]"
         },
         {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
+          "title": "特朗普开始拆除白宫建筑改建宴会厅",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E5%A7%8B%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91%E6%94%B9%E5%BB%BA%E5%AE%B4%E4%BC%9A%E5%8E%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D22%26stream_entry_id%3D31%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25BC%2580%25E5%25A7%258B%25E6%258B%2586%25E9%2599%25A4%25E7%2599%25BD%25E5%25AE%25AB%25E5%25BB%25BA%25E7%25AD%2591%25E6%2594%25B9%25E5%25BB%25BA%25E5%25AE%25B4%25E4%25BC%259A%25E5%258E%2585%2523%26flag%3D1%26realpos%3D22%26pos%3D23%26cate%3D5001%26dgr%3D0%26display_time%3D1761015827%26pre_seqid%3D176101582709802307821139",
+          "source": "微博",
           "ranks": [
-            15,
-            11
+            22,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时05分]"
+          "time_info": "[11时04分 ~ 12时21分]"
+        },
+        {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时21分]"
+        },
+        {
+          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
+          "url": "https://www.toutiao.com/trending/7563487873530351143/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时21分]"
         },
         {
           "title": "美国总统特朗普：正努力达成（俄乌）协议。",
@@ -425,17 +485,6 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
-          "title": "特朗普大规模拆除白宫建筑",
-          "url": "https://www.toutiao.com/trending/7562786425306382375/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
-        },
-        {
           "title": "美国总统特朗普：正采取多项措施以维持停火。",
           "url": "https://flash.jin10.com/detail/20251021000329871800",
           "source": "金十数据",
@@ -484,28 +533,6 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
-        },
-        {
-          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
-          "url": "https://www.toutiao.com/trending/7563487873530351143/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
-        },
-        {
           "title": "特朗普：（谈及俄乌冲突）我认为我们会成功。",
           "url": "https://flash.jin10.com/detail/20251021000007478800",
           "source": "金十数据",
@@ -542,17 +569,6 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
-          "title": "特朗普开始拆除白宫建筑改建宴会厅",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E5%A7%8B%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91%E6%94%B9%E5%BB%BA%E5%AE%B4%E4%BC%9A%E5%8E%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D22%26stream_entry_id%3D31%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25BC%2580%25E5%25A7%258B%25E6%258B%2586%25E9%2599%25A4%25E7%2599%25BD%25E5%25AE%25AB%25E5%25BB%25BA%25E7%25AD%2591%25E6%2594%25B9%25E5%25BB%25BA%25E5%25AE%25B4%25E4%25BC%259A%25E5%258E%2585%2523%26flag%3D1%26realpos%3D22%26pos%3D23%26cate%3D5001%26dgr%3D0%26display_time%3D1761015827%26pre_seqid%3D176101582709802307821139",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
-        },
-        {
           "title": "特朗普计划明年初访华",
           "url": "https://www.douyin.com/hot/2277203",
           "source": "抖音",
@@ -564,13 +580,24 @@
           "time_info": "[11时04分 ~ 11时05分]"
         },
         {
+          "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
+          "url": "https://www.zhihu.com/question/1963059596064166358",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
           "url": "https://flash.jin10.com/detail/20251021100804742800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -581,7 +608,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -644,7 +671,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
@@ -671,6 +698,17 @@
           "time_info": "[00时21分 ~ 09时13分]"
         },
         {
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时21分]"
+        },
+        {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2174932",
           "source": "财联社热门",
@@ -695,15 +733,29 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
+          "title": "全球储备资产大变局：央行“买买买”，若黄金突破5790美元，将超越美元地位",
+          "url": "https://wallstreetcn.com/articles/3757509",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时05分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时21分]"
+        },
+        {
+          "title": "高盛预计明年第四季度布伦特原油将跌至52美元/桶",
+          "url": "https://flash.jin10.com/detail/20251021114721667800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美国银行业在向阿根廷提供200亿美元资金支持方面寻求抵押品。 美国银行业等待特朗普的财政部就签字抵押物出具指导意见。（华尔街日报）",
@@ -726,19 +778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "全球储备资产大变局：央行“买买买”，若黄金突破5790美元，将超越美元地位",
-          "url": "https://wallstreetcn.com/articles/3757509",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时05分]"
         },
         {
           "title": "周一（10月20日），韩元兑美元最终涨0.14%，报1420.10韩元。",
@@ -907,6 +946,18 @@
           "time_info": "[05时17分 ~ 07时17分]"
         },
         {
+          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
+          "url": "https://www.cls.cn/detail/2175165",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时21分]"
+        },
+        {
           "title": "现货黄金突破4370美元/盎司，逼近历史新高，日内涨2.90%。",
           "url": "https://flash.jin10.com/detail/20251021034535718800",
           "source": "金十数据",
@@ -1003,17 +1054,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时17分]"
-        },
-        {
-          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
-          "url": "https://www.cls.cn/detail/2175165",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
         },
         {
           "title": "美国白宫：澳大利亚已同意购买价值12亿美元的Anduril无人水下航行器。",
@@ -1140,9 +1180,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "高盛预计明年布伦特原油价格将进一步下跌，并在明年第四季度达到每桶52美元的水平。",
+          "url": "https://wallstreetcn.com/livenews/2990992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "高盛预计明年布伦特原油价格将进一步下跌，明年第四季度或将触及每桶52美元。",
+          "url": "https://flash.jin10.com/detail/20251021111752476800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "贝莱德的一项调查显示，管理着23万亿美元资产的保险公司计划进一步增持私人市场资产，以实现平稳的长期回报。",
+          "url": "https://flash.jin10.com/detail/20251021111136299800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1230元，较上周五夜盘收盘涨47点。成交量407.38亿美元。",
@@ -1162,7 +1235,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -1279,9 +1352,39 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2991014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时21分]"
         }
       ]
     },
@@ -1296,7 +1399,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -1307,27 +1410,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
-          "url": "https://www.cls.cn/detail/2175118",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时05分]"
         }
       ]
     }
