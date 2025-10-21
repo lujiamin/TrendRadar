@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T04:20:58.816296+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-10-22T05:16:57.326221+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 60,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "上千网站受影响！亚马逊云服务四年来最严重宕机：时长15小时，潜在损失或超百亿美元",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "现货黄金失守4100美元",
@@ -69,26 +69,26 @@
           "time_info": "[00时21分 ~ 04时20分]"
         },
         {
-          "title": "阿根廷央行在市场售出了4550万美元来支持本币。",
-          "url": "https://flash.jin10.com/detail/20251022040731369800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
           "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/2991410",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1268元，较周一纽约尾盘跌27点，日内整体交投于7.1162-7.1271元区间。",
+          "url": "https://wallstreetcn.com/livenews/2991430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "奈飞预计全年营收451亿美元，公司原本预计448亿-452亿美元。",
@@ -97,9 +97,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，美元兑日元涨0.79%，报151.93日元，日内交投区间为150.47-152.17日元，微幅下跌之中在北京时间08:54刷新日低，随后持续走高，20:49刷新日高，之后持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2991429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，现货黄金跌5.18%，报4130.41美元/盎司，日内交投区间为4375.38-4082.03美元，北京时间15:00-22:45加速下行。 COMEX黄金期货跌4.94%，报4144.10美元/盎司，日内交投于4393.60-4093.00美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2991428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)：HBO Max的广告支持套餐月费将上调1美元，标准套餐上调1.5美元，高级套餐上调2美元。",
@@ -111,6 +133,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "IBM：未来五年将在美国投资1500亿美元",
+          "url": "https://wallstreetcn.com/livenews/2991426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "阿根廷央行在市场售出了4550万美元来支持本币。",
+          "url": "https://flash.jin10.com/detail/20251022040731369800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
         },
         {
           "title": "周二（10月21日）纽约尾盘，彭博谷物分类指数跌0.58%，报28.8166点。 CBOT玉米期货跌0.83%，CBOT小麦期货跌0.84%。 CBOT大豆期货跌0.11%，报10.4850美元/蒲式耳，豆粕期货涨0.49%，豆油期货跌1.34%。",
@@ -258,6 +303,18 @@
           "time_info": "[02时23分 ~ 03时16分]"
         },
         {
+          "title": "阿根廷央行出售美元，来支持本币比索。",
+          "url": "https://wallstreetcn.com/livenews/2991402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
           "title": "WTI 11月原油期货收涨0.30美元，涨幅0.52%，报57.82美元/桶。 布伦特12月原油期货收涨0.31美元，涨幅0.51%，报61.32美元/桶。 中东Abu Dhabi Murban原油期货涨0.06%，报63.02美元/桶。",
           "url": "https://wallstreetcn.com/livenews/2991384",
           "source": "华尔街见闻-快讯",
@@ -268,6 +325,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时20分]"
+        },
+        {
+          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
+          "url": "https://wallstreetcn.com/livenews/2991400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "太平洋投资管理公司（PIMCO，品浩）从Meta数据中心（投资）获得20亿美元账面利润。",
+          "url": "https://wallstreetcn.com/livenews/2991398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
+          "url": "https://wallstreetcn.com/livenews/2991396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
         },
         {
           "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
@@ -294,6 +387,18 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "现货黄金向下跌破4200美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44200%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
           "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
           "url": "https://flash.jin10.com/detail/20251021235915002800",
           "source": "金十数据",
@@ -311,18 +416,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "阿根廷央行出售美元，来支持本币比索。",
-          "url": "https://wallstreetcn.com/livenews/2991402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -333,9 +427,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普指示农业部拨款30亿美元 解决农户资金需求",
+          "url": "https://flash.jin10.com/detail/20251022045820804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "消息人士：华纳兄弟探索公司(WBD.O)董事会已拒绝派拉蒙-Skydance提出的每股23至24美元的收购报价。该报价主要以现金形式支付。",
@@ -349,15 +454,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2991400",
-          "source": "华尔街见闻-快讯",
+          "title": "美光科技(MU.O)CEO：将投资2000亿美元用于在美国的存储器制造。",
+          "url": "https://flash.jin10.com/detail/20251022045528369800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时16分"
         },
         {
           "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
@@ -377,31 +482,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
         {
-          "title": "太平洋投资管理公司（PIMCO，品浩）从Meta数据中心（投资）获得20亿美元账面利润。",
-          "url": "https://wallstreetcn.com/livenews/2991398",
-          "source": "华尔街见闻-快讯",
+          "title": "IBM首席执行官：我们将在未来5年内在美国投资1500亿美元。",
+          "url": "https://flash.jin10.com/detail/20251022045220810800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时16分"
         },
         {
-          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
-          "url": "https://wallstreetcn.com/livenews/2991396",
+          "title": "Fal.ai按超过40亿美元估值融资2.5亿美元。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/2991416",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时16分"
         },
         {
           "title": "阿根廷比索兑美元跌0.9%，创历史新低。",
@@ -421,9 +526,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "现货黄金在美盘末反弹至4030美元/盎司，较日低收复50美元失地。",
+          "url": "https://flash.jin10.com/detail/20251022044205193800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "Western Alliance Bancorp三季度净利息收入（NII）为7.504亿美元，分析师预期7.367亿美元。 三季度非利息收入1.878亿美元，分析师预期1.501亿美元。 三季度信用亏损0.8亿美元，分析师预期（亏损）0.424亿美元。 三季度CET1比率为11.3%，分析师预期11.1%。 三季度总体存款772亿美元，分析师预期743.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2991411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
+          "url": "https://wallstreetcn.com/livenews/2991410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "现货黄金跌穿4100美元",
@@ -448,6 +586,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
+          "url": "https://wallstreetcn.com/livenews/2991409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "微软CEO年薪接近1亿美元",
+          "url": "https://flash.jin10.com/detail/20251022042323412800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "花旗：继续维持布伦特原油在2026年第一季度的平均价格在每桶约60美元的预期。",
           "url": "https://flash.jin10.com/detail/20251021233340961800",
           "source": "金十数据",
@@ -457,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国证交会文件显示：微软执行副总裁兼首席财务官Amy Hood 2025年总薪酬为2950万美元，其中包括2500万美元的股票奖励。",
+          "url": "https://flash.jin10.com/detail/20251022042206903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
@@ -487,7 +658,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -501,17 +672,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "现货黄金向下跌破4200美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44200%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了个10对手方的46.99亿美元。",
@@ -539,7 +699,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -549,8 +709,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -560,8 +720,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -571,8 +731,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -594,11 +754,12 @@
             12,
             7,
             8,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -609,11 +770,12 @@
             27,
             25,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -624,8 +786,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -636,8 +798,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -647,8 +809,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
+        },
+        {
+          "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
+          "url": "https://flash.jin10.com/detail/20251022050509311800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：印度将不会大量购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251022050255539800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "MP材料跌超10%，特朗普团队支持美国与哈萨克斯坦谈判Tungsten矿场协议。",
@@ -660,6 +844,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普政府将发放在美国政府关门期间被冻结的农业救济。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2991427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：不想与俄罗斯进行一场无意义的会晤。",
+          "url": "https://flash.jin10.com/detail/20251022045908339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
@@ -757,6 +963,28 @@
           "time_info": "[03时16分 ~ 04时20分]"
         },
         {
+          "title": "美国总统特朗普：尚未就俄罗斯和乌克兰问题做出决定，我们尚未决定是否与普京会面。",
+          "url": "https://flash.jin10.com/detail/20251022045847997800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普赞赏IBM，称其CEO已经完成一个不错的工作。",
+          "url": "https://wallstreetcn.com/livenews/2991424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：众议院民主党领袖杰弗里斯和我周二已与特朗普取得联系，希望双方坐下来进行谈判。",
           "url": "https://flash.jin10.com/detail/20251022025236255800",
           "source": "金十数据",
@@ -768,6 +996,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美国总统特朗普：印度做的非常好。",
+          "url": "https://flash.jin10.com/detail/20251022045824079800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：卫生部长致力于解决自闭症Autism问题。 美国医药价格将下降。 某些（医药）公司接近与美国政府达成关于降低药品价格的协议。",
+          "url": "https://wallstreetcn.com/livenews/2991423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
           "url": "https://flash.jin10.com/detail/20251022005531621800",
           "source": "金十数据",
@@ -777,6 +1027,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：（美联储政策）利率太高。",
+          "url": "https://wallstreetcn.com/livenews/2991422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "在美上市印度ETF盘后跌0.18%。 美国总统特朗普称，刚刚与印度总理莫迪通电话，讨论了贸易问题。 印度做得非常不错。 莫迪未来不会从俄罗斯购买太多的石油。",
+          "url": "https://wallstreetcn.com/livenews/2991421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "特朗普政府支持美国公司与哈萨克斯坦钨矿资源谈判",
@@ -801,6 +1073,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普：一些公司即将就降低药品价格达成一致。",
+          "url": "https://flash.jin10.com/detail/20251022044715336800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：刚接到来自中东的电话，只要我们愿意，我们可以在两分钟内解决哈马斯问题，如果哈马斯不遵守协议，他们将很快被解决。",
+          "url": "https://flash.jin10.com/detail/20251022044317156800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "富国银行首席执行官：与特朗普政府的对话重点是经济增长，而非放松监管。",
           "url": "https://flash.jin10.com/detail/20251022004311706800",
           "source": "金十数据",
@@ -810,6 +1104,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔即将离任，美联储里有个死硬派，利率太高了。",
+          "url": "https://flash.jin10.com/detail/20251022044252344800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：与莫迪谈到了贸易问题。",
+          "url": "https://flash.jin10.com/detail/20251022043743953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "油价走高，特朗普政府将回填战略石油储备，报道称俄罗斯实际已拒绝特朗普关于俄乌战争的和平提案",
@@ -829,9 +1156,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美国总统特朗普：今天与印度总理莫迪通了话。",
+          "url": "https://flash.jin10.com/detail/20251022043713277800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "WTI原油期货维持0.4%的涨幅。 一位白宫官员表示，美国总统特朗普近期没有与俄罗斯总统普京会晤的计划，相比前不久两国暗示第二次峰会即将举行的说法，这一最新表态明显更为谨慎。",
@@ -862,7 +1200,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
