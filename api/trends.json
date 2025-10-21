@@ -1,23 +1,394 @@
 {
-  "generated_at": "2025-10-22T02:23:59.649501+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-10-22T03:16:03.372155+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 25,
+      "keyword_group": "美元",
+      "match_count": 33,
       "titles": [
         {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "上千网站受影响！亚马逊云服务四年来最严重宕机：时长15小时，潜在损失或超百亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818009",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
+          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，彭博谷物分类指数跌0.58%，报28.8166点。 CBOT玉米期货跌0.83%，CBOT小麦期货跌0.84%。 CBOT大豆期货跌0.11%，报10.4850美元/蒲式耳，豆粕期货涨0.49%，豆油期货跌1.34%。",
+          "url": "https://wallstreetcn.com/livenews/2991394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "现货黄金失守4100美元",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            16,
+            17,
+            19,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "阿根廷比索在非正式平行市场汇率下跌2.6%，跌至历史最低水平，报每美元兑1,545比索。",
+          "url": "https://flash.jin10.com/detail/20251022030318977800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "贝莱德集团旗下多只ETF从Meta Platforms的Hyperion买入超过30亿美元债券。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2991393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "波音(BA.N)：美国陆军订购了9架 CH-47F“奇努克”直升机Block II型号。第4批和第5批合同价值达4.61亿美元，使在签订单下的CH-47F Block II直升机总数增至18架。",
+          "url": "https://flash.jin10.com/detail/20251022030253172800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1250元，较周一夜盘收盘跌20点。成交量405.58亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2991388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "华纳兄弟探索公司(WBD.O)：HBO Max的广告支持套餐月费将上调1美元，标准套餐上调1.5美元，高级套餐上调2美元。",
+          "url": "https://flash.jin10.com/detail/20251022005724686800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "哥伦比亚美元债券价格上涨，至少创一个月新高。 哥伦比亚比索兑美元跌向3885比索下方的平盘，北京时间22:05还曾涨至3858.49比索。 此前，哥伦比亚政府召见驻该国Bogota的大使，讨论特朗普政府与其之间发生的外交危机。",
+          "url": "https://wallstreetcn.com/livenews/2991337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时23分]"
         },
+        {
+          "title": "人造肉第一股Beyond Meat涨84%，报2.80美元，该公司被纳入迷因股（meme stock）ETF。",
+          "url": "https://wallstreetcn.com/livenews/2991354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时23分]"
+        },
+        {
+          "title": "LME期铜收跌68美元，报10624美元/吨。 LME期铝收涨4美元，报2781美元/吨。 LME期锌收涨10美元，报2988美元/吨。 LME期铅收跌4美元，报1985美元/吨。 LME期镍收跌47美元，报15175美元/吨。 LME期锡收涨96美元，报35400美元/吨。 LME期钴收涨1460美元，报47110美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2991353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时23分]"
+        },
+        {
+          "title": "周二（10月21日），韩元兑美元最终跌0.85%，报1432.15韩元，北京时间18:00之前续震荡下，后续低位持稳。",
+          "url": "https://wallstreetcn.com/livenews/2991366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时16分]"
+        },
+        {
+          "title": "通用汽车涨幅扩大至16%，报67.55美元，创2010年以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/2991364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时16分]"
+        },
+        {
+          "title": "周二（10月21日），美联储隔夜逆回购协议（RRP）使用规模为46.99亿美元，上个交易日报59.31亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2991362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时16分]"
+        },
+        {
+          "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2991330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普向司法部（DOJ）索要2.3亿美元，因为后者调查他。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/2991387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
+          "url": "https://flash.jin10.com/detail/20251021235915002800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "消息人士：华纳兄弟探索公司(WBD.O)董事会已拒绝派拉蒙-Skydance提出的每股23至24美元的收购报价。该报价主要以现金形式支付。",
+          "url": "https://flash.jin10.com/detail/20251022024458000800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "WTI 11月原油期货收涨0.30美元，涨幅0.52%，报57.82美元/桶。 布伦特12月原油期货收涨0.31美元，涨幅0.51%，报61.32美元/桶。 中东Abu Dhabi Murban原油期货涨0.06%，报63.02美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2991384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251022005125520800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
+          "url": "https://wallstreetcn.com/livenews/2991379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "阿根廷比索兑美元跌0.9%，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/2991323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "现货黄金跌穿4100美元",
+          "url": "https://wallstreetcn.com/livenews/2991319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "广州机器人企业在广交会上意向成交超千万美元",
+          "url": "https://wallstreetcn.com/livenews/2991374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "花旗：继续维持布伦特原油在2026年第一季度的平均价格在每桶约60美元的预期。",
+          "url": "https://flash.jin10.com/detail/20251021233340961800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
+          "url": "https://flash.jin10.com/detail/20251022003719507800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "巴西矿业协会副主席：预计巴西至2029年将在关键矿产领域吸引约184.5 亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251022021410279800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "花旗：中期看涨铜和铝价，预计未来6至12个月铜价将升至每吨12,000美元，铝价到2027年将升至每吨3,500美元。",
+          "url": "https://flash.jin10.com/detail/20251021233301678800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了个10对手方的46.99亿美元。",
+          "url": "https://flash.jin10.com/detail/20251022011618347800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "花旗对金价转为看跌，料未来三个月内跌至4000美元",
+          "url": "https://flash.jin10.com/detail/20251021233035750800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 32,
+      "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
           "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
@@ -26,8 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -37,8 +408,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -48,8 +419,93 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时15分]"
+        },
+        {
+          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
+          "url": "https://wallstreetcn.com/articles/3757574",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普暗示将承诺反对台独",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%86%E6%89%BF%E8%AF%BA%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26cate%3D5001%26flag%3D1%26pos%3D11%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%259A%2597%25E7%25A4%25BA%25E5%25B0%2586%25E6%2589%25BF%25E8%25AF%25BA%25E5%258F%258D%25E5%25AF%25B9%25E5%258F%25B0%25E7%258B%25AC%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            10,
+            27,
+            25,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "美国高级官员：美国总统特朗普将于周四在白宫会见北约秘书长。",
+          "url": "https://flash.jin10.com/detail/20251022030402927800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普开飞机泼粪,美国再次味大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "MP材料跌超10%，特朗普团队支持美国与哈萨克斯坦谈判Tungsten矿场协议。",
@@ -58,7 +514,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -74,6 +530,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国参议院民主党领导人Schumer：10月21日与总统特朗普取得联系。",
+          "url": "https://wallstreetcn.com/livenews/2991392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
           "url": "https://wallstreetcn.com/livenews/2991340",
           "source": "华尔街见闻-快讯",
@@ -84,66 +551,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
-          "url": "https://wallstreetcn.com/articles/3757574",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于明年访华",
-          "url": "https://www.toutiao.com/trending/7563338600507768851/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "特朗普暗示将承诺反对台独",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%86%E6%89%BF%E8%AF%BA%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D10%26cate%3D5001%26flag%3D1%26pos%3D11%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%259A%2597%25E7%25A4%25BA%25E5%25B0%2586%25E6%2589%25BF%25E8%25AF%25BA%25E5%258F%258D%25E5%25AF%25B9%25E5%258F%25B0%25E7%258B%25AC%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            10,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "特朗普开飞机泼粪,美国再次味大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[00时21分 ~ 02时23分]"
         },
         {
@@ -159,6 +566,41 @@
           "time_info": "[01时16分 ~ 02时23分]"
         },
         {
+          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
+          "url": "https://wallstreetcn.com/livenews/2991361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
+          "url": "https://wallstreetcn.com/livenews/2991360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时16分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：众议院民主党领袖杰弗里斯和我周二已与特朗普取得联系，希望双方坐下来进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251022025236255800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
           "url": "https://flash.jin10.com/detail/20251022005531621800",
           "source": "金十数据",
@@ -170,35 +612,13 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
-          "url": "https://wallstreetcn.com/livenews/2991361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
-          "url": "https://wallstreetcn.com/livenews/2991360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "特朗普政府支持美国公司与哈萨克斯坦钨矿资源谈判",
           "url": "https://flash.jin10.com/detail/20251022015900344800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -225,15 +645,48 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国政府停摆进入第21天，特朗普要求共和党参议员保持坚定",
+          "url": "https://wallstreetcn.com/livenews/2991376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "油价走高，特朗普政府将回填战略石油储备，报道称俄罗斯实际已拒绝特朗普关于俄乌战争的和平提案",
           "url": "https://wallstreetcn.com/livenews/2991351",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "WTI原油期货维持0.4%的涨幅。 一位白宫官员表示，美国总统特朗普近期没有与俄罗斯总统普京会晤的计划，相比前不久两国暗示第二次峰会即将举行的说法，这一最新表态明显更为谨慎。",
+          "url": "https://wallstreetcn.com/livenews/2991373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "巴西财长Haddad：巴西总统卢拉与美国总统特朗普通话中未提及博索纳罗的名字。如果卢拉与特朗普之间的通话升级为同级别面对面的会谈，我认为我们可以期待好消息。",
+          "url": "https://flash.jin10.com/detail/20251022022326406800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普希望与伊朗人保持良好关系。",
@@ -264,9 +717,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "巴西财长Haddad：巴西总统卢拉告诉美国总统特朗普，他有兴趣讨论任何问题，包括货币、委内瑞拉，以及其他任何问题。",
+          "url": "https://flash.jin10.com/detail/20251022022002977800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "报道：欧洲与乌克兰就结束俄乌战争制定12点和平方案，特朗普负责监督执行",
@@ -275,7 +739,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -283,261 +747,6 @@
           "title": "评论员：泽连斯基再度被特朗普侮辱",
           "url": "https://www.toutiao.com/trending/7563610173114158601/",
           "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "华纳兄弟探索公司(WBD.O)：HBO Max的广告支持套餐月费将上调1美元，标准套餐上调1.5美元，高级套餐上调2美元。",
-          "url": "https://flash.jin10.com/detail/20251022005724686800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "周二（10月21日），韩元兑美元最终跌0.85%，报1432.15韩元，北京时间18:00之前续震荡下，后续低位持稳。",
-          "url": "https://wallstreetcn.com/livenews/2991366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "哥伦比亚美元债券价格上涨，至少创一个月新高。 哥伦比亚比索兑美元跌向3885比索下方的平盘，北京时间22:05还曾涨至3858.49比索。 此前，哥伦比亚政府召见驻该国Bogota的大使，讨论特朗普政府与其之间发生的外交危机。",
-          "url": "https://wallstreetcn.com/livenews/2991337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "人造肉第一股Beyond Meat涨84%，报2.80美元，该公司被纳入迷因股（meme stock）ETF。",
-          "url": "https://wallstreetcn.com/livenews/2991354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时23分]"
-        },
-        {
-          "title": "上千网站受影响！亚马逊云服务四年来最严重宕机：时长15小时，潜在损失或超百亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818009",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "LME期铜收跌68美元，报10624美元/吨。 LME期铝收涨4美元，报2781美元/吨。 LME期锌收涨10美元，报2988美元/吨。 LME期铅收跌4美元，报1985美元/吨。 LME期镍收跌47美元，报15175美元/吨。 LME期锡收涨96美元，报35400美元/吨。 LME期钴收涨1460美元，报47110美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2991353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时23分]"
-        },
-        {
-          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
-          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "现货黄金失守4100美元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2991330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "通用汽车涨幅扩大至16%，报67.55美元，创2010年以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/2991364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
-          "url": "https://flash.jin10.com/detail/20251021235915002800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "周二（10月21日），美联储隔夜逆回购协议（RRP）使用规模为46.99亿美元，上个交易日报59.31亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2991362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
-          "url": "https://flash.jin10.com/detail/20251022005125520800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "阿根廷比索兑美元跌0.9%，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/2991323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "现货黄金跌穿4100美元",
-          "url": "https://wallstreetcn.com/livenews/2991319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "花旗：继续维持布伦特原油在2026年第一季度的平均价格在每桶约60美元的预期。",
-          "url": "https://flash.jin10.com/detail/20251021233340961800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
-          "url": "https://flash.jin10.com/detail/20251022003719507800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "花旗：中期看涨铜和铝价，预计未来6至12个月铜价将升至每吨12,000美元，铝价到2027年将升至每吨3,500美元。",
-          "url": "https://flash.jin10.com/detail/20251021233301678800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了个10对手方的46.99亿美元。",
-          "url": "https://flash.jin10.com/detail/20251022011618347800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "花旗对金价转为看跌，料未来三个月内跌至4000美元",
-          "url": "https://flash.jin10.com/detail/20251021233035750800",
-          "source": "金十数据",
           "ranks": [
             29
           ],
@@ -592,7 +801,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
