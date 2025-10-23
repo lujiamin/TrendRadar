@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:18:24.190075+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-10-23T18:19:37.098965+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 96,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -95,9 +95,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "布伦特原油和WTI原油期货（日内）涨幅超3美元。",
+          "url": "https://flash.jin10.com/detail/20251023175125627800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
+          "url": "https://wallstreetcn.com/livenews/2992525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "比特币站上110000美元/枚，日内涨2.28%。",
@@ -117,20 +139,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
         {
-          "title": "WTI原油日内涨幅达5.0%，报61.44美元/桶。布油涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/2992494",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油日内大涨4.00%，现报65.37美元/桶；WTI原油日内涨3.9%，现报61.62美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251023175001844800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "18时19分"
         },
         {
           "title": "布伦特原油日内涨幅扩大至2%，报64.11美元/桶，为10月10日以来新高。WTI原油现涨1.77%，报60.36美元/桶。",
@@ -205,7 +227,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -346,6 +368,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 13时16分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.0%，报61.44美元/桶。布油涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/2992494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时19分]"
         },
         {
           "title": "IBM三季度营收163.3亿美元，分析师预期161亿美元。",
@@ -663,6 +697,18 @@
           "time_info": "[04时21分 ~ 05时15分]"
         },
         {
+          "title": "布伦特原油日内涨幅达4.0%，报65.11美元/桶，此前美制裁俄最大两家石油公司。",
+          "url": "https://wallstreetcn.com/livenews/2992464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时19分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)2025年Q3营收281亿美元，市场预期为261.65亿美元，上年同期为251.8亿美元。",
           "url": "https://flash.jin10.com/detail/20251023040413122800",
           "source": "金十数据",
@@ -680,7 +726,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -746,7 +792,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -905,17 +951,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "布伦特原油日内涨幅达4.0%，报65.11美元/桶，此前美制裁俄最大两家石油公司。",
-          "url": "https://wallstreetcn.com/livenews/2992464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "比特币突破109000美元/枚，日内涨1.35%。",
           "url": "https://flash.jin10.com/detail/20251023140821856800",
           "source": "金十数据",
@@ -988,7 +1023,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1117,7 +1152,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -1165,6 +1200,17 @@
           "time_info": "[11时01分 ~ 15时16分]"
         },
         {
+          "title": "特朗普取消与普京会面，克里姆林宫回应",
+          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 18时19分]"
+        },
+        {
           "title": "美媒称美国允许乌对俄使用远程导弹，特朗普：假新闻",
           "url": "https://news.ifeng.com/c/8nfmpxBGjNA",
           "source": "凤凰网",
@@ -1202,19 +1248,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时13分 ~ 17时18分]"
-        },
-        {
-          "title": "特朗普取消与普京会面，克里姆林宫回应",
-          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 17时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 18时19分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -1277,6 +1312,20 @@
           "time_info": "[00时20分 ~ 11时02分]"
         },
         {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 18时19分]"
+        },
+        {
           "title": "特朗普开始创造性破坏白宫",
           "url": "https://www.toutiao.com/trending/7563916723658244105/",
           "source": "今日头条",
@@ -1290,8 +1339,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 17时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 18时19分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -1311,19 +1360,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 12时19分]"
-        },
-        {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 17时18分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -1357,11 +1393,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 18时19分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -1385,6 +1422,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时12分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 18时19分]"
         },
         {
           "title": "特朗普称取消与普京会面",
@@ -1430,19 +1480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 17时18分]"
         },
         {
           "title": "特朗普取消与普京的会面",
@@ -1523,6 +1560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：特朗普的行动导致世界局势可预测性下降。",
+          "url": "https://flash.jin10.com/detail/20251023174334928800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "特朗普普京会晤为何被“急踩刹车”",
@@ -1633,8 +1681,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时19分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -1757,6 +1805,18 @@
           "time_info": "[04时21分 ~ 05时15分]"
         },
         {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时19分]"
+        },
+        {
           "title": "唐驳虎：特朗普第一次对普京动真格",
           "url": "https://www.toutiao.com/trending/7564280002351468071/",
           "source": "今日头条",
@@ -1779,6 +1839,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：特朗普试图改变世界秩序。",
+          "url": "https://flash.jin10.com/detail/20251023174306827800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
           "url": "https://wallstreetcn.com/livenews/2992088",
           "source": "华尔街见闻-快讯",
@@ -1788,6 +1859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：将“稳步”推进海上风力发电的后续项目。 愿与G7及其他国家合作，共同探讨符合日本国家利益的必要举措。 特朗普试图改变全球秩序。 特朗普的行动导致世界可预测性下降。",
+          "url": "https://wallstreetcn.com/livenews/2992511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -1807,7 +1889,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1997,17 +2079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "为何没人知晓特朗普家族如今赚多少钱",
-          "url": "https://www.toutiao.com/trending/7564312142908755510/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "特朗普称取消与普京在布达佩斯的会面",
