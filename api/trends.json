@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:30:03.534315+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2025-10-23T22:19:12.361397+08:00",
+  "total_titles_processed": 2097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 110,
+      "match_count": 115,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -117,18 +117,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "现货黄金突破4140美元/盎司，日内涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2992622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -252,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时19分]"
         },
         {
           "title": "希拉里痛批特朗普2.5亿美元改造白宫",
@@ -389,6 +389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时33分 ~ 21时30分]"
+        },
+        {
+          "title": "现货黄金突破4140美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 22时19分]"
         },
         {
           "title": "美国铝业三季度销售30亿美元，分析师预期31.2亿美元。",
@@ -587,17 +599,6 @@
           "time_info": "[01时16分 ~ 03时13分]"
         },
         {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时30分]"
-        },
-        {
           "title": "黑石信贷资产管理规模突破5000亿美元 同比大涨18%",
           "url": "https://flash.jin10.com/detail/20251023202621733800",
           "source": "金十数据",
@@ -620,6 +621,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "超微电脑盘前下跌8%，公司第一财季净销售额为50亿美元，低于市场预期的64.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2992617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 22时19分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -789,15 +802,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "超微电脑盘前下跌8%，公司第一财季净销售额为50亿美元，低于市场预期的64.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2992617",
-          "source": "华尔街见闻-快讯",
+          "title": "哥伦比亚公共信贷局局长：哥伦比亚或回购的美元债券的票面利率设定在6.5%至7%之间。",
+          "url": "https://flash.jin10.com/detail/20251023215845505800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "22时19分"
         },
         {
           "title": "WTI原油突破61美元/桶，日内涨2.85%。",
@@ -866,6 +879,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "纽约期银日内涨幅扩大至3.00%，现报49.12美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251023215433430800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "数据显示，美国国债规模首次达到38万亿美元。",
           "url": "https://flash.jin10.com/detail/20251023043335188800",
           "source": "金十数据",
@@ -886,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "纽约期银日内涨幅扩大至3%，现报49.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2992643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "现货钯金延续涨势，涨超5%，报1488.69美元/盎司。",
@@ -1009,6 +1044,17 @@
           "time_info": "20时33分"
         },
         {
+          "title": "现货黄金向上触及4150美元/盎司，日内涨近1.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "现货黄金向下触及4070美元/盎司，日内跌0.77%。",
           "url": "https://flash.jin10.com/detail/20251023082214854800",
           "source": "金十数据",
@@ -1073,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "现货黄金向上触及4150美元/盎司，日内涨1.27%。",
+          "url": "https://flash.jin10.com/detail/20251023214530716800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "比特币突破109000美元/枚，日内涨1.35%。",
@@ -1385,8 +1442,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时16分 ~ 21时30分]"
+          "appearance_count": 14,
+          "time_info": "[13时16分 ~ 22时19分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -1414,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 22时19分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -1444,8 +1512,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时16分 ~ 21时30分]"
+          "appearance_count": 14,
+          "time_info": "[13时16分 ~ 22时19分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -1460,8 +1528,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时01分 ~ 21时30分]"
+          "appearance_count": 18,
+          "time_info": "[11时01分 ~ 22时19分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -1528,6 +1596,17 @@
           "time_info": "[00时20分 ~ 13时16分]"
         },
         {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时19分]"
+        },
+        {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
           "url": "https://www.cls.cn/detail/2177223",
           "source": "财联社热门",
@@ -1538,28 +1617,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时26分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时30分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时30分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -1972,7 +2029,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -2071,7 +2128,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -2353,7 +2410,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
@@ -2388,6 +2445,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "阿里巴巴(BABA.US)涨超2%，阿里旗下夸克AI眼镜据悉将于24号零点开启预售，预售起价4699元。",
+          "url": "https://flash.jin10.com/detail/20251023214104282800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     }
