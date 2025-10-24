@@ -1,147 +1,11 @@
 {
-  "generated_at": "2025-10-25T02:22:59.821899+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-10-25T03:15:26.132858+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "中美元首是否将会晤？外交部回应",
-          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "周五（10月24日），韩元兑美元最终跌0.09%，报1438.89韩元，北京时间20:30发布美国CPI数据时显著反弹。 本周，韩元乐基下跌1.18%，10月20-23日持续下挫，23日11:30过后持续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2993566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "如何看待因 V 社调整获取机制《CS2》饰品市值蒸发近 20 亿美元？",
-          "url": "https://www.zhihu.com/question/1964788448398410950",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "LME期铜收涨108美元，报10962美元/吨。 LME期铝收跌4美元，报2859美元/吨。 LME期锌收涨8美元，报3026美元/吨。 LME期铅收涨6美元，报2016美元/吨。 LME期镍收跌2美元，报15361美元/吨。 LME期锡收涨30美元，报35802美元/吨。 LME期钴收平美元，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2993555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时22分]"
-        },
-        {
-          "title": "WTI原油期货涨幅收窄至0.4%，逼近62美元。 荷兰首相呼吁欧盟追随美国总统特朗普的做法，也制裁俄罗斯石油公司Rosneft和LukOil。",
-          "url": "https://wallstreetcn.com/livenews/2993551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时22分]"
-        },
-        {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "中方回应中美元首是否在APEC会晤",
-          "url": "https://www.toutiao.com/trending/7564070464381894719/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "Crusoe按超过100亿美元估值融资13.75亿美元，Mubadala Capital和Walor Equity Partners联合领投。",
-          "url": "https://wallstreetcn.com/livenews/2993523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "周五（10月24日），美联储隔夜逆回购协议（RRP）使用规模为24.35亿美元，创2021年3月份以来新低，上个交易日报69.41亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2993564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的24.35亿美元。",
-          "url": "https://flash.jin10.com/detail/20251025011605403800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸",
@@ -151,20 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
-          "title": "美国交通部长Duffy：（与特朗普政府关门相关的）人手不足造成53%的航班晚点。",
-          "url": "https://wallstreetcn.com/livenews/2993554",
-          "source": "华尔街见闻-快讯",
+          "title": "据华尔街日报：美国总统特朗普推动新建海军军舰级别，希望建造新型海军舰艇，以应对潜在威胁。",
+          "url": "https://flash.jin10.com/detail/20251025023610204800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -174,8 +37,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "美国交通部长Duffy：（与特朗普政府关门相关的）人手不足造成53%的航班晚点。",
+          "url": "https://wallstreetcn.com/livenews/2993554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "time_info": "[01时14分 ~ 03时15分]"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -186,8 +62,65 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "特朗普谈普京对美强硬表态：拭目以待",
+          "url": "https://www.toutiao.com/trending/7564749571637841435/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "拒绝特朗普停火要求 普京有什么谋划",
+          "url": "https://www.toutiao.com/trending/7564722359190425094/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时15分]"
+        },
+        {
+          "title": "市场消息：加拿大安大略省将撤销“反对关税”的广告，此前美国总统特朗普叫停两国之间的对话。",
+          "url": "https://flash.jin10.com/detail/20251025022648345800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "加拿大安大略省长宣布：将暂停播放针对特朗普关税的广告",
+          "url": "https://wallstreetcn.com/livenews/2993576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "加拿大安大略省将撤销造成美国总统特朗普叫停两国之间对话的“反对关税”广告。（加拿大媒体Globe）",
+          "url": "https://wallstreetcn.com/livenews/2993572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "普京特使Kirill Dmitriev：各种力量，主要是英国和欧洲人，正试图破坏普京与特朗普之间的直接对话。",
@@ -199,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "安大略省将在世界大赛期间播放激怒特朗普的反关税广告",
+          "url": "https://wallstreetcn.com/livenews/2993573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "北约秘书长吕特：美国总统特朗普对俄罗斯实施的制裁表明了他结束战争的决心。",
@@ -221,28 +165,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 11,
+      "titles": [
         {
-          "title": "特朗普谈普京对美强硬表态：拭目以待",
-          "url": "https://www.toutiao.com/trending/7564749571637841435/",
-          "source": "今日头条",
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
+          "source": "凤凰网",
           "ranks": [
-            26
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
-          "title": "拒绝特朗普停火要求 普京有什么谋划",
-          "url": "https://www.toutiao.com/trending/7564722359190425094/",
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "如何看待因 V 社调整获取机制《CS2》饰品市值蒸发近 20 亿美元？",
+          "url": "https://www.zhihu.com/question/1964788448398410950",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            6,
+            19,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "LME期铜收涨108美元，报10962美元/吨。 LME期铝收跌4美元，报2859美元/吨。 LME期锌收涨8美元，报3026美元/吨。 LME期铅收涨6美元，报2016美元/吨。 LME期镍收跌2美元，报15361美元/吨。 LME期锡收涨30美元，报35802美元/吨。 LME期钴收平美元，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2993555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时15分]"
+        },
+        {
+          "title": "WTI原油期货涨幅收窄至0.4%，逼近62美元。 荷兰首相呼吁欧盟追随美国总统特朗普的做法，也制裁俄罗斯石油公司Rosneft和LukOil。",
+          "url": "https://wallstreetcn.com/livenews/2993551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时15分]"
+        },
+        {
+          "title": "周五（10月24日），韩元兑美元最终跌0.09%，报1438.89韩元，北京时间20:30发布美国CPI数据时显著反弹。 本周，韩元乐基下跌1.18%，10月20-23日持续下挫，23日11:30过后持续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2993566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时15分]"
+        },
+        {
+          "title": "中方回应中美元首是否在APEC会晤",
+          "url": "https://www.toutiao.com/trending/7564070464381894719/",
           "source": "今日头条",
           "ranks": [
+            25,
+            24,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
+        },
+        {
+          "title": "周五（10月24日），美联储隔夜逆回购协议（RRP）使用规模为24.35亿美元，创2021年3月份以来新低，上个交易日报69.41亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2993564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时15分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的24.35亿美元。",
+          "url": "https://flash.jin10.com/detail/20251025011605403800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时15分]"
+        },
+        {
+          "title": "Crusoe按超过100亿美元估值融资13.75亿美元，Mubadala Capital和Walor Equity Partners联合领投。",
+          "url": "https://wallstreetcn.com/livenews/2993523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         }
       ]
     },
@@ -259,8 +324,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
           "title": "比亚迪腾势总经理赵长江离职",
@@ -268,11 +333,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         }
       ]
     }
