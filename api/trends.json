@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T01:14:49.068653+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-10-25T02:22:59.821899+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "中美元首是否将会晤？外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -26,30 +26,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
-          "title": "LME期铜收涨108美元，报10962美元/吨。 LME期铝收跌4美元，报2859美元/吨。 LME期锌收涨8美元，报3026美元/吨。 LME期铅收涨6美元，报2016美元/吨。 LME期镍收跌2美元，报15361美元/吨。 LME期锡收涨30美元，报35802美元/吨。 LME期钴收平美元，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2993555",
+          "title": "周五（10月24日），韩元兑美元最终跌0.09%，报1438.89韩元，北京时间20:30发布美国CPI数据时显著反弹。 本周，韩元乐基下跌1.18%，10月20-23日持续下挫，23日11:30过后持续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2993566",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "WTI原油期货涨幅收窄至0.4%，逼近62美元。 荷兰首相呼吁欧盟追随美国总统特朗普的做法，也制裁俄罗斯石油公司Rosneft和LukOil。",
-          "url": "https://wallstreetcn.com/livenews/2993551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "02时22分"
         },
         {
           "title": "如何看待因 V 社调整获取机制《CS2》饰品市值蒸发近 20 亿美元？",
@@ -57,11 +46,36 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "LME期铜收涨108美元，报10962美元/吨。 LME期铝收跌4美元，报2859美元/吨。 LME期锌收涨8美元，报3026美元/吨。 LME期铅收涨6美元，报2016美元/吨。 LME期镍收跌2美元，报15361美元/吨。 LME期锡收涨30美元，报35802美元/吨。 LME期钴收平美元，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2993555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "time_info": "[01时14分 ~ 02时22分]"
+        },
+        {
+          "title": "WTI原油期货涨幅收窄至0.4%，逼近62美元。 荷兰首相呼吁欧盟追随美国总统特朗普的做法，也制裁俄罗斯石油公司Rosneft和LukOil。",
+          "url": "https://wallstreetcn.com/livenews/2993551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时22分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -69,11 +83,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "中方回应中美元首是否在APEC会晤",
+          "url": "https://www.toutiao.com/trending/7564070464381894719/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "Crusoe按超过100亿美元估值融资13.75亿美元，Mubadala Capital和Walor Equity Partners联合领投。",
@@ -88,22 +116,32 @@
           "time_info": "[00时19分 ~ 01时14分]"
         },
         {
-          "title": "中方回应中美元首是否在APEC会晤",
-          "url": "https://www.toutiao.com/trending/7564070464381894719/",
-          "source": "今日头条",
+          "title": "周五（10月24日），美联储隔夜逆回购协议（RRP）使用规模为24.35亿美元，创2021年3月份以来新低，上个交易日报69.41亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2993564",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            24
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的24.35亿美元。",
+          "url": "https://flash.jin10.com/detail/20251025011605403800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸",
@@ -113,19 +151,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美国交通部长Duffy：（与特朗普政府关门相关的）人手不足造成53%的航班晚点。",
           "url": "https://wallstreetcn.com/livenews/2993554",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时22分]"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -135,8 +174,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -147,8 +186,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "普京特使Kirill Dmitriev：各种力量，主要是英国和欧洲人，正试图破坏普京与特朗普之间的直接对话。",
@@ -168,7 +207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -193,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "拒绝特朗普停火要求 普京有什么谋划",
+          "url": "https://www.toutiao.com/trending/7564722359190425094/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     },
@@ -205,22 +255,24 @@
           "url": "https://www.zhihu.com/question/1964991158896792248",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "比亚迪腾势总经理赵长江离职",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }
