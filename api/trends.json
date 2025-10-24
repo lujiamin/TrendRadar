@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-10-24T20:35:41.642342+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2025-10-24T21:29:53.941110+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 100,
+      "match_count": 102,
       "titles": [
+        {
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时29分]"
+        },
+        {
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时29分]"
+        },
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
           "url": "https://www.cls.cn/detail/2179066",
@@ -20,28 +42,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时07分 ~ 15时18分]"
-        },
-        {
-          "title": "中美元首是否将会晤？外交部回应",
-          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时35分]"
-        },
-        {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时35分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -60,11 +60,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时35分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时29分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -102,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时29分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -112,11 +113,43 @@
           "ranks": [
             5,
             7,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时29分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            16,
+            14,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时29分]"
+        },
+        {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 21时29分]"
         },
         {
           "title": "市场消息：Rivian(RIVN.O)将支付2.5亿美元了结一起指控其在首次公开募股中就车辆价格欺骗投资者的诉讼。",
@@ -161,36 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            16,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时35分]"
-        },
-        {
-          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 20时35分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -276,7 +279,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -693,6 +696,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "现货黄金延续涨势，上破4110美元/盎司，最高报4115.94美元/盎司，短线上涨超30美元。",
+          "url": "https://flash.jin10.com/detail/20251024211521552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "市场消息：甲骨文(ORCL.N)即将发行与数据中心相关的380亿美元债券。",
           "url": "https://flash.jin10.com/detail/20251024063651216800",
           "source": "金十数据",
@@ -1067,6 +1081,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "美国9月CPI数据公布后，美股三大股指期货短线拉升，纳指期货日内涨近1%；美国国债收益率短线下挫，10年期国债收益率下行逾3bp，现报3.97%；美元指数跳水，日内跌0.2%。以太坊突破4000美元/枚，日内涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2993445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "比特币突破111000美元/枚，日内涨3.19%。",
           "url": "https://flash.jin10.com/detail/20251024014826237800",
           "source": "金十数据",
@@ -1084,7 +1109,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1169,7 +1194,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -1296,6 +1321,20 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
+          "url": "https://wallstreetcn.com/articles/3757776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时34分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
           "url": "https://www.cls.cn/detail/2179005",
           "source": "财联社热门",
@@ -1356,18 +1395,15 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
-          "url": "https://wallstreetcn.com/articles/3757776",
-          "source": "华尔街见闻",
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时34分 ~ 20时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 21时29分]"
         },
         {
           "title": "普京回应特朗普取消会晤",
@@ -1379,30 +1415,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时07分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 20时35分]"
-        },
-        {
-          "title": "特朗普：终止与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7563606616550703123/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 17时19分]"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -1417,8 +1429,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 20时35分]"
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普：终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7563606616550703123/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 17时19分]"
         },
         {
           "title": "特朗普赦免赵长鹏",
@@ -1740,6 +1765,19 @@
           "time_info": "[02时25分 ~ 04时19分]"
         },
         {
+          "title": "特朗普为何终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7564700176221212196/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时29分]"
+        },
+        {
           "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
           "url": "https://wallstreetcn.com/livenews/2992708",
           "source": "华尔街见闻-快讯",
@@ -1799,18 +1837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普为何终止与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7564700176221212196/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时35分]"
         },
         {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
@@ -1966,6 +1992,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "特朗普称“美对俄新制裁后果将在六个月后显现”，克宫回应",
+          "url": "https://wallstreetcn.com/livenews/2993466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "美国总统特朗普：将很快对委内瑞拉采取陆地行动。",
           "url": "https://flash.jin10.com/detail/20251024041314260800",
           "source": "金十数据",
@@ -2019,6 +2056,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "特朗普谈普京对美强硬表态：拭目以待",
+          "url": "https://www.toutiao.com/trending/7564749571637841435/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美国总统特朗普：（回应B-1轰炸机出现在委内瑞拉附近空域的报道）报道不准确。",
@@ -2181,7 +2229,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -2225,7 +2273,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -2290,11 +2338,12 @@
             13,
             9,
             14,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 20时35分]"
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 21时29分]"
         },
         {
           "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
@@ -2303,11 +2352,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 20时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 21时29分]"
         },
         {
           "title": "腾势总经理赵长江：暂别比亚迪，寻找新的节奏",
