@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T06:17:11.378092+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-10-27T07:14:42.382775+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "给美军捐1.3亿美元的神秘人身份曝光",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "给出100美元目标价！英伟达“唯一的空头”：这不是我第一次看到泡沫",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "游戏圈送给年轻人的第一次爆仓：20亿美元瞬间蒸发",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "给美军捐1.3亿美元的神秘人曝光",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "乌称一制药企业遭俄导弹袭击 初步损失超1亿美元",
@@ -62,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "匿名者向五角大楼捐赠1.3亿美元，支付政府停摆期间的美军薪资",
@@ -74,11 +75,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "瑞士制药公司诺华（Novartis）接近以每股70美元以上的价格收购美国生物技术公司Avidity Biosciences，协议最早将在周日宣布。（彭博）",
@@ -86,11 +88,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "乌称一制药企业遭俄导弹袭击 初步损失超1亿美元",
@@ -157,17 +160,6 @@
           "time_info": "[00时18分 ~ 06时17分]"
         },
         {
-          "title": "现货白银周一开盘跳空大幅低开超0.5美元后小幅反弹，现报48.23美元/盎司，日内跌0.75%。",
-          "url": "https://flash.jin10.com/detail/20251027060312573800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "佩斯科夫：俄美元首会晤尚无基础",
           "url": "https://flash.jin10.com/detail/20251026190455102800",
           "source": "金十数据",
@@ -181,26 +173,51 @@
           "time_info": "[00时18分 ~ 05时13分]"
         },
         {
+          "title": "汇丰为麦道夫诈骗案相关诉讼计提11亿美元拨备",
+          "url": "https://flash.jin10.com/detail/20251027064754032800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "现货白银周一开盘跳空大幅低开超0.5美元后小幅反弹，现报48.23美元/盎司，日内跌0.75%。",
+          "url": "https://flash.jin10.com/detail/20251027060312573800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时14分]"
+        },
+        {
           "title": "周一开盘，现货黄金跳空大幅低开40美元后小幅反弹，现报4067美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251027060141480800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时14分]"
         },
         {
           "title": "美、布两油开盘上涨0.8%，分别报61.67美元/桶和65.53美元/桶。",
           "url": "https://flash.jin10.com/detail/20251027060057038800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时14分]"
         },
         {
           "title": "比特币升破112000美元",
@@ -208,11 +225,67 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[05时13分 ~ 07时14分]"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明表示，韩国和美国在3500亿美元投资的问题上的贸易谈判仍然处于僵局。",
+          "url": "https://flash.jin10.com/detail/20251027063530175800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.00%，现报61.88美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251027063414957800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "加密货币短线拉升，比特币短线涨幅一度扩大至约2000美元，现报115011美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251027060518967800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "汇丰预计为麦道夫案相关诉讼计提11亿美元拨备。",
+          "url": "https://wallstreetcn.com/livenews/2993814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "现货黄金持续反弹，重返4100美元/盎司关口上方，较日低反弹约40美元，日内跌幅收窄至0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2993807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
@@ -228,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -239,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -250,8 +323,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -262,11 +335,23 @@
             16,
             18,
             14,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965770697927300097",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -274,17 +359,6 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时17分]"
-        },
-        {
-          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965770697927300097",
-          "source": "知乎",
-          "ranks": [
             16
           ],
           "is_new": false,
@@ -352,11 +426,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时14分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -375,11 +450,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 07时14分]"
         }
       ]
     }
