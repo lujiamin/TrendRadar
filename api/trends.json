@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T06:17:38.001378+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2025-10-28T07:15:01.512556+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "30亿美元！美团史上最大规模发债，为“外卖大战”补充弹药",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -41,33 +41,23 @@
           "ranks": [
             12,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 07时15分]"
         },
         {
-          "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251028060140000800",
-          "source": "金十数据",
+          "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "境内外人民币周一创下两个月来最大涨幅。 美元/离岸人民币1个月隐含波动率小幅升至2.7%，六个交易日以来首次上涨。",
-          "url": "https://wallstreetcn.com/livenews/2994549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.730%，投标倍数2.38。",
@@ -120,6 +110,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 06时17分]"
+        },
+        {
+          "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251028060140000800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时15分]"
         },
         {
           "title": "周一（10月27日），韩元兑美元最终涨0.44%，报1432.49韩元，大部分时间高位震荡。",
@@ -183,6 +185,31 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
+          "title": "境内外人民币周一创下两个月来最大涨幅。 美元/离岸人民币1个月隐含波动率小幅升至2.7%，六个交易日以来首次上涨。",
+          "url": "https://wallstreetcn.com/livenews/2994549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时15分]"
+        },
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20251028042623888800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时15分]"
+        },
+        {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
           "url": "https://wallstreetcn.com/livenews/2994463",
           "source": "华尔街见闻-快讯",
@@ -196,16 +223,16 @@
           "time_info": "[01时17分 ~ 03时13分]"
         },
         {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20251028042623888800",
+          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
+          "url": "https://flash.jin10.com/detail/20251028052428627800",
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
+          "time_info": "[06时17分 ~ 07时15分]"
         },
         {
           "title": "WTI 12月原油期货收跌0.19美元，跌幅0.31%，报61.31美元/桶。 布伦特12月原油期货收跌0.32美元，跌幅0.49%，报65.62美元/桶。 中东Abu Dhabi Murban原油期货跌1.16%，报68.11美元/桶。",
@@ -290,6 +317,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时15分]"
+        },
+        {
+          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2994543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时15分]"
         },
         {
           "title": "WTI原油期货涨幅收窄至0.3%，暂报61.69美元。 乌克兰总统泽连斯基：乌克兰将扩大针对俄罗斯炼油厂的打击。",
@@ -412,28 +451,6 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
-          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
-          "url": "https://flash.jin10.com/detail/20251028052428627800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2994543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的106.42亿美元。",
           "url": "https://flash.jin10.com/detail/20251028011953731800",
           "source": "金十数据",
@@ -525,7 +542,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -536,8 +553,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -551,18 +568,6 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
-        },
-        {
           "title": "特朗普：很长时间内不想和加总理见面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
           "source": "百度热搜",
@@ -572,11 +577,12 @@
             16,
             10,
             14,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -588,7 +594,20 @@
             10,
             19,
             25,
-            18
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -615,17 +634,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时17分]"
-        },
-        {
-          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
-          "url": "https://flash.jin10.com/detail/20251028054741724800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -655,6 +663,18 @@
           "time_info": "[02时23分 ~ 04时21分]"
         },
         {
+          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
+          "url": "https://flash.jin10.com/detail/20251028054741724800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时15分]"
+        },
+        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://wallstreetcn.com/livenews/2994466",
           "source": "华尔街见闻-快讯",
@@ -666,6 +686,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时13分]"
+        },
+        {
+          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
+          "url": "https://news.ifeng.com/c/8nnpTggasmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 07时15分]"
         },
         {
           "title": "特朗普谈美军机南海坠毁原因",
@@ -702,15 +733,15 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
-          "url": "https://news.ifeng.com/c/8nnpTggasmR",
-          "source": "凤凰网",
+          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
         },
         {
           "title": "加拿大安大略省省长：美国总统特朗普正在找借口不达成协议。",
@@ -786,11 +817,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时15分]"
         }
       ]
     }
