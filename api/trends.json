@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T03:13:06.887800+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-10-28T04:21:16.962758+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -18,30 +18,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "30亿美元！美团史上最大规模发债，为“外卖大战”补充弹药",
           "url": "https://wallstreetcn.com/articles/3757957",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
-          "title": "Blackline涨5%。 彭博援引知情人士报道称，德国思爱普Sap今年稍早接触软件公司Blackline。 Sap给出接近60美元的收购报价，但被拒绝，（双方）现阶段没有任何沟通。",
-          "url": "https://wallstreetcn.com/livenews/2994498",
+          "title": "Cadence Design三季度营收13.4亿美元，分析师预期13.2亿美元。 三季度调整后EPS为1.93美元，分析师预期1.79美元。",
+          "url": "https://wallstreetcn.com/livenews/2994521",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时21分"
+        },
+        {
+          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
+          "url": "https://www.cls.cn/detail/2182542",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时21分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.730%，投标倍数2.38。",
@@ -75,11 +88,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时21分]"
+        },
+        {
+          "title": "周一（10月27日），韩元兑美元最终涨0.44%，报1432.49韩元，大部分时间高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2994484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时21分]"
         },
         {
           "title": "据法新社：英国斯塔默表示已与土耳其达成价值 110 亿美元的欧洲战斗机协议。",
@@ -94,28 +121,16 @@
           "time_info": "[00时21分 ~ 01时17分]"
         },
         {
-          "title": "周一（10月27日），韩元兑美元最终涨0.44%，报1432.49韩元，大部分时间高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2994484",
+          "title": "Blackline涨5%。 彭博援引知情人士报道称，德国思爱普Sap今年稍早接触软件公司Blackline。 Sap给出接近60美元的收购报价，但被拒绝，（双方）现阶段没有任何沟通。",
+          "url": "https://wallstreetcn.com/livenews/2994498",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
-        },
-        {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 04时21分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -131,6 +146,18 @@
           "time_info": "[01时17分 ~ 03时13分]"
         },
         {
+          "title": "WTI 12月原油期货收跌0.19美元，跌幅0.31%，报61.31美元/桶。 布伦特12月原油期货收跌0.32美元，跌幅0.49%，报65.62美元/桶。 中东Abu Dhabi Murban原油期货跌1.16%，报68.11美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2994495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时21分]"
+        },
+        {
           "title": "墨西哥石油公司Pemex：2025年石油对冲带来1.576亿美元（收入），保护了38%的风险敞口。",
           "url": "https://wallstreetcn.com/livenews/2994462",
           "source": "华尔街见闻-快讯",
@@ -141,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时23分]"
+        },
+        {
+          "title": "阿根廷比索兑美元涨3.8%。",
+          "url": "https://wallstreetcn.com/livenews/2994490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时21分]"
         },
         {
           "title": "周一（10月27日），美联储隔夜逆回购协议（RRP）使用规模为106.42亿美元（13家交易对手），上个交易日（仅仅四家交易对手）报24.35亿美元。",
@@ -215,26 +254,26 @@
           "time_info": "[01时17分 ~ 02时23分]"
         },
         {
-          "title": "WTI 12月原油期货收跌0.19美元，跌幅0.31%，报61.31美元/桶。 布伦特12月原油期货收跌0.32美元，跌幅0.49%，报65.62美元/桶。 中东Abu Dhabi Murban原油期货跌1.16%，报68.11美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2994495",
+          "title": "尽管墨西哥政府提供410亿美元扶持资金，但石油公司Pemex仍报告亏损",
+          "url": "https://wallstreetcn.com/livenews/2994512",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时21分"
         },
         {
-          "title": "阿根廷比索兑美元涨3.8%。",
-          "url": "https://wallstreetcn.com/livenews/2994490",
+          "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
+          "url": "https://wallstreetcn.com/livenews/2994510",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时21分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的106.42亿美元。",
@@ -248,6 +287,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/2994508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
           "url": "https://wallstreetcn.com/livenews/2994438",
           "source": "华尔街见闻-快讯",
@@ -257,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1071元，较上周五夜盘收盘涨144点。成交量451.82亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
@@ -327,8 +388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -338,8 +399,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -368,11 +429,12 @@
           "url": "https://wallstreetcn.com/articles/3757964",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -382,11 +444,12 @@
             21,
             17,
             10,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -396,11 +459,12 @@
             27,
             25,
             16,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
@@ -408,11 +472,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时21分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -492,7 +557,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -506,6 +571,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/2994517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }
