@@ -1,28 +1,33 @@
 {
-  "generated_at": "2025-10-28T13:18:44.445809+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-10-28T14:25:16.771024+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 68,
+      "match_count": 72,
       "titles": [
         {
-          "title": "黄金跌破4000美元",
-          "url": "https://www.douyin.com/hot/2285336",
-          "source": "抖音",
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            7,
-            5,
-            4,
-            1,
-            20,
-            21
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时25分]"
+        },
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -42,6 +47,24 @@
           "time_info": "[01时17分 ~ 13时18分]"
         },
         {
+          "title": "黄金跌破4000美元",
+          "url": "https://www.douyin.com/hot/2285336",
+          "source": "抖音",
+          "ranks": [
+            12,
+            7,
+            5,
+            4,
+            1,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时25分]"
+        },
+        {
           "title": "30亿美元！美团史上最大规模发债，为“外卖大战”补充弹药",
           "url": "https://wallstreetcn.com/articles/3757957",
           "source": "华尔街见闻",
@@ -55,28 +78,6 @@
           "time_info": "[00时20分 ~ 13时18分]"
         },
         {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时18分]"
-        },
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时18分]"
-        },
-        {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
@@ -86,6 +87,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
+          "url": "https://www.cls.cn/detail/2182631",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "黄金失守4000美元大关",
@@ -102,15 +117,27 @@
           "time_info": "[09时16分 ~ 13时18分]"
         },
         {
-          "title": "美元兑日元日内累计走低近百点，目前报151.90。",
-          "url": "https://wallstreetcn.com/livenews/2994771",
+          "title": "诺华第三季度核心每股收益2.25美元，预估2.26美元。 第三季度销售净额139.1亿美元，预估138.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
+          "url": "https://www.cls.cn/detail/2182758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 14时25分]"
         },
         {
           "title": "现货黄金短线拉升，站上4010美元/盎司，日内涨0.73%。",
@@ -130,23 +157,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
-          "url": "https://www.cls.cn/detail/2182631",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.730%，投标倍数2.38。",
@@ -225,6 +238,18 @@
           "time_info": "[11时05分 ~ 12时21分]"
         },
         {
+          "title": "美元兑日元日内累计走低近百点，目前报151.90。",
+          "url": "https://wallstreetcn.com/livenews/2994771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时25分]"
+        },
+        {
           "title": "周一（10月27日），韩元兑美元最终涨0.44%，报1432.49韩元，大部分时间高位震荡。",
           "url": "https://wallstreetcn.com/livenews/2994484",
           "source": "华尔街见闻-快讯",
@@ -260,6 +285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时25分]"
         },
         {
           "title": "据法新社：英国斯塔默表示已与土耳其达成价值 110 亿美元的欧洲战斗机协议。",
@@ -308,18 +345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时15分]"
-        },
-        {
-          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
-          "url": "https://www.cls.cn/detail/2182758",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 13时18分]"
         },
         {
           "title": "美元指数27日下跌",
@@ -381,18 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时21分]"
-        },
-        {
-          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
-          "url": "https://wallstreetcn.com/articles/3758018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "周一（10月27日）纽约尾盘，现货黄金xiadie 3.05%，报3987.28美元/盎司，全天处于下跌状态、且持续走低，交投区间为4109.27-3971.52美元。",
@@ -599,6 +612,17 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
+          "title": "现货黄金延续跌势，失守3960美元/盎司，日内跌0.53%。",
+          "url": "https://flash.jin10.com/detail/20251028134115624800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "印度卢比兑美元跌至两周低点88.40，最新报88.36。",
           "url": "https://flash.jin10.com/detail/20251028114321120800",
           "source": "金十数据",
@@ -616,7 +640,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -632,13 +656,24 @@
           "time_info": "12时21分"
         },
         {
+          "title": "现货黄金跌破3960美元/盎司关口，日内跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/2994804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "现货黄金回落至3970美元/盎司下方，日内跌0.29%。",
           "url": "https://flash.jin10.com/detail/20251028122636837800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -652,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "据The Information：苹果供应商Skyworks与竞争对手科沃展开谈判，拟以80亿美元收购后者。",
+          "url": "https://flash.jin10.com/detail/20251028133713682800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美元走软及降息预期持续发力 黄金收复4000美元关口",
@@ -671,7 +717,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -748,7 +794,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -822,7 +868,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -918,6 +964,20 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时25分]"
+        },
+        {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
           "url": "https://flash.jin10.com/detail/20251028090239806800",
           "source": "金十数据",
@@ -986,17 +1046,28 @@
           "time_info": "[09时16分 ~ 13时18分]"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
           "ranks": [
-            22,
-            10,
-            8
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时18分]"
+          "time_info": "[11时05分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时25分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -1038,6 +1109,18 @@
           "time_info": "[06时17分 ~ 07时15分]"
         },
         {
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时25分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -1047,18 +1130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时05分]"
-        },
-        {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 13时18分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -1095,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时05分]"
+        },
+        {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时25分]"
         },
         {
           "title": "特朗普谈美军机南海坠毁原因",
@@ -1143,6 +1225,17 @@
           "time_info": "[01时17分 ~ 02时23分]"
         },
         {
+          "title": "高市早苗想推荐特朗普角逐和平奖",
+          "url": "https://www.toutiao.com/trending/7566126453180452390/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
           "title": "特朗普：不会在未来竞选副总统",
           "url": "https://www.toutiao.com/trending/7564808311294869550/",
           "source": "今日头条",
@@ -1154,16 +1247,15 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "特朗普东京下榻酒店军犬检查车辆",
-          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "title": "特朗普称米莱赢了让美国赚了很多钱",
+          "url": "https://www.toutiao.com/trending/7565088402136547337/",
           "source": "今日头条",
           "ranks": [
-            14,
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "特朗普回应美军机南海坠毁",
@@ -1216,7 +1308,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -1230,17 +1322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "日本首相高市早苗：希望与美国总统特朗普共同实现日美同盟的新黄金时代。",
@@ -1364,17 +1445,6 @@
           "time_info": "11时05分"
         },
         {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
           "source": "百度热搜",
@@ -1411,8 +1481,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
           "url": "https://flash.jin10.com/detail/20251028045401357800",
@@ -1433,7 +1514,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }
@@ -1479,7 +1560,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
