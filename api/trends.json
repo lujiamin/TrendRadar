@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:29:11.311106+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2025-10-28T22:17:10.546795+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 117,
+      "match_count": 122,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时16分 ~ 21时29分]"
+          "appearance_count": 19,
+          "time_info": "[09时16分 ~ 22时17分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时21分 ~ 22时17分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -108,6 +108,19 @@
           "time_info": "[11时05分 ~ 17时18分]"
         },
         {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 22时17分]"
+        },
+        {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
@@ -156,17 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
-        },
-        {
-          "title": "英镑兑美元下跌0.5%至1.3270，为两周以来最低。",
-          "url": "https://wallstreetcn.com/livenews/2995175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "美国总统特朗普：丰田将在美国建造价值高达100亿美元的工厂。",
@@ -219,7 +221,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -255,19 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
-        },
-        {
-          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
-          "url": "https://wallstreetcn.com/articles/3758026",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时29分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.730%，投标倍数2.38。",
@@ -356,6 +345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时25分]"
+        },
+        {
+          "title": "英镑兑美元下跌0.5%至1.3270，为两周以来最低。",
+          "url": "https://wallstreetcn.com/livenews/2995175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时17分]"
         },
         {
           "title": "周一（10月27日），韩元兑美元最终涨0.44%，报1432.49韩元，大部分时间高位震荡。",
@@ -776,6 +777,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "黑石与沙特AI公司Humain签署30亿美元数据中心协议",
+          "url": "https://wallstreetcn.com/livenews/2995198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "现货黄金延续跌势，失守3960美元/盎司，日内跌0.53%。",
           "url": "https://flash.jin10.com/detail/20251028134115624800",
           "source": "金十数据",
@@ -1106,6 +1118,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "苹果挺进4万亿美元市值俱乐部",
+          "url": "https://flash.jin10.com/detail/20251028215423003800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1071元，较上周五夜盘收盘涨144点。成交量451.82亿美元。",
           "url": "https://wallstreetcn.com/livenews/2994502",
           "source": "华尔街见闻-快讯",
@@ -1115,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "苹果市值突破4万亿美元 成史上第三家达到这一里程碑的上市公司",
+          "url": "https://wallstreetcn.com/livenews/2995185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "大和资本市场：将福特汽车(F.N)目标价从11美元上调至13美元。",
@@ -1238,6 +1272,17 @@
           "time_info": "20时33分"
         },
         {
+          "title": "瑞银集团：将亚马逊(AMZN.O)目标价从271美元上调至279美元。",
+          "url": "https://flash.jin10.com/detail/20251028214901842800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "现货白银日内跌幅达4.5%，报46.4美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2994425",
           "source": "华尔街见闻-快讯",
@@ -1258,6 +1303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "阿根廷比索兑美元开盘下跌1.4%，选举行情暂歇。",
+          "url": "https://wallstreetcn.com/livenews/2995177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "印度石油公司董事长：公司在俄罗斯油田的股份分红3亿美元，但资金滞留在俄罗斯的银行中。",
@@ -1373,7 +1429,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 98,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -1388,6 +1444,18 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时17分 ~ 22时17分]"
+        },
+        {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
           "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
           "source": "凤凰网",
@@ -1397,18 +1465,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 05时15分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 21时29分]"
         },
         {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
@@ -1589,7 +1645,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -1615,6 +1671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普：美国已收到日本的军事装备订单。",
@@ -1671,6 +1738,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时17分]"
         },
         {
           "title": "特朗普媒体科技集团(DJT.O)盘前上涨7.6%，公司计划进军预测市场。",
@@ -1784,17 +1863,6 @@
           "time_info": "[13时18分 ~ 15时18分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时29分]"
-        },
-        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -1804,17 +1872,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时05分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时29分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -1898,6 +1955,17 @@
           "time_info": "[19时15分 ~ 19时16分]"
         },
         {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
           "url": "https://flash.jin10.com/detail/20251028114540746800",
           "source": "金十数据",
@@ -1976,6 +2044,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "高市早苗被特朗普夸开心到跳跃旋转",
+          "url": "https://www.toutiao.com/trending/7565841738145792006/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "特朗普称米莱赢了让美国赚了很多钱",
@@ -2182,7 +2261,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -2292,9 +2371,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
+        },
+        {
+          "title": "美国高院即将就特朗普关税案进行庭审 投注网站料其败诉概率约六成",
+          "url": "https://wallstreetcn.com/livenews/2995178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国总统特朗普：日本新首相表现非常出色。",
@@ -2476,7 +2566,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
@@ -2485,7 +2575,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -2496,7 +2586,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -2507,7 +2597,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -2579,6 +2669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将持有OpenAI 27%的股权",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
