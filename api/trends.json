@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T05:18:04.606390+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-10-30T06:16:33.275071+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -26,63 +26,56 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "周三（10月29日）纽约尾盘，瑞典克朗兑美元跌0.46%，挪威克朗兑美元跌0.32%，丹麦克朗兑美元跌0.43%。 波兰兹罗提兑美元跌0.70%，匈牙利福林兑美元跌0.51%。",
           "url": "https://wallstreetcn.com/livenews/2996220",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
         },
         {
           "title": "周三（10月29日）纽约尾盘，商品货币对中，澳元兑美元跌0.15%，纽元兑美元跌0.31%，美元兑加元涨0.02%——北京时间20:00以来呈现出V形反转。",
           "url": "https://wallstreetcn.com/livenews/2996219",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "美元指数29日上涨",
           "url": "https://flash.jin10.com/detail/20251030043131164800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "周三（10月29日）纽约尾盘，欧元兑美元跌0.44%，报1.1601，北京时间02:35美联储主席鲍威尔谈论12月降息前景带来一波显著的跳水行情； 英镑兑美元跌0.57%，报1.3195，鲍威尔讲话期间迅速扩大跌幅； 美元兑瑞郎涨0.83%，报0.8001，全天持续走高，鲍威尔新闻发布会期间曾迅速拉升。",
-          "url": "https://wallstreetcn.com/livenews/2996218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "周三（10月29日）纽约尾盘，美元兑日元涨0.39%，报152.70日元，日内交投区间为151.54-153.06日元，北京时间08:00显著跳水、02:35美联储主席鲍威尔谈论12月降息前景带来一波短线拉升行情。 欧元兑日元跌0.04%，英镑兑日元跌0.19%。",
-          "url": "https://wallstreetcn.com/livenews/2996217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
         },
         {
           "title": "周三（10月29日）纽约尾盘，ICE美元指数涨0.66%，报99.320点，日内交投区间为98.624-99.334点，北京时间02:30美联储主席鲍威尔谈及12月降息前景后瞬间拉升，日内稍早（含发布FOMC决议声明）持续交投于99点下方。 彭博美元指数涨0.39%，报1214.76点，日内交投区间为1208.75-1215.52点。",
@@ -97,6 +90,18 @@
           "time_info": "[04时28分 ~ 05时18分]"
         },
         {
+          "title": "周三（10月29日）纽约尾盘，欧元兑美元跌0.44%，报1.1601，北京时间02:35美联储主席鲍威尔谈论12月降息前景带来一波显著的跳水行情； 英镑兑美元跌0.57%，报1.3195，鲍威尔讲话期间迅速扩大跌幅； 美元兑瑞郎涨0.83%，报0.8001，全天持续走高，鲍威尔新闻发布会期间曾迅速拉升。",
+          "url": "https://wallstreetcn.com/livenews/2996218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
           "title": "英伟达市值冲击5万亿美元 美联储决议重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2185261",
           "source": "财联社热门",
@@ -104,19 +109,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
-          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
-          "url": "https://wallstreetcn.com/articles/3758166",
-          "source": "华尔街见闻",
+          "title": "周三（10月29日）纽约尾盘，美元兑日元涨0.39%，报152.70日元，日内交投区间为151.54-153.06日元，北京时间08:00显著跳水、02:35美联储主席鲍威尔谈论12月降息前景带来一波短线拉升行情。 欧元兑日元跌0.04%，英镑兑日元跌0.19%。",
+          "url": "https://wallstreetcn.com/livenews/2996217",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -126,8 +132,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
@@ -135,11 +141,25 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时16分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
+          "url": "https://flash.jin10.com/detail/20251030041438967800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "周三（10月29日）纽约尾盘，彭博谷物分类指数涨0.28%，报30.1836点。 CBOT玉米期货涨0.58%，CBOT小麦期货涨0.85%。 CBOT大豆期货跌0.18%，报10.9325美元/蒲式耳，豆粕期货涨0.72%，豆油期货跌0.30%。",
@@ -154,16 +174,40 @@
           "time_info": "[04时28分 ~ 05时18分]"
         },
         {
-          "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
-          "url": "https://flash.jin10.com/detail/20251030041438967800",
-          "source": "金十数据",
+          "title": "COMEX铜期货涨0.68%，报5.2060美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/2996215",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            14
+            7,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/2996214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2996212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
         },
         {
           "title": "Meta Platforms(META.O)第三季度广告收入为500.82亿美元，市场预估为485.99亿美元。",
@@ -214,37 +258,37 @@
           "time_info": "[04时28分 ~ 05时18分]"
         },
         {
-          "title": "COMEX铜期货涨0.68%，报5.2060美元/磅。",
-          "url": "https://wallstreetcn.com/livenews/2996215",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：韩国已同意向美国支付3500亿美元 已批准韩国建造核动力潜艇",
+          "url": "https://flash.jin10.com/detail/20251030052910541800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时16分"
         },
         {
-          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/2996214",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：韩国已同意向美国支付3500亿美元，以降低美国对其征收的关税。他们已同意大量购买我们的油气，而且韩国富裕企业和商人的对美投资将超过6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251030052058476800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时16分"
         },
         {
-          "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2996212",
+          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
+          "url": "https://wallstreetcn.com/livenews/2996231",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时16分"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
@@ -253,9 +297,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报7.0974元，较周二纽约尾盘跌14点，日内整体交投于7.0886-7.1010元区间。",
+          "url": "https://wallstreetcn.com/livenews/2996225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "微软第一财季营收776.7亿美元，分析师预期755.5亿美元。 第一财季云营收491亿美元，分析师预期486亿美元。 第一财季智能云收入309亿美元，分析师预期301.8亿美元。 第一财季Azure和其他云营收（剔除汇率因素）增长39%，分析师预期增长37.1%。 第一财季资本开支（含租赁）为349亿美元，分析师预期300.6亿美元。 公司将在分析师电话会议上提供业绩指引。",
@@ -264,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -275,9 +330,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/2996221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "微软(MSFT.O)第一财季智能云收入309亿美元。",
@@ -327,7 +393,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -337,8 +403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -348,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -359,19 +425,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://wallstreetcn.com/articles/3758164",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "特朗普：未能协调好与金正恩会晤时间",
@@ -381,8 +448,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
@@ -392,8 +459,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
@@ -403,8 +470,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
+          "url": "https://flash.jin10.com/detail/20251030055035230800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
@@ -414,8 +492,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -425,8 +503,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -436,30 +514,43 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时16分]"
         },
         {
           "title": "特朗普称麦克阿瑟独自起草日本宪法",
           "url": "https://www.toutiao.com/trending/7565901563726692390/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 05时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 06时16分]"
         },
         {
           "title": "周三（10月29日），“特朗普关税输家”指数跌1.73%，报108.21点。",
           "url": "https://wallstreetcn.com/livenews/2996208",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "美国总统特朗普：已批准他们建造一艘核动力潜艇。",
+          "url": "https://flash.jin10.com/detail/20251030052307168800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时16分"
         },
         {
           "title": "鲍威尔：（特朗普政府）在任命下一位美联储主席方面走了一半的路。 这个程序将及时完成。",
@@ -471,6 +562,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普政府接触三个资金渠道，希望能实现在（政府关门期间于）周五对军队发工资。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2996224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软因投资OpenAI而面临31亿美元冲击。",
+          "url": "https://wallstreetcn.com/livenews/2996237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
+          "url": "https://wallstreetcn.com/livenews/2996211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时16分]"
         }
       ]
     },
@@ -496,24 +627,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
-          "url": "https://wallstreetcn.com/livenews/2996211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
