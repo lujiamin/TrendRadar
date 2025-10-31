@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:19:29.227407+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2025-10-31T23:17:33.520692+08:00",
+  "total_titles_processed": 2088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 136,
+      "match_count": 142,
       "titles": [
         {
           "title": "中美元首会晤结束",
@@ -112,6 +112,21 @@
           "time_info": "[00时20分 ~ 14时25分]"
         },
         {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 23时17分]"
+        },
+        {
           "title": "中美元首会晤对台湾意味着什么",
           "url": "https://www.toutiao.com/trending/7567173220520971814/",
           "source": "今日头条",
@@ -152,21 +167,6 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 22时19分]"
-        },
-        {
           "title": "中美元首会晤对台湾意味着什么",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%B9%E5%8F%B0%E6%B9%BE%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
@@ -191,6 +191,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时14分 ~ 07时15分]"
+        },
+        {
+          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 23时17分]"
         },
         {
           "title": "如何看待黄金七日暴跌500美元",
@@ -234,18 +246,6 @@
           "time_info": "19时15分"
         },
         {
-          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 22时19分]"
-        },
-        {
           "title": "Meta巨额债券发行获1250亿美元破纪录认购",
           "url": "https://flash.jin10.com/detail/20251031004224435800",
           "source": "金十数据",
@@ -274,7 +274,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -580,6 +580,18 @@
           "time_info": "[01时15分 ~ 03时15分]"
         },
         {
+          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
+          "url": "https://www.cls.cn/detail/2187764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时17分]"
+        },
+        {
           "title": "Meta发行300亿美元高评级公司债，售债规模创2025年美国投资级债券市场最大。",
           "url": "https://wallstreetcn.com/livenews/2997072",
           "source": "华尔街见闻-快讯",
@@ -626,6 +638,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时18分 ~ 18时17分]"
+        },
+        {
+          "title": "欧元兑美元下跌0.3%，至1.1532，创日内低点，为8月5日以来最低。 英镑兑美元自4月以来首次跌破1.31。",
+          "url": "https://wallstreetcn.com/livenews/2997775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时17分]"
         },
         {
           "title": "亚马逊(AMZN.O)预计第四季度营收为2060亿至2130亿美元。",
@@ -782,17 +806,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
-        },
-        {
-          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
-          "url": "https://www.cls.cn/detail/2187764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "美元指数30日上涨",
@@ -983,15 +996,26 @@
           "time_info": "19时15分"
         },
         {
-          "title": "欧元兑美元下跌0.3%，至1.1532，创日内低点，为8月5日以来最低。 英镑兑美元自4月以来首次跌破1.31。",
-          "url": "https://wallstreetcn.com/livenews/2997775",
+          "title": "比特币向上触及111000美元/枚，日内涨2.47%。",
+          "url": "https://flash.jin10.com/detail/20251031225655370800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
+          "url": "https://wallstreetcn.com/livenews/2997790",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时17分"
         },
         {
           "title": "埃克森美孚石油(XOM.N)：预计将实现超过180亿美元的累计成本节约。",
@@ -1187,7 +1211,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1264,9 +1288,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "土耳其财政部：预计2026年将从全球市场借款130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251031223241820800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1098元，较周三夜盘收盘跌105点。成交量529.79亿美元。",
@@ -1289,6 +1324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "以太坊日内跌超5.00%，现报3707美元/枚。",
@@ -1440,7 +1486,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1588,6 +1634,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "摩根士丹利：金价或在2026年年中升至4500美元",
+          "url": "https://flash.jin10.com/detail/20251031222052069800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "汇丰银行：将微软(MSFT.O)目标股价从648美元上调至667美元。",
           "url": "https://flash.jin10.com/detail/20251031141502372800",
           "source": "金十数据",
@@ -1608,12 +1665,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "纽约联储：交易台计划于11月5日进行最高金额为2.5亿美元的隔夜回购小额操作。",
+          "url": "https://flash.jin10.com/detail/20251031221831941800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -1645,11 +1713,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时08分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时08分 ~ 23时17分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -1675,8 +1744,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时08分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时08分 ~ 23时17分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -1703,8 +1772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时11分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 23时17分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -1821,6 +1890,18 @@
           "time_info": "[00时20分 ~ 04时18分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普：相信我们将建立长期良好的关系",
           "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
           "source": "澎湃新闻",
@@ -1872,18 +1953,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 09时11分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时19分]"
         },
         {
           "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
@@ -2214,6 +2283,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
+          "url": "https://wallstreetcn.com/livenews/2997792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国联邦公报文件显示，美国总统特朗普将2026财年的难民接纳上限设定为7500人，创历史新低。",
           "url": "https://flash.jin10.com/detail/20251031002206303800",
           "source": "金十数据",
@@ -2308,7 +2388,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
