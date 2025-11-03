@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T07:14:41.736063+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2025-11-03T09:15:06.075621+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3758488",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时15分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -47,11 +48,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时15分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -136,6 +138,28 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
+          "url": "https://wallstreetcn.com/livenews/2998242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
           "url": "https://flash.jin10.com/detail/20251103045723386800",
           "source": "金十数据",
@@ -173,12 +197,111 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时13分 ~ 07时14分]"
+        },
+        {
+          "title": "如何看特朗普说台海政策是秘密",
+          "url": "https://www.toutiao.com/trending/7568264436717194788/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "奥巴马怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7567655390914199593/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普称有可能在尼日利亚部署地面部队或发动空袭",
+          "url": "https://wallstreetcn.com/livenews/2998237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "市场消息：特朗普称，他对币安赵长鹏获赦免一事并不了解。",
+          "url": "https://flash.jin10.com/detail/20251103085356566800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普称或军事打击尼日利亚",
+          "url": "https://wallstreetcn.com/livenews/2998231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
+          "url": "https://wallstreetcn.com/livenews/2998222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
+          "url": "https://wallstreetcn.com/livenews/2998220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
+          "url": "https://flash.jin10.com/detail/20251103082638885800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普称或军事打击尼日利亚",
+          "url": "https://flash.jin10.com/detail/20251103082523215800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -188,8 +311,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 09时15分]"
         },
         {
           "title": "4200万美国民众就快吃不上饭，白宫却豪掷3亿美元建舞厅",
@@ -219,6 +342,19 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "世界周刊谈中美元首会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 09时15分]"
+        },
+        {
           "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
           "url": "https://wallstreetcn.com/livenews/2998143",
           "source": "华尔街见闻-快讯",
@@ -231,16 +367,81 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
-          "title": "世界周刊谈中美元首会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
+          "title": "布伦特原油向上触及65美元/桶，日内涨0.81%。",
+          "url": "https://flash.jin10.com/detail/20251103090333852800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            28
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "马斯克万亿美元薪酬方案下周表决",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E4%25B8%2587%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%2596%25AA%25E9%2585%25AC%25E6%2596%25B9%25E6%25A1%2588%25E4%25B8%258B%25E5%2591%25A8%25E8%25A1%25A8%25E5%2586%25B3%2523%26dgr%3D0%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D6%26band_rank%3D6%26pos%3D5%26display_time%3D1762130979%26pre_seqid%3D17621309799630339558162&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "详解美国数据中心狂潮：45GW，2.5万亿美元投资，谁在建设，谁在掏钱？",
+          "url": "https://wallstreetcn.com/articles/3758500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "比特币跌破110000美元/枚，日内跌0.50%。",
+          "url": "https://flash.jin10.com/detail/20251103085315205800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "新世界发展公告称，将发行至多19亿美元的新证券和票据。",
+          "url": "https://wallstreetcn.com/livenews/2998230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.00%，现报3963.07美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251103081756444800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "现货黄金回落至3970美元/盎司下方，日内跌0.84%。",
+          "url": "https://flash.jin10.com/detail/20251103081542401800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
