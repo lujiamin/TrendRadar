@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T22:17:05.849838+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2025-11-03T23:17:48.653939+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -91,7 +91,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -108,15 +108,15 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
-          "title": "美元/瑞郎日内涨幅达0.5%，报0.8084。",
-          "url": "https://wallstreetcn.com/livenews/2998621",
-          "source": "华尔街见闻-快讯",
+          "title": "花旗集团：预计2030年全球AI收入规模将达9750亿美元。",
+          "url": "https://flash.jin10.com/detail/20251103231059315800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时17分"
         },
         {
           "title": "布伦特原油向上触及65美元/桶，日内涨0.81%。",
@@ -187,6 +187,18 @@
           "time_info": "[20时33分 ~ 22时17分]"
         },
         {
+          "title": "美元/瑞郎日内涨幅达0.5%，报0.8084。",
+          "url": "https://wallstreetcn.com/livenews/2998621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
           "title": "谷歌母公司Alphabet启动分八部分美元债券发行。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2998596",
           "source": "华尔街见闻-快讯",
@@ -208,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "壳牌公司启动六个系列的美元票据发售。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2998613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "以太坊跌破3800美元，比特币跌破109000美元",
@@ -362,17 +386,6 @@
           "time_info": "19时15分"
         },
         {
-          "title": "壳牌公司启动六个系列的美元票据发售。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2998613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "比特币跌破110000美元/枚，日内跌0.50%。",
           "url": "https://flash.jin10.com/detail/20251103085315205800",
           "source": "金十数据",
@@ -412,7 +425,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -450,6 +463,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
+          "url": "https://wallstreetcn.com/livenews/2998642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国天然气期货日内涨超3.00%，现报4.248美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251103142453157800",
           "source": "金十数据",
@@ -470,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "Cipher Mining上涨30%，创1月份以来最大盘中涨幅，该公司与亚马逊签署为期十五年、价值55亿美元的数据中心租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/2998640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "5万亿美元！英伟达市值究竟有多惊人：几组对比告诉你……",
@@ -538,6 +573,17 @@
           "time_info": "21时28分"
         },
         {
+          "title": "美国ISM制造业指数不及预期，美元指数DXY小幅走低，现报99.86。",
+          "url": "https://flash.jin10.com/detail/20251103230328996800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "上周多名美联储官员公开表态反对美联储12月降息，美元指数一路走高，在三个月高点附近徘徊；欧佩克+八国决定下月继续增产，明年一季度暂停增产，油价今日亚盘跳空高开，当前美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251103103249533800",
           "source": "金十数据",
@@ -599,9 +645,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "现货黄金站上4030美元/盎司，日内涨0.67%。",
+          "url": "https://flash.jin10.com/detail/20251103230150358800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "现货黄金日内跌幅达1.00%，现报3963.07美元/盎司。",
@@ -665,7 +722,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -676,7 +733,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
@@ -696,6 +753,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -721,17 +789,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 22时17分]"
-        },
-        {
           "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
           "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
           "source": "凤凰网",
@@ -739,8 +796,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时17分]"
         },
         {
           "title": "特朗普：道歉没用，不谈！",
@@ -774,11 +831,12 @@
             1,
             5,
             4,
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 23时17分]"
         },
         {
           "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
@@ -864,11 +922,12 @@
             11,
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时17分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -950,17 +1009,6 @@
           "time_info": "09时15分"
         },
         {
-          "title": "多家能源巨头CEO警告：特朗普对俄制裁将冲击石油供应",
-          "url": "https://wallstreetcn.com/livenews/2998615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
           "url": "https://flash.jin10.com/detail/20251103045723386800",
           "source": "金十数据",
@@ -1025,6 +1073,42 @@
           "time_info": "[19时15分 ~ 20时33分]"
         },
         {
+          "title": "多家能源巨头CEO警告：特朗普对俄制裁将冲击石油供应",
+          "url": "https://wallstreetcn.com/livenews/2998615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时17分]"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D17%26pos%3D18%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26lcate%3D5001%26display_time%3D1762176267%26pre_seqid%3D17621762676320254262245&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时17分]"
+        },
+        {
           "title": "如何看特朗普说台海政策是秘密",
           "url": "https://www.toutiao.com/trending/7568264436717194788/",
           "source": "今日头条",
@@ -1037,28 +1121,16 @@
           "time_info": "[09时14分 ~ 11时16分]"
         },
         {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            12
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时17分]"
-        },
-        {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D17%26pos%3D18%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26lcate%3D5001%26display_time%3D1762176267%26pre_seqid%3D17621762676320254262245&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时17分]"
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -1118,17 +1190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时28分 ~ 22时17分]"
-        },
-        {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "特朗普称美将干预内塔尼亚胡受审",
@@ -1319,7 +1380,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1328,11 +1389,12 @@
           "url": "https://wallstreetcn.com/livenews/2998620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -1377,7 +1439,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1388,7 +1450,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1399,7 +1461,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1410,7 +1472,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1421,7 +1483,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
