@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:15:06.075621+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-11-03T11:16:48.516693+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -52,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 11时16分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时16分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -138,26 +149,26 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
           "url": "https://wallstreetcn.com/livenews/2998242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -203,22 +214,24 @@
           "url": "https://www.toutiao.com/trending/7568264436717194788/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时16分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
           "url": "https://www.toutiao.com/trending/7567655390914199593/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时16分]"
         },
         {
           "title": "特朗普称有可能在尼日利亚部署地面部队或发动空袭",
@@ -227,7 +240,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -238,7 +251,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -249,9 +262,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
@@ -260,7 +284,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -271,7 +295,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -282,7 +306,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -293,15 +317,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "学者：特朗普抛G2概念是霸权算计",
+          "url": "https://www.toutiao.com/trending/7568286962377821723/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -373,9 +408,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "现货黄金突破4010美元/盎司，日内涨0.17%。",
+          "url": "https://flash.jin10.com/detail/20251103110250915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "详解美国数据中心狂潮：45GW，2.5万亿美元投资，谁在建设，谁在掏钱？",
+          "url": "https://wallstreetcn.com/articles/3758500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时16分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决",
@@ -389,24 +447,13 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
-          "title": "详解美国数据中心狂潮：45GW，2.5万亿美元投资，谁在建设，谁在掏钱？",
-          "url": "https://wallstreetcn.com/articles/3758500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "比特币跌破110000美元/枚，日内跌0.50%。",
           "url": "https://flash.jin10.com/detail/20251103085315205800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -417,9 +464,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "以太坊跌破3800美元，比特币跌破109000美元",
+          "url": "https://wallstreetcn.com/livenews/2998302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "上周多名美联储官员公开表态反对美联储12月降息，美元指数一路走高，在三个月高点附近徘徊；欧佩克+八国决定下月继续增产，明年一季度暂停增产，油价今日亚盘跳空高开，当前美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251103103249533800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "比特币向下触及109000美元/枚，日内跌1.42%。以太坊失守3800美元/枚，日内跌幅2.85%。",
+          "url": "https://flash.jin10.com/detail/20251103103219815800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "现货黄金日内跌幅达1.00%，现报3963.07美元/盎司。",
@@ -428,7 +508,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -439,7 +519,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -460,6 +540,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "可控核聚变",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股可控核聚变概念反复活跃，浙富控股、海陆重工竞价涨停，常辅股份涨超10%，兰石重装、天力复合、上海电气、久立特材、国机通用等纷纷高开，消息面上，中国科学院金属所成功制备“人造太阳”关键核心材料。",
+          "url": "https://wallstreetcn.com/livenews/2998260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     }
