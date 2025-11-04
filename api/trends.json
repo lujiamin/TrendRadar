@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:31:56.944455+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-11-04T22:17:37.818153+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 106,
+      "match_count": 111,
       "titles": [
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -95,6 +95,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "医药公司Metsera Inc.获得诺和诺德递交的修订版收购方案。 获得诺和诺德高达每股86.20美元的估值（11月3日收报60.73美元）。 认为诺和诺德的最新收购提议“更优”。 Metsera与辉瑞制药可能会在未来两天谈判潜在的（收购方案）调整。",
+          "url": "https://wallstreetcn.com/livenews/2999260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "现货白银日内跌幅达1%，现报47.58美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251104135848928800",
           "source": "金十数据",
@@ -134,9 +145,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "以财政部长：两年战事致以色列经济损失770亿美元",
+          "url": "https://flash.jin10.com/detail/20251104215032798800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -211,6 +244,19 @@
           "time_info": "[16时22分 ~ 18时20分]"
         },
         {
+          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/2999214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
+        },
+        {
           "title": "美国财政部估计第四季度借款5690亿美元，较7月预估减少210亿美元",
           "url": "https://flash.jin10.com/detail/20251104040820974800",
           "source": "金十数据",
@@ -235,6 +281,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时19分]"
+        },
+        {
+          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2999213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
         },
         {
           "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
@@ -274,6 +333,19 @@
           "time_info": "[01时15分 ~ 03时14分]"
         },
         {
+          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/2999210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
+        },
+        {
           "title": "沙特阿美第三季度总营收4181.6亿里亚尔，预估3757亿里亚尔。 第三季度每股收益0.4里亚尔，预估0.41里亚尔。 第三季度调整后净利润1049.2亿里亚尔，预估969.1亿里亚尔。 第三季度净利润972.6亿里亚尔，预估913.8亿里亚尔。 第三季度营业利润1935.2亿里亚尔，预估1802.2亿里亚尔。 第三季度自由现金流236亿美元。",
           "url": "https://wallstreetcn.com/livenews/2998999",
           "source": "华尔街见闻-快讯",
@@ -284,18 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时25分]"
-        },
-        {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时31分]"
         },
         {
           "title": "加密市场一度闪崩，24小时内超12亿美元头寸被平仓",
@@ -320,18 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 16时22分]"
-        },
-        {
-          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2999213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时31分]"
         },
         {
           "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
@@ -360,18 +408,6 @@
           "time_info": "[18时20分 ~ 19时15分]"
         },
         {
-          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/2999210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时31分]"
-        },
-        {
           "title": "分析师预测：英伟达市值有望达8.5万亿美元",
           "url": "https://wallstreetcn.com/livenews/2998732",
           "source": "华尔街见闻-快讯",
@@ -396,6 +432,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时16分]"
+        },
+        {
+          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/2999207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
+        },
+        {
+          "title": "欧元兑美元自8月1日以来首次跌破1.15。",
+          "url": "https://wallstreetcn.com/livenews/2999204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
         },
         {
           "title": "全球风险资产下挫：纳指100期货跌超1%，欧股低开超1%、加密货币继续崩盘，金银油齐跌，美元徘徊在100关口",
@@ -518,18 +580,6 @@
           "time_info": "[17时20分 ~ 18时20分]"
         },
         {
-          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/2999207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时31分]"
-        },
-        {
           "title": "百胜中国(YUMC.N)：按计划推进2025年度15亿美元股东回报，2025-2026年度股东回报计划为30亿美元。",
           "url": "https://flash.jin10.com/detail/20251104180335046800",
           "source": "金十数据",
@@ -576,18 +626,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 14时25分]"
-        },
-        {
-          "title": "欧元兑美元自8月1日以来首次跌破1.15。",
-          "url": "https://wallstreetcn.com/livenews/2999204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时31分]"
         },
         {
           "title": "2025年迄今最大一笔页岩油气交易：SM Energy Co.同意，按大约28亿美元股权估值收购美国二叠纪盆地的竞争对手Civitas Resources Inc.。",
@@ -746,6 +784,18 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
+          "title": "第138届广交会今天闭幕 现场意向出口成交256.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/2999216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.1233，较上一交易日官方收盘价跌8点，较上日夜盘收盘跌28点。",
           "url": "https://wallstreetcn.com/livenews/2999100",
           "source": "华尔街见闻-快讯",
@@ -896,7 +946,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -929,7 +979,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -956,6 +1006,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "智利国家铜业公司预计今年资本支出为43亿至50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104213613405800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "瑞银：将伯克希尔哈撒韦(BRK.B.N)目标价从593美元上调至595美元。",
           "url": "https://flash.jin10.com/detail/20251103231919193800",
           "source": "金十数据",
@@ -976,17 +1037,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
-        },
-        {
-          "title": "第138届广交会今天闭幕 现场意向出口成交256.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/2999216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "瑞银：将伯克希尔哈撒韦(BRK.A.N)目标价从890002美元上调至892758美元。",
@@ -1064,6 +1114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "英国石油公司首席执行官：将维持每年6亿美元的勘探预算。",
+          "url": "https://flash.jin10.com/detail/20251104213253237800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "报道：博裕资本拟以40亿美元收购星巴克中国至多60%股权",
@@ -1245,7 +1306,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -1319,8 +1380,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -1429,6 +1490,18 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
           "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
           "source": "凤凰网",
@@ -1449,17 +1522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
-          "url": "https://wallstreetcn.com/livenews/2999237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
@@ -1484,15 +1546,16 @@
           "time_info": "01时15分"
         },
         {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -1557,6 +1620,19 @@
           "time_info": "[18时20分 ~ 21时31分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时17分]"
+        },
+        {
           "title": "美国多方“围剿”特朗普只为废除关税",
           "url": "https://www.toutiao.com/trending/7568663171070692900/",
           "source": "今日头条",
@@ -1582,18 +1658,6 @@
           "time_info": "[17时20分 ~ 19时15分]"
         },
         {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时31分]"
-        },
-        {
           "title": "周泳宏：特朗普想与中国和睦相处",
           "url": "https://www.toutiao.com/trending/7568747917062704678/",
           "source": "今日头条",
@@ -1603,6 +1667,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -1789,6 +1865,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国总统特朗普支持乌克兰加入欧盟的申请。",
+          "url": "https://flash.jin10.com/detail/20251104213316041800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "特朗普威胁对尼日利亚动武，外交部回应",
           "url": "https://wallstreetcn.com/livenews/2999066",
           "source": "华尔街见闻-快讯",
@@ -1798,17 +1885,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "特朗普再向中国示好背后原因是什么",
-          "url": "https://www.toutiao.com/trending/7568843465572748827/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "特朗普改口不去全球关税合法性听证会",
@@ -1866,6 +1942,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "特朗普再次呼吁终止参议院冗长议事规则",
+          "url": "https://flash.jin10.com/detail/20251104212729939800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
           "url": "https://flash.jin10.com/detail/20251104031804973800",
           "source": "金十数据",
@@ -1875,6 +1962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美国总统特朗普：共和党将在没有冗长辩论的情况下使所有议案获得批准。",
+          "url": "https://flash.jin10.com/detail/20251104212317020800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
@@ -1893,8 +1991,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时16分 ~ 21时31分]"
+          "appearance_count": 20,
+          "time_info": "[06时16分 ~ 22时17分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
