@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T22:17:37.818153+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2025-11-04T23:19:18.119262+08:00",
+  "total_titles_processed": 2029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 111,
+      "match_count": 125,
       "titles": [
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -73,6 +73,18 @@
           "time_info": "[19时14分 ~ 21时31分]"
         },
         {
+          "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时19分]"
+        },
+        {
           "title": "现货黄金失守3980美元/盎司，日内跌幅0.51%。",
           "url": "https://flash.jin10.com/detail/20251104084329323800",
           "source": "金十数据",
@@ -95,15 +107,15 @@
           "time_info": "17时20分"
         },
         {
-          "title": "医药公司Metsera Inc.获得诺和诺德递交的修订版收购方案。 获得诺和诺德高达每股86.20美元的估值（11月3日收报60.73美元）。 认为诺和诺德的最新收购提议“更优”。 Metsera与辉瑞制药可能会在未来两天谈判潜在的（收购方案）调整。",
-          "url": "https://wallstreetcn.com/livenews/2999260",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金短线反弹近20美元，现报3946.46美元/盎司。现货白银短线反弹近0.3美元，现报47.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251104225442162800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时19分"
         },
         {
           "title": "现货白银日内跌幅达1%，现报47.58美元/盎司。",
@@ -156,20 +168,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
         {
-          "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
+          "title": "市场消息：尼日利亚计划发行23亿美元的欧洲债券。",
+          "url": "https://flash.jin10.com/detail/20251104224938933800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时19分"
+        },
+        {
+          "title": "Prosus于10月27-31日按均价60.7906欧元回购股票101.7081万股，总计0.618亿欧元（折合0.717亿美元）。 Naspers同期按均价1260.6104南非兰特回购37.7261万股，总计4.756亿兰特（折合0.276亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/2999288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -203,6 +226,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
+          "url": "https://www.zhihu.com/question/1968945735178388310",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            7,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 23时19分]"
         },
         {
           "title": "周一（11月3日），美联储隔夜逆回购协议（RRP）使用规模为237.92亿美元，上个交易日报518.02亿美元。",
@@ -255,6 +293,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时35分 ~ 22时17分]"
+        },
+        {
+          "title": "医药公司Metsera Inc.获得诺和诺德递交的修订版收购方案。 获得诺和诺德高达每股86.20美元的估值（11月3日收报60.73美元）。 认为诺和诺德的最新收购提议“更优”。 Metsera与辉瑞制药可能会在未来两天谈判潜在的（收购方案）调整。",
+          "url": "https://wallstreetcn.com/livenews/2999260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "美国财政部估计第四季度借款5690亿美元，较7月预估减少210亿美元",
@@ -380,20 +430,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 16时22分]"
-        },
-        {
-          "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
-          "url": "https://www.zhihu.com/question/1968945735178388310",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "英镑兑美元跌幅扩大，下跌0.5%至1.3070。",
@@ -830,6 +866,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "伦铝日内下跌2.00%，现报2847.68美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251104224238132800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "比特币日内大跌5001美元，现报105540美元/枚，跌幅4.52%。",
           "url": "https://flash.jin10.com/detail/20251103233114926800",
           "source": "金十数据",
@@ -863,6 +910,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "现货黄金失守3930美元/盎司，日内跌幅1.76%。",
+          "url": "https://flash.jin10.com/detail/20251104224116816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
           "url": "https://wallstreetcn.com/livenews/2998790",
           "source": "华尔街见闻-快讯",
@@ -894,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "据知情人士透露，尼日利亚计划发行23亿美元欧元债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "比特币回落至106000美元/枚下方，日内跌4.18%。",
@@ -951,6 +1020,17 @@
           "time_info": "21时31分"
         },
         {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "现货钯金日内跌幅达2.00%，现报1411.99美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251104133357284800",
           "source": "金十数据",
@@ -973,6 +1053,28 @@
           "time_info": "00时19分"
         },
         {
+          "title": "比特币失守103000美元/枚，日内跌幅3.37%。",
+          "url": "https://flash.jin10.com/detail/20251104223825527800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "阿波罗Apollo Global Management Inc.（APO）上涨8.3%，创5月12日以来最大盘中涨幅。 该公司三季度盈利超出了华尔街的预期，其资产规模正逼近1万亿美元大关。 费用相关收益（Fee-related earnings） 同比跃升23%，达到6.52亿美元，分析师平均预期6.265亿美元。 调整后净收入（Adjusted net income） 攀升20%，达到近13.6亿美元，或每股2.17美元，高于华尔街预期的1.90美元。",
+          "url": "https://wallstreetcn.com/livenews/2999275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "现货钯金回落至1400美元/盎司下方，日内跌2.99%。",
           "url": "https://flash.jin10.com/detail/20251104210129004800",
           "source": "金十数据",
@@ -982,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "据The Information：Anthropic PBC于9月从多家投资者融资130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104223713783800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美元兑日元跌0.5%，报153.44。",
@@ -1012,7 +1125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1039,6 +1152,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "现货白银失守47美元/盎司，日内跌幅2.22%。",
+          "url": "https://flash.jin10.com/detail/20251104223548013800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "瑞银：将伯克希尔哈撒韦(BRK.A.N)目标价从890002美元上调至892758美元。",
           "url": "https://flash.jin10.com/detail/20251103231724975800",
           "source": "金十数据",
@@ -1048,6 +1172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "Anthropic PBC在9月份从多家投资者融资130亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2999268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "博裕资本（Boyu）将按40亿美元估值收购星巴克中国业务的部分股权。",
@@ -1122,7 +1257,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1180,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "现货黄金失守3950美元/盎司，日内跌幅1.28%。",
+          "url": "https://flash.jin10.com/detail/20251104223229956800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
@@ -1246,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "现货黄金向下触及3960美元/盎司，日内跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251104222932185800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "澳元兑美元AUD/USD日内跌幅达0.50%，现报0.6505。",
@@ -1355,6 +1512,18 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时19分]"
+        },
+        {
           "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882601",
           "source": "澎湃新闻",
@@ -1370,18 +1539,6 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[00时19分 ~ 21时31分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -1490,18 +1647,6 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时17分]"
-        },
-        {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
           "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
           "source": "凤凰网",
@@ -1524,6 +1669,19 @@
           "time_info": "01时15分"
         },
         {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时19分]"
+        },
+        {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
           "url": "https://flash.jin10.com/detail/20251104062405788800",
           "source": "金十数据",
@@ -1544,6 +1702,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时34分 ~ 23时19分]"
         },
         {
           "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
@@ -1618,19 +1789,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时20分 ~ 21时31分]"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 22时17分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -1871,7 +2029,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1948,7 +2106,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1970,60 +2128,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         }
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时16分 ~ 22时17分]"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时18分]"
-        },
-        {
-          "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
-          "url": "https://flash.jin10.com/detail/20251104083844613800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里巴巴",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
@@ -2059,6 +2172,90 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
+          "title": "明星科技股普跌，美光科技(MU.O)跌6%，英特尔(INTC.O)、AMD(AMD.O)跌超4%，甲骨文(ORCL.N)、阿里巴巴(BABA.N)跌约3%，英伟达(NVDA.O)跌2.4%。",
+          "url": "https://flash.jin10.com/detail/20251104223357357800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[06时16分 ~ 23时19分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时18分]"
+        },
+        {
+          "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
+          "url": "https://flash.jin10.com/detail/20251104083844613800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026款比亚迪夏上市",
+          "url": "https://www.toutiao.com/trending/7568011860265205769/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "高盛：上调比亚迪A股和H股目标价 海外市场将成关键增长驱动",
+          "url": "https://wallstreetcn.com/livenews/2998845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
@@ -2077,23 +2274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时35分 ~ 21时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛：上调比亚迪A股和H股目标价 海外市场将成关键增长驱动",
-          "url": "https://wallstreetcn.com/livenews/2998845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
         }
       ]
     }
