@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T01:16:18.391702+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-06T02:23:24.139348+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -30,6 +30,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
+          "url": "https://wallstreetcn.com/livenews/3000053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
@@ -37,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -48,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
@@ -62,6 +73,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "多家公司的代理律师Katyal在美国最高法院听证会上表示：（总统特朗普挑起的）关税就是税收，而那本来应该是（宪法赋予）国会山的责任。",
+          "url": "https://wallstreetcn.com/livenews/3000026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时23分]"
         },
         {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
@@ -87,15 +110,37 @@
           "time_info": "[01时15分 ~ 01时16分]"
         },
         {
-          "title": "多家公司的代理律师Katyal在美国最高法院听证会上表示：（总统特朗普挑起的）关税就是税收，而那本来应该是（宪法赋予）国会山的责任。",
-          "url": "https://wallstreetcn.com/livenews/3000026",
-          "source": "华尔街见闻-快讯",
+          "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
+          "url": "https://flash.jin10.com/detail/20251106020814036800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据CBS新闻：美国总统特朗普定于周四上午11点（北京时间周五00:00）就减肥药物发表声明。",
+          "url": "https://flash.jin10.com/detail/20251106020733024800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普上任一年美股跑输全球大盘",
+          "url": "https://www.toutiao.com/trending/7569232858510790187/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "02时23分"
         },
         {
           "title": "白宫新闻发言人莱维特：特朗普下午1点（北京时间02:00）的重要演讲将围绕经济展开。",
@@ -104,7 +149,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -137,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -148,15 +193,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "克里姆林宫：普京和特朗普之间没有计划在不久的将来进行对话。",
+          "url": "https://flash.jin10.com/detail/20251106010258019800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -167,8 +223,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "美、布两油短线走低0.5美元，现报59.73美元/桶和63.74美元/桶。",
@@ -177,9 +233,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "LME期铜收涨34美元，报10698美元/吨。 LME期铝收跌9美元，报2850美元/吨。 LME期锌收跌46美元，报3043美元/吨。 LME期铅收跌4美元，报2020美元/吨。 LME期镍收跌40美元，报15035美元/吨。 LME期锡收跌165美元，报35649美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3000054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "据CBS新闻：预计与礼来公司和诺和诺德达成的协议将把药品价格降至每月150美元以下。",
+          "url": "https://flash.jin10.com/detail/20251106020921035800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "周三（11月5日），韩元兑美元最终跌0.05%，报1441.09韩元，北京时间14:29曾跌至1449.53韩元刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3000049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国纽约联储发布家庭债务季度报告：美国三季度家庭债务增长1.1%，至18.59万亿美元。 消费者债务拖欠率创2020年一季度以来新高。 学生贷款逾期率上升至14.4%，创历史新高。",
@@ -286,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "WTI原油日内下跌1.00%，现报59.65美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251106010447677800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     }
