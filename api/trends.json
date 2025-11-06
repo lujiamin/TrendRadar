@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T14:24:35.941464+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2025-11-06T15:16:10.523015+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 15时16分]"
         },
         {
           "title": "融创境外债重组获批 96亿美元债务基本清“零”",
@@ -53,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "马来西亚林吉特兑美元涨0.2%，至4.1800，为9月17日以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20251106141324734800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "知情人士透露，日产汽车公司已同意以900亿日元（5.84亿美元）的价格出售其横滨全球总部大楼。此次收购将由私募股权巨头KKR & Co.旗下日本房地产子公司KJR Management管理的一家特殊收购公司牵头，并由敏实集团赞助。（彭博）",
@@ -97,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "阿斯利康第三季度营收151.9亿美元，预期148亿美元。 第三季度核心每股收益2.38美元，预期2.30美元。 阿斯利康预计全年核心每股收益将实现低两位数百分比增长。 阿斯利康预计全年营收将实现高个位数百分比增长。",
+          "url": "https://wallstreetcn.com/livenews/3000385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1276元，较周二夜盘收盘涨24点。成交量405.38亿美元。",
@@ -147,6 +147,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "马来西亚林吉特兑美元涨0.2%，至4.1800，为9月17日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20251106141324734800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "美国纽约联储发布家庭债务季度报告：美国三季度家庭债务增长1.1%，至18.59万亿美元。 消费者债务拖欠率创2020年一季度以来新高。 学生贷款逾期率上升至14.4%，创历史新高。",
@@ -320,6 +332,18 @@
           "time_info": "[13时16分 ~ 14时24分]"
         },
         {
+          "title": "「大空头」迈克尔·伯里斥资 10 亿美元做空英伟达和 Palantir，如何评价他的做空理由？",
+          "url": "https://www.zhihu.com/question/1969702492494325491",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "周三（11月5日），美联储隔夜逆回购协议（RRP）使用规模为127.00亿美元，上个交易日报169.83亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000059",
           "source": "华尔街见闻-快讯",
@@ -367,6 +391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "花旗：将Arm(ARM.O)目标价从190美元上调至200美元。",
+          "url": "https://flash.jin10.com/detail/20251106140734006800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -441,6 +477,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "美元指数DXY失守100，日内跌幅0.12%。",
+          "url": "https://flash.jin10.com/detail/20251106140451205800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "美国总统特朗普考虑11月6日宣布减肥药意见。 他将与礼来制药、诺和诺德宣布降价。 在某些情况下，减肥药售价可能会低于150美元。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3000056",
           "source": "华尔街见闻-快讯",
@@ -512,17 +560,6 @@
           "time_info": "[01时15分 ~ 01时16分]"
         },
         {
-          "title": "花旗：将Arm(ARM.O)目标价从190美元上调至200美元。",
-          "url": "https://flash.jin10.com/detail/20251106140734006800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
           "title": "现货黄金涨约1.3%，上探4000美元整数位心理关口",
           "url": "https://wallstreetcn.com/livenews/3000121",
           "source": "华尔街见闻-快讯",
@@ -545,6 +582,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "马士基第三季度营收142.1亿美元，预期135.4亿美元。 第三季度EBIT为12.8亿美元，预期10.4亿美元。 第三季度EBITDA 26.9亿美元，预期26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3000383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "软银曾考虑千亿美元收购Marvell并与Arm合并",
           "url": "https://flash.jin10.com/detail/20251106104946793800",
           "source": "金十数据",
@@ -556,17 +604,6 @@
           "time_info": "11时12分"
         },
         {
-          "title": "美元指数DXY失守100，日内跌幅0.12%。",
-          "url": "https://flash.jin10.com/detail/20251106140451205800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
           "title": "现货白银日内涨幅达2.0%，报48.09美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3000002",
           "source": "华尔街见闻-快讯",
@@ -576,17 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "「大空头」迈克尔·伯里斥资 10 亿美元做空英伟达和 Palantir，如何评价他的做空理由？",
-          "url": "https://www.zhihu.com/question/1969702492494325491",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "周三（11月5日）纽约尾盘，ICE美元指数跌0.02%，报100.200点，日内交投区间为100.360-100.059点，北京时间21:15发布美国ADP小非农就业数据前下探100.150点、之后涨向100.350点，23:00发布美国ISM非制造业指数时显著反弹、并刷新日高。 彭博美元指数跌0.08%，报1225.05点，日内交投区间为1227.08-1224.82点。",
@@ -609,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
+          "url": "https://flash.jin10.com/detail/20251106142028591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
@@ -672,7 +709,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -694,7 +731,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -719,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3000356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "Arm控股第二财季总体营收11.4亿美元，分析师预期10.6亿美元。 第二财季调整后运营利润4.67亿美元，分析师预期3.855亿美元。 第二财季调整后毛利润率98.2%，分析师预期97.9%。 预计第三财季营收11.8亿-12.8亿美元，分析师预期11.1亿美元。",
@@ -749,7 +797,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -779,7 +827,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -794,6 +842,18 @@
           "time_info": "[00时21分 ~ 12时22分]"
         },
         {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 15时16分]"
+        },
+        {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
@@ -804,18 +864,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 09时14分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 14时24分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -843,6 +891,21 @@
           "time_info": "[09时13分 ~ 14时24分]"
         },
         {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[05时15分 ~ 15时16分]"
+        },
+        {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
           "url": "https://www.cls.cn/detail/2192187",
           "source": "财联社热门",
@@ -855,18 +918,15 @@
           "time_info": "[00时21分 ~ 09时14分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时15分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时16分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -893,17 +953,6 @@
           "time_info": "[11时12分 ~ 14时24分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
-        },
-        {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
           "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
@@ -924,6 +973,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -1120,6 +1180,18 @@
           "time_info": "[02时23分 ~ 03时14分]"
         },
         {
+          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
+          "url": "https://flash.jin10.com/detail/20251106140838691800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "据CBS新闻：美国总统特朗普定于周四上午11点（北京时间周五00:00）就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106020733024800",
           "source": "金十数据",
@@ -1168,6 +1240,18 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
+          "url": "https://flash.jin10.com/detail/20251106140101223800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "民主党呼吁特朗普会谈结束政府停摆",
           "url": "https://www.toutiao.com/trending/7569362062070825002/",
           "source": "今日头条",
@@ -1177,17 +1261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
-          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
-          "url": "https://flash.jin10.com/detail/20251106140838691800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
@@ -1243,17 +1316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
-          "url": "https://flash.jin10.com/detail/20251106140101223800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔是傻瓜。",
@@ -1529,8 +1591,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 15时16分]"
         },
         {
           "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
@@ -1540,8 +1602,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 15时16分]"
         }
       ]
     },
