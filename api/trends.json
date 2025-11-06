@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-06T15:16:10.523015+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-11-06T16:23:27.574314+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
+        },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
           "url": "https://wallstreetcn.com/articles/3758628",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 15时16分]"
         },
         {
           "title": "融创境外债重组获批 96亿美元债务基本清“零”",
@@ -94,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -337,11 +337,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 16时23分]"
         },
         {
           "title": "周三（11月5日），美联储隔夜逆回购协议（RRP）使用规模为127.00亿美元，上个交易日报169.83亿美元。",
@@ -588,7 +589,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -643,7 +644,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -764,7 +765,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -802,6 +803,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "现货黄金重回4000美元/盎司上方，日内涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3000393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000098",
           "source": "华尔街见闻-快讯",
@@ -827,7 +839,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -850,8 +862,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -902,8 +914,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时15分 ~ 15时16分]"
+          "appearance_count": 12,
+          "time_info": "[05时15分 ~ 16时23分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -925,8 +937,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 16时23分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -953,6 +965,17 @@
           "time_info": "[11时12分 ~ 14时24分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
           "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
@@ -973,17 +996,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -1263,6 +1275,17 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "法国外贸银行：特朗普关税案若败诉，美贸易政策将陷入更深不确定性之中",
+          "url": "https://flash.jin10.com/detail/20251106160417235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
           "url": "https://flash.jin10.com/detail/20251106054434301800",
           "source": "金十数据",
@@ -1393,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "民主党想把特朗普赶下台吗",
+          "url": "https://www.toutiao.com/trending/7569499059413585417/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "特朗普新推的美联储理事米兰：美联储货币政策太具有限制性了，与中性距离太遥远",
@@ -1591,8 +1625,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 16时23分]"
         },
         {
           "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
