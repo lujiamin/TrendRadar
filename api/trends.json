@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T22:17:17.826883+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2025-11-06T23:18:37.620551+08:00",
+  "total_titles_processed": 2070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 23时18分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内跌超0.50%，现报153.33。澳元兑美元AUD/USD日内跌幅达0.50%，现报0.6474。",
+          "url": "https://flash.jin10.com/detail/20251106230337364800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "澳元兑美元AUD/USD失守0.65，日内跌幅0.10%。",
@@ -378,8 +389,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时18分]"
         },
         {
           "title": "周三（11月5日），美联储隔夜逆回购协议（RRP）使用规模为127.00亿美元，上个交易日报169.83亿美元。",
@@ -808,7 +819,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -835,6 +846,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "WTI原油日内跌幅达0.5%，报59.23美元/桶。 布伦特原油日内跌幅达0.5%，报63.18美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3000614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普：重申对鲍威尔的批评。预计2美元/加仑的汽油价格将回归。",
           "url": "https://flash.jin10.com/detail/20251106025736560800",
           "source": "金十数据",
@@ -852,7 +874,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -874,7 +896,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1059,8 +1081,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 23时18分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -1196,8 +1218,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时18分]"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 23时18分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -1231,18 +1265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 22时17分]"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -1416,6 +1438,18 @@
           "time_info": "[03时14分 ~ 05时15分]"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 23时18分]"
+        },
+        {
           "title": "「特朗普停掉食品券（snap）可以帮 4000 万美国穷人减肥」这种说法是否正确？",
           "url": "https://www.zhihu.com/question/1969335140732900581",
           "source": "知乎",
@@ -1520,17 +1554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时24分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 22时17分]"
         },
         {
           "title": "民主党呼吁特朗普会谈结束政府停摆",
