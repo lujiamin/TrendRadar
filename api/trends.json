@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T09:14:13.651015+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2025-11-06T11:12:50.706073+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时12分]"
         },
         {
           "title": "美、布两油短线走低0.5美元，现报59.73美元/桶和63.74美元/桶。",
@@ -42,28 +42,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "知情人士透露，日产汽车公司已同意以900亿日元（5.84亿美元）的价格出售其横滨全球总部大楼。此次收购将由私募股权巨头KKR & Co.旗下日本房地产子公司KJR Management管理的一家特殊收购公司牵头，并由敏实集团赞助。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3000206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "澳元兑美元AUD/USD失守0.65，日内跌幅0.10%。",
-          "url": "https://flash.jin10.com/detail/20251106090306229800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
           "title": "融创境外债重组获批 96亿美元债务基本清“零”",
           "url": "https://www.cls.cn/detail/2192335",
           "source": "财联社热门",
@@ -72,8 +50,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 09时14分]"
+          "appearance_count": 6,
+          "time_info": "[05时15分 ~ 11时12分]"
+        },
+        {
+          "title": "知情人士透露，日产汽车公司已同意以900亿日元（5.84亿美元）的价格出售其横滨全球总部大楼。此次收购将由私募股权巨头KKR & Co.旗下日本房地产子公司KJR Management管理的一家特殊收购公司牵头，并由敏实集团赞助。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "财政部在香港成功发行美元主权债券",
+          "url": "https://wallstreetcn.com/livenews/3000276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD失守0.65，日内跌幅0.10%。",
+          "url": "https://flash.jin10.com/detail/20251106090306229800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1276元，较周二夜盘收盘涨24点。成交量405.38亿美元。",
@@ -463,6 +474,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "软银曾考虑千亿美元收购Marvell并与Arm合并",
+          "url": "https://flash.jin10.com/detail/20251106104946793800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "现货白银日内涨幅达2.0%，报48.09美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3000002",
           "source": "华尔街见闻-快讯",
@@ -573,6 +595,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "越南10月贸易余额 2600百万美元，预期 2300百万美元，前值 2850百万美元。",
+          "url": "https://wallstreetcn.com/livenews/3000248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000098",
           "source": "华尔街见闻-快讯",
@@ -598,7 +631,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -609,8 +642,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时12分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -641,11 +674,48 @@
           "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时12分]"
+        },
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时12分]"
+        },
+        {
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时12分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -653,17 +723,6 @@
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -681,26 +740,28 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
-          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
-          "url": "https://www.cls.cn/detail/2192410",
-          "source": "财联社热门",
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 6,
+          "time_info": "[05时15分 ~ 11时12分]"
         },
         {
-          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
-          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "title": "特朗普的大麻烦来了",
+          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -747,18 +808,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 09时14分]"
         },
         {
           "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
@@ -1010,6 +1059,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "美国10月“小非农”ADP就业人数高于市场预期，劳动力市场暂缓崩塌风险；美最高法院保守派首席大法官对特朗普关税合理性发出质疑，特朗普胜诉概率降低……当前黄金多头占优，白银、美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251106103417798800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "美国总统特朗普：预计第三季度GDP增长4.2%或更高。",
           "url": "https://flash.jin10.com/detail/20251106025235863800",
           "source": "金十数据",
@@ -1082,9 +1142,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普称美股将再创新高",
+          "url": "https://www.toutiao.com/trending/7569403413117537838/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "克里姆林宫：普京和特朗普之间没有计划在不久的将来进行对话。",
@@ -1198,18 +1269,64 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价比亚迪海狮 06 上市 100 天就达成十万辆？这款车靠什么赢得大众选择？",
           "url": "https://www.zhihu.com/question/1969340794436559798",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时12分]"
+        },
+        {
+          "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
+          "url": "https://www.cls.cn/detail/2192440",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3000258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股半导体板块持续走强，德明利触及涨停，海光信息涨超5%，寒武纪、中芯国际、华海诚科纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3000236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     }
