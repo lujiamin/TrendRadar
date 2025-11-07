@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T09:12:46.470228+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-11-07T11:08:32.049791+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -47,6 +47,17 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
+          "url": "https://www.cls.cn/detail/2193650",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时08分]"
+        },
+        {
           "title": "巴西实施2025年第四次美元债销售。",
           "url": "https://wallstreetcn.com/livenews/3000705",
           "source": "华尔街见闻-快讯",
@@ -73,15 +84,15 @@
           "time_info": "[02时24分 ~ 04时44分]"
         },
         {
-          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
-          "url": "https://www.cls.cn/detail/2193650",
-          "source": "财联社热门",
+          "title": "印尼央行：截至10月底，印度尼西亚外汇储备增至1499亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107110034223800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时08分"
         },
         {
           "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。",
@@ -117,6 +128,28 @@
           "time_info": "07时15分"
         },
         {
+          "title": "中国10月以美元计价进口同比增长1.0%，出口同比下降1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3000922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "中国10月贸易帐(按美元计) 900.7亿美元，前值 904.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3000921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "现货钯金日内走低2.00%，现报1385.15美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251106235735956800",
           "source": "金十数据",
@@ -126,6 +159,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时08分]"
         },
         {
           "title": "美元指数下跌0.5%",
@@ -346,17 +391,6 @@
           "time_info": "[02时24分 ~ 03时13分]"
         },
         {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
           "title": "美国至10月31日当周外国央行持有美国国债 -179.73亿美元，前值363.4亿美元。",
           "url": "https://flash.jin10.com/detail/20251107053048041800",
           "source": "金十数据",
@@ -374,9 +408,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
+          "url": "https://news.ifeng.com/c/8o5563NmbDn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "以太坊日内跌超5.00%，现报3251美元/枚。",
@@ -396,7 +441,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -410,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "道富环球：将黄金价格基准预测上调至3700-4100美元",
+          "url": "https://flash.jin10.com/detail/20251107105336180800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "美联储11月5日当周贴现窗贷款余额71.4亿美元，之前一周78.9亿美元。",
@@ -517,7 +573,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -544,6 +600,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
+          "url": "https://wallstreetcn.com/livenews/3000890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。 三季度调整后EBITDA利润率50%，分析师预期49.9%。 三季度总体预定价值229亿美元，分析师预期221.3亿美元。 预计全年调整后EBITDA利润率35%，公司原本预计至少34.5%。 预计四季度营收26.6亿-27.2亿美元，分析师预期26.7亿美元。 爱彼迎（ABNB）美股盘后涨4.7%。",
           "url": "https://wallstreetcn.com/livenews/3000744",
           "source": "华尔街见闻-快讯",
@@ -564,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国总统特朗普：在未来三年内，乌兹别克斯坦将购买并投资近350亿美元，而在未来十年内，将超过1000亿美元，投资于美国的关键行业，包括关键矿产、航空、汽车零部件、基础设施、农业、能源与化工、信息技术等多个领域。",
+          "url": "https://flash.jin10.com/detail/20251107102731934800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "尼日利亚内阁批准3.96亿美元多边贷款。",
@@ -657,7 +735,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -734,18 +812,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
-          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -756,9 +823,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普将于当地时间周五上午11:45会见匈牙利总理欧尔班。",
+          "url": "https://flash.jin10.com/detail/20251107105725161800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
@@ -772,6 +850,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时44分]"
+        },
+        {
+          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
+          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时08分]"
         },
         {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
@@ -1021,9 +1111,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
@@ -1037,13 +1138,24 @@
           "time_info": "00时21分"
         },
         {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "美国总统特朗普：还有许多国家正试图加入《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20251107080452702800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -1054,9 +1166,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "凯投宏观：如果特朗普关税政策被否决，财政问题将是投资者的首要担忧",
+          "url": "https://flash.jin10.com/detail/20251107103540030800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "美国总统特朗普：刚刚与以色列总理内塔尼亚胡进行了一次重要的通话。",
@@ -1065,9 +1188,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "特朗普在与中亚领导人共进晚餐时发表讲话称，加强与中亚的经济伙伴关系，关键矿产是议程上的关键事项；更多的国家将加入亚伯拉罕协议。",
@@ -1076,7 +1210,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -1103,6 +1237,28 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
+          "url": "https://flash.jin10.com/detail/20251107102715387800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普回应佩洛西退休：对美国是件大好事",
+          "url": "https://wallstreetcn.com/livenews/3000884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "美国法官下令，特朗普政府须在周五前全额拨付补充营养协助计划（SNAP）的食品援助福利资金。",
           "url": "https://flash.jin10.com/detail/20251107045426106800",
           "source": "金十数据",
@@ -1114,6 +1270,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "男子在特朗普身边晕倒 发布会中断",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
           "url": "https://flash.jin10.com/detail/20251107025737098800",
           "source": "金十数据",
@@ -1123,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "特朗普痛骂佩洛西",
+          "url": "https://www.douyin.com/hot/2297374",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
@@ -1147,6 +1325,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美脱口秀节目就政府停摆整活特朗普",
+          "url": "https://www.toutiao.com/trending/7568727581982474303/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "美国联邦上诉法院为特朗普提供新机会，允其再次举证封口费刑事案应属联邦法院管辖。",
           "url": "https://flash.jin10.com/detail/20251106231324844800",
           "source": "金十数据",
@@ -1161,7 +1350,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -1172,8 +1361,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时08分]"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -1240,17 +1429,40 @@
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时08分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时08分"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，小鹏初步收涨9.6%，百度涨3%，阿里巴巴涨1.8%，腾讯涨1.5%。",
@@ -1262,6 +1474,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "阿里巴巴CEO吴泳铭：“魔搭”两成开发者来自50人以下小组织",
+          "url": "https://wallstreetcn.com/livenews/3000906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "阿里巴巴CEO吴泳铭：建设超大规模AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3000905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.03%，报8134.84点。 热门中概股里，小鹏初步收涨9.6%，百度涨3%，阿里巴巴涨1.8%，腾讯涨1.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.26%，中国ETF-iShares MSCI（MCHI）收涨0.96%，中概互联网指数ETF（KWEB）收涨0.38%。 XtrackersHarvest中证50（ASHS）收涨1.30%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。",
