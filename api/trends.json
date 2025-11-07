@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-08T00:17:36.397440+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-11-08T01:15:08.810910+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
+          "url": "https://flash.jin10.com/detail/20251108010615120800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
         {
           "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
           "url": "https://flash.jin10.com/detail/20251107234542778800",
@@ -30,17 +41,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国银行：预计2026年垃圾债供应量将为3600亿美元，杠杆贷款发行规模料为4250亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3001315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
           "url": "https://www.zhihu.com/question/1970064184793334914",
           "source": "知乎",
@@ -48,8 +48,66 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 01时15分]"
+        },
+        {
+          "title": "美国银行：预计2026年垃圾债供应量将为3600亿美元，杠杆贷款发行规模料为4250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3001315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "稀土概念股涨跌各异，MP材料涨5.4%，UUUU涨1%，USAR则跌1%，NB跌2.4%。 巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元资金。 这笔融资将用于升级该公司位于巴西戈亚斯州的佩拉埃玛矿，根据美国国际开发金融公司网站8月15日的一份文档。美国国际开发金融公司在美国国务院外交政策指导下运作。",
+          "url": "https://wallstreetcn.com/livenews/3001310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3001303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.0%，报4016.69美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3001328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时15分"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -63,26 +121,26 @@
           "time_info": "00时17分"
         },
         {
-          "title": "稀土概念股涨跌各异，MP材料涨5.4%，UUUU涨1%，USAR则跌1%，NB跌2.4%。 巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元资金。 这笔融资将用于升级该公司位于巴西戈亚斯州的佩拉埃玛矿，根据美国国际开发金融公司网站8月15日的一份文档。美国国际开发金融公司在美国国务院外交政策指导下运作。",
-          "url": "https://wallstreetcn.com/livenews/3001310",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金短线拉升20美元，日内大涨约50美元，现报4027.22美元/盎司，涨幅1.26%。",
+          "url": "https://flash.jin10.com/detail/20251108004002028800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时15分"
         },
         {
-          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3001303",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金日内涨幅扩大至1.00%，现报4017.09美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251108003501505800",
+          "source": "金十数据",
           "ranks": [
-            15
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时15分"
         },
         {
           "title": "美元指数DXY短线走低十余点，现报99.41。",
@@ -132,19 +190,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "特朗普称佩洛西在股市“非法敛财”",
-          "url": "https://flash.jin10.com/detail/20251107234753828800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
@@ -153,15 +200,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时15分]"
         },
         {
-          "title": "美国政府：总统特朗普将于12月10日拍卖大约8000万英亩的墨西哥湾石油与天然气开采权益。",
-          "url": "https://wallstreetcn.com/livenews/3001316",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普痛骂佩洛西",
+          "url": "https://www.douyin.com/hot/2297374",
+          "source": "抖音",
           "ranks": [
-            6
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 01时15分]"
+        },
+        {
+          "title": "特朗普称佩洛西在股市“非法敛财”",
+          "url": "https://flash.jin10.com/detail/20251107234753828800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -175,8 +233,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时15分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -186,8 +244,42 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "美国政府：总统特朗普将于12月10日拍卖大约8000万英亩的墨西哥湾石油与天然气开采权益。",
+          "url": "https://wallstreetcn.com/livenews/3001316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
+          "url": "https://flash.jin10.com/detail/20251108004617809800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
+          "url": "https://flash.jin10.com/detail/20251108001852404800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "特朗普政府要求暂停执行全额支付食品援助金裁定",
@@ -199,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将于下月拍卖整个墨西哥湾的石油和天然气开采权。",
+          "url": "https://flash.jin10.com/detail/20251107235335051800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
@@ -225,8 +328,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时15分]"
         }
       ]
     }
