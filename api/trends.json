@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T18:15:38.320025+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-08T19:12:57.383571+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
@@ -15,11 +15,12 @@
             10,
             5,
             6,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时08分 ~ 19时12分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -151,6 +152,31 @@
           "time_info": "00时17分"
         },
         {
+          "title": "上海交易团国资分团：进博会已达成意向采购订单113笔，意向采购金额27.76亿美元",
+          "url": "https://wallstreetcn.com/livenews/3001552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "乌兹别克斯坦央行：截至11月1日，外汇储备为593亿美元，高于10月份的550亿美元。",
+          "url": "https://flash.jin10.com/detail/20251108154842046800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时12分]"
+        },
+        {
           "title": "巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元的资金。",
           "url": "https://flash.jin10.com/detail/20251107234255549800",
           "source": "金十数据",
@@ -203,19 +229,6 @@
           "time_info": "[11时00分 ~ 13时15分]"
         },
         {
-          "title": "乌兹别克斯坦央行：截至11月1日，外汇储备为593亿美元，高于10月份的550亿美元。",
-          "url": "https://flash.jin10.com/detail/20251108154842046800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
-        },
-        {
           "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
           "url": "https://flash.jin10.com/detail/20251108084054402800",
           "source": "金十数据",
@@ -240,6 +253,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
+        },
+        {
+          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞购战",
+          "url": "https://wallstreetcn.com/livenews/3001537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "WTI原油期货涨约0.3%，报59.59美元。 据媒体报道，美国支持欧盟利用被冻结的俄罗斯资产来支持乌克兰。",
@@ -268,18 +294,6 @@
           "time_info": "[03时14分 ~ 05时12分]"
         },
         {
-          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞购战",
-          "url": "https://wallstreetcn.com/livenews/3001537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
-        },
-        {
           "title": "周五（11月7日）纽约尾盘，现货黄金涨0.56%，报3999.29美元/盎司，北京时间00:00曾出现一波尖锐的冲高回落行情——最高达到4027.43美元，本周累计下跌0.07%，整体呈现出V形走势。",
           "url": "https://wallstreetcn.com/livenews/3001415",
           "source": "华尔街见闻-快讯",
@@ -290,6 +304,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "比特币失守102000美元/枚，日内跌幅1.30%。",
+          "url": "https://flash.jin10.com/detail/20251108153012783800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "阿根廷YPF三季度营收46.4亿美元，分析师预期45.6亿美元。 三季度净亏损1.98亿美元，分析师预期利润2.287亿美元。",
@@ -313,19 +341,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时16分]"
-        },
-        {
-          "title": "比特币失守102000美元/枚，日内跌幅1.30%。",
-          "url": "https://flash.jin10.com/detail/20251108153012783800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "LME期铜收涨34美元，报10716美元/吨。 LME期铝收涨4美元，报2848美元/吨。 LME期锌收涨10美元，报3056美元/吨。 LME期铅收涨16美元，报2047美元/吨。 LME期镍收涨22美元，报15060美元/吨。 LME期锡收跌23美元，报35822美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -365,6 +380,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
+        },
+        {
+          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞争",
+          "url": "https://flash.jin10.com/detail/20251108170025704800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "大约20家银行排队，为新墨西哥州与甲骨文相关的数据中心提供180亿美元贷款。",
@@ -475,6 +502,18 @@
           "time_info": "[07时16分 ~ 09时09分]"
         },
         {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "稀土概念股涨跌各异，MP材料涨5.4%，UUUU涨1%，USAR则跌1%，NB跌2.4%。 巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元资金。 这笔融资将用于升级该公司位于巴西戈亚斯州的佩拉埃玛矿，根据美国国际开发金融公司网站8月15日的一份文档。美国国际开发金融公司在美国国务院外交政策指导下运作。",
           "url": "https://wallstreetcn.com/livenews/3001310",
           "source": "华尔街见闻-快讯",
@@ -559,17 +598,6 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
-          "title": "辉瑞将以100亿美元收购Metsera 诺和诺德退出竞争",
-          "url": "https://flash.jin10.com/detail/20251108170025704800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -601,17 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "至11月7日当周，ICE原糖期货累计下跌2.08%，ICE白糖期货累跌1.19%。 ICE阿拉比卡咖啡期货累涨4.94%，咖啡“C”期货累涨4.30%。罗布斯塔咖啡期货累涨2.62%。 纽约可可期货累跌1.87%，报6133美元/吨，11月5日曾涨至6713美元。伦敦可可期货累跌1.56%。 ICE棉花期货累跌3.04%。",
@@ -694,7 +711,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -782,8 +799,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 19时12分]"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -795,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -826,16 +867,15 @@
           "time_info": "[11时00分 ~ 13时15分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
+          "title": "特朗普被问急眼了怒喷记者",
+          "url": "https://www.toutiao.com/trending/7569684589699235903/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 18时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -844,11 +884,12 @@
           "ranks": [
             3,
             8,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -1239,7 +1280,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1366,11 +1407,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
