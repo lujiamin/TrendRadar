@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T07:16:35.414754+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-08T09:09:14.455055+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -32,26 +32,41 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
+          "title": "雷军身家368亿美元超越马云",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26realpos%3D27%26pos%3D26%26lcate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BA%25AB%25E5%25AE%25B6368%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%25B6%2585%25E8%25B6%258A%25E9%25A9%25AC%25E4%25BA%2591%2523%26dgr%3D0%26display_time%3D1762545028%26pre_seqid%3D176254502797802419083116&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时16分 ~ 09时09分]"
+        },
+        {
           "title": "美联储理事米兰：稳定币的广泛使用可能会推高美元价值。",
           "url": "https://flash.jin10.com/detail/20251108040051217800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时16分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时09分]"
         },
         {
           "title": "美联储理事米兰：稳定币的兴起或将推动美元更广泛地使用。",
           "url": "https://flash.jin10.com/detail/20251108040045147800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时16分]"
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时09分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -65,16 +80,15 @@
           "time_info": "01时15分"
         },
         {
-          "title": "雷军身家368亿美元超越马云",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26realpos%3D27%26pos%3D26%26lcate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BA%25AB%25E5%25AE%25B6368%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%25B6%2585%25E8%25B6%258A%25E9%25A9%25AC%25E4%25BA%2591%2523%26dgr%3D0%26display_time%3D1762545028%26pre_seqid%3D176254502797802419083116&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251108084054402800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            26
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时16分 ~ 07时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
@@ -97,6 +111,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国9月消费信贷 130.9亿美元，预期100亿美元，前值3.63亿美元。",
+          "url": "https://flash.jin10.com/detail/20251108040036723800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时17分 ~ 09时09分]"
         },
         {
           "title": "周五（11月7日），美联储隔夜逆回购协议（RRP）使用规模为49.03亿美元，上个交易日报107.54亿美元。",
@@ -136,17 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时12分]"
-        },
-        {
-          "title": "美国9月消费信贷 130.9亿美元，预期100亿美元，前值3.63亿美元。",
-          "url": "https://flash.jin10.com/detail/20251108040036723800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时16分]"
         },
         {
           "title": "周五（11月7日）纽约尾盘，现货黄金涨0.56%，报3999.29美元/盎司，北京时间00:00曾出现一波尖锐的冲高回落行情——最高达到4027.43美元，本周累计下跌0.07%，整体呈现出V形走势。",
@@ -282,6 +297,18 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
+          "url": "https://wallstreetcn.com/livenews/3001422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时09分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1210元，较周四夜盘收盘跌22点。成交量361.95亿美元。",
           "url": "https://wallstreetcn.com/livenews/3001369",
           "source": "华尔街见闻-快讯",
@@ -292,6 +319,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时12分]"
+        },
+        {
+          "title": "周五（11月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1262元，较周四纽约尾盘跌49点，日内整体交投于7.1212-7.1274元区间。",
+          "url": "https://wallstreetcn.com/livenews/3001421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时09分]"
+        },
+        {
+          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2194848",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "稀土概念股涨跌各异，MP材料涨5.4%，UUUU涨1%，USAR则跌1%，NB跌2.4%。 巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元资金。 这笔融资将用于升级该公司位于巴西戈亚斯州的佩拉埃玛矿，根据美国国际开发金融公司网站8月15日的一份文档。美国国际开发金融公司在美国国务院外交政策指导下运作。",
@@ -378,17 +428,6 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
-          "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
-          "url": "https://wallstreetcn.com/livenews/3001422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -409,17 +448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "周五（11月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1262元，较周四纽约尾盘跌49点，日内整体交投于7.1212-7.1274元区间。",
-          "url": "https://wallstreetcn.com/livenews/3001421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         },
         {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4017.09美元/盎司。",
@@ -513,7 +541,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -523,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 09时09分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -555,11 +583,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 09时09分]"
+        },
+        {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -571,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
-          "url": "https://wallstreetcn.com/livenews/3001426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -670,6 +699,18 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
+          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3001426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时09分]"
+        },
+        {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
           "url": "https://wallstreetcn.com/livenews/3001349",
           "source": "华尔街见闻-快讯",
@@ -732,6 +773,18 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3001419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时09分]"
+        },
+        {
           "title": "美国财长贝森特：波音公司10月份向总统特朗普颁发年度销售员奖。 该公司CEO出现在总统办公室。",
           "url": "https://wallstreetcn.com/livenews/3001358",
           "source": "华尔街见闻-快讯",
@@ -768,6 +821,17 @@
           "time_info": "[02时22分 ~ 03时14分]"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
           "title": "特朗普：美国人正为关税付出代价",
           "url": "https://www.toutiao.com/trending/7569021464603901971/",
           "source": "今日头条",
@@ -780,6 +844,28 @@
           "time_info": "[02时22分 ~ 07时16分]"
         },
         {
+          "title": "特朗普：希望在布达佩斯与普京会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普开启矿产外交为何中国不紧反松",
+          "url": "https://www.toutiao.com/trending/7570123970922434075/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
           "url": "https://flash.jin10.com/detail/20251108004617809800",
           "source": "金十数据",
@@ -789,17 +875,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
-          "url": "https://wallstreetcn.com/livenews/3001419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -879,6 +954,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
+          "url": "https://wallstreetcn.com/livenews/3001433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
           "url": "https://flash.jin10.com/detail/20251108014233004800",
           "source": "金十数据",
@@ -940,7 +1026,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
