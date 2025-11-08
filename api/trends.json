@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T12:19:51.036766+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2025-11-08T13:15:19.842146+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -45,6 +45,19 @@
           "time_info": "[04时16分 ~ 09时09分]"
         },
         {
+          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2194848",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时15分]"
+        },
+        {
           "title": "美联储理事米兰：稳定币的广泛使用可能会推高美元价值。",
           "url": "https://flash.jin10.com/detail/20251108040051217800",
           "source": "金十数据",
@@ -74,24 +87,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时19分]"
-        },
-        {
-          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
-          "url": "https://www.cls.cn/detail/2194848",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 13时15分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "摩根大通入股以太坊储备龙头Bitmine，持仓市值1.02亿美元",
+          "url": "https://flash.jin10.com/detail/20251108121859289800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
@@ -137,6 +149,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时17分 ~ 09时09分]"
+        },
+        {
+          "title": "辉瑞将以每股最高86.25美元的价格收购Metsera",
+          "url": "https://wallstreetcn.com/livenews/3001475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时15分]"
         },
         {
           "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
@@ -191,19 +217,6 @@
           "time_info": "[03时14分 ~ 05时12分]"
         },
         {
-          "title": "辉瑞将以每股最高86.25美元的价格收购Metsera",
-          "url": "https://wallstreetcn.com/livenews/3001475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时19分]"
-        },
-        {
           "title": "周五（11月7日）纽约尾盘，现货黄金涨0.56%，报3999.29美元/盎司，北京时间00:00曾出现一波尖锐的冲高回落行情——最高达到4027.43美元，本周累计下跌0.07%，整体呈现出V形走势。",
           "url": "https://wallstreetcn.com/livenews/3001415",
           "source": "华尔街见闻-快讯",
@@ -214,6 +227,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时15分]"
         },
         {
           "title": "阿根廷YPF三季度营收46.4亿美元，分析师预期45.6亿美元。 三季度净亏损1.98亿美元，分析师预期利润2.287亿美元。",
@@ -239,17 +266,17 @@
           "time_info": "[04时17分 ~ 07时16分]"
         },
         {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "title": "Metsera：辉瑞与Metsera达成合并协议修正案，辉瑞将以每股最高86.25美元的价格收购Metsera。",
+          "url": "https://flash.jin10.com/detail/20251108104103559800",
           "source": "金十数据",
           "ranks": [
             6,
-            12,
-            14
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时19分]"
+          "time_info": "[11时38分 ~ 13时15分]"
         },
         {
           "title": "LME期铜收涨34美元，报10716美元/吨。 LME期铝收涨4美元，报2848美元/吨。 LME期锌收涨10美元，报3056美元/吨。 LME期铅收涨16美元，报2047美元/吨。 LME期镍收涨22美元，报15060美元/吨。 LME期锡收跌23美元，报35822美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -276,18 +303,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
-        },
-        {
-          "title": "Metsera：辉瑞与Metsera达成合并协议修正案，辉瑞将以每股最高86.25美元的价格收购Metsera。",
-          "url": "https://flash.jin10.com/detail/20251108104103559800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时19分]"
         },
         {
           "title": "大约20家银行排队，为新墨西哥州与甲骨文相关的数据中心提供180亿美元贷款。",
@@ -515,6 +530,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值 1.02 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3001490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "至11月7日当周，ICE原糖期货累计下跌2.08%，ICE白糖期货累跌1.19%。 ICE阿拉比卡咖啡期货累涨4.94%，咖啡“C”期货累涨4.30%。罗布斯塔咖啡期货累涨2.62%。 纽约可可期货累跌1.87%，报6133美元/吨，11月5日曾涨至6713美元。伦敦可可期货累跌1.56%。 ICE棉花期货累跌3.04%。",
           "url": "https://wallstreetcn.com/livenews/3001381",
           "source": "华尔街见闻-快讯",
@@ -595,7 +621,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -620,6 +646,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时14分 ~ 07时16分]"
+        },
+        {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时15分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -647,18 +685,6 @@
           "time_info": "[00时17分 ~ 12时19分]"
         },
         {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时19分]"
-        },
-        {
           "title": "特朗普称佩洛西在股市“非法敛财”",
           "url": "https://flash.jin10.com/detail/20251107234753828800",
           "source": "金十数据",
@@ -675,11 +701,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时15分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -688,11 +715,25 @@
           "ranks": [
             2,
             7,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时15分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
             12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时19分]"
+          "time_info": "[11时38分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -744,18 +785,6 @@
           "time_info": "[05时12分 ~ 06时15分]"
         },
         {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时19分]"
-        },
-        {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
           "url": "https://wallstreetcn.com/livenews/3001364",
           "source": "华尔街见闻-快讯",
@@ -805,6 +834,34 @@
           "time_info": "[07时16分 ~ 09时09分]"
         },
         {
+          "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
+          "url": "https://wallstreetcn.com/livenews/3001469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时15分]"
+        },
+        {
+          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
+          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时15分]"
+        },
+        {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
           "url": "https://wallstreetcn.com/livenews/3001349",
           "source": "华尔街见闻-快讯",
@@ -829,32 +886,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 04时17分]"
-        },
-        {
-          "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
-          "url": "https://wallstreetcn.com/livenews/3001469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时19分]"
-        },
-        {
-          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
-          "url": "https://flash.jin10.com/detail/20251108090128912800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时19分]"
         },
         {
           "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
@@ -1118,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "特朗普下令调查几家最大肉类加工商",
+          "url": "https://www.toutiao.com/trending/7570176156171767346/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "市场消息：美国总统特朗普将于下月拍卖整个墨西哥湾的石油和天然气开采权。",
