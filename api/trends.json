@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T01:15:36.765798+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2025-11-11T02:23:14.608723+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -14,31 +14,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
         {
-          "title": "墨西哥股指维持超过0.1%的涨幅，墨西哥比索兑美元涨幅重新扩大至0.3%，逼近北京时间17:52刷新的日高18.3688比索。 墨西哥总统辛鲍姆的关税方案遭到党派和商界的反对。",
-          "url": "https://wallstreetcn.com/livenews/3002265",
+          "title": "LME期铜收涨80美元，报10796美元/吨。 LME期铝收涨22美元，报2870美元/吨。 LME期锌收涨24美元，报3081美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3002280",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时23分"
         },
         {
-          "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
-          "url": "https://wallstreetcn.com/livenews/3002262",
+          "title": "现货白银日内涨幅达4.0%，报50.26美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3002281",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时23分"
         },
         {
           "title": "核能初创公司Valar Atomics融资1.3亿美元，投资方包括洛克希德-马丁、Anduril Industries Inc.的创始人Palmer Luckey、以及其他方面。 该公司计划修建高级先进核裂变反应堆。",
@@ -65,6 +65,41 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "墨西哥股指维持超过0.1%的涨幅，墨西哥比索兑美元涨幅重新扩大至0.3%，逼近北京时间17:52刷新的日高18.3688比索。 墨西哥总统辛鲍姆的关税方案遭到党派和商界的反对。",
+          "url": "https://wallstreetcn.com/livenews/3002265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
+          "url": "https://wallstreetcn.com/livenews/3002262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
           "url": "https://wallstreetcn.com/livenews/3002234",
           "source": "华尔街见闻-快讯",
@@ -77,15 +112,15 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
+          "title": "周一（11月10日），韩元兑美元最终涨0.33%，报1456.42韩元，北京时间14:22曾涨至1450.74韩元刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3002274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -110,13 +145,24 @@
           "time_info": "00时21分"
         },
         {
+          "title": "现货白银日内大涨4.00%，现报50.29美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111014613307800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
           "url": "https://wallstreetcn.com/livenews/3002244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -168,7 +214,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -178,8 +224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -188,9 +234,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
+          "url": "https://flash.jin10.com/detail/20251111020735747800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国参议院共和党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。",
@@ -199,7 +256,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -220,11 +277,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -235,8 +293,20 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时23分]"
+        },
+        {
+          "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
+          "url": "https://wallstreetcn.com/livenews/3002250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "time_info": "[01时15分 ~ 02时23分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
@@ -248,17 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
-          "url": "https://wallstreetcn.com/livenews/3002250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
         },
         {
           "title": "美国众议长约翰逊：（特朗普政府关门这个）“噩梦”终于要结束了。 参议院投票过后，我将召集众议员重返华盛顿——众议院复会。 认为（众议院会）有足够多的票数来通过临时拨款草案。",
@@ -289,7 +348,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -300,24 +359,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
+          "url": "https://wallstreetcn.com/livenews/3002253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
           "url": "https://flash.jin10.com/detail/20251111004153687800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
-          "url": "https://wallstreetcn.com/livenews/3002253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
