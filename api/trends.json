@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T06:17:33.643705+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-11-11T07:16:08.518623+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -18,8 +18,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -55,50 +55,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "周一（11月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报7.1228元，较上周五纽约尾盘涨34点，日内整体交投于7.1272-7.1186元区间。",
-          "url": "https://wallstreetcn.com/livenews/3002344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
-          "url": "https://wallstreetcn.com/livenews/3002343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "西方石油(OXY.N)第三季度营收67.17亿美元，市场预期66.79亿美元。",
-          "url": "https://flash.jin10.com/detail/20251111051645956800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "现货黄金涨超2.8%，重返4100美元上方，纽约期金涨超4.7%",
-          "url": "https://wallstreetcn.com/livenews/3002341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "墨西哥股指维持超过0.1%的涨幅，墨西哥比索兑美元涨幅重新扩大至0.3%，逼近北京时间17:52刷新的日高18.3688比索。 墨西哥总统辛鲍姆的关税方案遭到党派和商界的反对。",
           "url": "https://wallstreetcn.com/livenews/3002265",
           "source": "华尔街见闻-快讯",
@@ -123,6 +79,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时15分]"
+        },
+        {
+          "title": "Paramount Skydance Corp.（PSKY）预计总体效率超过30亿美元，公司原本预计20亿美元。 将把额外员工裁减掉1600人。 预计2026年收入300亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
         },
         {
           "title": "核能初创公司Valar Atomics融资1.3亿美元，投资方包括洛克希德-马丁、Anduril Industries Inc.的创始人Palmer Luckey、以及其他方面。 该公司计划修建高级先进核裂变反应堆。",
@@ -162,6 +131,18 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "周一（11月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报7.1228元，较上周五纽约尾盘涨34点，日内整体交投于7.1272-7.1186元区间。",
+          "url": "https://wallstreetcn.com/livenews/3002344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
           "url": "https://flash.jin10.com/detail/20251111034728559800",
           "source": "金十数据",
@@ -174,16 +155,28 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
-          "title": "Paramount Skydance Corp.（PSKY）预计总体效率超过30亿美元，公司原本预计20亿美元。 将把额外员工裁减掉1600人。 预计2026年收入300亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002331",
+          "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
+          "url": "https://wallstreetcn.com/livenews/3002343",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "西方石油(OXY.N)第三季度营收67.17亿美元，市场预期66.79亿美元。",
+          "url": "https://flash.jin10.com/detail/20251111051645956800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -196,6 +189,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "现货黄金涨超2.8%，重返4100美元上方，纽约期金涨超4.7%",
+          "url": "https://wallstreetcn.com/livenews/3002341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "西方石油(OXY.N)第三季度公司平均总产量达到1,465千桶油当量/日，超出指引的上限。经调整每股收益0.64美元，市场预期0.52美元。",
+          "url": "https://flash.jin10.com/detail/20251111051609020800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "周一（11月10日），韩元兑美元最终涨0.33%，报1456.42韩元，北京时间14:22曾涨至1450.74韩元刷新日高。",
@@ -282,6 +299,17 @@
           "time_info": "[03时14分 ~ 04时19分]"
         },
         {
+          "title": "巴菲特谢幕信：已捐出13亿美元股票 感叹活到95岁是幸运",
+          "url": "https://www.cls.cn/detail/2196526",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
           "title": "现货黄金刷新日高，现报4106.54美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251111021734311800",
           "source": "金十数据",
@@ -304,6 +332,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "CoreWeave三季度营收13.6亿美元，分析师预期12.9亿美元。 三季度净亏损1.101亿美元，分析师预期亏损2.996亿美元。 三季度调整后Ebitda为8.381亿美元，分析师预期8.217亿美元。 三季度调整后EBITDA利润率61%，分析师预期62.3%。 三季度调整后运营利润2.172亿美元，分析师预期1.772亿美元。 三季度运营利润0.519亿美元，分析师预期0.768亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%，投标倍数2.85。",
@@ -366,15 +406,27 @@
           "time_info": "[02时23分 ~ 03时14分]"
         },
         {
-          "title": "西方石油(OXY.N)第三季度公司平均总产量达到1,465千桶油当量/日，超出指引的上限。经调整每股收益0.64美元，市场预期0.52美元。",
-          "url": "https://flash.jin10.com/detail/20251111051609020800",
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20251111050157918800",
           "source": "金十数据",
           "ranks": [
-            6
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "Coreweave(CRWV.O)CEO：第三季度新增逾250亿美元收入订单。",
+          "url": "https://flash.jin10.com/detail/20251111060529251800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -388,15 +440,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "CoreWeave三季度营收13.6亿美元，分析师预期12.9亿美元。 三季度净亏损1.101亿美元，分析师预期亏损2.996亿美元。 三季度调整后Ebitda为8.381亿美元，分析师预期8.217亿美元。 三季度调整后EBITDA利润率61%，分析师预期62.3%。 三季度调整后运营利润2.172亿美元，分析师预期1.772亿美元。 三季度运营利润0.519亿美元，分析师预期0.768亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002332",
+          "title": "CoreWeave：数据中心推迟，将影响到四季度业绩预期。 受到影响的那些客户仍将支付（合同约定的）同等金额。 供应紧张问题将持续更长时间。 预计2025年资本开支将为120亿-140亿美元，2026年料将较2025年超过翻倍。 预计2025年销售将介于50.5亿-51.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002352",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时16分"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -410,6 +462,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "Beyond Meat三季度净营收7020万美元，分析师预期6910万美元。 三季度美国净营收3910万美元，分析师预期4060万美元。 三季度国际净营收3120万美元，分析师预期2830万美元。 三季度每股亏损1.44美元，上年同期亏损0.41美元。 三季度调整后每股亏损0.47美元，分析师预期亏损0.45美元。 三季度调整后EBITDA亏损2160万美元，上年同期亏损1980万美元。 三季度毛利润率10.3%，分析师预期12.8%。 预计四季度净营收6000万-6500万美元，分析师预期7010万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "礼来制药上涨5.9%，报979.16，突破2024年8月22日所创盘中历史最高位972.53美元。 Leerink因减肥疗法的市场进展而上调对礼来的评级。 MeiraGTx与该公司进入战略合作关系。 Insilico与该公司围绕研究与许可进行合作。",
           "url": "https://wallstreetcn.com/livenews/3002221",
           "source": "华尔街见闻-快讯",
@@ -419,17 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "美元指数10日下跌",
-          "url": "https://flash.jin10.com/detail/20251111050157918800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -471,7 +523,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -501,7 +553,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -512,8 +564,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -539,6 +591,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "土耳其外交部长：与美国及叙利亚同行、美国副总统、美国总统特朗普的助手威特科夫和特使巴拉克会谈时，讨论了叙利亚和加沙问题。美国官员理解叙利亚需要保持统一，叙利亚南部和北部的问题存在分裂国家的风险。",
+          "url": "https://flash.jin10.com/detail/20251111063234579800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "特朗普的“贸易战”收到了什么结果",
           "url": "https://www.toutiao.com/trending/7571084710177148454/",
           "source": "今日头条",
@@ -550,6 +613,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时15分]"
+        },
+        {
+          "title": "美国联邦航空管理局网站显示，尽管特朗普要求管制人员重返工作岗位，但目前仍有23个联邦航空管理局设施报告存在人员配置问题。",
+          "url": "https://flash.jin10.com/detail/20251111063015742800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国参议院共和党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。",
@@ -568,11 +642,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -611,6 +686,18 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
           "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
           "url": "https://wallstreetcn.com/livenews/3002324",
           "source": "华尔街见闻-快讯",
@@ -621,6 +708,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
+          "url": "https://flash.jin10.com/detail/20251111050747330800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
+          "url": "https://flash.jin10.com/detail/20251111050637638800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
+          "url": "https://flash.jin10.com/detail/20251111050524738800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
@@ -647,6 +770,54 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
+          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
+          "url": "https://flash.jin10.com/detail/20251111050513052800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普称接近与印度达成贸易协议",
+          "url": "https://flash.jin10.com/detail/20251111050432896800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
+          "url": "https://flash.jin10.com/detail/20251111050220430800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
+          "url": "https://flash.jin10.com/detail/20251111050150815800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：（就特朗普提议的50年期抵押贷款）我支持特朗普的想法。白宫将召开一系列会议。",
           "url": "https://flash.jin10.com/detail/20251111042013971800",
           "source": "金十数据",
@@ -656,28 +827,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
-          "url": "https://flash.jin10.com/detail/20251111050747330800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
-          "url": "https://flash.jin10.com/detail/20251111050637638800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
@@ -691,50 +840,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
-          "url": "https://flash.jin10.com/detail/20251111050524738800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
-          "url": "https://flash.jin10.com/detail/20251111050513052800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "特朗普称接近与印度达成贸易协议",
-          "url": "https://flash.jin10.com/detail/20251111050432896800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "美国众议长约翰逊：（特朗普政府关门这个）“噩梦”终于要结束了。 参议院投票过后，我将召集众议员重返华盛顿——众议院复会。 认为（众议院会）有足够多的票数来通过临时拨款草案。",
           "url": "https://wallstreetcn.com/livenews/3002222",
           "source": "华尔街见闻-快讯",
@@ -746,35 +851,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
-          "url": "https://flash.jin10.com/detail/20251111050220430800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
-          "url": "https://flash.jin10.com/detail/20251111050150815800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "美国总统特朗普：我们正在与以色列合作，以与叙利亚和睦相处。",
           "url": "https://flash.jin10.com/detail/20251111050113975800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -785,7 +868,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -807,7 +890,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -818,7 +901,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -829,7 +912,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -840,7 +923,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -851,7 +934,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -862,7 +945,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -881,7 +964,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -905,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
+          "url": "https://wallstreetcn.com/livenews/3002355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
