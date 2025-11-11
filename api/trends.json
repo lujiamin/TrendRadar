@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:11:48.166534+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-11T12:21:47.217272+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时15分 ~ 11时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 12时21分]"
         },
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -217,6 +217,31 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "巴菲特谢幕信：已捐13亿美元股票",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%A2%E5%B9%95%E4%BF%A1%EF%BC%9A%E5%B7%B2%E6%8D%9013%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 12时21分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时21分]"
+        },
+        {
           "title": "西方石油(OXY.N)第三季度公司平均总产量达到1,465千桶油当量/日，超出指引的上限。经调整每股收益0.64美元，市场预期0.52美元。",
           "url": "https://flash.jin10.com/detail/20251111051609020800",
           "source": "金十数据",
@@ -311,18 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时19分]"
-        },
-        {
-          "title": "巴菲特谢幕信：已捐13亿美元股票",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%A2%E5%B9%95%E4%BF%A1%EF%BC%9A%E5%B7%B2%E6%8D%9013%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 11时11分]"
         },
         {
           "title": "现货黄金刷新日高，现报4106.54美元/盎司。",
@@ -444,15 +457,26 @@
           "time_info": "07时16分"
         },
         {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
+          "title": "美政府停摆结束在望，参院正式通过临时拨款法案并移交至众院。美联储理事米兰再放鸽，主张12月应降息50个基点。黄金昨日大涨逾100美元，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251111111131999800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
+          "url": "https://wallstreetcn.com/articles/3759085",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时11分"
+          "time_info": "12时21分"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -464,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "CoreWeave：数据中心推迟，将影响到四季度业绩预期。 受到影响的那些客户仍将支付（合同约定的）同等金额。 供应紧张问题将持续更长时间。 预计2025年资本开支将为120亿-140亿美元，2026年料将较2025年超过翻倍。 预计2025年销售将介于50.5亿-51.5亿美元。",
@@ -606,6 +641,17 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
+          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时21分]"
+        },
+        {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
           "url": "https://flash.jin10.com/detail/20251111004607704800",
           "source": "金十数据",
@@ -661,17 +707,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
-          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
         },
         {
           "title": "美国总统特朗普：期待再次与叙利亚总统会面并交谈。一个稳定繁荣的叙利亚对该地区所有国家都至关重要。",
@@ -905,7 +940,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         },
@@ -1121,7 +1156,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         }
