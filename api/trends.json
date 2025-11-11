@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T00:21:17.165533+08:00",
-  "total_titles_processed": 324,
+  "generated_at": "2025-11-12T01:15:32.635527+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -15,85 +15,152 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "WTI原油日内涨超2.00%，现报61.14美元/桶。",
           "url": "https://flash.jin10.com/detail/20251112002018332800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "布伦特原油站上65美元/桶，日内涨1.96%。",
           "url": "https://flash.jin10.com/detail/20251112001934902800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "WTI原油日内涨幅达1.5%，报60.94美元/桶。 布伦特原油日内涨幅达1.5%，报65.06美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3002900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "美国天然气期货上涨近5%，至4.55美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251112001626202800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "WTI原油向上触及61美元/桶，日内涨1.79%。",
           "url": "https://flash.jin10.com/detail/20251112001127367800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "金价跌穿4100美元",
+          "url": "https://wallstreetcn.com/livenews/3002885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
+          "url": "https://wallstreetcn.com/livenews/3002882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "Prosus于11月3-7日按均价59.9133欧元回购股票90.2724万股，总计0.541亿欧元（折合0.623亿美元）。 Naspers同期按均价1232.2187南非兰特回购股票39.0090万股，总计4.807亿兰特（折合0.276亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3002878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "金价回升 市场进一步看涨5000美元",
@@ -107,6 +174,17 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "麦格理：将CoreWeave的目标股价从140.00美元下调至115.00美元。",
+          "url": "https://flash.jin10.com/detail/20251112002749709800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
           "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
           "url": "https://www.cls.cn/detail/2197016",
           "source": "财联社热门",
@@ -118,68 +196,13 @@
           "time_info": "00时20分"
         },
         {
-          "title": "金价跌穿4100美元",
-          "url": "https://wallstreetcn.com/livenews/3002885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
-          "url": "https://wallstreetcn.com/livenews/3002882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "Prosus于11月3-7日按均价59.9133欧元回购股票90.2724万股，总计0.541亿欧元（折合0.623亿美元）。 Naspers同期按均价1232.2187南非兰特回购股票39.0090万股，总计4.807亿兰特（折合0.276亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3002878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
           "title": "现货黄金回落至4125美元下方，日内整体涨幅迅速收窄至0.3%。",
           "url": "https://wallstreetcn.com/livenews/3002869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -190,7 +213,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -201,7 +224,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         }
@@ -219,8 +242,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -230,19 +253,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
           "url": "https://wallstreetcn.com/livenews/3002897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -252,8 +276,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -263,8 +287,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -274,19 +298,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3002888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -299,17 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
-          "url": "https://wallstreetcn.com/livenews/3002888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
         }
       ]
     },
@@ -325,8 +351,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     }
