@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T15:16:53.258791+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2025-11-11T16:22:20.501154+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "巴菲特谢幕信：已捐出13亿美元股票 感叹活到95岁是幸运",
@@ -46,19 +46,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时22分]"
         },
         {
           "title": "“承诺给300万美元”！俄方：成功挫败英乌策反行动",
           "url": "https://news.ifeng.com/c/8oC55O37Uvz",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时22分]"
         },
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -100,7 +101,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -116,6 +117,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "英国投资者自6月以来创纪录地抛售近100亿美元股票",
+          "url": "https://flash.jin10.com/detail/20251111161110873800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
           "url": "https://wallstreetcn.com/livenews/3002542",
           "source": "华尔街见闻-快讯",
@@ -125,6 +137,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
+          "url": "https://wallstreetcn.com/articles/3759085",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 16时22分]"
         },
         {
           "title": "墨西哥股指维持超过0.1%的涨幅，墨西哥比索兑美元涨幅重新扩大至0.3%，逼近北京时间17:52刷新的日高18.3688比索。 墨西哥总统辛鲍姆的关税方案遭到党派和商界的反对。",
@@ -273,18 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
-          "url": "https://wallstreetcn.com/articles/3759085",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 15时16分]"
         },
         {
           "title": "巴菲特谢幕信：已捐13亿美元股票",
@@ -632,7 +645,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -872,6 +885,18 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时22分]"
+        },
+        {
           "title": "牛弹琴：特朗普宣布一个大消息",
           "url": "https://www.toutiao.com/trending/7570877314167213595/",
           "source": "今日头条",
@@ -882,17 +907,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时16分]"
         },
         {
           "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
@@ -1227,7 +1241,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -1251,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
@@ -1281,7 +1306,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1292,7 +1317,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
@@ -1313,6 +1338,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股收盘：恒生指数收涨0.18%，恒生科技指数涨0.15%。小鹏汽车涨近18%；华虹半导体跌超3%，中芯国际跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3002639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
