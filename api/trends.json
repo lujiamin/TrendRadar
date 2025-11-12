@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-13T02:23:41.872694+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-11-13T03:14:50.372951+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
-        {
-          "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.074%，投标倍数2.43。",
-          "url": "https://wallstreetcn.com/livenews/3003579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
         {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
           "url": "https://flash.jin10.com/detail/20251113004314289800",
@@ -28,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
+          "url": "https://wallstreetcn.com/articles/3759197",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "美国财长贝森特：到2030年，稳定币的规模可能从3000亿美元增长10倍。",
@@ -54,6 +54,18 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
+          "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.074%，投标倍数2.43。",
+          "url": "https://wallstreetcn.com/livenews/3003579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
           "title": "现货黄金站上4200美元/盎司，为10月21日以来首次，目前涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3003557",
           "source": "华尔街见闻-快讯",
@@ -78,15 +90,17 @@
           "time_info": "[01时16分 ~ 02时23分]"
         },
         {
-          "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
-          "url": "https://wallstreetcn.com/articles/3759197",
+          "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
+          "url": "https://wallstreetcn.com/articles/3759245",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时23分]"
+          "time_info": "[01时16分 ~ 03时14分]"
         },
         {
           "title": "布伦特原油日内大跌3.00%，现报62.94美元/桶。",
@@ -101,6 +115,18 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
+          "title": "美联储理事米兰：美元的国际地位仍然非常强。",
+          "url": "https://wallstreetcn.com/livenews/3003575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
           "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
           "url": "https://wallstreetcn.com/livenews/3003527",
           "source": "华尔街见闻-快讯",
@@ -111,18 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
-          "url": "https://wallstreetcn.com/articles/3759245",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时23分]"
         },
         {
           "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
@@ -137,24 +151,13 @@
           "time_info": "[01时16分 ~ 02时23分]"
         },
         {
-          "title": "美联储理事米兰：美元的国际地位仍然非常强。",
-          "url": "https://wallstreetcn.com/livenews/3003575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "LME期铜收涨117美元，报10944美元/吨。 LME期铝收涨20美元，报2894美元/吨。 LME期锌收涨8美元，报3075美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3003573",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -168,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "现货黄金日内涨幅达2.0%，报4209.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "纽约期金向上触及4200美元/盎司，日内涨2.03%。",
@@ -231,9 +245,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "周三（11月12日），美联储隔夜逆回购协议（RRP）使用规模为58.86亿美元，上个交易日报71.52亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3003584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "比特币向下触及102000美元/枚，日内跌1.05%。",
@@ -245,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：得益于关税，承诺向美国民众发放2000美元红利。",
+          "url": "https://flash.jin10.com/detail/20251113024718007800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "WTI原油日内大跌4.00%，现报58.52美元/桶。布伦特原油现跌3.46%。",
@@ -330,7 +366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -352,7 +388,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -368,13 +404,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "LME期铜收涨117美元，报10944美元/吨。 LME期铝收涨20美元，报2894美元/吨。 LME期锌收涨8美元，报3075美元/吨。 LME期铅收涨32美元，报2096美元/吨。 LME期镍收平，报15053美元/吨。 LME期锡收涨782美元，报37399美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3003573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：从历史上看，美元现在正处于强势地位。",
           "url": "https://flash.jin10.com/detail/20251113014931444800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -385,7 +432,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -437,8 +484,88 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
+          "url": "https://wallstreetcn.com/livenews/3003597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
+          "url": "https://flash.jin10.com/detail/20251113030327873800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普政府发布声明，称支持用于结束美国政府关门的立法草案，总统特朗普将（在参众两院都批准的草案上）签字——让该草案生效为法律。",
+          "url": "https://wallstreetcn.com/livenews/3003568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "洲际交易所（ICE）CEO参与组织美国总统特朗普的晚宴。 纽交所总裁料将出席。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "“风电教父”发出警告：特朗普敦促各国放弃气候应对行动",
+          "url": "https://wallstreetcn.com/livenews/3003564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
+          "url": "https://wallstreetcn.com/livenews/3003588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：一旦政府重新开门，特朗普愿意就医疗保健问题展开对话。",
+          "url": "https://flash.jin10.com/detail/20251113025304021800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3003570",
@@ -446,18 +573,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "特朗普政府发布声明，称支持用于结束美国政府关门的立法草案，总统特朗普将（在参众两院都批准的草案上）签字——让该草案生效为法律。",
-          "url": "https://wallstreetcn.com/livenews/3003568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -468,20 +584,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
         {
-          "title": "洲际交易所（ICE）CEO参与组织美国总统特朗普的晚宴。 纽交所总裁料将出席。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3003567",
+          "title": "白宫国家经济委员会主任凯文·哈塞特：相比美国总统特朗普的第一任期，现在的白宫“更有效率”。",
+          "url": "https://wallstreetcn.com/livenews/3003582",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时14分"
         },
         {
           "title": "白宫表示，民主党选择性地公布了爱泼斯坦的电子邮件，以抹黑美国总统特朗普。",
@@ -501,20 +617,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
         {
-          "title": "“风电教父”发出警告：特朗普敦促各国放弃气候应对行动",
-          "url": "https://wallstreetcn.com/livenews/3003564",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫新闻秘书莱维特：特朗普在“爱泼斯坦事件”中没有做错任何事。",
+          "url": "https://flash.jin10.com/detail/20251113024300036800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时14分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
+          "url": "https://flash.jin10.com/detail/20251113024054748800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国财长贝森特：选民授权特朗普让美国再次更有负担能力。",
@@ -528,6 +655,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普的外部法律顾问已对英国广播公司提起了诉讼。",
+          "url": "https://flash.jin10.com/detail/20251113024035505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
           "url": "https://wallstreetcn.com/livenews/3003514",
           "source": "华尔街见闻-快讯",
@@ -537,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
+          "url": "https://flash.jin10.com/detail/20251113023641093800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
@@ -556,7 +705,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
