@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T13:17:55.596148+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-11-12T14:25:16.577453+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 66,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -74,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -323,6 +323,18 @@
           "time_info": "[06时16分 ~ 07时18分]"
         },
         {
+          "title": "中企深度参与的非洲西芒杜巨型铁矿正式投产，总投资逾200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时25分]"
+        },
+        {
           "title": "周二（11月11日）纽约尾盘，美元兑日元跌0.03%，报154.10日元，日内交投区间为154.49-153.67日元，北京时间21:16转跌并短线跳水、短线形成V形走势。 欧元兑日元涨0.23%，英镑兑日元跌0.09%。",
           "url": "https://wallstreetcn.com/livenews/3002963",
           "source": "华尔街见闻-快讯",
@@ -494,7 +506,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -510,17 +522,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "中企深度参与的非洲西芒杜巨型铁矿正式投产，总投资逾200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3003168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "据《财富》杂志：Coinbase(COIN.O)取消了与稳定币初创公司BVNK的20亿美元交易。",
           "url": "https://flash.jin10.com/detail/20251112040036419800",
           "source": "金十数据",
@@ -530,6 +531,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "花旗：预计今年剩余时间内铜价将在每吨11000美元左右波动。",
+          "url": "https://flash.jin10.com/detail/20251112133258524800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "现货黄金向下触及4100美元/盎司关口，日内跌0.65%。",
+          "url": "https://flash.jin10.com/detail/20251112133242672800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "现货黄金失守4120美元/盎司，日内跌幅0.16%。",
@@ -543,13 +566,24 @@
           "time_info": "11时10分"
         },
         {
+          "title": "花旗：继续预计到2026年第二季度，铜价将攀升至平均每吨12,000美元（看涨情形下为每吨14,000美元）。",
+          "url": "https://flash.jin10.com/detail/20251112133213949800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "印度最大线上券商Groww母公司股价在印度7.52亿美元IPO后上涨20%。",
           "url": "https://wallstreetcn.com/livenews/3003164",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -582,7 +616,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -604,9 +638,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "花旗：持续预测铜价到2026年第二季将攀升至均价1.2万美元/吨。 预计今年剩余时间内铜价将交投在每吨1.1万美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3003192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线走低近20点，现报154.59。",
+          "url": "https://flash.jin10.com/detail/20251112132117830800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美元兑日元短线小幅拉升，日内涨0.25%报154.54。",
@@ -615,9 +671,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "现货黄金向下触及4100美元/盎司，日内跌0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3003190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "马来西亚林吉特兑美元上涨0.3%至4.122，创2024年9月30日来最高水平。",
@@ -631,6 +698,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "美元兑日元短线走低，日内涨幅收窄至0.3%，此前日本财务大臣称看到汇率单边快速波动。",
+          "url": "https://wallstreetcn.com/livenews/3003185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "周二（11月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1222元，较周一纽约尾盘涨6点，日内整体交投于7.1266-7.1173元区间。",
           "url": "https://wallstreetcn.com/livenews/3002997",
           "source": "华尔街见闻-快讯",
@@ -640,6 +718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "软银清仓了英伟达股份，套现 58 亿美元，出于什么考量？释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1971628418492765339",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "现货黄金突破4140美元/盎司，日内涨0.33%。",
@@ -689,7 +778,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -745,11 +834,12 @@
             14,
             17,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -765,6 +855,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时18分]"
+        },
+        {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时25分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -794,18 +897,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 09时13分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 13时17分]"
         },
         {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
@@ -1062,6 +1153,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "据英国金融时报：英国国家安全顾问乔纳森·鲍威尔试图打开与俄罗斯总统普京的秘密沟通渠道。英国及其欧洲盟友担心，特朗普政府可能会在乌克兰问题上置它们的利益于不顾。",
+          "url": "https://flash.jin10.com/detail/20251112132543128800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "特朗普：美国需要一些有才华的外国工人。",
           "url": "https://wallstreetcn.com/livenews/3003050",
           "source": "华尔街见闻-快讯",
@@ -1242,19 +1344,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时17分]"
-        },
-        {
-          "title": "OpenAI挖走英特尔印度大将",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1266,8 +1357,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 14时25分]"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -1338,11 +1440,12 @@
           "url": "https://www.zhihu.com/question/1970159842028136176",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时25分]"
         }
       ]
     }
