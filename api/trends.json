@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:25:16.577453+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-11-12T15:18:46.408620+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时22分 ~ 07时18分]"
+        },
+        {
+          "title": "投行Evercore ISI：将AMD(AMD.O)目标价从270美元上调至283美元。",
+          "url": "https://flash.jin10.com/detail/20251112145125051800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "LME期铜收涨31美元，报10827美元/吨。 LME期铝收涨5美元，报2874美元/吨。 LME期锌收跌14美元，报3066美元/吨。",
@@ -539,7 +550,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -550,7 +561,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -572,7 +583,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -597,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "英伟达市值一夜蒸发千亿美元",
+          "url": "https://www.douyin.com/hot/2303268",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
@@ -649,7 +671,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -660,7 +682,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -682,7 +704,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -704,7 +726,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -726,7 +748,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -778,7 +800,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -826,6 +848,19 @@
           "time_info": "[00时20分 ~ 07时18分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 15时18分]"
+        },
+        {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
           "source": "澎湃新闻",
@@ -835,11 +870,12 @@
             17,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 14时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 15时18分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -855,19 +891,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时18分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 14时25分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -1159,7 +1182,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -1327,12 +1350,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "评论员：明年中期选举特朗普或遇挫",
+          "url": "https://www.toutiao.com/trending/7570679186156077097/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -1344,8 +1378,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 14时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 15时18分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1357,8 +1391,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 15时18分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -1408,6 +1442,17 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
           "url": "https://flash.jin10.com/detail/20251112060435250800",
           "source": "金十数据",
@@ -1441,11 +1486,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时18分]"
         }
       ]
     }
