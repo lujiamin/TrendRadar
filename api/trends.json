@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T07:18:30.327233+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-11-12T09:13:04.314849+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时13分]"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -482,7 +482,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -515,9 +515,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "现货黄金突破4140美元/盎司，日内涨0.33%。",
+          "url": "https://flash.jin10.com/detail/20251112073649171800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "现货黄金回落至4125美元下方，日内整体涨幅迅速收窄至0.3%。",
@@ -556,7 +567,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -585,11 +596,12 @@
           "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时13分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -627,8 +639,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时13分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -638,11 +650,12 @@
             27,
             16,
             14,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时13分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[03时13分 ~ 09时13分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -655,8 +668,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时13分]"
         },
         {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
@@ -665,9 +678,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们将降低一些咖啡关税。",
+          "url": "https://flash.jin10.com/detail/20251112083626942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及是否会起诉英国广播公司）我想我不得不这么做。",
+          "url": "https://flash.jin10.com/detail/20251112083438495800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
@@ -718,6 +753,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普宣称美国不再资助乌克兰",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         },
         {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
@@ -780,6 +826,39 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
+          "title": "特朗普：美国不再资助乌克兰",
+          "url": "https://www.douyin.com/hot/2303153",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "特朗普夸赞沙拉：他是个硬汉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "特朗普宣布不再资助乌克兰",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D29%26flag%3D0%26pos%3D29%26band_rank%3D29%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%25A3%25E5%25B8%2583%25E4%25B8%258D%25E5%2586%258D%25E8%25B5%2584%25E5%258A%25A9%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%2523%26filter_type%3Drealtimehot%26display_time%3D1762909865%26pre_seqid%3D176290986561502463284&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
           "url": "https://flash.jin10.com/detail/20251112035805783800",
           "source": "金十数据",
@@ -791,13 +870,24 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3003054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "曼达尼当选纽约市长后，特朗普助手审查纽约市拨款",
           "url": "https://flash.jin10.com/detail/20251112065212275800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -813,6 +903,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "特朗普：美国需要一些有才华的外国工人。",
+          "url": "https://wallstreetcn.com/livenews/3003050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国交通部长Duffy：空管人员将在特朗普政府开门之后24-48（小时）获得以往薪酬的70%。 剩余30%将在那一周之后发放。",
           "url": "https://wallstreetcn.com/livenews/3002977",
           "source": "华尔街见闻-快讯",
@@ -822,6 +923,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112075535490800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普：将降低部分咖啡关税。",
+          "url": "https://wallstreetcn.com/livenews/3003047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -857,6 +980,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "据CBS记者：消息人士透露，部分金融业高管已获邀参加明晚在白宫举行的特朗普晚宴，纳斯达克首席执行官阿德娜·弗里德曼在列。此次晚宴距特朗普9月4日为科技公司首席执行官们举办的晚宴仅隔数月。周三的晚宴将以私人形式举行。",
+          "url": "https://flash.jin10.com/detail/20251112074930925800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
           "url": "https://wallstreetcn.com/livenews/3002928",
           "source": "华尔街见闻-快讯",
@@ -879,6 +1013,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国总统特朗普：尽管面临市长和州长的极端反对与阻挠，伊利诺伊州芝加哥市的汽车盗窃、枪击案、抢劫案、暴力犯罪及其他各类案件均大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251112073543613800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
           "url": "https://flash.jin10.com/detail/20251112010443210800",
           "source": "金十数据",
@@ -888,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国总统特朗普明天将与金融业高管们举行晚宴，纳斯达克CEO、摩根大通CEO等将出席。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "特朗普：美国众议院议长约翰逊与美国参议院共和党领袖图恩在临时开支草案协议上“取得重大胜利”。",
@@ -904,7 +1060,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -914,8 +1070,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 09时13分]"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -928,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 09时13分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -960,7 +1138,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -971,7 +1149,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
