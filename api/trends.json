@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T12:22:38.734290+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2025-11-13T13:17:32.388240+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 12时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -33,8 +33,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 12时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 13时17分]"
+        },
+        {
+          "title": "澳新银行：上调短期铝价目标（0至3个月）至每吨2,900美元（此前为2,700美元），并预计价格在2026年6月前触及每吨3,000美元。",
+          "url": "https://wallstreetcn.com/livenews/3003878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国政府停摆危机造成1.5万亿美元损失",
@@ -43,9 +54,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
@@ -59,15 +81,40 @@
           "time_info": "01时16分"
         },
         {
-          "title": "现货白银站上54美元，日内涨1.41%。",
-          "url": "https://wallstreetcn.com/livenews/3003855",
+          "title": "澳新银行：将短期铝价目标（0至3个月）上调至每吨2,900美元（此前为每吨2,700美元），并预计到2026年6月价格将达到每吨3,000美元。",
+          "url": "https://flash.jin10.com/detail/20251113130451662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003872",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "13时17分"
         },
         {
           "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.074%，投标倍数2.43。",
@@ -107,20 +154,6 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
-          "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759236",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 12时22分]"
-        },
-        {
           "title": "纽约期金涨超2.1%，测试4200美元关口，纽约期银涨约5.2%",
           "url": "https://wallstreetcn.com/livenews/3003642",
           "source": "华尔街见闻-快讯",
@@ -157,6 +190,18 @@
           "time_info": "[01时16分 ~ 02时23分]"
         },
         {
+          "title": "现货白银站上54美元，日内涨1.41%。",
+          "url": "https://wallstreetcn.com/livenews/3003855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
+        },
+        {
           "title": "95岁巴菲特宣布辞职：1490亿美元财富帝国谁来接掌？",
           "url": "https://news.ifeng.com/c/8oF0X6xW7JQ",
           "source": "凤凰网",
@@ -165,8 +210,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时17分]"
         },
         {
           "title": "布伦特原油日内大跌3.00%，现报62.94美元/桶。",
@@ -300,6 +345,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20251113124331404800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "LME期铜收涨117美元，报10944美元/吨。 LME期铝收涨20美元，报2894美元/吨。 LME期锌收涨8美元，报3075美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3003573",
           "source": "华尔街见闻-快讯",
@@ -342,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "现货白银日内大涨1.01美元，现报54.26美元/盎司，涨幅1.89%。",
+          "url": "https://flash.jin10.com/detail/20251113120742881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "MetaPlatforms(META.O)宣布计划在威斯康星州投资10亿美元兴建数据中心。",
@@ -504,7 +571,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -658,7 +725,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -672,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "黄金反弹凶猛 花旗喊出6000美元",
+          "url": "https://www.toutiao.com/trending/7572033256221085193/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：强势美元政策是一项明智的政策。任何国家都需要稳健的货币。",
@@ -741,20 +819,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "特朗普致信以总统求赦免内塔尼亚胡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -780,6 +847,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普致信以总统求赦免内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -854,6 +933,18 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
+          "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
+          "url": "https://wallstreetcn.com/livenews/3003838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
+        },
+        {
           "title": "“风电教父”发出警告：特朗普敦促各国放弃气候应对行动",
           "url": "https://wallstreetcn.com/livenews/3003564",
           "source": "华尔街见闻-快讯",
@@ -864,6 +955,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时14分]"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁取消参议院冗长辩论规则。",
+          "url": "https://wallstreetcn.com/livenews/3003837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普送叙政权领导人自产香水",
+          "url": "https://www.toutiao.com/trending/7572030694445272627/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -916,7 +1030,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -927,7 +1041,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -971,7 +1085,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -985,17 +1099,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
-          "url": "https://wallstreetcn.com/livenews/3003838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普在“爱泼斯坦事件”中没有做错任何事。",
@@ -1015,18 +1118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "美国总统特朗普再次呼吁取消参议院冗长辩论规则。",
-          "url": "https://wallstreetcn.com/livenews/3003837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1048,7 +1140,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1070,7 +1162,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1103,7 +1195,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1130,24 +1222,13 @@
           "time_info": "07时16分"
         },
         {
-          "title": "特朗普送叙政权领导人自产香水",
-          "url": "https://www.toutiao.com/trending/7572030694445272627/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "特朗普：呼吁终止阻挠议事规则，以免此类事件再次发生。",
           "url": "https://flash.jin10.com/detail/20251113111854322800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1158,7 +1239,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1169,7 +1250,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1191,7 +1272,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1277,8 +1358,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时17分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -1293,6 +1374,18 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
+        },
+        {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
           "url": "https://flash.jin10.com/detail/20251113031402005800",
           "source": "金十数据",
@@ -1302,17 +1395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
-          "url": "https://www.zhihu.com/question/1972154575545955995",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
