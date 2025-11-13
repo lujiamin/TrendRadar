@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T07:16:38.303989+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-11-13T09:13:44.170650+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时13分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -28,11 +29,12 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时13分]"
         },
         {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
@@ -179,6 +181,18 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时13分]"
+        },
+        {
           "title": "周三（11月12日）纽约尾盘，美元兑日元涨0.38%，报154.71日元，日内交投区间为154.05-155.04日元，亚太盘初以来持续震荡上行，北京时间22:29刷新日高，之后回吐部分涨幅。",
           "url": "https://wallstreetcn.com/livenews/3003615",
           "source": "华尔街见闻-快讯",
@@ -267,7 +281,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -283,17 +297,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759236",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
           "title": "纽约期金向上触及4200美元/盎司，日内涨2.03%。",
           "url": "https://flash.jin10.com/detail/20251113003247827800",
           "source": "金十数据",
@@ -303,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "95岁巴菲特宣布辞职：1490亿美元财富帝国谁来接掌？",
+          "url": "https://news.ifeng.com/c/8oF0X6xW7JQ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "MetaPlatforms(META.O)宣布计划在威斯康星州投资10亿美元兴建数据中心。",
@@ -371,6 +385,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "澳元兑美元AUD/USD短线拉升20点，澳大利亚失业率数据低于预期。",
+          "url": "https://flash.jin10.com/detail/20251113083045122800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "比特币向下触及102000美元/枚，日内跌1.05%。",
           "url": "https://flash.jin10.com/detail/20251112235611899800",
           "source": "金十数据",
@@ -399,7 +424,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -492,6 +517,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "澳元/美元短线拉升20多个点，此前澳大利亚发布10月就业报告。",
+          "url": "https://wallstreetcn.com/livenews/3003719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "思科(CSCO.O)CEO：在主权客户、新型云计算客户和企业客户领域，高性能网络产品的潜在订单量已超过20亿美元。",
           "url": "https://flash.jin10.com/detail/20251113053920338800",
           "source": "金十数据",
@@ -509,7 +545,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -649,7 +685,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -749,6 +785,17 @@
           "time_info": "[02时23分 ~ 03时14分]"
         },
         {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
           "url": "https://flash.jin10.com/detail/20251113032506975800",
           "source": "金十数据",
@@ -758,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普拟定数小时后正式结束政府停摆",
+          "url": "https://flash.jin10.com/detail/20251113083457271800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
@@ -804,6 +862,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
+          "url": "https://wallstreetcn.com/livenews/3003722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普在“爱泼斯坦事件”中没有做错任何事。",
           "url": "https://flash.jin10.com/detail/20251113024300036800",
           "source": "金十数据",
@@ -821,7 +890,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -876,7 +945,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -914,6 +983,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美国交通部：特朗普政府周四将航班削减幅度冻结在6%，而非此前计划的上调至8%。",
+          "url": "https://flash.jin10.com/detail/20251113082755128800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
           "url": "https://flash.jin10.com/detail/20251113014622086800",
           "source": "金十数据",
@@ -928,7 +1008,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -940,6 +1020,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -971,7 +1062,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
