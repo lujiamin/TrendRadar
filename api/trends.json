@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T20:33:11.192827+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2025-11-14T21:28:15.949669+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 93,
+      "match_count": 104,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时12分 ~ 20时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时12分 ~ 21时28分]"
         },
         {
           "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
@@ -59,6 +59,33 @@
           "time_info": "[01时16分 ~ 07时15分]"
         },
         {
+          "title": "三季度几乎满产！中芯国际赵海军：四季度仍供不应求，预计全年收入超90亿美元，但内存涨价太多了",
+          "url": "https://wallstreetcn.com/articles/3759359",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 21时28分]"
+        },
+        {
+          "title": "福特 CEO 称年薪 12 万美元仍招不到人，如何看待美国技能工人严重短缺的现状？",
+          "url": "https://www.zhihu.com/question/1972605869679142760",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时28分]"
+        },
+        {
           "title": "美联储哈玛克：美元走弱已使其更接近“理论公允价值”。",
           "url": "https://flash.jin10.com/detail/20251114021627657800",
           "source": "金十数据",
@@ -70,15 +97,26 @@
           "time_info": "02时23分"
         },
         {
-          "title": "现货黄金跌破4130美元/盎司，日内跌幅扩大至1%。 现货白银跌1%，现报51.75美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3004864",
+          "title": "乌克兰1月至9月商品贸易逆差为306亿美元。",
+          "url": "https://flash.jin10.com/detail/20251114211748617800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "现货黄金跌超2%，报4087.08美元/盎司。现货白银跌超1.8%，报51.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004894",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "21时28分"
         },
         {
           "title": "美国国土安全部：国土安全部长诺姆将宣布向在美国政府停摆期间坚持到岗的美国运输安全管理局工作人员发放1万美元奖金。",
@@ -125,19 +163,6 @@
           "time_info": "13时17分"
         },
         {
-          "title": "三季度几乎满产！中芯国际赵海军：四季度仍供不应求，预计全年收入超90亿美元，但内存涨价太多了",
-          "url": "https://wallstreetcn.com/articles/3759359",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时33分]"
-        },
-        {
           "title": "英镑兑美元跌幅扩大，下跌0.6%至1.3119。",
           "url": "https://wallstreetcn.com/livenews/3004714",
           "source": "华尔街见闻-快讯",
@@ -169,20 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "福特 CEO 称年薪 12 万美元仍招不到人，如何看待美国技能工人严重短缺的现状？",
-          "url": "https://www.zhihu.com/question/1972605869679142760",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 20时33分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -245,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "现货黄金跌破4130美元/盎司，日内跌幅扩大至1%。 现货白银跌1%，现报51.75美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时28分]"
         },
         {
           "title": "纽元兑美元扩大涨幅，最新上涨0.64%至0.5690。",
@@ -429,6 +452,18 @@
           "time_info": "[02时23分 ~ 03时13分]"
         },
         {
+          "title": "默沙东将以每股221.50美元现金收购Cidara Therapeutics。",
+          "url": "https://wallstreetcn.com/livenews/3004851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时28分]"
+        },
+        {
           "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
           "url": "https://flash.jin10.com/detail/20251114025011150800",
           "source": "金十数据",
@@ -513,6 +548,17 @@
           "time_info": "[03时13分 ~ 04时19分]"
         },
         {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：美元走软让其更加符合“历史性的公允值”。",
           "url": "https://wallstreetcn.com/livenews/3004329",
           "source": "华尔街见闻-快讯",
@@ -560,6 +606,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "现货黄金失守4100美元/盎司，日内跌幅1.72%。",
+          "url": "https://flash.jin10.com/detail/20251114211210504800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "联合国粮农组织：过去30多年全球农业因灾损失超3万亿美元",
           "url": "https://wallstreetcn.com/livenews/3004812",
           "source": "华尔街见闻-快讯",
@@ -602,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美元指数跌破99，日内跌0.19%。 美元兑日元下跌0.5%至153.78。",
+          "url": "https://wallstreetcn.com/livenews/3004887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美国投资公司协会（ICI）：10月份美洲地区优先货币市场基金的持仓降至7365.6亿美元。",
@@ -654,7 +722,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -670,24 +738,13 @@
           "time_info": "09时12分"
         },
         {
-          "title": "默沙东将以每股221.50美元现金收购Cidara Therapeutics。",
-          "url": "https://wallstreetcn.com/livenews/3004851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "分析师：美元走向取决于未来数据的强劲或疲软程度",
           "url": "https://flash.jin10.com/detail/20251114200500187800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -709,7 +766,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -736,6 +793,17 @@
           "time_info": "15时16分"
         },
         {
+          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "英镑兑美元GBP/USD站上1.32，日内涨0.51%。",
           "url": "https://flash.jin10.com/detail/20251114003318169800",
           "source": "金十数据",
@@ -756,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "以太坊回落至3100美元/枚下方，日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美国加州民主党参议员亚当·希夫(Adam Schiff)正在试图通过一项新法案阻止特朗普从司法部获得款项。此前有报道称，特朗普要求司法部支付约2.3亿美元的赔偿金，以了结司法部对他进行的调查。",
@@ -808,7 +887,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -819,9 +898,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "美元指数DXY跌破99，日内跌0.19%。",
+          "url": "https://flash.jin10.com/detail/20251114210058037800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "韩元兑美元大幅转升，韩国财长称准备采取措施稳定汇市，将讨论措施应对韩元贬值。",
@@ -852,9 +942,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "俄罗斯9月贸易顺差135.95亿美元。9月份进口额为250.15亿美元，出口额为386.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20251114210036911800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "美元兑瑞郎跌破0.79，为10月17日以来首次，日内跌0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3004868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美联储：美国经季节性调整后的商业票据未偿余额在11月12日当周下降61亿美元。",
@@ -899,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美元兑日元USD/JPY失守154，日内跌幅0.36%。",
+          "url": "https://flash.jin10.com/detail/20251114205648829800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "现货白银日内跌幅达1.0%，报52.65美元/盎司。",
@@ -1006,7 +1129,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1083,17 +1206,6 @@
       "match_count": 38,
       "titles": [
         {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时20分 ~ 20时33分]"
-        },
-        {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
           "url": "https://www.cls.cn/detail/2200844",
           "source": "财联社热门",
@@ -1103,8 +1215,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 20时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时28分]"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时20分 ~ 21时28分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -1651,7 +1774,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
