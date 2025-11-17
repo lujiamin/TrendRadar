@@ -1,173 +1,55 @@
 {
-  "generated_at": "2025-11-17T23:19:50.695648+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2025-11-18T00:22:17.289959+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "匈牙利投资局：三星SDI Co. Ltd.将投资29亿美元，用于扩大电池产能。",
+          "url": "https://wallstreetcn.com/livenews/3005968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
         {
           "title": "国防部回应美对台3.3亿美元军售",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%8F%B03.3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时19分]"
-        },
-        {
-          "title": "空中客车：预计中东将要求（我们在）未来20年交付4080架飞机，包括2380架单通道飞机和1700架宽体飞机。 预计中东客流量年化复合增长率将为4.4%。 中东服务业市场到2044年年底料将翻倍，至299亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
-        },
-        {
-          "title": "2025年全球服装市场规模预计达1.84万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3005336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            21,
-            25,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
-        },
-        {
-          "title": "纽元兑美元跌超0.1%，报0.5675。 新西兰对美国取消12.5亿美元关税的做法表示欢迎。 近期，美国对新西兰出口的牛肉、动物杂碎、猕猴桃等农产品取消额外关税。",
-          "url": "https://wallstreetcn.com/livenews/3005376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时14分]"
-        },
-        {
-          "title": "摩根大通：将耐克(NKE.N)目标股价从100美元下调至86美元。",
-          "url": "https://flash.jin10.com/detail/20251117170611724800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "00时22分"
         },
         {
-          "title": "空客：到2044年底，中东地区的服务市场规模将翻一番，达到299亿美元。",
-          "url": "https://flash.jin10.com/detail/20251116214007983800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时14分]"
-        },
-        {
-          "title": "以色列三季度GDP年化基础季环比增长12.4%，预期上升7.3%。 第一次评估结果显示，三季度GDP同比增长12.4%，剔除进口净税的GDP年化增长13.3%。 10月贸易赤字收窄至34.22亿美元。 三季度出口增长23.3%，私人消费增长23.0%、政府开支增长4.4%。 二季度GDP年化修正为下滑4.3%，此前估计下降3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3005325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时14分]"
-        },
-        {
-          "title": "新台币兑美元日内上涨0.4%至31.025。",
-          "url": "https://wallstreetcn.com/livenews/3005456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "彭博汇编数据显示，上周加密数字货币ETPs资金外流17.3亿美元。 最近一个月，投资者从加密货币ETPs撤回25.6亿美元，最近一年仍然累计流入583亿美元。 加密货币ETP资产规模1845亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)计划通过美国债券发行筹集约120亿美元。",
-          "url": "https://flash.jin10.com/detail/20251117214409992800",
+          "title": "澳元兑美元AUD/USD日内走低0.50%，现报0.6501。",
+          "url": "https://flash.jin10.com/detail/20251118001647954800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "00时22分"
         },
         {
-          "title": "菲律宾比索兑美元跌0.4%。报59.241，为自10月28日以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20251117121215300800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时17分]"
-        },
-        {
-          "title": "搜狐Q3总收入1.8亿美元，净利润900万美元",
-          "url": "https://wallstreetcn.com/livenews/3005597",
+          "title": "Michael Saylor旗下比特币财库公司Strategy（MSTR）最近一周买入8.356亿美元比特币，创7月份以来最大单周买入规模。 这使得Strategy的BTC总体持有量达到649,870枚，价值大约617亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3005956",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            26
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时25分]"
-        },
-        {
-          "title": "日本考虑追加超过13.9万亿美元预算。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3005379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时14分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "国防部回应美对台3.3亿美元军售",
@@ -177,449 +59,70 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "国防部回应美批准3.3亿美元对台军售",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%89%B9%E5%87%863.3%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE",
           "source": "百度热搜",
           "ranks": [
-            14,
-            15
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "三季度全球存储市场规模增至584.59亿美元 三星重返DRAM第一",
-          "url": "https://wallstreetcn.com/livenews/3005561",
+          "title": "彭博汇编数据显示，上周加密数字货币ETPs资金外流17.3亿美元。 最近一个月，投资者从加密货币ETPs撤回25.6亿美元，最近一年仍然累计流入583亿美元。 加密货币ETP资产规模1845亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3005949",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时17分]"
-        },
-        {
-          "title": "强生将以30.5亿美元现金收购Halda Therapeutics。",
-          "url": "https://wallstreetcn.com/livenews/3005894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时16分]"
-        },
-        {
-          "title": "亚马逊拟通过美国债券发行筹集约120亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 23时19分]"
-        },
-        {
-          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
-          "url": "https://wallstreetcn.com/livenews/3005746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时19分]"
-        },
-        {
-          "title": "美国天然气期货日内跌幅达3.00%，现报4.429美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20251117214159820800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "印度商务部长：通过出口促进计划，我们很快就能步入正轨。七个月的总出口额为4798亿美元，尽管全球波动，仍增长了约4.8%。",
-          "url": "https://flash.jin10.com/detail/20251117173347475800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "瑞银：预计到2026年底，布伦特原油的交易价格为每桶67美元。",
-          "url": "https://flash.jin10.com/detail/20251117145140029800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "百胜中国：自2027年起计划将约100%自由现金流，在扣除少数股东股息后回馈给股东。 预计2025年全年每股自由现金流为2.2-2.3美元。",
-          "url": "https://wallstreetcn.com/livenews/3005587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "杰富瑞：将壳牌(SHEL.N)目标股价从81.6美元上调至87美元。",
-          "url": "https://flash.jin10.com/detail/20251117135453074800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "瑞银：预计布伦特原油价格将维持在每桶60至70美元的交易区间内，年底目标为每桶62美元。",
-          "url": "https://flash.jin10.com/detail/20251117145102919800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "摩根士丹利：由于供需平衡偏软，2026年布伦特原油价格应将稳定在每桶60美元左右。",
-          "url": "https://flash.jin10.com/detail/20251117153403326800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "00时22分"
         },
         {
           "title": "比特币短线拉升，从94000美元一线涨至接近96000美元的水平并刷新日高，北京时间22:00还曾回落至93500美元，几乎完全回吐日内稍早涨幅，并逼近亚太盘初微跌并刷新的日低92935.50美元。",
           "url": "https://wallstreetcn.com/livenews/3005940",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
-          "url": "https://www.cls.cn/detail/2202033",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "中金：本轮黄金牛市可能尚未结束 不排除明年突破5000美元",
-          "url": "https://flash.jin10.com/detail/20251117084600262800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "摩根士丹利：预计2026年铜价将达到每吨10,600美元。",
-          "url": "https://flash.jin10.com/detail/20251117153336005800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "摩根士丹利：预计2026年黄金价格将达到每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20251117153257595800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "印度贸易部：印度10月份石油进口额为148亿美元。",
-          "url": "https://flash.jin10.com/detail/20251117172627209800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "瑞银集团称，预期布伦特原油将停留在每桶60-70美元区间，年末目标价为每桶62美元。我们预期2026年底布伦特原油将在每桶67美元交投。",
-          "url": "https://wallstreetcn.com/livenews/3005651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
-          "url": "https://www.cls.cn/detail/2201676",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "印度贸易部：10月份黄金进口额为147亿美元。",
-          "url": "https://flash.jin10.com/detail/20251117172459315800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "现货黄金失守4050美元/盎司，日内跌幅0.86%。",
-          "url": "https://flash.jin10.com/detail/20251117133701618800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "斯蒂费尔：将特斯拉(TSLA.O)目标股价从483美元上调至508美元。",
-          "url": "https://flash.jin10.com/detail/20251117194802038800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "纽约期金日内跌超1.00%，现报4053.20美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251117133651168800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "美元兑日元USD/JPY突破前高155.04，再创2月以来新高。",
-          "url": "https://flash.jin10.com/detail/20251117230020744800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时22分"
         },
         {
           "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
           "url": "https://wallstreetcn.com/livenews/3005936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "野村证券：将哔哩哔哩(BILI.O)目标价从24美元上调至25美元。",
-          "url": "https://flash.jin10.com/detail/20251117103830802800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "WTI原油突破60美元/桶，日内涨0.37%。",
-          "url": "https://flash.jin10.com/detail/20251117181830759800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "市场消息：强生(JNJ.N)将以30.5亿美元现金收购Halda Therapeutics。",
-          "url": "https://flash.jin10.com/detail/20251117210115546800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
-          "url": "https://flash.jin10.com/detail/20251117163555133800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "布伦特原油站上64美元/桶，日内涨0.30%。",
-          "url": "https://flash.jin10.com/detail/20251117181129038800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "WTI原油期货向下触及60美元/桶，日内跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20251117180752406800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美军花4.7万购买造价15美元旋钮",
-          "url": "https://www.toutiao.com/trending/7573172977219797033/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "诺和诺德(NVO.N)：推出Wegovy和Ozempic的首月自付优惠活动，每月199美元。",
-          "url": "https://flash.jin10.com/detail/20251117205115130800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "美元兑日元USD/JPY突破155，日内涨0.30%。",
-          "url": "https://flash.jin10.com/detail/20251117225054955800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "现货黄金抹去日内逾20美元的涨幅，现报4084.5美元/盎司。特朗普此前透露，可能会与委内瑞拉总统马杜罗进行讨论。",
-          "url": "https://flash.jin10.com/detail/20251117081602441800",
-          "source": "金十数据",
-          "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "诺和诺德：OZEMPIC 2毫克的自费费用将保持每月499美元。",
-          "url": "https://flash.jin10.com/detail/20251117204737849800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "摩根士丹利预计2026年黄金价格将达到每盎司4500美元。 预计2026年铜价将达到每吨10,600美元。 由于供需平衡偏弱，布伦特原油2026年应维持在每桶约60美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3005689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1048，较上一交易日官方收盘价跌41点，较上日夜盘收盘跌54点。",
-          "url": "https://wallstreetcn.com/livenews/3005734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国总统特朗普：将“强烈”支持反对那些不允许重新划分选区的印第安纳州国会议员。",
+          "url": "https://flash.jin10.com/detail/20251118001800685800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
           "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
@@ -628,478 +131,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时23分 ~ 23时19分]"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            16,
-            23,
-            21,
-            8,
-            14,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时13分 ~ 23时19分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时14分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
           "url": "https://wallstreetcn.com/articles/3759513",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 23时19分]"
-        },
-        {
-          "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
-          "url": "https://flash.jin10.com/detail/20251116223106128800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
-        },
-        {
-          "title": "印度贸易官员：根据美国总统特朗普最新发布的命令，某些印度农产品对美出口将享受零关税待遇。",
-          "url": "https://flash.jin10.com/detail/20251117174713436800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
-          "url": "https://flash.jin10.com/detail/20251116221017649800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普与得力干将反目成仇",
-          "url": "https://flash.jin10.com/detail/20251117062945107800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "BBC回应特朗普巨额索赔诉讼：毫无依据 将坚决应诉",
-          "url": "https://flash.jin10.com/detail/20251117211805383800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯对美国总统特朗普表示将制裁与俄罗斯开展业务的任何国家的法案持非常负面的看法。",
-          "url": "https://flash.jin10.com/detail/20251117184112583800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 14时25分]"
-        },
-        {
-          "title": "特朗普不到两个月内完成超175笔投资",
-          "url": "https://www.toutiao.com/trending/7573491698903289386/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普转变立场 称众议院应投票支持司法部公布爱泼斯坦档案",
-          "url": "https://wallstreetcn.com/livenews/3005595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时25分]"
-        },
-        {
-          "title": "BBC回应特朗普巨额索赔诉讼：毫无依据 将坚决应诉",
-          "url": "https://wallstreetcn.com/livenews/3005903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时16分]"
-        },
-        {
-          "title": "博主：特朗普正走向众叛亲离",
-          "url": "https://www.toutiao.com/trending/7573306165895892506/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 07时14分]"
-        },
-        {
-          "title": "对冲基金CIO：每个人都在准备2026年，特朗普\"不惜一切\"赢中选，\"人们觉得一季度暴涨，然后5月卖掉\"",
-          "url": "https://wallstreetcn.com/articles/3759511",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 20时33分]"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯希望在完成必要准备工作后，能够举行一次美国总统特朗普与俄罗斯总统普京的峰会。",
-          "url": "https://flash.jin10.com/detail/20251117184025534800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普态度转变？支持投票公开爱泼斯坦相关文件",
-          "url": "https://flash.jin10.com/detail/20251117113954366800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "00时22分"
         },
         {
-          "title": "特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://wallstreetcn.com/livenews/3005446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-17）",
-          "url": "https://flash.jin10.com/detail/20251117181905742800",
+          "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
+          "url": "https://flash.jin10.com/detail/20251117234128931800",
           "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "特朗普：委内瑞拉希望与美国对话 可能会与马杜罗交谈",
-          "url": "https://flash.jin10.com/detail/20251117082522544800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特朗普：共和党人正起草法案，将制裁与俄罗斯有贸易往来的国家",
-          "url": "https://flash.jin10.com/detail/20251117082056379800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "美国总统特朗普：众议院共和党人应投票公布爱泼斯坦文件，因为我们没有什么可隐瞒的。",
-          "url": "https://flash.jin10.com/detail/20251117101957938800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
-          "url": "https://wallstreetcn.com/articles/3759474",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时17分]"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
-          "url": "https://wallstreetcn.com/livenews/3005519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "阿里巴巴旗下夸克宣布上线千问助手，“使用阿里Qwen最强大模型”。",
-          "url": "https://wallstreetcn.com/livenews/3005525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "阿里巴巴回应千问崩了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E5%8D%83%E9%97%AE%E5%B4%A9%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E9%2598%25BF%25E9%2587%258C%25E5%25B7%25B4%25E5%25B7%25B4%25E5%259B%259E%25E5%25BA%2594%25E5%258D%2583%25E9%2597%25AE%25E5%25B4%25A9%25E4%25BA%2586%2523%26pos%3D15%26dgr%3D0%26band_rank%3D15%26cate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1763367719%26pre_seqid%3D17633677190080280894867&launchid=10000360-page_H5",
-          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "花旗：阿里巴巴股价的任何回调都是加仓机会",
-          "url": "https://wallstreetcn.com/livenews/3005450",
-          "source": "华尔街见闻-快讯",
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "00时22分"
         },
         {
-          "title": "阿里巴巴回应千问崩了：我好着呢，状态良好，欢迎来问",
-          "url": "https://wallstreetcn.com/livenews/3005616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "阿里巴巴涨幅扩大至1.3%。恒生科技指数跌幅收窄至0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3005506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
-          "url": "https://flash.jin10.com/detail/20251117103913637800",
+          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
+          "url": "https://flash.jin10.com/detail/20251117231526009800",
           "source": "金十数据",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "阿里巴巴已申请注册多个千问商标",
-          "url": "https://wallstreetcn.com/livenews/3005550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "阿里巴巴港股转涨，盘初一度跌超1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3005498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪欧洲区域高管达维诺：欧洲汽车市场没有增长，传统汽车制造商和新品牌之间的竞争加剧。",
-          "url": "https://flash.jin10.com/detail/20251117210852401800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "比亚迪欧洲区域高管达维诺：到2025年底，比亚迪在欧洲将拥有1000个销售网点，目标是在2026年将其数量翻一番。",
-          "url": "https://flash.jin10.com/detail/20251117210821059800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "比亚迪成海外红毯常客",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%88%90%E6%B5%B7%E5%A4%96%E7%BA%A2%E6%AF%AF%E5%B8%B8%E5%AE%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D14%26flag%3D1%26band_rank%3D14%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%25AF%2594%25E4%25BA%259A%25E8%25BF%25AA%25E6%2588%2590%25E6%25B5%25B7%25E5%25A4%2596%25E7%25BA%25A2%25E6%25AF%25AF%25E5%25B8%25B8%25E5%25AE%25A2%2523%26dgr%3D0%26pos%3D15%26display_time%3D1763373959%26pre_seqid%3D17633739593180281380178&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中芯国际：公司承接了大量模拟、存储包括 NOR/NAND Flash、MCU等急单 目前存储行业供应存在缺口预计高价位态势将持续",
-          "url": "https://wallstreetcn.com/livenews/3005822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时33分]"
+          "time_info": "00时22分"
         }
       ]
     }
