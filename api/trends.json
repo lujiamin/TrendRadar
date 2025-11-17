@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T18:19:19.614422+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-11-17T19:15:16.075030+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "空中客车：预计中东将要求（我们在）未来20年交付4080架飞机，包括2380架单通道飞机和1700架宽体飞机。 预计中东客流量年化复合增长率将为4.4%。 中东服务业市场到2044年年底料将翻倍，至299亿美元。",
@@ -166,7 +166,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -276,7 +276,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -309,7 +309,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -347,6 +347,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "WTI原油突破60美元/桶，日内涨0.37%。",
+          "url": "https://flash.jin10.com/detail/20251117181830759800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
           "url": "https://flash.jin10.com/detail/20251117163555133800",
           "source": "金十数据",
@@ -356,6 +367,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "布伦特原油站上64美元/桶，日内涨0.30%。",
+          "url": "https://flash.jin10.com/detail/20251117181129038800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "WTI原油期货向下触及60美元/桶，日内跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20251117180752406800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美军花4.7万购买造价15美元旋钮",
@@ -405,7 +438,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -417,11 +450,12 @@
             23,
             21,
             8,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时13分 ~ 18时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 19时15分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -462,13 +496,24 @@
           "time_info": "[00时17分 ~ 06时15分]"
         },
         {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 19时15分]"
+        },
+        {
           "title": "印度贸易官员：根据美国总统特朗普最新发布的命令，某些印度农产品对美出口将享受零关税待遇。",
           "url": "https://flash.jin10.com/detail/20251117174713436800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -497,6 +542,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "克里姆林宫：俄罗斯对美国总统特朗普表示将制裁与俄罗斯开展业务的任何国家的法案持非常负面的看法。",
+          "url": "https://flash.jin10.com/detail/20251117184112583800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
           "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
           "source": "凤凰网",
@@ -518,17 +574,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时13分 ~ 13时17分]"
-        },
-        {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时19分]"
         },
         {
           "title": "特朗普转变立场 称众议院应投票支持司法部公布爱泼斯坦档案",
@@ -556,6 +601,29 @@
           "time_info": "[02时20分 ~ 07时14分]"
         },
         {
+          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
+          "url": "https://wallstreetcn.com/articles/3759513",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯希望在完成必要准备工作后，能够举行一次美国总统特朗普与俄罗斯总统普京的峰会。",
+          "url": "https://flash.jin10.com/detail/20251117184025534800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
           "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
           "source": "凤凰网",
@@ -578,17 +646,6 @@
           "time_info": "12时23分"
         },
         {
-          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
-          "url": "https://wallstreetcn.com/articles/3759513",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
           "url": "https://wallstreetcn.com/livenews/3005446",
           "source": "华尔街见闻-快讯",
@@ -598,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117181905742800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普：委内瑞拉希望与美国对话 可能会与马杜罗交谈",
@@ -763,6 +831,23 @@
       ]
     },
     {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中芯国际：公司承接了大量模拟、存储包括 NOR/NAND Flash、MCU等急单 目前存储行业供应存在缺口预计高价位态势将持续",
+          "url": "https://wallstreetcn.com/livenews/3005822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比亚迪",
       "match_count": 1,
       "titles": [
@@ -773,7 +858,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
