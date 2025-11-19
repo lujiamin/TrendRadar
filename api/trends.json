@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T14:24:26.968879+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2025-11-19T15:16:44.433912+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时30分]"
+        },
+        {
+          "title": "杰富瑞：将百度(BIDU.O)目标股价从157美元上调至159美元。",
+          "url": "https://flash.jin10.com/detail/20251119144951715800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -85,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "淡马锡：美元走弱致套保成本飙升，被迫转向自然对冲",
+          "url": "https://flash.jin10.com/detail/20251119144046607800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "周二（11月18日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1108元，较周一纽约尾盘跌25点，日内整体交投于7.1073-7.1170元区间。",
@@ -196,6 +218,30 @@
           "time_info": "[11时09分 ~ 13时17分]"
         },
         {
+          "title": "沙特确认对美国投资增至1万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%A1%AE%E8%AE%A4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E5%A2%9E%E8%87%B31%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时16分]"
+        },
+        {
+          "title": "纽约期金向上触及4100美元/盎司，日内涨0.82%。",
+          "url": "https://flash.jin10.com/detail/20251119140116976800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "Vanda Pharmaceuticals Inc.（VNDA）上涨19.09%，报5.24美元，有望创最近五个月最佳单日表现。 该公司称，根据一项新的临床试验结果，其试验性药物替替匹坦（tradipitant）可显著减轻服用流行减肥药Wegovy的患者的恶心和呕吐症状。 研究达到了主要目标，服用替替匹坦的患者中，有呕吐症状的比例为29.3%，而服用安慰剂的患者为58.6%；同时该药物还减少了严重的恶心症状。 公司称，计划于2026年进行后期试验。",
           "url": "https://wallstreetcn.com/livenews/3006641",
           "source": "华尔街见闻-快讯",
@@ -279,6 +325,18 @@
           "time_info": "[02时24分 ~ 03时14分]"
         },
         {
+          "title": "TD Cowen：将美光科技(MU.O)目标股价从200美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20251119134923732800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "布伦特原油日内涨超1.00%，现报64.22美元/桶。",
           "url": "https://flash.jin10.com/detail/20251119020044885800",
           "source": "金十数据",
@@ -313,18 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "沙特确认对美国投资增至1万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%A1%AE%E8%AE%A4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E5%A2%9E%E8%87%B31%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时24分]"
         },
         {
           "title": "美元兑加元USD/CAD日内跌超0.50%，现报1.3985。",
@@ -403,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
-        },
-        {
-          "title": "纽约期金向上触及4100美元/盎司，日内涨0.82%。",
-          "url": "https://flash.jin10.com/detail/20251119140116976800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)涨5.4%，此前派拉蒙携中东主权基金联手，以710亿美元巨额要约竞购该公司。",
@@ -502,17 +537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "TD Cowen：将美光科技(MU.O)目标股价从200美元上调至275美元。",
-          "url": "https://flash.jin10.com/detail/20251119134923732800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1074元，较周一夜盘收盘涨9点。成交量405.16亿美元。",
@@ -653,7 +677,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -749,7 +773,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -759,8 +783,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 15时16分]"
         },
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -877,6 +901,18 @@
           "time_info": "09时12分"
         },
         {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时16分]"
+        },
+        {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
           "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
@@ -927,17 +963,6 @@
           "time_info": "[02时24分 ~ 03时14分]"
         },
         {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 14时24分]"
-        },
-        {
           "title": "美国总统特朗普：我对普京感到有点惊讶。",
           "url": "https://flash.jin10.com/detail/20251119020840985800",
           "source": "金十数据",
@@ -948,6 +973,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -963,17 +1001,29 @@
           "time_info": "[02时24分 ~ 04时30分]"
         },
         {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
+          "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
+          "url": "https://www.cls.cn/detail/2204388",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            14
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时20分 ~ 14时24分]"
+          "time_info": "[09时11分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时16分]"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -1011,15 +1061,15 @@
           "time_info": "[02时24分 ~ 03时14分]"
         },
         {
-          "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
-          "url": "https://www.cls.cn/detail/2204388",
-          "source": "财联社热门",
+          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
+          "url": "https://news.ifeng.com/c/8oPCfhjamik",
+          "source": "凤凰网",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -1056,18 +1106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普与沙特王储握手露出尴尬表情",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -1148,17 +1186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
-          "url": "https://news.ifeng.com/c/8oPCfhjamik",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -1409,7 +1436,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -1423,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "马斯克和特朗普“破镜重圆”了吗",
+          "url": "https://www.toutiao.com/trending/7574272284144193074/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美国总统特朗普：关于亚伯拉罕协议的会谈很顺利。",
@@ -1450,8 +1488,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时16分]"
         }
       ]
     }
