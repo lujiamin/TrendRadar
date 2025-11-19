@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T20:33:38.824518+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-11-19T21:30:11.033994+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 87,
+      "match_count": 96,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -52,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
-        },
-        {
-          "title": "WTI原油跌幅扩大至2%，现报59.44美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3007217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -153,17 +142,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "资产管理巨头Brookfield计划启动1000亿美元人工智能基础设施项目。",
-          "url": "https://wallstreetcn.com/livenews/3007213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
           "url": "https://flash.jin10.com/detail/20251119120532267800",
           "source": "金十数据",
@@ -212,6 +190,18 @@
           "time_info": "[17时19分 ~ 18时18分]"
         },
         {
+          "title": "WTI原油跌幅扩大至2%，现报59.44美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3007217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时30分]"
+        },
+        {
           "title": "美银证券最新的月度调查发现：30%的受访者选择日元。 26%看好黄金。 美元和欧元都在14%。 瑞郎占比7%。 英镑为3%。",
           "url": "https://wallstreetcn.com/livenews/3006714",
           "source": "华尔街见闻-快讯",
@@ -246,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "资产管理巨头Brookfield计划启动1000亿美元人工智能基础设施项目。",
+          "url": "https://wallstreetcn.com/livenews/3007213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时30分]"
         },
         {
           "title": "沙特确认对美国投资增至1万亿美元",
@@ -485,6 +487,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "WTI原油跌破59美元/桶，日内跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的9.05亿美元。",
           "url": "https://flash.jin10.com/detail/20251119021740286800",
           "source": "金十数据",
@@ -513,9 +526,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "WTI原油日内大跌3.00%，现报58.71美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251119211218469800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "现货白银短线走高0.2美元，站上51美元/盎司，日内涨0.60%。",
@@ -650,6 +674,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "智利国家铜业委员会：预计2025年铜价平均为每磅4.45美元。",
+          "url": "https://flash.jin10.com/detail/20251119210642806800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "美国9月长期资本净流入 1798亿美元。",
           "url": "https://wallstreetcn.com/livenews/3006733",
           "source": "华尔街见闻-快讯",
@@ -659,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "智利国家铜业委员会：预计2026年铜价平均为每磅4.55美元。",
+          "url": "https://flash.jin10.com/detail/20251119210628840800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1074元，较周一夜盘收盘涨9点。成交量405.16亿美元。",
@@ -700,7 +746,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -725,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "据报道美国有结束俄乌冲突的计划后，乌克兰美元债券大幅上涨，2036年到期债券每1美元面值买价上涨2.6美分，升至50美分以上。",
+          "url": "https://flash.jin10.com/detail/20251119210547047800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "美国金融监管部门FDIC反诉Capital One，指控其少付近1亿美元银行救助金",
@@ -837,6 +894,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "快手：预计可灵AI 2025年全年收入约1.4亿美元",
+          "url": "https://wallstreetcn.com/livenews/3007220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "美国8月长期资本净流入 1342亿美元，前值492亿美元。",
           "url": "https://flash.jin10.com/detail/20251119050804712800",
           "source": "金十数据",
@@ -846,6 +914,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "WTI原油跌破59美元/桶，日内跌2.56%。",
+          "url": "https://flash.jin10.com/detail/20251119210041709800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "数字营销公司SEMrush盘前暴涨66%，有消息称Adobe拟以19亿美元收购公司。",
+          "url": "https://wallstreetcn.com/livenews/3007219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "派拉蒙携中东主权基金联手 以710亿美元巨额要约竞购华纳兄弟探索公司",
@@ -947,6 +1037,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "巴克莱：将百度(BIDU.O)目标股价从81美元上调至100美元。",
+          "url": "https://flash.jin10.com/detail/20251119205409573800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "周二（11月18日）纽约尾盘，ICE美元指数跌0.05%，报99.541点，日内交投区间为99.661-99.396点，北京时间23:32出现一波从日低快速反弹的行情。 彭博美元指数跌0.06%，报1219.19点，日内交投区间为1220.71-1218.31点。",
           "url": "https://wallstreetcn.com/livenews/3006719",
           "source": "华尔街见闻-快讯",
@@ -1030,8 +1131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时09分 ~ 21时30分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -1043,11 +1144,23 @@
             14,
             19,
             22,
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 21时30分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时20分 ~ 18时18分]"
+          "time_info": "[17时18分 ~ 21时30分]"
         },
         {
           "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
@@ -1085,17 +1198,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时30分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时33分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -1141,7 +1243,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1156,17 +1258,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时11分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普怒怼ABC女记者",
-          "url": "https://www.toutiao.com/trending/7574268540435136563/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "美国总统特朗普：我不在乎参议院何时通过众议院的（爱泼斯坦）法案，无论是今晚，还是在不久的将来的某个时候，我只是不希望共和党人把他们的目光从我们已经取得的所有胜利上移开。",
@@ -1222,6 +1313,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 21时30分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时30分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -1284,17 +1398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时33分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -1367,6 +1470,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时30分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -1516,17 +1631,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
-          "url": "https://wallstreetcn.com/livenews/3007210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -1829,7 +1933,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -1841,8 +1945,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 21时30分]"
         },
         {
           "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
@@ -1851,7 +1955,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1862,9 +1966,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         }
       ]
     },
@@ -1879,7 +1994,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
