@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T01:17:11.327307+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-11-21T02:23:43.944087+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -24,11 +24,23 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时23分]"
+        },
+        {
+          "title": "周四（11月20日），美联储隔夜逆回购协议（RRP）使用规模为65.20亿美元，上个交易日报11.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
@@ -37,9 +49,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "亚马逊打算对Warren County投资至少30亿美元。",
@@ -51,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时17分]"
         },
         {
           "title": "高盛预计下周股票抛售将达400亿美元",
@@ -90,36 +102,71 @@
         },
         {
           "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
-          "url": "https://flash.jin10.com/detail/20251121010114274800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3008096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
         },
         {
           "title": "比特币跌穿8.8万美元，目前跌幅超过2.6%。北京时间21:31之前持稳于9.2万美元一线，之后开始回吐涨幅，00:00之前跌破9万美元整数位心理关口、随后加速下跌。 以太坊跌1.8%，Solana跌0.3%，狗狗币涨幅收窄至不足1.1%，XRP跌0.8%。",
           "url": "https://wallstreetcn.com/livenews/3008094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时23分]"
+        },
+        {
+          "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
+          "url": "https://flash.jin10.com/detail/20251121010114274800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率1.843%，投标倍数2.41。",
+          "url": "https://wallstreetcn.com/livenews/3008120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "LME期铜收跌14美元，报10738美元/吨。 LME期铝收涨13美元，报2814美元/吨。 LME期锌收涨35美元，报3016美元/吨。 LME期铅收跌4美元，报2010美元/吨。 LME期镍收跌149美元，报14501美元/吨。 LME期锡收涨115美元，报37068美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3008116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
+          "url": "https://wallstreetcn.com/livenews/3008112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "亚马逊(AMZN.O)：计划在密西西比州沃伦县投资30亿美元，创造数百个就业机会并支持经济增长。",
@@ -128,9 +175,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "周四（11月20日），韩元兑美元最终跌0.41%，报1473.77韩元。 日内大部分时间，该货币对保持微幅下挫状态、持稳于1469韩元一线，北京时间22:33短暂涨穿1466韩元、随后转跌，00:10开始一波加速下跌的行情。",
+          "url": "https://wallstreetcn.com/livenews/3008103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "WTI原油期货突破60美元/桶，日内涨1.27%。",
@@ -150,7 +208,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -161,15 +219,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "比特币日内大跌5000美元，现报86400美元/枚，跌幅5.64%。",
+          "url": "https://flash.jin10.com/detail/20251121013555086800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -179,8 +248,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "特朗普带C罗参观白宫",
@@ -211,7 +280,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -233,9 +302,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
+          "url": "https://wallstreetcn.com/livenews/3008104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
@@ -247,6 +327,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "报道：特朗普悄然提名枪械管理局局长",
+          "url": "https://flash.jin10.com/detail/20251121014055857800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
+          "url": "https://flash.jin10.com/detail/20251121013301455800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -261,7 +363,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
