@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-20T15:16:55.542047+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-11-20T16:22:54.288658+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 16时22分]"
+        },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
           "url": "https://wallstreetcn.com/articles/3759700",
@@ -19,28 +32,29 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 15时16分]"
-        },
-        {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
           "url": "https://www.cls.cn/detail/2205700",
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 16时22分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
           "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
@@ -52,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 15时16分]"
         },
         {
           "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
@@ -181,6 +184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时16分]"
+        },
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时22分]"
         },
         {
           "title": "LME期铜收涨33美元，报10752美元/吨。 LME期铝收涨21美元，报2801美元/吨。 LME期锌收跌8美元，报2981美元/吨。 LME期铅收跌8美元，报2015美元/吨。 LME期镍收涨12美元，报14650美元/吨。 LME期锡收涨80美元，报36953美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -394,17 +409,6 @@
           "time_info": "06时16分"
         },
         {
-          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "美元指数19日上涨",
           "url": "https://flash.jin10.com/detail/20251120052754830800",
           "source": "金十数据",
@@ -433,7 +437,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -598,9 +602,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "德意志银行：将英伟达(NVDA.O)目标股价从180美元上调至215美元。",
+          "url": "https://flash.jin10.com/detail/20251120154446888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "纽元兑美元NZD/USD日内走低1%，现报0.5601。",
@@ -793,7 +808,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -849,6 +864,18 @@
           "time_info": "[02时23分 ~ 07时16分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 16时22分]"
+        },
+        {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
           "url": "https://flash.jin10.com/detail/20251120023838284800",
           "source": "金十数据",
@@ -882,16 +909,16 @@
           "time_info": "07时16分"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时07分 ~ 15时16分]"
+          "time_info": "[12时19分 ~ 16时22分]"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -907,15 +934,17 @@
           "time_info": "[03时13分 ~ 05时13分]"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 16时22分]"
         },
         {
           "title": "共和党议员对特朗普“关税红利”计划持保留态度",
@@ -989,18 +1018,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 11时07分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -1297,6 +1314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "曝特朗普计划推迟半导体关税",
+          "url": "https://www.toutiao.com/trending/7574689647519862308/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国总统特朗普：我曾考虑过让财长贝森特进入美联储，但他不愿意。",
