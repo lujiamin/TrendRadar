@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T03:13:35.772589+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2025-11-21T04:19:00.690947+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -40,8 +40,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时19分]"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
+          "url": "https://wallstreetcn.com/livenews/3008155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
@@ -71,11 +82,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时19分]"
         },
         {
           "title": "高盛预计下周股票抛售将达400亿美元",
@@ -185,15 +197,48 @@
           "time_info": "01时17分"
         },
         {
+          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3008148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的65.2亿美元。",
           "url": "https://flash.jin10.com/detail/20251121021703367800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "现货黄金重新转涨，现报4080美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251121032241025800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1180元，较周三夜盘收盘跌45点。成交量393.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "亚马逊(AMZN.O)：计划在密西西比州沃伦县投资30亿美元，创造数百个就业机会并支持经济增长。",
@@ -254,8 +299,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时19分]"
+        },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
           "url": "https://wallstreetcn.com/livenews/3008134",
@@ -263,31 +320,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
           "url": "https://wallstreetcn.com/livenews/3008133",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时19分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
@@ -324,6 +371,17 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
+          "url": "https://flash.jin10.com/detail/20251121034506288800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251121005906259800",
           "source": "金十数据",
@@ -357,6 +415,61 @@
           "time_info": "01时17分"
         },
         {
+          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
+          "url": "https://wallstreetcn.com/livenews/3008137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美国白宫：特朗普经常与马克龙交谈。",
+          "url": "https://flash.jin10.com/detail/20251121025918794800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普政府重组能源部 取消清洁能源办公室",
+          "url": "https://flash.jin10.com/detail/20251121025822476800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望“处决”国会山成员。",
+          "url": "https://wallstreetcn.com/livenews/3008134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
+          "url": "https://flash.jin10.com/detail/20251121025425743800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
           "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
           "url": "https://wallstreetcn.com/livenews/3008053",
           "source": "华尔街见闻-快讯",
@@ -368,6 +481,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国白宫：特朗普无意“处决”国会议员。",
+          "url": "https://flash.jin10.com/detail/20251121024653045800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
           "title": "报道：特朗普悄然提名枪械管理局局长",
           "url": "https://flash.jin10.com/detail/20251121014055857800",
           "source": "金十数据",
@@ -377,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
+          "url": "https://flash.jin10.com/detail/20251121024517824800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
