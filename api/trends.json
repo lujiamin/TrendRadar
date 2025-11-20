@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:07:29.752221+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-11-20T12:19:26.832609+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 12时19分]"
         },
         {
           "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
@@ -88,6 +88,18 @@
           "time_info": "[04时16分 ~ 06时16分]"
         },
         {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时19分]"
+        },
+        {
           "title": "佩斯科夫：俄美元首会晤准备工作尚未完成",
           "url": "https://wallstreetcn.com/livenews/3007393",
           "source": "华尔街见闻-快讯",
@@ -123,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时13分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时19分]"
         },
         {
           "title": "美国能源部：美国打算购买和拥有多达10座核反应堆。 将由日本承诺的5500亿美元投资提供资金来源。",
@@ -281,17 +304,6 @@
           "time_info": "[02时23分 ~ 03时13分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        },
-        {
           "title": "英伟达三季度营收570.1亿美元，分析师预期551.9亿美元。 三季度数据中心营收512亿美元，分析师预期493.4亿美元。 三季度游戏营收43亿美元，分析师预期44.2亿美元。 预计四季度营收650亿美元+/-2%，或637亿-663亿美元，分析师预期619.8亿美元。 英伟达盘后涨1.3%，涨幅随后扩大至4%；CoreWeav、Nebius股价涨4%。",
           "url": "https://wallstreetcn.com/livenews/3007424",
           "source": "华尔街见闻-快讯",
@@ -301,17 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
         },
         {
           "title": "比特币跌破90000美元/枚，续创4月以来新低，日内跌3.21%。",
@@ -345,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "东山精密可能在香港招股筹资约10亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3007630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "美元指数19日上涨",
@@ -474,7 +486,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -639,7 +651,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         },
@@ -713,7 +725,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -791,6 +803,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
+          "url": "https://flash.jin10.com/detail/20251120120628966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
           "url": "https://flash.jin10.com/detail/20251120063519485800",
           "source": "金十数据",
@@ -823,8 +846,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 12时19分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -861,6 +884,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 11时07分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时19分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -923,6 +957,18 @@
           "time_info": "[02时23分 ~ 03时13分]"
         },
         {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 12时19分]"
+        },
+        {
           "title": "美国总统特朗普：我们将开始着手处理苏丹问题。",
           "url": "https://flash.jin10.com/detail/20251120015742029800",
           "source": "金十数据",
@@ -983,15 +1029,15 @@
           "time_info": "[02时23分 ~ 03时13分]"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时07分"
+          "time_info": "12时19分"
         },
         {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
@@ -1058,17 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时07分"
         },
         {
           "title": "美国总统特朗普：我们将与沙特阿拉伯、阿联酋、埃及及其他中东伙伴合作，以结束苏丹的暴行。",
@@ -1190,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
