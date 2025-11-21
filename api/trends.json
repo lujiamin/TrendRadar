@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T07:15:33.187477+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-11-21T09:11:49.023993+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -39,11 +39,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "英伟达市值一夜蒸发1429亿美元",
+          "url": "https://www.toutiao.com/trending/7574350572359696427/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
@@ -55,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "现货黄金失守4070美元/盎司，日内跌幅0.19%。",
+          "url": "https://flash.jin10.com/detail/20251121090028376800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模下滑至7.52万亿美元。",
@@ -86,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -393,7 +416,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -409,13 +432,24 @@
           "time_info": "03时13分"
         },
         {
+          "title": "鸿海董事长称计划每年在AI领域投入20亿至30亿美元",
+          "url": "https://wallstreetcn.com/livenews/3008273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3008204",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -426,7 +460,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -448,7 +482,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -486,6 +520,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "韩国11月1-20日出口同比增长8.2%，进口增长3.7%，贸易顺差24.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "亚马逊打算对美国密西西比州Warren County投资至少30亿美元，预计将给当地创造数百个新就业岗位。",
           "url": "https://wallstreetcn.com/livenews/3008076",
           "source": "华尔街见闻-快讯",
@@ -511,7 +556,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -641,6 +686,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251121005906259800",
           "source": "金十数据",
@@ -663,6 +719,28 @@
           "time_info": "00时21分"
         },
         {
+          "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
+          "url": "https://wallstreetcn.com/articles/3759760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
           "url": "https://flash.jin10.com/detail/20251121005609305800",
           "source": "金十数据",
@@ -680,7 +758,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -691,7 +769,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -702,7 +780,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -713,7 +791,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -724,7 +802,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -768,7 +846,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -790,7 +868,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -839,6 +917,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "特朗普结束俄乌战争28点和平计划曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%8928%E7%82%B9%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
           "url": "https://flash.jin10.com/detail/20251121013301455800",
           "source": "金十数据",
@@ -862,7 +951,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -873,7 +962,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
