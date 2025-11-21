@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T20:31:38.695640+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2025-11-21T21:26:20.108807+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 94,
+      "match_count": 100,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -641,9 +641,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
@@ -699,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "美国至11月14日当周外国央行持有美国国债 -78.79亿美元，前值-238.05亿美元。",
@@ -877,6 +899,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "月之暗面接近达成新一轮融资 公司估值或达约40亿美元",
+          "url": "https://wallstreetcn.com/livenews/3008714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "市场消息：扎克伯格及Meta Platforms(META.O)董事同意就一宗涉及用户隐私的股东诉讼达成1.9亿美元和解。",
           "url": "https://flash.jin10.com/detail/20251121051414084800",
           "source": "金十数据",
@@ -908,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯表示对近期降息持开放态度后，美股三大股指期货短线拉升，纳指期货跌幅收窄至0.2%，标普500指数期货涨0.16%；美债上涨；现货黄金短线上扬近10美元。",
+          "url": "https://wallstreetcn.com/livenews/3008713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "美元兑日元USD/JPY日内跌超0.50%，现报156.67。",
@@ -943,6 +987,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "欧元兑美元跌幅扩大，下跌0.3%，至两周低点1.1498。",
+          "url": "https://wallstreetcn.com/livenews/3008708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "WTI原油期货突破60美元/桶，日内涨1.27%。",
           "url": "https://flash.jin10.com/detail/20251120232434385800",
           "source": "金十数据",
@@ -963,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "比特币失守81000美元/枚，日内跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3008707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "WTI原油期货日内跌超2.00%，现报57.82美元/桶。",
@@ -1089,7 +1155,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -1114,8 +1180,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时25分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 21时26分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -1259,6 +1325,18 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
+          "title": "特朗普为何取消对巴西40%食品关税",
+          "url": "https://www.toutiao.com/trending/7575096459230449162/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时26分]"
+        },
+        {
           "title": "特朗普重提：我对普京挺失望",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
           "source": "百度热搜",
@@ -1397,7 +1475,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1435,15 +1513,15 @@
           "time_info": "04时19分"
         },
         {
-          "title": "特朗普为何取消对巴西40%食品关税",
-          "url": "https://www.toutiao.com/trending/7575096459230449162/",
-          "source": "今日头条",
+          "title": "特朗普的乌克兰和平计划包括以北约“第5条”为蓝本的安全保障，这将使美国和欧洲盟国将对乌克兰的攻击视为对“跨大西洋共同体”的攻击。",
+          "url": "https://flash.jin10.com/detail/20251121205930155800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "21时26分"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -1584,7 +1662,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
