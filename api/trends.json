@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T18:17:44.577363+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2025-11-21T19:14:55.544775+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 93,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -74,15 +74,15 @@
           "time_info": "[11时08分 ~ 13时17分]"
         },
         {
-          "title": "WTI原油日内下跌2.00%，现报57.51美元/桶。布伦特原油现跌1.78%。",
-          "url": "https://flash.jin10.com/detail/20251121181128197800",
+          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
+          "url": "https://flash.jin10.com/detail/20251121190142654800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "19时14分"
         },
         {
           "title": "据声明称，阿联酋与加拿大启动一项规模达500亿美元的投资框架。",
@@ -118,17 +118,6 @@
           "time_info": "09时11分"
         },
         {
-          "title": "现货白银失守49美元/盎司，为11月10日以来首次，日内跌幅3.29%。",
-          "url": "https://flash.jin10.com/detail/20251121181108759800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "英镑兑美元GBP/USD突破1.31，日内涨0.21%。",
           "url": "https://flash.jin10.com/detail/20251121164725235800",
           "source": "金十数据",
@@ -146,18 +135,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "比特币再度向下触及82000美元/枚，日内跌5.38%。",
-          "url": "https://wallstreetcn.com/livenews/3008619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -276,6 +254,18 @@
           "time_info": "[12时20分 ~ 13时17分]"
         },
         {
+          "title": "WTI原油日内下跌2.00%，现报57.51美元/桶。布伦特原油现跌1.78%。",
+          "url": "https://flash.jin10.com/detail/20251121181128197800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
+        },
+        {
           "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
           "url": "https://wallstreetcn.com/livenews/3008155",
           "source": "华尔街见闻-快讯",
@@ -286,6 +276,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "现货白银失守49美元/盎司，为11月10日以来首次，日内跌幅3.29%。",
+          "url": "https://flash.jin10.com/detail/20251121181108759800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "汇丰银行：将沃尔玛百货(WMT.N)目标股价从121美元上调至122美元。",
@@ -310,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "比特币再度向下触及82000美元/枚，日内跌5.38%。",
+          "url": "https://wallstreetcn.com/livenews/3008619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "日本内阁批准了21.3万亿日元（1354亿美元）的经济刺激计划。",
@@ -383,6 +397,17 @@
           "time_info": "[16时22分 ~ 16时23分]"
         },
         {
+          "title": "全球股市重挫，币圈流血不止，比特币跌破8.2万美元，金银走低，现货白银跌超3.7%",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "全球股市重挫，币圈流血不止，比特币跌破8.4万美元，欧股股指集体低开，日韩大幅收跌",
           "url": "https://wallstreetcn.com/articles/3759842",
           "source": "华尔街见闻",
@@ -452,6 +477,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3008615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率1.843%，投标倍数2.41。",
@@ -629,17 +666,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3008615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "据声明称，阿联酋与加拿大启动一项规模达500亿美元的投资框架。阿联酋在加拿大的投资将依托现有框架拓展至人工智能与能源领域。",
@@ -851,6 +877,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "现货白银日内大跌4.00%，现报48.63美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251121183125404800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3008201",
           "source": "华尔街见闻-快讯",
@@ -871,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "纽约银日内跌幅达4%，报48.91美元/盎司；现货白银日内跌幅达3.5%，报48.84美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3008629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "亚马逊(AMZN.O)：计划在密西西比州沃伦县投资30亿美元，创造数百个就业机会并支持经济增长。",
@@ -917,6 +965,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "纽约期银日内大跌4.00%，现报48.29美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251121182147922800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "币圈再跳水，比特币24小时跌幅超9%，跌破82000美元/枚",
           "url": "https://wallstreetcn.com/livenews/3008506",
           "source": "华尔街见闻-快讯",
@@ -934,7 +993,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -945,7 +1004,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -1019,7 +1078,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -1035,6 +1094,18 @@
           "time_info": "[09时11分 ~ 16时23分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
           "url": "https://wallstreetcn.com/articles/3759743",
           "source": "华尔街见闻",
@@ -1045,18 +1116,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 18时17分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -1210,6 +1269,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
+          "url": "https://flash.jin10.com/detail/20251121184349648800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251121005906259800",
           "source": "金十数据",
@@ -1320,6 +1390,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-21）",
+          "url": "https://flash.jin10.com/detail/20251121182645395800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
           "url": "https://flash.jin10.com/detail/20251121025918794800",
           "source": "金十数据",
@@ -1384,6 +1465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "德国总理默茨将与美国总统特朗普和乌克兰总统泽连斯基通话。",
+          "url": "https://flash.jin10.com/detail/20251121182101193800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
