@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T12:22:53.937426+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-11-26T13:17:03.027890+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -46,17 +46,30 @@
           "time_info": "[00时21分 ~ 09时13分]"
         },
         {
+          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
+          "url": "https://www.cls.cn/detail/2210921",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
           "title": "大外交｜中美元首通话重点聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037749",
           "source": "澎湃新闻",
           "ranks": [
             14,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 13时17分]"
         },
         {
           "title": "英伟达跌超6% 较高点损失1万亿美元",
@@ -69,18 +82,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
-          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
-          "url": "https://www.cls.cn/detail/2210921",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
         },
         {
           "title": "外交部：此次中美元首通话由美方发起",
@@ -112,17 +113,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时25分 ~ 07时15分]"
-        },
-        {
-          "title": "阿布扎比国家石油天然气公司：与EMSTEEL签署价值40亿美元、为期20年的天然气供应协议，助力阿联酋工业发展。",
-          "url": "https://flash.jin10.com/detail/20251126114905420800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
@@ -191,6 +181,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "铜价因Codelco报价与美元走弱再度上涨",
+          "url": "https://flash.jin10.com/detail/20251126120644500800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "国台办回应中美元首通话",
           "url": "https://news.ifeng.com/c/8oainjSYx4O",
           "source": "凤凰网",
@@ -234,6 +235,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "阿布扎比国家石油天然气公司：与EMSTEEL签署价值40亿美元、为期20年的天然气供应协议，助力阿联酋工业发展。",
+          "url": "https://flash.jin10.com/detail/20251126114905420800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.562%，投标倍数2.41。",
@@ -409,6 +422,30 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "澳元兑美元AUD/USD向上触及0.65，日内涨0.48%。",
+          "url": "https://flash.jin10.com/detail/20251126112648406800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
+        },
+        {
+          "title": "现货黄金上涨近1%，至每盎司4169.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3010603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
+        },
+        {
           "title": "美元指数DXY日内跌超0.50%，现报99.70。",
           "url": "https://flash.jin10.com/detail/20251125234220834800",
           "source": "金十数据",
@@ -479,6 +516,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "瑞穗证券：“哈塞特”效应或令美元承压",
+          "url": "https://flash.jin10.com/detail/20251126111856832800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时17分]"
         },
         {
           "title": "美国10月预算赤字2844亿美元，分析师预期赤字2300亿美元。（MNI）",
@@ -588,28 +637,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "澳元兑美元AUD/USD向上触及0.65，日内涨0.48%。",
-          "url": "https://flash.jin10.com/detail/20251126112648406800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "现货黄金上涨近1%，至每盎司4169.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3010603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "戴尔(DELL.N)2026财年Q3营收270.1亿美元，市场预期271.26亿美元，上年同期243.66亿美元。",
           "url": "https://flash.jin10.com/detail/20251126050526992800",
           "source": "金十数据",
@@ -643,15 +670,15 @@
           "time_info": "11时12分"
         },
         {
-          "title": "瑞穗证券：“哈塞特”效应或令美元承压",
-          "url": "https://flash.jin10.com/detail/20251126111856832800",
-          "source": "金十数据",
+          "title": "东方汇理：美联储降息预期及新主席人选消息令美元承压走弱",
+          "url": "https://wallstreetcn.com/livenews/3010620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "13时17分"
         },
         {
           "title": "美元指数25日下跌",
@@ -759,7 +786,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -917,6 +944,53 @@
           "time_info": "[00时21分 ~ 12时22分]"
         },
         {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时16分 ~ 13时17分]"
+        },
+        {
+          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
+          "url": "https://www.cls.cn/detail/2210938",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
+          "url": "https://news.ifeng.com/c/8oaUqYk7kJR",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普电话后，日本沮丧了三次",
+          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -926,18 +1000,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时16分 ~ 12时22分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -952,41 +1014,6 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
-          "url": "https://www.cls.cn/detail/2210938",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
-        },
-        {
-          "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
-          "url": "https://news.ifeng.com/c/8oaUqYk7kJR",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
-        },
-        {
-          "title": "特朗普电话后，日本沮丧了三次",
-          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
-        },
-        {
           "title": "特朗普电话后 日本沮丧了三次",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
           "source": "百度热搜",
@@ -995,8 +1022,85 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://www.cls.cn/detail/2210903",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时17分]"
+        },
+        {
+          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
+          "url": "https://www.cls.cn/detail/2210885",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普电话后日本沮丧了三次",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
+          "time_info": "[11时12分 ~ 13时17分]"
+        },
+        {
+          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
+          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普在白宫赦免火鸡 引全场爆笑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A6%E5%85%8D%E7%81%AB%E9%B8%A1+%E5%BC%95%E5%85%A8%E5%9C%BA%E7%88%86%E7%AC%91",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
+        },
+        {
+          "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
+          "url": "https://www.cls.cn/detail/2210988",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时17分]"
         },
         {
           "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
@@ -1021,20 +1125,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://www.cls.cn/detail/2210903",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时22分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3010321",
           "source": "华尔街见闻-快讯",
@@ -1046,18 +1136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
-          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
-          "url": "https://www.cls.cn/detail/2210885",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -1149,30 +1227,6 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
-          "title": "特朗普电话后日本沮丧了三次",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 12时22分]"
-        },
-        {
-          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
-          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
-        },
-        {
           "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
           "url": "https://wallstreetcn.com/livenews/3010375",
           "source": "华尔街见闻-快讯",
@@ -1185,17 +1239,16 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "特朗普在白宫赦免火鸡 引全场爆笑",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A6%E5%85%8D%E7%81%AB%E9%B8%A1+%E5%BC%95%E5%85%A8%E5%9C%BA%E7%88%86%E7%AC%91",
+          "title": "美财长：特朗普明年或两次访华",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
-            25,
-            12,
-            19
+            15,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时22分]"
+          "time_info": "[11时12分 ~ 13时17分]"
         },
         {
           "title": "特朗普：俄乌和平协议非常接近达成",
@@ -1235,18 +1288,6 @@
           "time_info": "[09时12分 ~ 11时12分]"
         },
         {
-          "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
-          "url": "https://www.cls.cn/detail/2210988",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 12时22分]"
-        },
-        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -1280,18 +1321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "美财长：特朗普明年或两次访华",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 12时22分]"
         },
         {
           "title": "台评论员称高市可能被特朗普骂了",
@@ -1548,8 +1577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 13时17分]"
         }
       ]
     }
