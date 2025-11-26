@@ -1,12 +1,49 @@
 {
-  "generated_at": "2025-11-27T03:13:40.950279+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-11-27T04:18:50.728862+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.57万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3011040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "周三（11月26日），美联储隔夜逆回购协议（RRP）使用规模为22.17亿美元，上个交易日报23.14亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3011018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时18分]"
+        },
+        {
+          "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3011016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时18分]"
+        },
         {
           "title": "现货白银站上53美元/盎司，为11月14日以来首次，日内涨近3%。",
           "url": "https://flash.jin10.com/detail/20251127004201230800",
@@ -20,18 +57,6 @@
           "time_info": "[01时15分 ~ 02时20分]"
         },
         {
-          "title": "周三（11月26日），美联储隔夜逆回购协议（RRP）使用规模为22.17亿美元，上个交易日报23.14亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3011018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时13分]"
-        },
-        {
           "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3010994",
           "source": "华尔街见闻-快讯",
@@ -43,18 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3011016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时13分]"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.781%，投标倍数2.46。美国7年期国债收益率在440亿美元国债拍卖后小幅走高。",
@@ -93,6 +106,30 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
+          "title": "LME期铜收涨157美元，报10975美元/吨。 LME期铝收涨60美元，报2861美元/吨。 LME期锌收涨64美元，报3056美元/吨。 LME期铅收跌1美元，报1980美元/吨。 LME期镍收跌49美元，报14823美元/吨。 LME期锡收涨444美元，报37991美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3011010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时18分]"
+        },
+        {
+          "title": "美国在台官员称“欢迎台湾400亿美元补充防务预算”，外交部回应",
+          "url": "https://www.cls.cn/detail/2211519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时18分]"
+        },
+        {
           "title": "纽约期银突破53美元/盎司，日内涨2.66%。",
           "url": "https://flash.jin10.com/detail/20251126235525427800",
           "source": "金十数据",
@@ -105,18 +142,6 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
-          "title": "LME期铜收涨157美元，报10975美元/吨。 LME期铝收涨60美元，报2861美元/吨。 LME期锌收涨64美元，报3056美元/吨。 LME期铅收跌1美元，报1980美元/吨。 LME期镍收跌49美元，报14823美元/吨。 LME期锡收涨444美元，报37991美元/吨。 LME期钴收平，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3011010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时13分]"
-        },
-        {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.781%，投标倍数2.46。",
           "url": "https://wallstreetcn.com/livenews/3010985",
           "source": "华尔街见闻-快讯",
@@ -127,17 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时20分]"
-        },
-        {
-          "title": "美国在台官员称“欢迎台湾400亿美元补充防务预算”，外交部回应",
-          "url": "https://www.cls.cn/detail/2211519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时13分]"
         },
         {
           "title": "面临最高380亿美元罚款 苹果对印度新修订的反垄断法提起首例司法挑战",
@@ -164,6 +178,50 @@
           "time_info": "[02时20分 ~ 03时13分]"
         },
         {
+          "title": "阿联酋部署10亿美元资金，用于支持也门的能源行业。",
+          "url": "https://wallstreetcn.com/livenews/3011034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "WTI 1月原油期货收涨0.70美元，涨幅将近1.21%，报58.65美元/桶。 布伦特1月原油期货收报63.13美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3011032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）与乌克兰围绕82亿美元EFF安排达成工作人员层面的协议。",
+          "url": "https://wallstreetcn.com/livenews/3011031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报58.55美元/桶。 布伦特原油日内涨幅达1.0%，报62.42美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3011030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "纽约期银日内涨超3.00%，现报53.18美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251127001659829800",
           "source": "金十数据",
@@ -181,15 +239,59 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0754元，较周二夜盘收盘涨91点。成交量478.42亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3011026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至1.00%，现报62.45美元/桶；WTI原油涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251127032156605800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "国际货币基金组织：国际货币基金组织与乌克兰当局就一项新的为期48个月、金额为82亿美元的扩展基金机制安排达成工作人员级别协议。",
+          "url": "https://flash.jin10.com/detail/20251127031950138800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至11月25日的6天内，货币市场基金总资产增至7.57万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251127031009276800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -199,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -210,8 +312,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -222,8 +324,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -233,8 +335,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
+          "url": "https://flash.jin10.com/detail/20251127035707574800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -243,11 +356,12 @@
           "ranks": [
             26,
             24,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -255,11 +369,68 @@
           "source": "百度热搜",
           "ranks": [
             25,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "美财长：特朗普明年或将两次访华",
+          "url": "https://www.douyin.com/hot/2318105",
+          "source": "抖音",
+          "ranks": [
+            24,
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。 宣布停止对南非的补贴，将停止向南非支付所有款项和补贴；这一决定立即生效",
+          "url": "https://wallstreetcn.com/livenews/3011035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
+          "url": "https://flash.jin10.com/detail/20251127034310737800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://wallstreetcn.com/livenews/3011041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
+          "url": "https://flash.jin10.com/detail/20251127034303790800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
@@ -268,20 +439,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
         {
-          "title": "美财长：特朗普明年或将两次访华",
-          "url": "https://www.douyin.com/hot/2318105",
-          "source": "抖音",
+          "title": "美联储褐皮书：两个地区称经济温和下滑，特朗普政府关门对消费者购买产生负面影响",
+          "url": "https://wallstreetcn.com/livenews/3011027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "04时18分"
         }
       ]
     },
@@ -298,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -309,8 +480,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     },
