@@ -1,45 +1,12 @@
 {
-  "generated_at": "2025-11-27T02:20:58.993154+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-11-27T03:13:40.950279+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "周三（11月26日），美联储隔夜逆回购协议（RRP）使用规模为22.17亿美元，上个交易日报23.14亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3011018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3011016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "比特币站上90000美元/枚，日内涨3.01%。",
-          "url": "https://flash.jin10.com/detail/20251127020823043800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
         {
           "title": "现货白银站上53美元/盎司，为11月14日以来首次，日内涨近3%。",
           "url": "https://flash.jin10.com/detail/20251127004201230800",
@@ -51,6 +18,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时20分]"
+        },
+        {
+          "title": "周三（11月26日），美联储隔夜逆回购协议（RRP）使用规模为22.17亿美元，上个交易日报23.14亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3011018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
+        },
+        {
+          "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
+        },
+        {
+          "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3011016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.781%，投标倍数2.46。美国7年期国债收益率在440亿美元国债拍卖后小幅走高。",
@@ -65,6 +69,18 @@
           "time_info": "[01时15分 ~ 02时20分]"
         },
         {
+          "title": "比特币站上90000美元/枚，日内涨3.01%。",
+          "url": "https://flash.jin10.com/detail/20251127020823043800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
+        },
+        {
           "title": "英镑兑美元上涨0.6%，报1.3238。",
           "url": "https://wallstreetcn.com/livenews/3010973",
           "source": "华尔街见闻-快讯",
@@ -75,18 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
-        },
-        {
-          "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3010994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时20分]"
         },
         {
           "title": "纽约期银突破53美元/盎司，日内涨2.66%。",
@@ -101,6 +105,18 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
+          "title": "LME期铜收涨157美元，报10975美元/吨。 LME期铝收涨60美元，报2861美元/吨。 LME期锌收涨64美元，报3056美元/吨。 LME期铅收跌1美元，报1980美元/吨。 LME期镍收跌49美元，报14823美元/吨。 LME期锡收涨444美元，报37991美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3011010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
+        },
+        {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.781%，投标倍数2.46。",
           "url": "https://wallstreetcn.com/livenews/3010985",
           "source": "华尔街见闻-快讯",
@@ -113,15 +129,39 @@
           "time_info": "[01时15分 ~ 02时20分]"
         },
         {
-          "title": "LME期铜收涨157美元，报10975美元/吨。 LME期铝收涨60美元，报2861美元/吨。 LME期锌收涨64美元，报3056美元/吨。 LME期铅收跌1美元，报1980美元/吨。 LME期镍收跌49美元，报14823美元/吨。 LME期锡收涨444美元，报37991美元/吨。 LME期钴收平，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3011010",
-          "source": "华尔街见闻-快讯",
+          "title": "美国在台官员称“欢迎台湾400亿美元补充防务预算”，外交部回应",
+          "url": "https://www.cls.cn/detail/2211519",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
+        },
+        {
+          "title": "面临最高380亿美元罚款 苹果对印度新修订的反垄断法提起首例司法挑战",
+          "url": "https://flash.jin10.com/detail/20251127015301989800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
+        },
+        {
+          "title": "法院文件显示，根据新的法律，苹果公司在印度反垄断案件中可能面临高达380亿美元的罚款。",
+          "url": "https://flash.jin10.com/detail/20251127014113779800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
         },
         {
           "title": "纽约期银日内涨超3.00%，现报53.18美元/盎司。",
@@ -135,43 +175,21 @@
           "time_info": "01时15分"
         },
         {
-          "title": "美国在台官员称“欢迎台湾400亿美元补充防务预算”，外交部回应",
-          "url": "https://www.cls.cn/detail/2211519",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "面临最高380亿美元罚款 苹果对印度新修订的反垄断法提起首例司法挑战",
-          "url": "https://flash.jin10.com/detail/20251127015301989800",
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的22.17亿美元。",
+          "url": "https://flash.jin10.com/detail/20251127021837192800",
           "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "法院文件显示，根据新的法律，苹果公司在印度反垄断案件中可能面临高达380亿美元的罚款。",
-          "url": "https://flash.jin10.com/detail/20251127014113779800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "03时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -181,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -192,8 +210,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -204,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -215,8 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -224,11 +242,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -241,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
+          "url": "https://flash.jin10.com/detail/20251127021445354800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -268,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -279,8 +309,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         }
       ]
     },
@@ -293,11 +323,12 @@
           "url": "https://flash.jin10.com/detail/20251127021140906800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时13分]"
         }
       ]
     }
