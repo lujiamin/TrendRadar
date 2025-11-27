@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T03:13:15.048153+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-11-28T04:16:48.895790+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "中美元首近十年来首提“军国主义”",
@@ -30,31 +30,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0800元，较周三夜盘收盘跌46点。成交量412.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3011642",
-          "source": "华尔街见闻-快讯",
+          "title": "WTI原油日内涨幅达1.00%，现报59.23美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251128031602962800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "WTI原油站上59美元/桶，日内涨0.95%。",
-          "url": "https://flash.jin10.com/detail/20251128020901247800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "time_info": "04时16分"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
@@ -63,11 +51,37 @@
           "ranks": [
             3,
             13,
-            22
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时16分]"
+        },
+        {
+          "title": "WTI原油站上59美元/桶，日内涨0.95%。",
+          "url": "https://flash.jin10.com/detail/20251128020901247800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时13分]"
+          "time_info": "[02时23分 ~ 04时16分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0800元，较周三夜盘收盘跌46点。成交量412.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3011642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时16分]"
         },
         {
           "title": "LME期铜收跌36美元，报10940美元/吨。 LME期铝收跌32美元，报2828美元/吨。 LME期锌收跌42美元，报3015美元/吨。 LME期铅收涨7美元，报1986美元/吨。 LME期镍收涨10美元，报14833美元/吨。 LME期锡收涨50美元，报38041美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -75,11 +89,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时16分]"
+        },
+        {
+          "title": "周四（11月27日），韩元兑美元最终涨0.43%，报1462.32韩元，日内大部分时间高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3011621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时16分]"
         },
         {
           "title": "机构：美元可能在2026年因美联储的降息而下跌",
@@ -94,16 +122,16 @@
           "time_info": "[00时20分 ~ 01时14分]"
         },
         {
-          "title": "周四（11月27日），韩元兑美元最终涨0.43%，报1462.32韩元，日内大部分时间高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3011621",
+          "title": "布伦特1月原油期货收涨0.21美元，涨幅超过0.33%，报63.34美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3011635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            19
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 04时16分]"
         },
         {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
@@ -118,15 +146,15 @@
           "time_info": "[00时20分 ~ 01时14分]"
         },
         {
-          "title": "布伦特1月原油期货收涨0.21美元，涨幅超过0.33%，报63.34美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3011635",
-          "source": "华尔街见闻-快讯",
+          "title": "秘鲁央行在即期市场买入7800万美元。",
+          "url": "https://flash.jin10.com/detail/20251128024331640800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时16分"
         }
       ]
     },
@@ -145,8 +173,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -157,8 +185,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -169,19 +197,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
           "url": "https://flash.jin10.com/detail/20251128021209382800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时16分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -219,11 +248,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -233,8 +263,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时16分]"
         }
       ]
     }
