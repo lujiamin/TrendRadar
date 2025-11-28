@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-29T02:22:55.196472+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-11-29T03:13:08.032158+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0740元，较周四夜盘收盘涨60点。成交量436.42亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
         {
           "title": "纽约期银向上触及56美元/盎司，日内涨4.46%。现货白银日内暴涨2美元，现报55.35美元/盎司，涨幅3.75%。",
           "url": "https://flash.jin10.com/detail/20251128234651792800",
@@ -104,6 +115,18 @@
           "time_info": "[01时14分 ~ 02时22分]"
         },
         {
+          "title": "周五（11月28日），韩元兑美元最终跌0.37%，报1467.70韩元。 11月3-13日，韩元持续走低，略微回升之后，11月14-24日再度持续下挫——最低跌至1479.47韩元。",
+          "url": "https://wallstreetcn.com/livenews/3012353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时13分]"
+        },
+        {
           "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
           "url": "https://www.zhihu.com/question/1977385646940189319",
           "source": "知乎",
@@ -114,6 +137,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时14分]"
+        },
+        {
+          "title": "纽约银日内涨幅达6.0%，报56.85美元/盎司。 现货白银日内涨幅达5.5%，报56.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3012351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时13分]"
         },
         {
           "title": "布伦特原油日内涨幅扩大至1.00%，现报63.28美元/桶；WTI原油现涨0.84%。",
@@ -164,37 +199,49 @@
           "time_info": "[01时14分 ~ 02时22分]"
         },
         {
-          "title": "周五（11月28日），韩元兑美元最终跌0.37%，报1467.70韩元。 11月3-13日，韩元持续走低，略微回升之后，11月14-24日再度持续下挫——最低跌至1479.47韩元。",
-          "url": "https://wallstreetcn.com/livenews/3012353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "纽约银日内涨幅达6.0%，报56.85美元/盎司。 现货白银日内涨幅达5.5%，报56.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3012351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
           "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
           "url": "https://wallstreetcn.com/livenews/3012343",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时13分]"
+        },
+        {
+          "title": "周五（11月28日），美联储隔夜逆回购协议（RRP）使用规模为75.61亿美元，上个交易日报22.17亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的75.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20251129021813347800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "纽约期金突破4250美元/盎司，日内涨1.14%。",
+          "url": "https://flash.jin10.com/detail/20251129015400267800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报59.24美元/桶。",
@@ -244,7 +291,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -255,8 +302,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -266,8 +313,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
+          "url": "https://flash.jin10.com/detail/20251129024908174800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -278,19 +336,31 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
           "url": "https://www.douyin.com/hot/2319972",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 03时13分]"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时22分]"
+          "time_info": "[03时12分 ~ 03时13分]"
         }
       ]
     }
