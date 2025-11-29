@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T15:15:22.374440+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-11-29T16:20:51.858222+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美、布两油短线下挫0.6美元，现分别报58.44美元/桶和62.8美元/桶。",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时15分 ~ 13时16分]"
+        },
+        {
+          "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
+          "url": "https://flash.jin10.com/detail/20251129154414299800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
@@ -758,11 +769,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 16时20分]"
         }
       ]
     }
