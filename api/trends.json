@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:27:45.433168+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2025-12-01T15:20:47.928425+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时20分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时20分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -77,8 +77,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时27分]"
+          "time_info": "[11时47分 ~ 15时20分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时25分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时27分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -210,6 +210,17 @@
           "time_info": "[09时25分 ~ 12时46分]"
         },
         {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时20分]"
+        },
+        {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
           "url": "https://flash.jin10.com/detail/20251201054935386800",
           "source": "金十数据",
@@ -270,15 +281,16 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
-          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
-          "source": "凤凰网",
+          "title": "特朗普：俄乌和平协议很有可能达成",
+          "url": "https://www.toutiao.com/trending/7578340057447514175/",
+          "source": "今日头条",
           "ranks": [
-            6
+            15,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时20分]"
         },
         {
           "title": "特朗普证实与马杜罗通话",
@@ -334,17 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "特朗普：俄乌和平协议很有可能达成",
-          "url": "https://www.toutiao.com/trending/7578340057447514175/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：我们认为委内瑞拉不是一个友好国家。",
@@ -405,7 +406,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "媒体报道爱马仕继承人手中 150 亿美元股份被骗，究竟发生了什么？这笔股份能追回来吗？",
@@ -417,8 +418,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时20分]"
         },
         {
           "title": "现货黄金短线下挫20美元，回落至4210美元/盎司下方，日内跌0.19%。",
@@ -465,28 +466,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "WTI原油向上触及60美元/桶，为11月20日以来首次，日内涨2.46%。",
-          "url": "https://flash.jin10.com/detail/20251201141100019800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "印度卢比兑美元跌破88.49，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3012832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "美、布两油周一盘初走高1%，现分别报59.36美元/桶和63.64美元/桶。",
           "url": "https://flash.jin10.com/detail/20251201070406449800",
           "source": "金十数据",
@@ -526,7 +505,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -537,11 +516,36 @@
           "ranks": [
             23,
             6,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 15时20分]"
+        },
+        {
+          "title": "WTI原油向上触及60美元/桶，为11月20日以来首次，日内涨2.46%。",
+          "url": "https://flash.jin10.com/detail/20251201141100019800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时20分]"
+        },
+        {
+          "title": "印度卢比兑美元跌破88.49，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3012832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时20分]"
         },
         {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
@@ -562,7 +566,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -578,15 +582,37 @@
           "time_info": "11时47分"
         },
         {
+          "title": "印度卢比兑美元一度跌至89.7575的历史低位。有交易员称，印度央行可能在抛售美元，以抑制卢比跌势。",
+          "url": "https://flash.jin10.com/detail/20251201142848033800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "爱马仕继承人的150亿美元去哪了",
           "url": "https://www.toutiao.com/trending/7578690573083610650/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "汇丰：将赛默飞世尔(TMO.N)评级从“持有”上调至“买入”，目标价从550美元上调至670美元。",
+          "url": "https://flash.jin10.com/detail/20251201142349439800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "布伦特原油站上64美元/桶，日内涨1.76%。",
@@ -600,13 +626,46 @@
           "time_info": "13时25分"
         },
         {
+          "title": "布伦特原油涨超2%，现报63.80美元/桶；WTI原油涨超2%，现报59.95美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3012834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "汇丰：将埃克森美孚石油(XOM.N)目标价从121美元上调至126美元。",
+          "url": "https://flash.jin10.com/detail/20251201142124566800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "汇丰：将雪佛龙(CVX.N)评级从“持有”上调至“买入”，目标价从166美元上调至169美元。",
+          "url": "https://flash.jin10.com/detail/20251201142106266800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "WTI原油日内涨幅扩大至2.00%，现报59.74美元/桶。",
           "url": "https://flash.jin10.com/detail/20251201132458394800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -617,7 +676,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
