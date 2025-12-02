@@ -1,12 +1,318 @@
 {
-  "generated_at": "2025-12-03T00:22:49.463233+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-03T01:46:28.101653+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 15,
+      "keyword_group": "特朗普",
+      "match_count": 24,
       "titles": [
+        {
+          "title": "白宫：特朗普已终止“无休止”援乌",
+          "url": "https://news.ifeng.com/c/8okzUol0Uy6",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时46分]"
+        },
+        {
+          "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
+          "url": "https://news.ifeng.com/c/8oksAa0SOcr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时46分]"
+        },
+        {
+          "title": "美国总统特朗普：将重建杜勒斯机场。",
+          "url": "https://flash.jin10.com/detail/20251203013412119800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：医疗保健问题上将发生一些事，（但进展可能）不会太容易。",
+          "url": "https://wallstreetcn.com/livenews/3013844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：国民警卫队将在几周内前往新奥尔良。",
+          "url": "https://flash.jin10.com/detail/20251203012159606800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "特朗普：将于明年初宣布美联储主席人选。“可能”在明年初宣布。继续批评鲍威尔（现任美联储主席）。",
+          "url": "https://wallstreetcn.com/livenews/3013842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：华盛顿特区已经变成了一个非常安全的地方。",
+          "url": "https://flash.jin10.com/detail/20251203011807713800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
+          "url": "https://flash.jin10.com/detail/20251203011436938800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
+          "url": "https://flash.jin10.com/detail/20251203011418257800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "特朗普将于明年初宣布美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20251203011403459800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：我的体检全部得了A。",
+          "url": "https://flash.jin10.com/detail/20251203011020121800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：将用关税收入发放退款。",
+          "url": "https://flash.jin10.com/detail/20251203010635367800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
+          "url": "https://flash.jin10.com/detail/20251203010547676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
+          "url": "https://flash.jin10.com/detail/20251203010532977800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：医保领域将有新动向，但这不会一帆风顺。与民主党人就医保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251203010418509800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "巴西总统府：巴西总统卢拉与美国总统特朗普就贸易、经济及打击有组织犯罪进行了会谈。",
+          "url": "https://flash.jin10.com/detail/20251203010009669800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "巴西总统府：巴西总统卢拉与美国总统特朗普通话40分钟，会谈非常富有成效。",
+          "url": "https://flash.jin10.com/detail/20251203005842959800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席应该降息。",
+          "url": "https://flash.jin10.com/detail/20251203005837291800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普重申对鲍威尔的批评，特朗普表示连摩根大通CEO戴蒙都说鲍威尔应该降低利率。",
+          "url": "https://flash.jin10.com/detail/20251203005821190800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20251203005736487800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国总统特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作。",
+          "url": "https://flash.jin10.com/detail/20251203005722605800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "金十提示：特朗普开始在白宫内阁会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251203005635949800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "市场消息：普京开始与美国特使维特科夫以及特朗普的女婿库什纳举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251203004907808800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
+          "url": "https://flash.jin10.com/detail/20251203004623208800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3013816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时46分]"
+        },
+        {
+          "title": "美国汽油价格自2021年以来首次跌破每加仑3美元",
+          "url": "https://wallstreetcn.com/livenews/3013814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时46分]"
+        },
+        {
+          "title": "再创新高，美国货币市场基金规模首次突破8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3013812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时46分]"
+        },
         {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
           "url": "https://flash.jin10.com/detail/20251202235944168800",
@@ -30,17 +336,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3013816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
           "title": "美国货币市场基金资产规模首次突破8万亿美元",
           "url": "https://flash.jin10.com/detail/20251202235549187800",
           "source": "金十数据",
@@ -52,26 +347,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美国汽油价格自2021年以来首次跌破每加仑3美元",
-          "url": "https://wallstreetcn.com/livenews/3013814",
+          "title": "法国巴黎银行：预计2026年欧元上涨，日元下跌，美元持稳",
+          "url": "https://wallstreetcn.com/livenews/3013837",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "再创新高，美国货币市场基金规模首次突破8万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3013812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时46分"
         },
         {
           "title": "Prosus在11月24-28日当周按均价54.6114欧元回购股票181.0829万股，总体耗资0.989亿欧元（折合1.145亿美元）。 Naspers同期按均价1131.1265南非兰特回购58.7399万股，总体耗资6.644亿兰特（折合0.386亿美元）。",
@@ -176,18 +460,30 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
           "url": "https://wallstreetcn.com/articles/3760479",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时46分]"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时46分"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -206,34 +502,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "白宫：特朗普已终止“无休止”援乌",
-          "url": "https://news.ifeng.com/c/8okzUol0Uy6",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
-          "url": "https://news.ifeng.com/c/8oksAa0SOcr",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
