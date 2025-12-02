@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T05:16:46.419494+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-12-03T06:15:32.716551+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时15分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -26,30 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时16分]"
-        },
-        {
-          "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
-          "url": "https://wallstreetcn.com/livenews/3013902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：与巴西总统卢拉的谈话很棒。 我喜欢卢拉。",
-          "url": "https://wallstreetcn.com/livenews/3013899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时15分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -102,6 +80,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时20分]"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
+          "url": "https://wallstreetcn.com/livenews/3013902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
@@ -202,6 +192,18 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
+          "title": "美国总统特朗普：与巴西总统卢拉的谈话很棒。 我喜欢卢拉。",
+          "url": "https://wallstreetcn.com/livenews/3013899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
           "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
           "url": "https://flash.jin10.com/detail/20251203035324570800",
           "source": "金十数据",
@@ -273,6 +275,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普在白宫称凯文·哈塞特为“潜在的”美联储主席，说：潜在的美联储主席也在场。",
+          "url": "https://wallstreetcn.com/livenews/3013893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
@@ -548,24 +562,13 @@
           "time_info": "01时46分"
         },
         {
-          "title": "特朗普在白宫称凯文·哈塞特为“潜在的”美联储主席，说：潜在的美联储主席也在场。",
-          "url": "https://wallstreetcn.com/livenews/3013893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
           "url": "https://flash.jin10.com/detail/20251203043755291800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -576,7 +579,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -587,7 +590,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -598,7 +601,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -609,7 +612,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -631,7 +634,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -683,7 +686,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。 NYMEX 1月天然气期货收跌超1.64%，报4.84美元/百万英热单位。 NYMEX 1月汽油期货收报1.8303美元/加仑，NYMEX 1月取暖油期货收报2.3127美元/加仑。",
@@ -695,17 +698,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
-          "url": "https://wallstreetcn.com/livenews/3013901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "周二（12月2日），美联储隔夜逆回购协议（RRP）使用规模为56.20亿美元，上个交易日报32.40亿美元。",
@@ -722,16 +714,29 @@
           "time_info": "[02时26分 ~ 05时16分]"
         },
         {
+          "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
+          "url": "https://wallstreetcn.com/livenews/3013901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0725元，较周一夜盘收盘持平。成交量337.76亿美元。",
           "url": "https://wallstreetcn.com/livenews/3013876",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时15分]"
         },
         {
           "title": "LME期铜收跌107美元，报11145美元/吨。 LME期铝收跌28美元，报2866美元/吨。 LME期锌收跌34美元，报3062美元/吨。 LME期铅收跌7美元，报1995美元/吨。 LME期镍收跌128美元，报14800美元/吨。 LME期锡收跌96美元，报39040美元/吨。 LME期钴收平，报50035美元/吨。",
@@ -760,6 +765,18 @@
           "time_info": "[01时46分 ~ 03时16分]"
         },
         {
+          "title": "韩国11月外汇储备 4306.6亿美元，前值4288.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251203050002155800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
           "url": "https://wallstreetcn.com/livenews/3013816",
           "source": "华尔街见闻-快讯",
@@ -772,6 +789,18 @@
           "time_info": "[00时22分 ~ 01时46分]"
         },
         {
+          "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 布伦特2月原油期货收跌0.72美元，跌幅大约1.14%，报62.45美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3013891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
           "title": "美国汽油价格自2021年以来首次跌破每加仑3美元",
           "url": "https://wallstreetcn.com/livenews/3013814",
           "source": "华尔街见闻-快讯",
@@ -782,6 +811,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时46分]"
+        },
+        {
+          "title": "美元指数2日下跌",
+          "url": "https://flash.jin10.com/detail/20251203044855190800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "再创新高，美国货币市场基金规模首次突破8万亿美元",
@@ -818,28 +859,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "韩国11月外汇储备 4306.6亿美元，前值4288.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20251203050002155800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 布伦特2月原油期货收跌0.72美元，跌幅大约1.14%，报62.45美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3013891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
           "title": "美国货币市场基金资产规模首次突破8万亿美元",
           "url": "https://flash.jin10.com/detail/20251202235549187800",
           "source": "金十数据",
@@ -851,15 +870,26 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美元指数2日下跌",
-          "url": "https://flash.jin10.com/detail/20251203044855190800",
-          "source": "金十数据",
+          "title": "CrowdStrike三季度营收12.3亿美元，分析师预期12.1亿美元。 预计全年营收48.0亿-48.1亿美元，公司原本预计47.5亿-48.1亿美元。 预计四季度营收12.9亿-13.0亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3013913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
+          "url": "https://wallstreetcn.com/livenews/3013912",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时15分"
         },
         {
           "title": "Prosus在11月24-28日当周按均价54.6114欧元回购股票181.0829万股，总体耗资0.989亿欧元（折合1.145亿美元）。 Naspers同期按均价1131.1265南非兰特回购58.7399万股，总体耗资6.644亿兰特（折合0.386亿美元）。",
@@ -873,6 +903,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "迈威尔科技(MRVL.O)将以32.5亿美元收购Celestial AI。",
+          "url": "https://flash.jin10.com/detail/20251203051305434800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "比特币涨穿90000美元，涨幅超过6%",
           "url": "https://wallstreetcn.com/livenews/3013808",
           "source": "华尔街见闻-快讯",
@@ -882,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，美元兑日元涨0.24%，报155.83日元，日内交投区间为155.43-156.18日元。 欧元兑美元涨0.12%，英镑兑美元持平，美元兑瑞郎跌0.22%。 商品货币对中，澳元兑美元涨0.33%，纽元兑美元涨0.13%，美元兑加元跌0.16%。 瑞典克朗兑美元涨0.25%，挪威克朗兑美元持平，丹麦克朗兑美元涨0.11%。 波兰兹罗提兑美元涨0.05%，匈牙利福林兑美元涨0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3013904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美元指数DXY短线回落十余点，现报99.38。",
@@ -1005,11 +1057,12 @@
           "url": "https://flash.jin10.com/detail/20251203044535141800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -1032,6 +1085,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌0.65%，报7808.98点。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，中国科技指数ETF（CQQQ）收跌1.25%，中概互联网指数ETF（KWEB）收跌1.03%。 XtrackersHarvest中证50（ASHS）收跌1.11%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3013907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     }
