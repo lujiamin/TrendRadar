@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T07:16:45.974488+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-02T09:14:27.197811+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时14分]"
         },
         {
           "title": "爱马仕继承人150亿美元财富失踪",
@@ -26,11 +26,12 @@
           "ranks": [
             27,
             28,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时14分]"
         },
         {
           "title": "周一（12月1日），美联储隔夜逆回购协议（RRP）使用规模为32.40亿美元，上个交易日报75.61亿美元。",
@@ -48,13 +49,24 @@
           "time_info": "[02时27分 ~ 06时14分]"
         },
         {
+          "title": "人民币对美元汇率再创年度新高",
+          "url": "https://www.toutiao.com/trending/7579032224104713791/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "现货白银周二小幅低开，现报57.84美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251202070122711800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -68,6 +80,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "纽约期金向下触及4250美元/盎司，日内跌0.58%。",
+          "url": "https://flash.jin10.com/detail/20251202090346688800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "现货黄金回落至4220美元/盎司下方，日内跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20251202090243711800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报58.1美元/盎司。纽约银日内涨幅达2.5%，报58.62美元/盎司。",
@@ -84,6 +118,20 @@
           "time_info": "[00时23分 ~ 03时18分]"
         },
         {
+          "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
+          "url": "https://www.cls.cn/detail/2216428",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时14分 ~ 09时14分]"
+        },
+        {
           "title": "美国五角大楼：美国国务院批准向沙特潜在出售一批培训及相关设备，预计金额为5亿美元。",
           "url": "https://flash.jin10.com/detail/20251202044545793800",
           "source": "金十数据",
@@ -93,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "英伟达20亿美元入股新思科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE20%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%A5%E8%82%A1%E6%96%B0%E6%80%9D%E7%A7%91%E6%8A%80%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "伦钴收盘涨穿5万美元整数位心理关口，出口禁令到期后刚果（金）仍未恢复出口",
@@ -187,19 +246,6 @@
           "time_info": "[02时27分 ~ 05时14分]"
         },
         {
-          "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
-          "url": "https://www.cls.cn/detail/2216428",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时16分]"
-        },
-        {
           "title": "现货白银日内涨幅达4.0%，报58.66美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013175",
           "source": "华尔街见闻-快讯",
@@ -283,13 +329,24 @@
           "time_info": "05时14分"
         },
         {
+          "title": "马来西亚总理表示英特尔将在马来西亚追加投资2.08亿美元",
+          "url": "https://wallstreetcn.com/livenews/3013321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "周一（12月1日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0719元，较上周五纽约尾盘跌11点，日内整体交投于7.0645-7.0732元区间。",
           "url": "https://wallstreetcn.com/livenews/3013230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -300,7 +357,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -311,7 +368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -322,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -358,12 +415,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "一些投行观点指出，受中美负利差收窄及贸易紧张局势缓和前景的带动，2026年人民币兑美元即期汇率有望自2023年以来首次升破1美元兑7元人民币的心理关口。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3013299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "现货白银跌幅达1%，报57.4美元。",
+          "url": "https://wallstreetcn.com/livenews/3013295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "现货白银日内跌幅达1.00%，现报57.38美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202082023115800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -378,6 +468,20 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时14分]"
+        },
+        {
           "title": "特朗普对马杜罗下最后通牒",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
           "source": "百度热搜",
@@ -389,19 +493,6 @@
             8,
             14,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -626,6 +717,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
           "url": "https://flash.jin10.com/detail/20251201235456072800",
           "source": "金十数据",
@@ -735,7 +837,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "怎么评价 2025 年 11 月比亚迪销量 48 万同比下滑 5.24%？",
@@ -751,6 +853,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "怎么评价 2025 年 11 月比亚迪销量 48 万辆，同比下滑 5.24%？",
+          "url": "https://www.zhihu.com/question/1978913416493158831",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     }
