@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T15:19:27.029530+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-12-02T16:24:17.691399+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -489,7 +489,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -511,7 +511,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -571,6 +571,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "印度卢比兑美元逼近重要心理关口90 印美贸易僵局带来冲击",
+          "url": "https://wallstreetcn.com/livenews/3013548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "现货白银日内跌幅达1.00%，现报57.38美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251202082023115800",
           "source": "金十数据",
@@ -585,7 +596,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -612,8 +623,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 15时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 16时24分]"
+        },
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 16时24分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -631,17 +653,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 15时19分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -929,13 +940,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普第一年政绩如何",
+          "url": "https://www.toutiao.com/trending/7579124982735703594/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "特朗普将自己画像与华盛顿并列",
           "url": "https://www.toutiao.com/trending/7578655836017311798/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -965,8 +987,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 16时24分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -1009,7 +1031,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "怎么评价 2025 年 11 月比亚迪销量 48 万同比下滑 5.24%？",
@@ -1038,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时14分 ~ 13时17分]"
+        },
+        {
+          "title": "比亚迪 11 月销量 48.02 万辆，同比降 5.24%，累计销量同比增 11.3%，反映了新能源市场哪些变化？",
+          "url": "https://www.zhihu.com/question/1978928382784849162",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "比亚迪：方程豹汽车11月销售37405辆，同比增长339%",
