@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:15:13.657005+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-12-03T12:25:41.402257+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -39,19 +39,47 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 12时25分]"
         },
         {
           "title": "特朗普“点名”日本",
           "url": "https://www.toutiao.com/trending/7579444252149763593/",
           "source": "今日头条",
           "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 12时25分]"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
@@ -63,31 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时15分 ~ 11时15分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时15分]"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -299,6 +302,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普宣布拜登时期文件全部作废",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 12时25分]"
         },
         {
           "title": "美国总统特朗普：将开始在地面上开展缉毒行动，地面打击要容易得多，很快就会开始。",
@@ -517,17 +532,6 @@
           "time_info": "[03时16分 ~ 04时20分]"
         },
         {
-          "title": "特朗普宣布拜登时期文件全部作废",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
           "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
           "url": "https://flash.jin10.com/detail/20251203010532977800",
           "source": "金十数据",
@@ -684,7 +688,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -810,6 +814,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
+          "url": "https://flash.jin10.com/detail/20251203110617903800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "市场消息：普京开始与美国特使维特科夫以及特朗普的女婿库什纳举行会谈。",
           "url": "https://flash.jin10.com/detail/20251203004907808800",
           "source": "金十数据",
@@ -835,7 +850,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "现货黄金向上触及4220美元/盎司，日内涨0.34%。",
@@ -849,6 +864,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
+          "url": "https://flash.jin10.com/detail/20251203115215694800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。 NYMEX 1月天然气期货收跌超1.64%，报4.84美元/百万英热单位。 NYMEX 1月汽油期货收报1.8303美元/加仑，NYMEX 1月取暖油期货收报2.3127美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3013891",
           "source": "华尔街见闻-快讯",
@@ -858,17 +884,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "比特币一度涨至93000美元上方，创近两周高位。",
-          "url": "https://wallstreetcn.com/livenews/3014125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
         },
         {
           "title": "周二（12月2日），美联储隔夜逆回购协议（RRP）使用规模为56.20亿美元，上个交易日报32.40亿美元。",
@@ -883,6 +898,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 05时16分]"
+        },
+        {
+          "title": "比特币一度涨至93000美元上方，创近两周高位。",
+          "url": "https://wallstreetcn.com/livenews/3014125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时25分]"
         },
         {
           "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
@@ -1030,6 +1057,17 @@
           "time_info": "[00时22分 ~ 01时46分]"
         },
         {
+          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
+          "url": "https://wallstreetcn.com/livenews/3014152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
           "url": "https://flash.jin10.com/detail/20251202235944168800",
           "source": "金十数据",
@@ -1050,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美国货币市场基金资产规模首次突破8万亿美元",
@@ -1074,6 +1123,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "印度卢比兑美元汇率跌破90关口。",
+          "url": "https://flash.jin10.com/detail/20251203113249561800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "CrowdStrike三季度营收12.3亿美元，分析师预期12.1亿美元。 预计全年营收48.0亿-48.1亿美元，公司原本预计47.5亿-48.1亿美元。 预计四季度营收12.9亿-13.0亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3013913",
           "source": "华尔街见闻-快讯",
@@ -1083,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
+          "url": "https://wallstreetcn.com/livenews/3014145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
@@ -1182,6 +1253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美元指数DXY短线回落十余点，现报99.38。",
@@ -1297,7 +1379,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -1344,6 +1426,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
