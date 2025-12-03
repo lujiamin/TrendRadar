@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:26:38.976593+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2025-12-03T15:19:19.137832+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 15时19分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 15时19分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 15时19分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -772,6 +772,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
           "url": "https://flash.jin10.com/detail/20251203042601542800",
           "source": "金十数据",
@@ -863,7 +874,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "现货黄金向上触及4220美元/盎司，日内涨0.34%。",
@@ -888,28 +899,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "英国拟延长10亿美元债务担保 助力南非绿色转型",
-          "url": "https://flash.jin10.com/detail/20251203140515236800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "离岸人民币兑美元即期午后涨84点至7.0585，创2024年10月9日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3014213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
           "title": "周二（12月2日），美联储隔夜逆回购协议（RRP）使用规模为56.20亿美元，上个交易日报32.40亿美元。",
           "url": "https://wallstreetcn.com/livenews/3013865",
           "source": "华尔街见闻-快讯",
@@ -922,6 +911,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 05时16分]"
+        },
+        {
+          "title": "德国外长：德国将通过“乌克兰优先需求清单”（PURL）机制分两批为乌克兰再采购价值2亿美元的军事装备。",
+          "url": "https://flash.jin10.com/detail/20251203145255166800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
@@ -948,6 +948,18 @@
           "time_info": "[11时15分 ~ 12时25分]"
         },
         {
+          "title": "英国拟延长10亿美元债务担保 助力南非绿色转型",
+          "url": "https://flash.jin10.com/detail/20251203140515236800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时19分]"
+        },
+        {
           "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
           "url": "https://wallstreetcn.com/livenews/3013901",
           "source": "华尔街见闻-快讯",
@@ -971,6 +983,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时15分]"
+        },
+        {
+          "title": "离岸人民币兑美元即期午后涨84点至7.0585，创2024年10月9日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3014213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时19分]"
         },
         {
           "title": "LME期铜收跌107美元，报11145美元/吨。 LME期铝收跌28美元，报2866美元/吨。 LME期锌收跌34美元，报3062美元/吨。 LME期铅收跌7美元，报1995美元/吨。 LME期镍收跌128美元，报14800美元/吨。 LME期锡收跌96美元，报39040美元/吨。 LME期钴收平，报50035美元/吨。",
@@ -1056,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 15时19分]"
         },
         {
           "title": "印度卢比兑美元汇率跌破90关口。",
@@ -1163,17 +1198,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
-          "url": "https://wallstreetcn.com/articles/3760553",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "美国货币市场基金资产规模首次突破8万亿美元",
           "url": "https://flash.jin10.com/detail/20251202235549187800",
           "source": "金十数据",
@@ -1202,7 +1226,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1218,13 +1242,24 @@
           "time_info": "06时15分"
         },
         {
+          "title": "印度卢比兑美元下跌0.5%至90.2813，续创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3014252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "现货白银失守58美元/盎司，日内跌幅0.78%。",
           "url": "https://flash.jin10.com/detail/20251203134017148800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1334,7 +1369,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1381,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "新台币兑美元上涨0.3%至31.340。",
+          "url": "https://wallstreetcn.com/livenews/3014226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "恒天然：12月2日全球乳品贸易（GDT）拍卖价格指数下降4.3%，奶粉各合同期FAS拍卖均价3,507美元/吨。 批发奶粉价格指数下跌2.4%，报3,364美元/吨。",
@@ -1483,11 +1529,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时19分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -1564,7 +1611,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
