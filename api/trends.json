@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T12:27:46.035228+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-04T13:17:24.962069+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时17分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -41,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时20分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[01时20分 ~ 13时17分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -222,6 +222,19 @@
           "time_info": "[00时23分 ~ 02时26分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时17分]"
+        },
+        {
           "title": "特朗普盟友：约翰逊正在失去对众议院共和党人的控制",
           "url": "https://flash.jin10.com/detail/20251204012332724800",
           "source": "金十数据",
@@ -233,18 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时20分]"
-        },
-        {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -305,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时14分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
@@ -427,15 +439,26 @@
           "time_info": "[06时17分 ~ 07时14分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
+          "title": "特朗普：将很快在拉美开展地面打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时17分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -526,17 +549,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "美国“小非农”爆冷，白银创新高后快速回落！贝森特或将兼任国家经济委员会主任一职，特朗普政府考虑明年加速机器人行业发展......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251204103112695800",
           "source": "金十数据",
@@ -603,6 +615,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "马杜罗证实曾同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%AF%81%E5%AE%9E%E6%9B%BE%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国国务院备忘录显示，特朗普政府下令加强对H-1B签证申请人的审查。",
           "url": "https://flash.jin10.com/detail/20251204081122646800",
           "source": "金十数据",
@@ -636,6 +659,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "特朗普心腹将会见乌方代表",
+          "url": "https://www.toutiao.com/trending/7579422652600631305/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国总统特朗普提议大幅削减乘用车的燃油效率标准。",
           "url": "https://flash.jin10.com/detail/20251204045054905800",
           "source": "金十数据",
@@ -661,7 +695,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -684,8 +718,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 13时17分]"
         },
         {
           "title": "比特币一度升破94000美元，日内涨超2%。",
@@ -710,6 +744,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "受印度卢比跌至历史新低的推动，美元/印度卢比远期溢价持续攀升，美元/印度卢比1年期远期隐含收益率上涨18个基点，至2.64%，创2025年1月以来新高。",
+          "url": "https://flash.jin10.com/detail/20251204122335961800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "Paramount Skydance Corp.在竞购华纳兄弟探索（WBD）的提议中将分手费提高至50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3014666",
           "source": "华尔街见闻-快讯",
@@ -719,17 +764,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "澳新银行：对俄乌持续相互攻击能源基础设施的担忧，将使布伦特原油价格维持在每桶60美元以上。 随着2026年供应超过需求，将石油市场推向过剩，布伦特原油价格的进一步上涨空间将受到限制。 炼油厂开工率降低，再加上OPEC+产量增加，全球原油库存将会增加，这可能会使2026年上半年的油价保持在每桶65美元以下。 2026年下半年全球经济复苏可能会支撑油价，随后油价将朝着每桶70美元迈进。 预计今年年底油价将稳定在每桶62美元。",
-          "url": "https://wallstreetcn.com/livenews/3014888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
@@ -832,6 +866,18 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
+          "title": "澳新银行：对俄乌持续相互攻击能源基础设施的担忧，将使布伦特原油价格维持在每桶60美元以上。 随着2026年供应超过需求，将石油市场推向过剩，布伦特原油价格的进一步上涨空间将受到限制。 炼油厂开工率降低，再加上OPEC+产量增加，全球原油库存将会增加，这可能会使2026年上半年的油价保持在每桶65美元以下。 2026年下半年全球经济复苏可能会支撑油价，随后油价将朝着每桶70美元迈进。 预计今年年底油价将稳定在每桶62美元。",
+          "url": "https://wallstreetcn.com/livenews/3014888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
           "title": "周三（12月3日，“紧急戒严”一周年），韩元兑美元最终跌0.22%，报1466.14韩元，日内交投于1471.24-1463.29韩元。",
           "url": "https://wallstreetcn.com/livenews/3014587",
           "source": "华尔街见闻-快讯",
@@ -843,6 +889,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时20分]"
+        },
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时17分]"
         },
         {
           "title": "美国交通部：修订后的燃油经济性标准将使汽车制造商到2031年节省超过350亿美元。",
@@ -893,16 +952,52 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
+          "title": "澳新银行：我们预计油价年底将达每桶62美元。",
+          "url": "https://flash.jin10.com/detail/20251204120016520800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            10
+            9,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时27分]"
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
+          "title": "澳新银行：全球经济复苏有望在2026年下半年支撑油价，随后油价将向每桶70美元靠拢。",
+          "url": "https://flash.jin10.com/detail/20251204115647693800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
+          "title": "印度卢比兑美元日内跌0.3%，报90.4175，刷新历史低点。",
+          "url": "https://wallstreetcn.com/livenews/3014876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
+          "title": "澳新银行：炼油厂开工率下降叠加欧佩克+增产，将导致全球原油库存增加，预计2026年上半年油价将维持在每桶65美元以下。",
+          "url": "https://flash.jin10.com/detail/20251204115638343800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0640元，较周二夜盘收盘涨85点。成交量475.67亿美元。",
@@ -915,6 +1010,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时15分]"
+        },
+        {
+          "title": "澳新银行：对俄罗斯和乌克兰继续攻击对方能源基础设施的持续破坏的担忧，最终或将使布伦特原油价格保持在每桶60美元以上。",
+          "url": "https://flash.jin10.com/detail/20251204115614331800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
         },
         {
           "title": "英镑兑美元涨1%，创5月份以来最大盘中涨幅，报1.3347。",
@@ -941,6 +1048,42 @@
           "time_info": "[01时20分 ~ 02时26分]"
         },
         {
+          "title": "高盛：铜价突破11000美元缺乏基本面支撑",
+          "url": "https://flash.jin10.com/detail/20251204114510155800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
+          "title": "国债拍卖后，美元兑日元USD/JPY日内上涨0.2%，报155.53。",
+          "url": "https://flash.jin10.com/detail/20251204114116128800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
+          "title": "印度卢比兑美元盘初续刷历史新低，报90.41，日内下跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20251204113559831800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时17分]"
+        },
+        {
           "title": "洪灏：已在4500美元高位清仓黄金",
           "url": "https://www.toutiao.com/trending/7579431810869706793/",
           "source": "今日头条",
@@ -961,28 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "澳新银行：我们预计油价年底将达每桶62美元。",
-          "url": "https://flash.jin10.com/detail/20251204120016520800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "澳新银行：全球经济复苏有望在2026年下半年支撑油价，随后油价将向每桶70美元靠拢。",
-          "url": "https://flash.jin10.com/detail/20251204115647693800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
@@ -1007,28 +1128,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "印度卢比兑美元日内跌0.3%，报90.4175，刷新历史低点。",
-          "url": "https://wallstreetcn.com/livenews/3014876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "澳新银行：炼油厂开工率下降叠加欧佩克+增产，将导致全球原油库存增加，预计2026年上半年油价将维持在每桶65美元以下。",
-          "url": "https://flash.jin10.com/detail/20251204115638343800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "尼日利亚在预算报告中将2026年油价预期设在64.85美元/桶。 预计石油产量206万桶/日。",
           "url": "https://wallstreetcn.com/livenews/3014545",
           "source": "华尔街见闻-快讯",
@@ -1038,17 +1137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "澳新银行：对俄罗斯和乌克兰继续攻击对方能源基础设施的持续破坏的担忧，最终或将使布伦特原油价格保持在每桶60美元以上。",
-          "url": "https://flash.jin10.com/detail/20251204115614331800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
@@ -1115,39 +1203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "高盛：铜价突破11000美元缺乏基本面支撑",
-          "url": "https://flash.jin10.com/detail/20251204114510155800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "国债拍卖后，美元兑日元USD/JPY日内上涨0.2%，报155.53。",
-          "url": "https://flash.jin10.com/detail/20251204114116128800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "印度卢比兑美元盘初续刷历史新低，报90.41，日内下跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20251204113559831800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "美元对印度卢比1个月期NDF一度上涨0.3%至90.68。",
