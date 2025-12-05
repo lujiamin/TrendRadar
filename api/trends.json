@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T09:15:05.094156+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-12-05T11:16:33.539470+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
@@ -47,8 +47,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时16分]"
+        },
+        {
+          "title": "纽约期银日内涨幅扩大至1.00%，现报58.07美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251205105932128800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "韩国10月未季调经常帐 68.1亿美元，前值134.674亿美元。",
@@ -292,6 +303,18 @@
           "time_info": "[02时27分 ~ 04时19分]"
         },
         {
+          "title": "巴总统致信中方：感谢援助1亿美元",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%E8%87%B4%E4%BF%A1%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%84%9F%E8%B0%A2%E6%8F%B4%E5%8A%A91%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时16分]"
+        },
+        {
           "title": "报道：瑞士Mercuria计划从LME亚洲仓库提取逾4万吨铜，价值4.6亿美元",
           "url": "https://wallstreetcn.com/livenews/3015300",
           "source": "华尔街见闻-快讯",
@@ -389,17 +412,6 @@
           "time_info": "[05时16分 ~ 06时14分]"
         },
         {
-          "title": "巴总统致信中方：感谢援助1亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%E8%87%B4%E4%BF%A1%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%84%9F%E8%B0%A2%E6%8F%B4%E5%8A%A91%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "WTI原油期货日内涨幅达1.00%，现报59.54美元/桶。",
           "url": "https://flash.jin10.com/detail/20251204235204449800",
           "source": "金十数据",
@@ -422,6 +434,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "纽约期银向上触及58美元/盎司，日内涨0.89%。",
+          "url": "https://flash.jin10.com/detail/20251205105343706800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "新元兑美元保持稳定 市场静待美联储决议",
+          "url": "https://flash.jin10.com/detail/20251205105249645800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "数据中心公司FluidStack洽谈按照70亿美元估值融资大约7亿美元。",
@@ -466,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "花旗：预计未来六至十二个月内铜价将达到每吨13000美元。",
+          "url": "https://flash.jin10.com/detail/20251205104248936800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "南非发行25亿美元债券，为最近一年来首次出售美元债。",
@@ -529,7 +574,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -537,7 +582,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -790,9 +835,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251205103316073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
