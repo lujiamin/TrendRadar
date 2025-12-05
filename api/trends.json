@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T13:17:20.257702+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2025-12-05T14:26:37.817737+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
@@ -57,7 +57,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -84,6 +84,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "现货白银日内大涨1.00美元，现报58.12美元/盎司，涨幅1.75%。",
+          "url": "https://flash.jin10.com/detail/20251205135732224800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "韩国10月未季调经常帐 68.1亿美元，前值134.674亿美元。",
           "url": "https://flash.jin10.com/detail/20251205070002290800",
           "source": "金十数据",
@@ -101,9 +112,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "纽约期银日内涨幅扩大至2.00%，现报58.66美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251205135654245800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -434,6 +456,18 @@
           "time_info": "[05时16分 ~ 06时14分]"
         },
         {
+          "title": "美元兑印度卢比1年期远期溢价下跌3个基点，至 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3015602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时26分]"
+        },
+        {
           "title": "美元指数4日上涨",
           "url": "https://flash.jin10.com/detail/20251205043947499800",
           "source": "金十数据",
@@ -470,6 +504,18 @@
           "time_info": "[05时16分 ~ 06时14分]"
         },
         {
+          "title": "印度央行降息25个基点至5.25%，符合预期。 印度央行将开展1万亿印度卢比公开市场操作及50亿美元外汇买卖互换。",
+          "url": "https://wallstreetcn.com/livenews/3015599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时26分]"
+        },
+        {
           "title": "纽约期银向上触及58美元/盎司，日内涨0.89%。",
           "url": "https://flash.jin10.com/detail/20251205105343706800",
           "source": "金十数据",
@@ -487,7 +533,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -501,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "现货白银突破58美元/盎司，日内涨1.56%。",
+          "url": "https://flash.jin10.com/detail/20251205134624284800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "数据中心公司FluidStack洽谈按照70亿美元估值融资大约7亿美元。",
@@ -536,15 +593,15 @@
           "time_info": "06时14分"
         },
         {
-          "title": "美元兑印度卢比1年期远期溢价下跌3个基点，至 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3015602",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金突破4220美元/盎司，日内涨0.30%；纽约期金突破4250美元/盎司，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20251205133027905800",
+          "source": "金十数据",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "14时26分"
         },
         {
           "title": "美国副总统万斯：有传言称，欧盟委员会将因X不参与审查而罚款数亿美元。欧盟应该支持言论自由，而不是因为一些垃圾而攻击美国公司。",
@@ -558,17 +615,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "印度央行降息25个基点至5.25%，符合预期。 印度央行将开展1万亿印度卢比公开市场操作及50亿美元外汇买卖互换。",
-          "url": "https://wallstreetcn.com/livenews/3015599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "花旗：预计未来六至十二个月内铜价将达到每吨13000美元。",
           "url": "https://flash.jin10.com/detail/20251205104248936800",
           "source": "金十数据",
@@ -578,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "印度卢比兑美元在印度央行降息之后跌回至90关口附近。",
+          "url": "https://flash.jin10.com/detail/20251205130930005800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "南非发行25亿美元债券，为最近一年来首次出售美元债。",
@@ -630,7 +687,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -674,7 +731,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -682,7 +739,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -918,6 +975,17 @@
           "time_info": "[01时20分 ~ 02时27分]"
         },
         {
+          "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251205133653740800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "仿制药企业家力促特朗普政府免除仿制药审批费",
           "url": "https://flash.jin10.com/detail/20251205061224221800",
           "source": "金十数据",
@@ -1026,6 +1094,23 @@
       ]
     },
     {
+      "keyword_group": "超捷股份",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【A股商业航天概念涨势扩大，航天动力拉升封板】超捷股份、航天机电、西部材料、上海港湾、天箭科技、航天科技、顺灏股份等多股此前涨停，乾照光电、广联航空等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3015658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比亚迪",
       "match_count": 1,
       "titles": [
@@ -1034,11 +1119,12 @@
           "url": "https://wallstreetcn.com/livenews/3015600",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时26分]"
         }
       ]
     }
