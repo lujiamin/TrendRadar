@@ -1,1509 +1,182 @@
 {
-  "generated_at": "2025-12-05T23:18:28.435503+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2025-12-06T00:21:47.897051+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 12,
       "titles": [
         {
-          "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "巴勒斯坦总统感谢中国1亿美元援助",
-          "url": "https://www.toutiao.com/trending/7579892476815999019/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7,
-            8,
-            10,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时15分]"
-        },
-        {
-          "title": "被欠费15.86亿美元其中美国欠15亿，联合国：美国不交钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102206",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时16分]"
-        },
-        {
-          "title": "印度央行行长：美元卢比互换期限为3年，将于本月实施。",
-          "url": "https://flash.jin10.com/detail/20251205124832427800",
+          "title": "伦敦金银市场协会（LBMA）：截至2025年11月底，伦敦金库中持有的白银总量为27,187吨（较上月增长3.5%），市值达471亿美元。",
+          "url": "https://flash.jin10.com/detail/20251206001230504800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "奈飞(NFLX.O)美股盘前跌幅扩大至3%，此前该公司宣布将以720亿美元收购华纳兄弟探索公司(WBD.O)。",
-          "url": "https://flash.jin10.com/detail/20251205201927250800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "纽约期银日内涨幅扩大至1.00%，现报58.07美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251205105932128800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "奥本海默：将博通(AVGO.O)目标价从400美元上调至435美元。",
-          "url": "https://flash.jin10.com/detail/20251205120745760800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "现货白银日内大涨1.00美元，现报58.12美元/盎司，涨幅1.75%。",
-          "url": "https://flash.jin10.com/detail/20251205135732224800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "韩国10月未季调经常帐 68.1亿美元，前值134.674亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205070002290800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "印度央行行长：截至11月28日，印度外汇储备为6860亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205124612535800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "纽约期银日内涨幅扩大至2.00%，现报58.66美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251205135654245800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "奈飞斥资830亿美元收购华纳兄弟影业及流媒体业务 将缔造好莱坞新巨头",
-          "url": "https://flash.jin10.com/detail/20251205201457114800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "美元兑加元短线下跌约30点，现报1.3906。",
-          "url": "https://wallstreetcn.com/livenews/3015985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
-          "url": "https://flash.jin10.com/detail/20251205011030498800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时19分]"
-        },
-        {
-          "title": "周四（12月4日），美联储隔夜逆回购协议（RRP）使用规模为22.33亿美元，上个交易日报25.14亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3015316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 05时16分]"
-        },
-        {
-          "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
-          "url": "https://wallstreetcn.com/livenews/3015296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时19分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0710元，较周三夜盘收盘跌70点。成交量460.50亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3015327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时16分]"
-        },
-        {
-          "title": "美国原油期货收涨超1.2%，纽约天然气收涨至5美元上方",
-          "url": "https://wallstreetcn.com/livenews/3015336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时14分]"
-        },
-        {
-          "title": "比特币向下跌破91000美元，过去24小时内下跌1.87%。",
-          "url": "https://wallstreetcn.com/livenews/3015334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时14分]"
-        },
-        {
-          "title": "智利Enap与阿根廷多家公司签署价值120亿美元的石油供应协议。",
-          "url": "https://wallstreetcn.com/livenews/3015349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "周四（12月4日）纽约尾盘，现货黄金涨0.16%，报4209.74美元/盎司，全天呈现出V形反转，北京时间13:53曾刷新日低至4175.17美元。 COMEX黄金期货涨0.15%，报4238.40美元/盎司，13:53也曾刷新日低至4203.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3015368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时16分]"
-        },
-        {
-          "title": "加密货币交易所HashKey据悉最早将于下周开始接受其香港IPO认购。HashKey可能寻求通过IPO筹集至少2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3015793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时18分]"
-        },
-        {
-          "title": "高盛称：铜价突破11,000美元不会持久",
-          "url": "https://wallstreetcn.com/livenews/3015322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时16分]"
-        },
-        {
-          "title": "Blue Owl资本为其数据中心基金募集17亿美元",
-          "url": "https://wallstreetcn.com/livenews/3015330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时14分]"
-        },
-        {
-          "title": "美国至11月28日当周外国央行持有美国国债 38.29亿美元，前值213.99亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205053026440800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时16分]"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产7.65万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3015346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美国加州大学筹备发行20亿美元市政债券。",
-          "url": "https://wallstreetcn.com/livenews/3015367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时16分]"
-        },
-        {
-          "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
-          "url": "https://wallstreetcn.com/livenews/3015345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "周四（12月4日）纽约尾盘，ICE美元指数涨0.16%，报99.014点，日内交投区间为98.765-99.027点。 彭博美元指数涨0.06%，报1213.71点，日内交投区间为1211.29-1214.66点。",
-          "url": "https://wallstreetcn.com/livenews/3015344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "巴总统致信中方：感谢援助1亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%80%BB%E7%BB%9F%E8%87%B4%E4%BF%A1%E4%B8%AD%E6%96%B9%EF%BC%9A%E6%84%9F%E8%B0%A2%E6%8F%B4%E5%8A%A91%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时26分]"
-        },
-        {
-          "title": "WTI原油日内涨幅超过1.5%，报报60.01美元/桶；日线图上，美国原油期货自10月2日以来持续交投于60美元整数位心理关口附近。 布伦特原油日内涨幅达1.0%，报63.32美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3015293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时16分]"
-        },
-        {
-          "title": "美、布两油短线小幅走高，布伦特原油站上64美元/桶，日内涨1.2%；WTI原油涨1.65%。",
-          "url": "https://flash.jin10.com/detail/20251205003433319800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时16分]"
-        },
-        {
-          "title": "周四（12月4日），韩元兑美元最终跌0.50%，报1473.42韩元，亚太早盘持续走低，随后持续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3015304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时19分]"
-        },
-        {
-          "title": "报道：瑞士Mercuria计划从LME亚洲仓库提取逾4万吨铜，价值4.6亿美元",
-          "url": "https://wallstreetcn.com/livenews/3015300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时19分]"
-        },
-        {
-          "title": "美国政府：三季度回购市场日均交易量约为12.6万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3015276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
-        },
-        {
-          "title": "美国财政部债务突破30万亿美元大关，较2018年翻倍",
-          "url": "https://flash.jin10.com/detail/20251205045018231800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美、布两油短线持续反弹，WTI原油日内涨超1.00%，现报59.41美元/桶，布伦特原油现涨0.68%。",
-          "url": "https://flash.jin10.com/detail/20251204235435799800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了39个对手方的22.33亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205021924110800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时19分]"
-        },
-        {
-          "title": "美国未偿国债突破30万亿美元，自2018年以来翻了一番",
-          "url": "https://wallstreetcn.com/livenews/3015337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场基金资产达到创纪录的7.65万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205044139743800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美元兑印度卢比1年期远期溢价下跌3个基点，至 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3015602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时26分]"
-        },
-        {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20251205043947499800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "WTI原油期货日内涨幅达1.00%，现报59.54美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251204235204449800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
-        },
-        {
-          "title": "委内瑞拉副总统德尔茜·罗德里格斯：2026年预算总额将为199亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205043030904800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "印度央行降息25个基点至5.25%，符合预期。 印度央行将开展1万亿印度卢比公开市场操作及50亿美元外汇买卖互换。",
-          "url": "https://wallstreetcn.com/livenews/3015599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时26分]"
-        },
-        {
-          "title": "11月末香港官方外汇储备资产为4294亿美元",
-          "url": "https://wallstreetcn.com/livenews/3015958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时17分]"
-        },
-        {
-          "title": "报道：奈飞获得高达590亿美元的过桥贷款承诺以完成收购交易",
-          "url": "https://wallstreetcn.com/livenews/3015954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时17分]"
-        },
-        {
-          "title": "纽约期银向上触及58美元/盎司，日内涨0.89%。",
-          "url": "https://flash.jin10.com/detail/20251205105343706800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "印度央行公布利率决议后，美元兑印度卢比汇率涨至89.87。",
-          "url": "https://flash.jin10.com/detail/20251205124450909800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "奈飞将以现金加股票每股27.75美元的价格收购华纳兄弟",
-          "url": "https://wallstreetcn.com/livenews/3015937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "新元兑美元保持稳定 市场静待美联储决议",
-          "url": "https://flash.jin10.com/detail/20251205105249645800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "现货白银突破58美元/盎司，日内涨1.56%。",
-          "url": "https://flash.jin10.com/detail/20251205134624284800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中国香港11月外汇储备 4294亿美元，前值由4260亿美元修正为4261亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205163011541800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "美国PCE数据公布后，现货黄金短线暂时波动不大，现报4242.46美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251205230108968800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "数据中心公司FluidStack洽谈按照70亿美元估值融资大约7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3015359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "跨境汇款5000元要核实身份，不影响个人5万美元年度换汇额度",
-          "url": "https://wallstreetcn.com/livenews/3015935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "犹他美容ULTA第三季度净销售28.6亿美元，分析师预期27.1亿美元。 三季度同店销售增长6.3%，分析师预期增长3.41%。 预计全年净销售123亿美元，公司原本预计120亿-121亿美元。 预计全年同店销售将增长4.4%-4.7%，公司原本预计增长2.5%-3.5%。 预计全年净新开门店62.6家，分析师预期新开62.6家，公司原本预计新开63家。",
-          "url": "https://wallstreetcn.com/livenews/3015358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "惠与HPE第四财季净营收69.8亿美元，分析师预期99.3亿美元。 上调2026财年业绩指引。 预计第一财季净营收90亿-94亿美元，分析师预期98.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3015357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "中国台湾11月外汇存底 5997.91亿美元，前值6002亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205162002198800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "奈飞(NFLX.O)将以每股27.75美元的现金和股份收购华纳兄弟探索公司(WBD.O)。",
-          "url": "https://flash.jin10.com/detail/20251205200338330800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "现货黄金突破4220美元/盎司，日内涨0.30%；纽约期金突破4250美元/盎司，日内涨0.20%。",
-          "url": "https://flash.jin10.com/detail/20251205133027905800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "美元兑加元USD/CAD短线下挫逾20点，现报1.3913。",
-          "url": "https://flash.jin10.com/detail/20251205213101989800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美国副总统万斯：有传言称，欧盟委员会将因X不参与审查而罚款数亿美元。欧盟应该支持言论自由，而不是因为一些垃圾而攻击美国公司。",
-          "url": "https://flash.jin10.com/detail/20251205061236333800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "西南航空美股盘前跌超2%，公司将年度息税前利润(EBIT)预期下调至约5亿美元，此前预计6-8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3015927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "花旗：预计未来六至十二个月内铜价将达到每吨13000美元。",
-          "url": "https://flash.jin10.com/detail/20251205104248936800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "印度卢比兑美元在印度央行降息之后跌回至90关口附近。",
-          "url": "https://flash.jin10.com/detail/20251205130930005800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "南非发行25亿美元债券，为最近一年来首次出售美元债。",
-          "url": "https://wallstreetcn.com/livenews/3015350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "花旗：预计铜价将稳步攀升 或逼近13000美元",
-          "url": "https://flash.jin10.com/detail/20251205110627880800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "周四（12月4日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0716元，较周三纽约尾盘跌139点，日内整体交投于7.0560-7.0717元区间。",
-          "url": "https://wallstreetcn.com/livenews/3015376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "比特币跌穿9万美元关口，日内当前跌超2%，最低跌至89953.38美元。 以太坊目前跌1%，Solana跌3.5%，狗狗币跌3.6%，XRP跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3016014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "花旗预测2026年欧元兑美元将最低跌至1.10 受美国经济增长影响",
-          "url": "https://wallstreetcn.com/livenews/3015922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "比特币短线加速下跌，跌穿9.2万美元，目前跌幅1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3015254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
-          "url": "https://wallstreetcn.com/livenews/3015811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "新台币兑美元日内上涨0.3%，报31.244。",
-          "url": "https://wallstreetcn.com/livenews/3015668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "印度央行行长：将进行50亿美元互换操作。",
-          "url": "https://flash.jin10.com/detail/20251205123630082800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美元指数跌至5周新低，现跌0.12%，报98.77。",
-          "url": "https://flash.jin10.com/detail/20251204234510452800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
-          "url": "https://wallstreetcn.com/livenews/3015370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "纽约期银日内涨超3.00%，现报59.22美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251205225803800800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美元兑日元USD/JPY一度触及154.46，创11月17日以来新低。",
-          "url": "https://flash.jin10.com/detail/20251205144243425800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "美元兑日元USD/JPY日内跌超0.50%，现报154.35。",
-          "url": "https://flash.jin10.com/detail/20251205153228107800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "日本11月外汇储备 13594亿美元，前值13474亿美元。",
-          "url": "https://flash.jin10.com/detail/20251205075002394800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "有知情人士称，日本央行据悉倾向于在12月的会议上加息，同时保留进一步收紧政策的可能性。美元兑日元USD/JPY短线一度下挫约30个基点，最新报154.96。",
-          "url": "https://flash.jin10.com/detail/20251205123355823800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "银行将向奈飞(NFLX.O)提供不超590亿美元的过桥贷款以助其完成收购华纳兄弟的交易。",
-          "url": "https://flash.jin10.com/detail/20251205203948814800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.0706，较上一交易日官方收盘价跌16点，较上日夜盘收盘涨4点。",
-          "url": "https://wallstreetcn.com/livenews/3015756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "英镑兑美元一个月成交量创2020年2月份以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3015999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时15分]"
-        },
-        {
-          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
-          "url": "https://news.ifeng.com/c/8oohPdXia4u",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
-          "url": "https://www.cls.cn/detail/2219893",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。",
-          "url": "https://wallstreetcn.com/livenews/3015319",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "00时21分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
-          "url": "https://wallstreetcn.com/livenews/3015973",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251206001140716800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "00时21分"
         },
         {
-          "title": "加拿大总理卡尼不打算在国际足联活动上与特朗普讨论贸易问题",
-          "url": "https://flash.jin10.com/detail/20251205005303788800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时19分]"
-        },
-        {
-          "title": "美国总统特朗普：很快就会看到卢旺达与刚果在和平问题上取得进展。",
-          "url": "https://flash.jin10.com/detail/20251205025838274800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时16分]"
-        },
-        {
-          "title": "据AXIOS，美国官员和消息人士透露，特朗普计划在圣诞节前宣布加沙和平进程进入第二阶段，并公布成立加沙政府、和平委员会的新治理结构。",
-          "url": "https://flash.jin10.com/detail/20251205053720915800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时16分]"
-        },
-        {
-          "title": "加拿大负责美国贸易事务的部长Dominic Leblanc：总理卡尼将在FIFA活动过后会见美国总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3015294",
+          "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
+          "url": "https://wallstreetcn.com/livenews/3016044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            20,
-            27
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时16分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "加拿大贸易部长勒布朗：加拿大总理卡尼不打算在国际足联活动上与特朗普谈论贸易问题。",
-          "url": "https://flash.jin10.com/detail/20251205004323430800",
+          "title": "巴西11月官方储备资产较之前一个月增长34.8亿美元，环比增幅1%，至3606亿美元，创2024年11月以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3016042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "现货白银涨穿59美元，刷新历史高位至59.0697美元，当前涨幅3.4%。 纽约黄金日内涨幅达1.0%，报4285.5美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3016040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美国能源部长赖特：在油价跌到每桶50美元时，最好的生产商仍能盈利",
+          "url": "https://flash.jin10.com/detail/20251205234940087800",
           "source": "金十数据",
           "ranks": [
-            6,
-            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "Netflix以827亿美元收购华纳兄弟",
+          "url": "https://www.baidu.com/s?wd=Netflix%E4%BB%A5827%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "现货白银向上触及59美元",
+          "url": "https://flash.jin10.com/detail/20251205233753529800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "布伦特原油日内涨超1.00%，现报64.43美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251205233203379800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "现货黄金向上触及4250美元/盎司，日内涨约1%。",
+          "url": "https://flash.jin10.com/detail/20251205233104531800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美、布两油短线持续走高，WTI原油向上触及60美元/桶，日内涨近1%，布油现涨约0.8%。",
+          "url": "https://flash.jin10.com/detail/20251205232536990800",
+          "source": "金十数据",
+          "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时16分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "美国总统特朗普重申：将利用关税收入来偿还债务。",
-          "url": "https://wallstreetcn.com/livenews/3015320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时16分]"
-        },
-        {
-          "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。 我们三方将签署关键矿物协议，其中包括稀土（供应）。 我们（美国）将获得稀土（供应）。",
-          "url": "https://wallstreetcn.com/livenews/3015319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时16分]"
-        },
-        {
-          "title": "据CBS记者报道，美国总统特朗普将于周五在华盛顿与墨西哥和加拿大就贸易问题进行会谈。（金十注：此前加方表示加拿大总理卡尼不打算与特朗普进行贸易会谈。）",
-          "url": "https://flash.jin10.com/detail/20251205011146149800",
+          "title": "现货白银日内涨幅达3%，现报58.84美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251205232412959800",
           "source": "金十数据",
           "ranks": [
-            9,
-            19,
-            25
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
+          "url": "https://wallstreetcn.com/livenews/3016043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
+          "url": "https://flash.jin10.com/detail/20251205232909438800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
           "ranks": [
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时18分]"
-        },
-        {
-          "title": "据日经新闻：特朗普政府将在即将发布的国防战略中，将韩国和以色列突出为“模范盟友”。",
-          "url": "https://flash.jin10.com/detail/20251205030602292800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时16分]"
-        },
-        {
-          "title": "法院文件显示，上诉法院批准了美国总统特朗普的请求，暂停一项阻止国民警卫队进驻华盛顿的禁令。",
-          "url": "https://flash.jin10.com/detail/20251205045039833800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "周四（12月4日），降息赢家指数跌0.81%，报99.47点。 “特朗普关税输家”指数涨0.23%，散户抱团概念股指数/迷因股（meme stock）指数涨2.27%。",
-          "url": "https://wallstreetcn.com/livenews/3015360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时16分]"
-        },
-        {
-          "title": "市场消息：特朗普解雇了白宫宴会厅设计师。",
-          "url": "https://flash.jin10.com/detail/20251205043753442800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "加拿大总理卡尼将于周五在世界杯抽签仪式上与美国总统特朗普和墨西哥总统辛鲍姆举行简短会晤。",
-          "url": "https://flash.jin10.com/detail/20251205002807924800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时27分]"
-        },
-        {
-          "title": "墨西哥外交部：墨西哥总统辛鲍姆确认将与美国总统特朗普和加拿大总理卡尼会面。",
-          "url": "https://flash.jin10.com/detail/20251205214207524800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
-          "url": "https://flash.jin10.com/detail/20251205133653740800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "特朗普推动禁止州级AI立法在国会受挫 白宫或转向行政令施压",
-          "url": "https://flash.jin10.com/detail/20251205210318683800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 只要没有“随机黑天鹅”事件发生，预计2026年将成为“美国经济史上的黄金年份之一” 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
-          "url": "https://wallstreetcn.com/livenews/3015973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "仿制药企业家力促特朗普政府免除仿制药审批费",
-          "url": "https://flash.jin10.com/detail/20251205061224221800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "中信证券：特朗普这一轮支持率下滑具有普遍性",
-          "url": "https://flash.jin10.com/detail/20251205080946539800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
-          "url": "https://flash.jin10.com/detail/20251205110849030800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "与特朗普意见不合，白宫宴会厅设计师换人",
-          "url": "https://wallstreetcn.com/livenews/3015772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251205103316073800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "美国总统特朗普敦促立即制造紧凑型汽车（tiny cars）。",
-          "url": "https://wallstreetcn.com/livenews/3016010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
-          "url": "https://flash.jin10.com/detail/20251205211546105800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "白宫高级官员宣称：美国总统特朗普的政府带着“强烈的怀疑态度”看待奈飞收购华纳兄弟探索公司的交易。",
-          "url": "https://wallstreetcn.com/livenews/3016006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
-          "url": "https://flash.jin10.com/detail/20251205065532013800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3015386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪王传福：未来还有更多重磅技术发布",
-          "url": "https://wallstreetcn.com/livenews/3015748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "王传福回应比亚迪国内销量下滑",
-          "url": "https://wallstreetcn.com/livenews/3015600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒生科技指数转涨，此前一度跌超1%。小米集团涨近2%，蔚来、中芯国际、百度等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3015559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "可控核聚变",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数集体翻红，算力硬件、贵金属、福建、可控核聚变等方向领涨，沪深京三市上涨个股超3600只。",
-          "url": "https://wallstreetcn.com/livenews/3015558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "超捷股份",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【A股商业航天概念涨势扩大，航天动力拉升封板】超捷股份、航天机电、西部材料、上海港湾、天箭科技、航天科技、顺灏股份等多股此前涨停，乾照光电、广联航空等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3015658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "00时21分"
         }
       ]
     }
