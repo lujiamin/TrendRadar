@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T14:22:56.363123+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-12-06T15:15:10.100898+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "如何评价网飞 827 亿美元收购华纳兄弟、 HBO 及 HBO Max？会对影视行业带来什么影响？",
@@ -15,11 +15,13 @@
             9,
             3,
             2,
-            1
+            1,
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时16分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[01时16分 ~ 15时15分]"
         },
         {
           "title": "Netflix以827亿美元收购华纳兄弟",
@@ -42,8 +44,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时15分]"
+        },
+        {
+          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
+          "url": "https://www.cls.cn/detail/2221612",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时15分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -58,20 +74,6 @@
           "time_info": "[03时13分 ~ 07时16分]"
         },
         {
-          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
-          "url": "https://www.cls.cn/detail/2221612",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时22分]"
-        },
-        {
           "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
           "url": "https://flash.jin10.com/detail/20251206040033600800",
           "source": "金十数据",
@@ -82,6 +84,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 09时11分]"
+        },
+        {
+          "title": "俄媒：俄罗斯11月黄金储备首破3000亿美元 创现代历史纪录",
+          "url": "https://flash.jin10.com/detail/20251206140628868800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈按8000亿美元估值出售股票。 该公司CFO最近数日向投资者们通报了股票出售事宜。（华尔街日报）",
@@ -102,11 +115,12 @@
             2,
             11,
             15,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时15分]"
         },
         {
           "title": "瑞银：预计美联储在2026年初可能每月购买约400亿美元的短期国债。",
@@ -116,11 +130,27 @@
             3,
             9,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时15分]"
+        },
+        {
+          "title": "越南11月贸易帐 10.9亿美元，预期13.92亿美元，前值26亿美元。",
+          "url": "https://flash.jin10.com/detail/20251206100233089800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            23,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时15分]"
         },
         {
           "title": "巴西雷亚尔兑美元汇率下跌近3%，报约5.47；当地基准股指暴跌逾4%。",
@@ -211,6 +241,18 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
           "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251206001140716800",
           "source": "金十数据",
@@ -280,20 +322,6 @@
             19,
             23,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
-        },
-        {
-          "title": "越南11月贸易帐 10.9亿美元，预期13.92亿美元，前值26亿美元。",
-          "url": "https://flash.jin10.com/detail/20251206100233089800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            23,
-            28
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -688,6 +716,36 @@
           "time_info": "[03时14分 ~ 07时16分]"
         },
         {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            13,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时15分]"
+        },
+        {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
           "url": "https://www.toutiao.com/trending/7579684143039381523/",
           "source": "今日头条",
@@ -700,17 +758,18 @@
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
+          "url": "https://wallstreetcn.com/livenews/3016210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
+            4,
             13,
-            18
+            17,
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时15分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -737,32 +796,17 @@
           "time_info": "[04时19分 ~ 09时11分]"
         },
         {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            12,
-            16,
-            22
+            1,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://wallstreetcn.com/livenews/3016210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时15分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
@@ -779,28 +823,17 @@
           "time_info": "[02时22分 ~ 05时15分]"
         },
         {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时22分]"
-        },
-        {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
           "url": "https://wallstreetcn.com/livenews/3016225",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -1106,18 +1139,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
-          "url": "https://wallstreetcn.com/livenews/3016155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -1127,8 +1148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 15时15分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -1139,8 +1160,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 15时15分]"
+        },
+        {
+          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
+          "url": "https://wallstreetcn.com/livenews/3016155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时11分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
