@@ -1,161 +1,12 @@
 {
-  "generated_at": "2025-12-06T23:15:09.010769+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-12-07T00:18:51.017595+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 60,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "如何评价网飞 827 亿美元收购华纳兄弟、 HBO 及 HBO Max？会对影视行业带来什么影响？",
-          "url": "https://www.zhihu.com/question/1980247181802829037",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
-            2,
-            1,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时16分 ~ 15时15分]"
-        },
-        {
-          "title": "流媒体之王“吞下”好莱坞百年老店：奈飞同意以720亿美元收购华纳兄弟",
-          "url": "https://wallstreetcn.com/articles/3760791",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时11分 ~ 20时31分]"
-        },
-        {
-          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
-          "url": "https://www.cls.cn/detail/2221612",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时11分 ~ 23时15分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时14分 ~ 23时15分]"
-        },
-        {
-          "title": "Netflix以827亿美元收购华纳兄弟",
-          "url": "https://www.baidu.com/s?wd=Netflix%E4%BB%A5827%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时13分 ~ 07时16分]"
-        },
-        {
-          "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
-          "url": "https://flash.jin10.com/detail/20251206040033600800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 09时11分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX洽谈按8000亿美元估值出售股票。 该公司CFO最近数日向投资者们通报了股票出售事宜。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
-          "url": "https://wallstreetcn.com/livenews/3016301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 23时15分]"
-        },
-        {
-          "title": "奈飞以720亿美元收购华纳兄弟探索公司的交易中包含了一项创纪录的“分手费”条款：如果交易因故失败或未能获得监管批准，奈飞同意向收购目标华纳兄弟探索公司支付58亿美元的违约金。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            15,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时15分]"
-        },
-        {
-          "title": "瑞银：预计美联储在2026年初可能每月购买约400亿美元的短期国债。",
-          "url": "https://flash.jin10.com/detail/20251206102812206800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            15,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时15分]"
-        },
         {
           "title": "比特币升破90000美元，日内涨0.83%。",
           "url": "https://wallstreetcn.com/livenews/3016323",
@@ -163,349 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "越南11月贸易帐 10.9亿美元，预期13.92亿美元，前值26亿美元。",
-          "url": "https://flash.jin10.com/detail/20251206100233089800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            23,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时15分]"
-        },
-        {
-          "title": "巴西雷亚尔兑美元汇率下跌近3%，报约5.47；当地基准股指暴跌逾4%。",
-          "url": "https://flash.jin10.com/detail/20251206031808939800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 09时11分]"
-        },
-        {
-          "title": "美国10月消费信贷变动 91.78亿美元，预期 104.8亿美元，前值 130.93亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "全球今年并购交易量已达3.3万亿美元，受奈飞等大型交易推动，逼近历史峰值",
-          "url": "https://wallstreetcn.com/livenews/3016111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "据消息人士透露，由于估值分歧，安宏资本收购惠而浦印度公司股份的10亿美元交易谈判已经破裂。",
-          "url": "https://flash.jin10.com/detail/20251206175320999800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时31分]"
-        },
-        {
-          "title": "巴西雷亚尔兑美元跌幅扩大至2.7%，身陷囹圄的前巴西总统Bolsonaro选择自己儿子Flavio Bolsonaro为总统候选人。",
-          "url": "https://wallstreetcn.com/livenews/3016095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
-        },
-        {
-          "title": "加密预测市场Polymarket因5900万美元的自身上线押注而陷入治理争议",
-          "url": "https://wallstreetcn.com/livenews/3016094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
-        },
-        {
-          "title": "伦敦金银市场协会（LBMA）：截至2025年11月底，伦敦金库中持有的白银总量为27,187吨（较上月增长3.5%），市值达471亿美元。",
-          "url": "https://flash.jin10.com/detail/20251206001230504800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "俄媒：俄罗斯11月黄金储备首破3000亿美元 创现代历史纪录",
-          "url": "https://flash.jin10.com/detail/20251206140628868800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时20分]"
-        },
-        {
-          "title": "纽约期银创历史新高，逼近60美元整数位心理关口，本周涨2.8%",
-          "url": "https://wallstreetcn.com/livenews/3016141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251206001140716800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
-          "url": "https://wallstreetcn.com/livenews/3016154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
-          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
-          "url": "https://wallstreetcn.com/livenews/3016044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
-          "url": "https://wallstreetcn.com/livenews/3016107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "中信证券：库存拐点已至 年内LME铜价有望加速迈向12000美元/吨",
-          "url": "https://wallstreetcn.com/livenews/3016203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
-        },
-        {
-          "title": "SpaceX恰当出售股份事宜，估值或升至8000亿美元",
-          "url": "https://flash.jin10.com/detail/20251206024855818800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时16分]"
-        },
-        {
-          "title": "消息人士称，SpaceX正就股份出售进行谈判，该交易将使其估值飙升至8000亿美元，成为全球估值最高的非上市公司。",
-          "url": "https://flash.jin10.com/detail/20251206024528581800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时16分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的14.85亿美元。",
-          "url": "https://flash.jin10.com/detail/20251206023848657800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时16分]"
-        },
-        {
-          "title": "乌兹别克斯坦央行：外汇储备在11月达到612亿美元（此前为593亿美元）。",
-          "url": "https://flash.jin10.com/detail/20251206181506068800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时23分]"
-        },
-        {
-          "title": "周五（12月5日），美联储隔夜逆回购协议（RRP）使用规模为14.85亿美元（仅仅8家交易对手），上个交易日报22.33亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
-        },
-        {
-          "title": "卡塔尔能源部长：油价在70至80美元之间，足以带来足够收入，用于投资满足未来能源需求；若超过90美元，则过高。",
-          "url": "https://flash.jin10.com/detail/20251206170435277800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时31分]"
-        },
-        {
-          "title": "LME期铜收涨170美元，报11620美元/吨。 LME期铝收跌6美元，报2898美元/吨。 LME期锌收涨8美元，报3098美元/吨。 LME期铅收跌12美元，报2002美元/吨。 LME期镍收涨43美元，报14940美元/吨。 LME期锡收跌310美元，报40068美元/吨。 LME期钴收涨740美元，报52220美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3016080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时19分]"
-        },
-        {
-          "title": "美元兑瑞郎跌约0.2%，刷新日低至0.8054。 瑞士政府公布的一份谈判授权草案显示，瑞士愿意向美国做出更多让步，如果能够换取特朗普政府更低的关税，以敲定11月达成的初步协议。",
-          "url": "https://wallstreetcn.com/livenews/3016061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "巴西雷亚尔兑美元汇率在即期交易中下跌2%，至5.42。",
-          "url": "https://flash.jin10.com/detail/20251206003410671800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "太空初创公司Iceye按28亿美元估值融资。",
-          "url": "https://wallstreetcn.com/livenews/3016076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时19分]"
-        },
-        {
-          "title": "越南11月贸易余额 10.9亿美元，预期 15亿美元，前值 26亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时16分]"
+          "time_info": "00时18分"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -515,338 +26,97 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时14分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "周五（12月5日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0692元，较周四纽约尾盘涨24点，日内整体交投于7.0720-7.0630元区间。",
-          "url": "https://wallstreetcn.com/livenews/3016150",
-          "source": "华尔街见闻-快讯",
+          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
+          "url": "https://www.cls.cn/detail/2221612",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
-          "title": "巴西11月官方储备资产较之前一个月增长34.8亿美元，环比增幅1%，至3606亿美元，创2024年11月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3016042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0720元，较周四夜盘收盘跌10点。成交量292.63亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "美元指数本周跌超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3016113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "现货白银涨穿59美元，刷新历史高位至59.0697美元，当前涨幅3.4%。 纽约黄金日内涨幅达1.0%，报4285.5美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3016040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "巴西雷亚尔兑美元跌2.2%，投资者关注有关选举的报道。",
-          "url": "https://wallstreetcn.com/livenews/3016059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时22分]"
-        },
-        {
-          "title": "美国能源部长赖特：在油价跌到每桶50美元时，最好的生产商仍能盈利",
-          "url": "https://flash.jin10.com/detail/20251205234940087800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.526万亿美元，之前一周18.428万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "阿根廷将发行美元国债以偿还到期债务",
-          "url": "https://wallstreetcn.com/livenews/3016252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
-          "title": "现货白银脱离历史最高位59.3336美元/盎司，回落至58美元下方，涨幅收窄至大约2%。 现货黄金脱离盘中最高位4259.34美元，转跌并一度失守4200美元。",
-          "url": "https://wallstreetcn.com/livenews/3016054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时22分]"
-        },
-        {
-          "title": "现货黄金日内转跌，最低至4202美元/盎司，较高位回落超50美元。",
-          "url": "https://flash.jin10.com/detail/20251206001819902800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时22分]"
-        },
-        {
-          "title": "美元指数DXY短线走强超10点，现报99.08。",
-          "url": "https://flash.jin10.com/detail/20251206001335575800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时22分]"
-        },
-        {
-          "title": "美元兑加元跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3016145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "00时18分"
         },
         {
-          "title": "IMF警告：美元稳定币或在弱势经济体加速货币替代，削弱央行掌控能力",
-          "url": "https://wallstreetcn.com/livenews/3016183",
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
+          "url": "https://wallstreetcn.com/livenews/3016301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
-          "title": "现货白银向上触及59美元",
-          "url": "https://flash.jin10.com/detail/20251205233753529800",
-          "source": "金十数据",
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时18分"
         },
         {
-          "title": "布伦特原油日内涨超1.00%，现报64.43美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251205233203379800",
-          "source": "金十数据",
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国国务院批准向黎巴嫩出售中型战术车辆及相关设备，预计费用为9050万美元。",
-          "url": "https://flash.jin10.com/detail/20251206040352231800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "现货黄金向上触及4250美元/盎司，日内涨约1%。",
-          "url": "https://flash.jin10.com/detail/20251205233104531800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美、布两油短线持续走高，WTI原油向上触及60美元/桶，日内涨近1%，布油现涨约0.8%。",
-          "url": "https://flash.jin10.com/detail/20251205232536990800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "现货白银日内涨幅达3%，现报58.84美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251205232412959800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时18分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普世界杯抽签搞抽象",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            22,
-            28,
-            6,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 23时15分]"
-        },
-        {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时15分 ~ 22时14分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时15分 ~ 23时15分]"
-        },
-        {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27,
-            23,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 09时11分]"
-        },
-        {
-          "title": "特朗普警告高市早苗别插手台海",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时22分]"
-        },
-        {
-          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
-          "url": "https://flash.jin10.com/detail/20251206022018049800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
-          "url": "https://news.ifeng.com/c/8oro24DPoQo",
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
           "source": "凤凰网",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时30分 ~ 21时23分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -856,599 +126,26 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 23时15分]"
-        },
-        {
-          "title": "特朗普终于获得一枚“和平奖”",
-          "url": "https://www.toutiao.com/trending/7579662225003511862/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            13,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            16,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时15分]"
-        },
-        {
-          "title": "日媒：特朗普与高市通话措辞非常严厉",
-          "url": "https://www.toutiao.com/trending/7579684143039381523/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时06分"
+          "time_info": "00时18分"
         },
         {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://wallstreetcn.com/livenews/3016210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时20分]"
-        },
-        {
-          "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
-          "url": "https://flash.jin10.com/detail/20251206033944574800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 09时11分]"
-        },
-        {
-          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
-          "url": "https://flash.jin10.com/detail/20251206033847426800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 09时11分]"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
-          "url": "https://wallstreetcn.com/livenews/3016084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
-          "url": "https://wallstreetcn.com/livenews/3016225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
-          "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
-          "url": "https://flash.jin10.com/detail/20251206005652021800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "美国总统特朗普：已安排活动结束后（与加拿大和墨西哥方面）会面，将讨论贸易问题。",
-          "url": "https://flash.jin10.com/detail/20251206005101080800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
-          "url": "https://flash.jin10.com/detail/20251206183915607800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时23分]"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
-          "url": "https://wallstreetcn.com/livenews/3016109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "美国总统特朗普：与加拿大和墨西哥相处得很好。",
-          "url": "https://flash.jin10.com/detail/20251206004936040800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
-          "url": "https://flash.jin10.com/detail/20251206085353161800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 11时06分]"
-        },
-        {
-          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
-          "url": "https://wallstreetcn.com/livenews/3016179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 11时06分]"
-        },
-        {
-          "title": "加拿大总理办公室：卡尼先会见了墨西哥总统谢因鲍姆，接下来将与特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20251206004910784800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
-          "url": "https://wallstreetcn.com/livenews/3016152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
-          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
-          "url": "https://flash.jin10.com/detail/20251206083946203800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 11时06分]"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
-          "url": "https://wallstreetcn.com/livenews/3016151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
-          "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
-          "url": "https://flash.jin10.com/detail/20251206004830012800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
-          "url": "https://wallstreetcn.com/livenews/3016063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "加拿大总理卡尼将在下周FIFA活动之前会见墨西哥总统辛鲍姆和美国总统特朗普。（PMO）",
-          "url": "https://wallstreetcn.com/livenews/3016062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
-          "url": "https://wallstreetcn.com/livenews/3016079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时19分]"
-        },
-        {
-          "title": "美国总统特朗普表示，他可能会在国际足联会议上与墨西哥总统会面。",
-          "url": "https://flash.jin10.com/detail/20251206003419043800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
-          "url": "https://wallstreetcn.com/livenews/3016074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时19分]"
-        },
-        {
-          "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
-          "url": "https://wallstreetcn.com/livenews/3016043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
-          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时14分 ~ 23时15分]"
-        },
-        {
-          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
-          "url": "https://wallstreetcn.com/livenews/3016099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "白宫记者团：美国总统特朗普会见墨西哥和加拿大的领导人。",
-          "url": "https://wallstreetcn.com/livenews/3016132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：与美国总统特朗普一致认为，将持续致力于解决贸易问题。",
-          "url": "https://wallstreetcn.com/livenews/3016131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
-          "url": "https://wallstreetcn.com/livenews/3016055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时22分]"
-        },
-        {
-          "title": "周五（12月5日），降息赢家指数跌0.67%，报98.81点，美国PCE通胀数据发布后持续下挫，本周累计下跌1.10%，整体呈现出M形走势。 “特朗普关税输家”指数涨0.77%，报110.15点，本周累涨1.90%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.41%，报16.99点，本周大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3016126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆",
-          "url": "https://www.toutiao.com/trending/7580050028262178879/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "日本前高官警告高市：别指望特朗普",
-          "url": "https://www.toutiao.com/trending/7580631438102593577/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
-          "url": "https://flash.jin10.com/detail/20251205232909438800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普若执意“甩卖”乌欧洲该怎么办",
-          "url": "https://www.toutiao.com/trending/7580687730007346724/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时18分 ~ 23时15分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
           "source": "知乎",
           "ranks": [
-            20,
-            6,
-            9,
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时18分 ~ 21时23分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时15分 ~ 23时15分]"
-        },
-        {
-          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
-          "url": "https://wallstreetcn.com/livenews/3016155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
-        },
-        {
-          "title": "OpenAI最快将于下周发布GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251206082425729800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 11时06分]"
-        },
-        {
-          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
-          "url": "https://www.zhihu.com/question/1979858915077404344",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时14分 ~ 23时15分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
-          "url": "https://wallstreetcn.com/livenews/3016208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时22分]"
-        },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
           "url": "https://m.thepaper.cn/newsDetail_forward_32118009",
@@ -1457,8 +154,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时14分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
