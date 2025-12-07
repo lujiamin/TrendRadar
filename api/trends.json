@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T11:24:44.144175+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-07T12:31:09.959204+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             8,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 11时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 12时31分]"
         },
         {
           "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 12时31分]"
         },
         {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
@@ -62,11 +63,25 @@
           "url": "https://wallstreetcn.com/livenews/3016341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时31分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://wallstreetcn.com/livenews/3016330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时31分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -82,72 +97,65 @@
           "time_info": "[00时18分 ~ 02时21分]"
         },
         {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://wallstreetcn.com/livenews/3016330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时24分]"
-        },
-        {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
           "url": "https://flash.jin10.com/detail/20251207083014951800",
           "source": "金十数据",
           "ranks": [
             6,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时24分]"
-        },
-        {
-          "title": "中国11月外汇储备 33463.72亿美元，预期33580亿美元，前值33433.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20251207100852138800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "一篇文章，速通美元来时路 | 美元底层逻辑①",
-          "url": "https://flash.jin10.com/detail/20251207095645490800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时31分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
           "url": "https://www.cls.cn/detail/2221851",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时31分]"
+        },
+        {
+          "title": "中国11月外汇储备 33463.72亿美元，预期33580亿美元，前值33433.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207100852138800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时31分]"
+        },
+        {
+          "title": "一篇文章，速通美元来时路 | 美元底层逻辑①",
+          "url": "https://flash.jin10.com/detail/20251207095645490800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时31分]"
         },
         {
           "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
           "url": "https://flash.jin10.com/detail/20251207091937087800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时31分]"
         }
       ]
     },
@@ -190,6 +198,18 @@
           "time_info": "[00时18分 ~ 09时21分]"
         },
         {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时31分]"
+        },
+        {
           "title": "特朗普或将给高市早苗放权",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -199,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "美国发生特大诈骗案 特朗普怒批",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
@@ -279,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 12时31分]"
         },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
@@ -301,11 +310,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 12时31分]"
         }
       ]
     }
