@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T18:15:35.337887+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-12-07T19:13:01.321397+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -52,6 +52,21 @@
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时24分 ~ 19时13分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
           "url": "https://wallstreetcn.com/livenews/3016330",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -68,21 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时21分 ~ 18时15分]"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://www.cls.cn/detail/2221851",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 18时15分]"
         },
         {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
@@ -121,11 +121,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时13分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -191,6 +192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时31分]"
+        },
+        {
+          "title": "埃及央行：埃及11月外汇储备增至502.16亿美元，10月为500.71亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207182730672800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
@@ -262,17 +274,6 @@
           "time_info": "[13时15分 ~ 17时16分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
-          "url": "https://flash.jin10.com/detail/20251207175156547800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -286,6 +287,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时15分 ~ 17时16分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时13分]"
+        },
+        {
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -310,17 +347,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "特朗普称其主持典礼会比吉米做得更好",
           "url": "https://www.toutiao.com/trending/7580414475011047451/",
           "source": "今日头条",
@@ -330,17 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
-        },
-        {
-          "title": "特朗普威胁封锁委领空 马杜罗咋办",
-          "url": "https://www.toutiao.com/trending/7581027611489340991/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         }
       ]
     },
@@ -380,11 +395,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 19时13分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -413,7 +429,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "王传福坦言技术领先度不及以往，比亚迪的护城河还在吗？你认为是什么？",
@@ -424,8 +440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 19时13分]"
         },
         {
           "title": "如何看待 11 月份比亚迪海外销量?",
@@ -455,6 +471,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 11时24分]"
+        },
+        {
+          "title": "当比亚迪海洋车主踢馆香港明星足球队",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E6%B4%8B%E8%BD%A6%E4%B8%BB%E8%B8%A2%E9%A6%86%E9%A6%99%E6%B8%AF%E6%98%8E%E6%98%9F%E8%B6%B3%E7%90%83%E9%98%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
         }
       ]
     }
