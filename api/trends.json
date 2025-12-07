@@ -1,214 +1,11 @@
 {
-  "generated_at": "2025-12-07T19:13:01.321397+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-12-07T20:29:39.794238+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "比特币升破90000美元，日内涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3016323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            16,
-            21,
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 16时19分]"
-        },
-        {
-          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
-          "url": "https://www.cls.cn/detail/2221612",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 15时15分]"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://www.cls.cn/detail/2221851",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 19时13分]"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://wallstreetcn.com/livenews/3016330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            17,
-            23,
-            24,
-            25,
-            26,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 18时15分]"
-        },
-        {
-          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
-          "url": "https://wallstreetcn.com/livenews/3016301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时21分]"
-        },
-        {
-          "title": "央行数据显示，11月末外汇储备报33463.72亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3016341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            13,
-            14,
-            15,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 18时15分]"
-        },
-        {
-          "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
-          "url": "https://wallstreetcn.com/articles/3760864",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 19时13分]"
-        },
-        {
-          "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1980618656774894195",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "中国11月外汇储备 33463.72亿美元，预期33580亿美元，前值33433.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20251207100852138800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 14时22分]"
-        },
-        {
-          "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
-          "url": "https://flash.jin10.com/detail/20251207083014951800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 12时31分]"
-        },
-        {
-          "title": "一篇文章，速通美元来时路 | 美元底层逻辑①",
-          "url": "https://flash.jin10.com/detail/20251207095645490800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时15分]"
-        },
-        {
-          "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
-          "url": "https://flash.jin10.com/detail/20251207091937087800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时31分]"
-        },
-        {
-          "title": "埃及央行：埃及11月外汇储备增至502.16亿美元，10月为500.71亿美元。",
-          "url": "https://flash.jin10.com/detail/20251207182730672800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -289,16 +86,39 @@
           "time_info": "[13时15分 ~ 17时16分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
           "url": "https://flash.jin10.com/detail/20251207175156547800",
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时29分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -306,11 +126,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时29分]"
         },
         {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
@@ -336,6 +157,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "特朗普或将给高市早苗放权",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -356,6 +188,211 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "比特币升破90000美元，日内涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3016323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            16,
+            21,
+            27,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 16时19分]"
+        },
+        {
+          "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
+          "url": "https://www.cls.cn/detail/2221612",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时15分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 20时29分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://wallstreetcn.com/livenews/3016330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            17,
+            23,
+            24,
+            25,
+            26,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 18时15分]"
+        },
+        {
+          "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
+          "url": "https://wallstreetcn.com/articles/3760864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 20时29分]"
+        },
+        {
+          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
+          "url": "https://wallstreetcn.com/livenews/3016301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 09时21分]"
+        },
+        {
+          "title": "央行数据显示，11月末外汇储备报33463.72亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            13,
+            14,
+            15,
+            16,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 18时15分]"
+        },
+        {
+          "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1980618656774894195",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时21分]"
+        },
+        {
+          "title": "中国11月外汇储备 33463.72亿美元，预期33580亿美元，前值33433.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207100852138800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 14时22分]"
+        },
+        {
+          "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
+          "url": "https://flash.jin10.com/detail/20251207083014951800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时31分]"
+        },
+        {
+          "title": "一篇文章，速通美元来时路 | 美元底层逻辑①",
+          "url": "https://flash.jin10.com/detail/20251207095645490800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时15分]"
+        },
+        {
+          "title": "埃及央行：埃及11月外汇储备增至502.16亿美元，10月为500.71亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207182730672800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时29分]"
+        },
+        {
+          "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
+          "url": "https://flash.jin10.com/detail/20251207091937087800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时31分]"
         }
       ]
     },
@@ -437,11 +474,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 20时29分]"
         },
         {
           "title": "如何看待 11 月份比亚迪海外销量?",
