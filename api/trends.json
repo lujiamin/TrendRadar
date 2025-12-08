@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:16:01.458903+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2025-12-08T20:34:20.149670+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时18分 ~ 17时24分]"
+        },
+        {
+          "title": "每月购债450亿美元？美联储本周还有比降息更重要的事：会否扩表……",
+          "url": "https://www.cls.cn/detail/2222636",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 20时34分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -32,17 +46,18 @@
           "time_info": "[00时18分 ~ 09时15分]"
         },
         {
-          "title": "每月购债450亿美元？美联储本周还有比降息更重要的事：会否扩表……",
-          "url": "https://www.cls.cn/detail/2222636",
-          "source": "财联社热门",
+          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
+          "url": "https://wallstreetcn.com/articles/3760898",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            5,
-            3
+            10,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 20时34分]"
         },
         {
           "title": "比特币跌破88000美元/枚，日内跌幅近2%，现报87823美元/枚。",
@@ -59,19 +74,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
-          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
-          "url": "https://wallstreetcn.com/articles/3760898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时16分]"
         },
         {
           "title": "据知情人士透露，布鲁克菲尔德资产管理公司与新加坡政府投资公司（GIC）正接近对National Storage REIT提出具有约束力的收购要约，这笔交易对这家悉尼上市公司的估值可能在40亿澳元（合27亿美元）左右。双方正在敲定一项交易的细节，最早可能于周一宣布。（彭博）",
@@ -138,6 +140,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "国际清算银行：非美国投资者仍面临美元潜在损失的风险。",
+          "url": "https://flash.jin10.com/detail/20251208200142367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "摩根士丹利：将法拉利(RACE.N)评级从超配评级下调至持股观望，目标价从520美元下调至425美元。",
           "url": "https://flash.jin10.com/detail/20251208175841109800",
           "source": "金十数据",
@@ -147,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "国际清算银行：新冠疫情后利率上升，导致投资者在美国4月关税实施前纷纷放弃美元对冲。",
+          "url": "https://flash.jin10.com/detail/20251208200108665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "阿联酋将明年1月的穆尔班原油官方售价定为65.53美元/桶",
@@ -330,6 +354,17 @@
           "time_info": "[17时24分 ~ 18时19分]"
         },
         {
+          "title": "国际清算银行：美元对冲比率仍相当低，但随着美国利率下降，这一比率可能会回升。",
+          "url": "https://flash.jin10.com/detail/20251208200057776800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，IBM(IBM.N)正就收购数据流平台Confluent进行高级谈判，一项约110亿美元的交易可能于周一达成。",
           "url": "https://flash.jin10.com/detail/20251208110341448800",
           "source": "金十数据",
@@ -341,6 +376,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "布伦特原油日内跌幅达1%，报63.07美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3016969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "摩根士丹利：将特斯拉(TSLA.O)评级从超配下调至与大盘持平；目标价从410美元上调至425美元。",
           "url": "https://flash.jin10.com/detail/20251208163927100800",
           "source": "金十数据",
@@ -350,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "据华尔街日报：亚马逊领投初创企业Blue Current 8100万美元融资。",
+          "url": "https://flash.jin10.com/detail/20251208193308183800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "中信证券：预计12000美元将成为铜价的崭新起点 全面推荐铜板块配置",
@@ -391,7 +448,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -424,7 +481,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -457,7 +514,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -482,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "埃及规划部：埃及与欧洲复兴开发银行签署1亿美元融资协议。",
+          "url": "https://flash.jin10.com/detail/20251208190648211800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "消息人士称，安特罗资源拟收购HG能源，接近达成价值数十亿美元交易。（彭博）",
@@ -520,7 +588,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -555,8 +623,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时30分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时30分 ~ 20时34分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -612,6 +680,18 @@
           "time_info": "[11时18分 ~ 15时21分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 20时34分]"
+        },
+        {
           "title": "网飞与华纳达成收购协议，特朗普警告",
           "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
@@ -634,16 +714,15 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
@@ -655,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -849,12 +939,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "柬泰再交火 特朗普还会出手吗",
+          "url": "https://www.toutiao.com/trending/7581406828559339014/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "专家：特朗普版国安战略给欧洲浇冷水",
+          "url": "https://www.toutiao.com/trending/7581427136523669001/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -871,6 +983,39 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[12时30分 ~ 19时16分]"
+        },
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
