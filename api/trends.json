@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T14:28:38.992431+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-12-08T15:21:27.141988+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 15时21分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -175,6 +175,18 @@
           "time_info": "[11时19分 ~ 12时31分]"
         },
         {
+          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
+          "url": "https://wallstreetcn.com/articles/3760898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时21分]"
+        },
+        {
           "title": "IBM接近达成收购数据流平台提供商Confluent的交易，估值约110亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3016662",
           "source": "华尔街见闻-快讯",
@@ -199,6 +211,30 @@
           "time_info": "[12时31分 ~ 13时19分]"
         },
         {
+          "title": "LME三个月期铜涨至11771美元/吨，再创纪录新高。",
+          "url": "https://flash.jin10.com/detail/20251208134857680800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时21分]"
+        },
+        {
+          "title": "现货黄金短线走高近10美元，现报4214美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251208133546800800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时21分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，IBM(IBM.N)正就收购数据流平台Confluent进行高级谈判，一项约110亿美元的交易可能于周一达成。",
           "url": "https://flash.jin10.com/detail/20251208110341448800",
           "source": "金十数据",
@@ -210,17 +246,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
-          "url": "https://wallstreetcn.com/articles/3760898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
           "title": "中信证券：预计12000美元将成为铜价的崭新起点 全面推荐铜板块配置",
           "url": "https://wallstreetcn.com/livenews/3016529",
           "source": "华尔街见闻-快讯",
@@ -230,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "LME三个月期铜涨至11771美元/吨，再创纪录新高。",
-          "url": "https://flash.jin10.com/detail/20251208134857680800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         },
         {
           "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
@@ -287,6 +301,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "万达商管拟明年1月5日召开债券持有人会议，寻求一笔4亿美元债展期至2028年2月",
+          "url": "https://wallstreetcn.com/livenews/3016764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "“超级央行周”来袭，现货白银上周涨势强劲，剑指60美元整数大关，多头占比较高位略有回落；现货黄金维持高位震荡，多头占比升至70%以上，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251208105315485800",
           "source": "金十数据",
@@ -296,17 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "现货黄金短线走高近10美元，现报4214美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251208133546800800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         },
         {
           "title": "消息人士称，安特罗资源拟收购HG能源，接近达成价值数十亿美元交易。（彭博）",
@@ -345,7 +359,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -395,8 +409,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 15时21分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -407,8 +421,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时21分]"
+        },
+        {
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时21分]"
         },
         {
           "title": "特朗普长子：特朗普或退出乌和平进程",
@@ -422,26 +458,16 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
-          "source": "凤凰网",
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
           "ranks": [
-            6
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时28分]"
-        },
-        {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -475,18 +501,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时28分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -592,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普国安战略报告提及台湾8次",
+          "url": "https://www.toutiao.com/trending/7580755612796354603/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
@@ -606,11 +631,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 15时21分]"
         }
       ]
     }
