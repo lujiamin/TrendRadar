@@ -1,44 +1,23 @@
 {
-  "generated_at": "2025-12-09T02:25:29.553685+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2025-12-09T03:14:35.887225+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "周一（12月8日），美联储隔夜逆回购协议（RRP）使用规模为17.03亿美元，上个交易日报14.85亿美元。",
           "url": "https://wallstreetcn.com/livenews/3017115",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "英伟达股价短线从183美元附近快速上涨，刷新日高至188美元，日内整体涨幅迅速扩大至2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3017114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "LME期铜收涨15美元，报11636美元/吨。 LME期铝收跌10美元，报2888美元/吨。 LME期锌收涨23美元，报3121美元/吨。 LME期铅收跌4美元，报1998美元/吨。 LME期镍收跌10美元，报14840美元/吨。 LME期锡收跌184美元，报39884美元/吨。 LME期钴收平，报52220美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3017110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            1,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         },
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -49,8 +28,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "英伟达股价短线从183美元附近快速上涨，刷新日高至188美元，日内整体涨幅迅速扩大至2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3017114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "LME期铜收涨15美元，报11636美元/吨。 LME期铝收跌10美元，报2888美元/吨。 LME期锌收涨23美元，报3121美元/吨。 LME期铅收跌4美元，报1998美元/吨。 LME期镍收跌10美元，报14840美元/吨。 LME期锡收跌184美元，报39884美元/吨。 LME期钴收平，报52220美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3017110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -77,6 +80,18 @@
           "time_info": "[00时22分 ~ 01时18分]"
         },
         {
+          "title": "周一（12月8日），韩元兑美元最终涨0.25%，报1469.33韩元，亚太时段秩序走高，北日内大部分时间高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
           "title": "初创公司UnConventional按45亿美元估值进行种子轮融资。",
           "url": "https://wallstreetcn.com/livenews/3017058",
           "source": "华尔街见闻-快讯",
@@ -98,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "周一（12月8日），韩元兑美元最终涨0.25%，报1469.33韩元，亚太时段秩序走高，北日内大部分时间高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3017105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
         },
         {
           "title": "派拉蒙天舞：若拟议交易在特定情况下终止，派拉蒙将向华纳兄弟探索支付50亿美元的终止费。",
@@ -133,6 +137,28 @@
           "time_info": "00时22分"
         },
         {
+          "title": "布伦特原油日内跌超2.00%，现报62.92美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251209022132151800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的17.03亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209021837558800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "国际金银短线异动，现货黄金短线走低17美元，向下触及4180美元/盎司，日内跌0.38%。现货白银短线下挫0.4美元，现报57.74美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251208230824054800",
           "source": "金十数据",
@@ -142,12 +168,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "WTI原油日内下跌2.00%，现报58.77美元/桶；布伦特原油回落至63美元/桶下方，日内跌1.92%。",
+          "url": "https://flash.jin10.com/detail/20251209021350740800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰今年缺少8亿美元用于美国武器采购计划。",
+          "url": "https://flash.jin10.com/detail/20251209021224965800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -157,8 +205,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -179,8 +227,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
+          "url": "https://wallstreetcn.com/livenews/3017101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "美国最高法院暗示支持特朗普解雇机构领导人",
+          "url": "https://flash.jin10.com/detail/20251209024442293800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国总统特朗普的政府支持伊拉克“将俄罗斯石油公司LukOil PJSC在West Qurna 2油田的资产转让给美国公司”的计划。",
@@ -194,24 +265,13 @@
           "time_info": "01时18分"
         },
         {
-          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
-          "url": "https://wallstreetcn.com/livenews/3017101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://flash.jin10.com/detail/20251209013000707800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
