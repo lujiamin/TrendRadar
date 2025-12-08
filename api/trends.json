@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T21:32:51.099484+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2025-12-08T22:18:09.849683+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时28分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[14时28分 ~ 22时18分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -141,17 +141,6 @@
           "time_info": "17时24分"
         },
         {
-          "title": "IBM将以每股31美元现金收购实时数据流平台Confluent，推动云计算发展。",
-          "url": "https://wallstreetcn.com/livenews/3017004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "国际清算银行：非美国投资者仍面临美元潜在损失的风险。",
           "url": "https://flash.jin10.com/detail/20251208200142367800",
           "source": "金十数据",
@@ -161,17 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
-        },
-        {
-          "title": "摩根士丹利认为铜价预测存在上行风险（2026年基准情景为每吨10,650美元，乐观情景为每吨12,780美元）。",
-          "url": "https://wallstreetcn.com/livenews/3017002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "摩根士丹利：将法拉利(RACE.N)评级从超配评级下调至持股观望，目标价从520美元下调至425美元。",
@@ -258,6 +236,18 @@
           "time_info": "[05时13分 ~ 07时14分]"
         },
         {
+          "title": "IBM将以每股31美元现金收购实时数据流平台Confluent，推动云计算发展。",
+          "url": "https://wallstreetcn.com/livenews/3017004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
           "url": "https://flash.jin10.com/detail/20251208053436110800",
           "source": "金十数据",
@@ -268,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "摩根士丹利认为铜价预测存在上行风险（2026年基准情景为每吨10,650美元，乐观情景为每吨12,780美元）。",
+          "url": "https://wallstreetcn.com/livenews/3017002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
@@ -472,7 +474,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -615,7 +617,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -637,7 +639,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -648,7 +650,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -656,7 +658,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -692,8 +694,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时30分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时30分 ~ 22时18分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -707,6 +709,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[04时17分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -738,16 +752,15 @@
           "time_info": "[09时14分 ~ 15时21分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时18分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -783,28 +796,6 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时32分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
-          "url": "https://flash.jin10.com/detail/20251208212413479800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208180135739800",
           "source": "金十数据",
@@ -814,28 +805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
-          "url": "https://flash.jin10.com/detail/20251208212334315800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
-          "url": "https://flash.jin10.com/detail/20251208212300357800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -871,6 +840,30 @@
           "time_info": "[00时18分 ~ 04时17分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
+          "url": "https://flash.jin10.com/detail/20251208212413479800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
+          "url": "https://flash.jin10.com/detail/20251208212334315800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普就美国与加拿大贸易争端最新发声",
           "url": "https://wallstreetcn.com/livenews/3016981",
           "source": "华尔街见闻-快讯",
@@ -881,6 +874,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时34分 ~ 21时32分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
+          "url": "https://flash.jin10.com/detail/20251208212300357800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "特朗普正考虑解雇美国土安全部长诺姆？白宫否认",
@@ -956,6 +961,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
+          "url": "https://flash.jin10.com/detail/20251208212154914800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普要求高市早苗不要挑衅中国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E8%A6%81%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1000,17 +1017,6 @@
           "time_info": "18时19分"
         },
         {
-          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
-          "url": "https://flash.jin10.com/detail/20251208212154914800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯对（和平）协议没意见，但不确定泽连斯基是否同意。",
           "url": "https://flash.jin10.com/detail/20251208081657474800",
           "source": "金十数据",
@@ -1033,13 +1039,57 @@
           "time_info": "09时15分"
         },
         {
+          "title": "以色列政府发言人表示，以色列总理内塔尼亚胡将于12月29日会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251208214026144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
+          "url": "https://wallstreetcn.com/livenews/3017019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "特朗普：本周将发布人工智能的单一规则行政令",
+          "url": "https://flash.jin10.com/detail/20251208213431809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/livenews/3017015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）美国总统特朗普有很多不错的选择。",
           "url": "https://flash.jin10.com/detail/20251208211824210800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1050,9 +1100,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈特朗普对奈飞收购华纳兄弟探索公司的影响）总统特朗普会让你清楚地知道他的真实想法。",
+          "url": "https://flash.jin10.com/detail/20251208212942437800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈美联储）：特朗普有很多不错的选择。 如果我必须成为那个选择，我会很高兴帮助他。",
+          "url": "https://wallstreetcn.com/livenews/3017012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）该规则应有助于AI企业明确规则内容。",
+          "url": "https://flash.jin10.com/detail/20251208212910525800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）将明确指示美国企业适用某一套规则。",
+          "url": "https://flash.jin10.com/detail/20251208212727809800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "波音：特朗普的政府参股计划不适用于美国大型国防企业",
@@ -1160,7 +1254,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
