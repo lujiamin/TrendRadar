@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:21:27.141988+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-12-08T16:26:04.615081+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时26分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -163,6 +163,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
+          "url": "https://wallstreetcn.com/articles/3760898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3016665",
           "source": "华尔街见闻-快讯",
@@ -175,18 +187,6 @@
           "time_info": "[11时19分 ~ 12时31分]"
         },
         {
-          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
-          "url": "https://wallstreetcn.com/articles/3760898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时21分]"
-        },
-        {
           "title": "IBM接近达成收购数据流平台提供商Confluent的交易，估值约110亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3016662",
           "source": "华尔街见闻-快讯",
@@ -197,6 +197,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时31分]"
+        },
+        {
+          "title": "每月购债450亿美元？美联储本周还有比降息更重要的事：会否扩表……",
+          "url": "https://www.cls.cn/detail/2222636",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "伊朗诈骗案主谋获死刑，受害者达数万人，涉及金额约3.5亿美元",
+          "url": "https://news.ifeng.com/c/8ousuwo2uQb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "现货钯金日内涨超2.00%，现报1467.69美元/盎司。",
@@ -257,6 +279,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "印度今年的IPO规模已达到创纪录的1.77万亿印度卢比（约合196亿美元），超过去年的1.73万亿印度卢比。",
+          "url": "https://flash.jin10.com/detail/20251208153344661800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
           "url": "https://flash.jin10.com/detail/20251208080055151800",
           "source": "金十数据",
@@ -307,7 +340,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -359,7 +392,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -447,6 +480,18 @@
           "time_info": "[11时18分 ~ 15时21分]"
         },
         {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普长子：特朗普或退出乌和平进程",
           "url": "https://www.toutiao.com/trending/7581096689352572934/",
           "source": "今日头条",
@@ -456,18 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 15时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -553,6 +586,39 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普要求高市早苗不要挑衅中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E8%A6%81%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普将为明星颁奖 还预测颁奖典礼将创收视纪录",
           "url": "https://flash.jin10.com/detail/20251208083240087800",
           "source": "金十数据",
@@ -614,7 +680,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         }
@@ -632,11 +698,29 @@
             12,
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 16时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港恒生指数收盘下跌1.23%，报25765.36点。恒生科技指数收盘基本持平。华虹半导体涨近4.5%，中芯国际涨近3%。百度集团涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3016846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
