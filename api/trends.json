@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T15:19:51.718002+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2025-12-09T16:24:55.748496+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 16时24分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
+          "url": "https://flash.jin10.com/detail/20251209154928270800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -304,6 +316,18 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时24分]"
+        },
+        {
           "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
           "url": "https://flash.jin10.com/detail/20251209042652565800",
           "source": "金十数据",
@@ -412,6 +436,17 @@
           "time_info": "[14时26分 ~ 15时19分]"
         },
         {
+          "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
+          "url": "https://flash.jin10.com/detail/20251209154623905800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -421,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国总统特朗普：对美国国家安全最大的历史性威胁，将是美国最高法院就关税问题作出的不利裁决。届时，我们在经济上将毫无防御能力。",
+          "url": "https://flash.jin10.com/detail/20251209154605581800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
@@ -476,17 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普：正采取行动保护农民。",
@@ -591,7 +626,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -631,6 +666,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时19分]"
+        },
+        {
+          "title": "消息人士：韩国国民年金公团疑似于周二开始进行货币对冲并抛售美元。",
+          "url": "https://flash.jin10.com/detail/20251209155229023800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美元对日元上涨0.2%至156.28，触及11月28日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3017512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "英伟达股价短线从183美元附近快速上涨，刷新日高至188美元，日内整体涨幅迅速扩大至2.9%。",
@@ -768,6 +825,18 @@
           "time_info": "[06时16分 ~ 07时22分]"
         },
         {
+          "title": "派拉蒙计划以1084亿美元收购华纳",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时24分]"
+        },
+        {
           "title": "联合国机构呼吁2026年筹集330亿美元人道资金",
           "url": "https://flash.jin10.com/detail/20251209051719160800",
           "source": "金十数据",
@@ -814,6 +883,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "美元对韩元下跌，此前彭博社报道韩国国民年金公团近期一直在抛售美元。",
+          "url": "https://wallstreetcn.com/livenews/3017457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时24分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，美元兑日元涨0.37%，报155.90日元，日内交投区间为154.90-155.99日元，亚太早盘小幅下跌，之后持续走高。 欧元兑日元涨0.35%，报181.45日元；英镑兑日元涨0.34%，报207.752日元。",
@@ -881,7 +962,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -897,15 +978,15 @@
           "time_info": "04时19分"
         },
         {
-          "title": "派拉蒙计划以1084亿美元收购华纳",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
-          "source": "bilibili 热搜",
+          "title": "中投公司：截至去年末总资产1.57万亿美元 净资产1.37万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3017501",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "16时24分"
         },
         {
           "title": "哈萨克斯坦央行：哈萨克斯坦11月黄金和外汇储备为599.83亿美元，环比增长3.4%。",
@@ -919,17 +1000,6 @@
           "time_info": "13时17分"
         },
         {
-          "title": "美元对韩元下跌，此前彭博社报道韩国国民年金公团近期一直在抛售美元。",
-          "url": "https://wallstreetcn.com/livenews/3017457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "派拉蒙天舞：若拟议交易在特定情况下终止，派拉蒙将向华纳兄弟探索支付50亿美元的终止费。",
           "url": "https://flash.jin10.com/detail/20251208232727026800",
           "source": "金十数据",
@@ -939,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "日本2025年IPO募资额达80亿美元 创七年新高",
+          "url": "https://wallstreetcn.com/livenews/3017493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国国防部：美国国务院批准向比利时出售“地狱火”导弹，预计金额为7900万美元。",
@@ -1162,8 +1243,19 @@
     },
     {
       "keyword_group": "中芯国际",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "香港恒生指数收盘下跌1.29%，恒生科技指数跌1.9%。药明生物涨1.88%。华虹半导体和中芯国际分别跌5.4%和4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3017507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，百度跌超3%，哔哩哔哩跌近3%，华虹半导体、中芯国际、小米等跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3017307",
@@ -1202,8 +1294,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 16时24分]"
         },
         {
           "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
