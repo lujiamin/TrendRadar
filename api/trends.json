@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:34:44.909818+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2025-12-09T21:33:52.318277+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -46,17 +46,6 @@
           "time_info": "[00时22分 ~ 11时16分]"
         },
         {
-          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
-          "url": "https://news.ifeng.com/c/8owNK695xvD",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时19分]"
-        },
-        {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
           "url": "https://wallstreetcn.com/articles/3760972",
           "source": "华尔街见闻",
@@ -68,8 +57,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 20时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 21时33分]"
+        },
+        {
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时19分]"
         },
         {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
@@ -438,6 +438,18 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时33分]"
+        },
+        {
           "title": "特朗普：是否公布视频由美防长决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -470,6 +482,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -621,7 +655,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -632,7 +666,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -643,7 +677,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -676,7 +710,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -687,9 +721,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
+          "url": "https://flash.jin10.com/detail/20251209204946258800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
@@ -701,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
@@ -720,7 +776,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -742,7 +798,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -753,7 +809,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -775,7 +831,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -797,7 +853,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -808,18 +864,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         }
@@ -827,7 +872,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -891,6 +936,28 @@
           "time_info": "18时20分"
         },
         {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "荷兰国际：美元或因今日就业数据优于预期而走强 美联储决议前下行空间有限",
           "url": "https://flash.jin10.com/detail/20251209163633086800",
           "source": "金十数据",
@@ -919,7 +986,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1040,11 +1107,12 @@
           "ranks": [
             9,
             22,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 20时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 21时33分]"
         },
         {
           "title": "周一（12月8日），韩元兑美元最终涨0.25%，报1469.33韩元，亚太时段秩序走高，北日内大部分时间高位震荡。",
@@ -1256,7 +1324,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1338,6 +1406,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "景顺11月总资产规模2.15万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209210221197800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "日本2025年IPO募资额达80亿美元 创七年新高",
           "url": "https://wallstreetcn.com/livenews/3017493",
           "source": "华尔街见闻-快讯",
@@ -1369,6 +1448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "卡塔尔2026年预算总收入预计为1990亿里亚尔，编制依据是原油平均价格每桶55美元。",
+          "url": "https://flash.jin10.com/detail/20251209205848419800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "土耳其总统埃尔多安：土耳其与匈牙利双边贸易额接近60亿美元的目标。",
@@ -1443,7 +1533,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1479,6 +1569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "摩根大通：新兴市场将受益于美元走弱或持稳。预计2026年新兴市场股市表现将优于发达市场。",
+          "url": "https://flash.jin10.com/detail/20251209204138347800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0693，较上一交易日官方收盘价涨20点，较上日夜盘收盘涨37点。",
@@ -1553,7 +1654,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
