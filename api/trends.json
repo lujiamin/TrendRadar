@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-12-10T00:56:52.026574+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-10T01:17:53.980855+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
       "match_count": 15,
       "titles": [
-        {
-          "title": "纽约银日内涨幅达4.5%，报61.05美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3017818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "比特币/美元日内涨幅达4.5%，报94113美元。",
-          "url": "https://wallstreetcn.com/livenews/3017817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
           "url": "https://wallstreetcn.com/articles/3760999",
@@ -37,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "现货钯金日内涨幅扩大至2.00%，现报1502.12美元/盎司。",
@@ -48,19 +26,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "纽约银日内涨幅达4.5%，报61.05美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3017818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "比特币/美元日内涨幅达4.5%，报94113美元。",
+          "url": "https://wallstreetcn.com/livenews/3017817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "欧洲央行管委Panetta：国际货币系统可能会从美元转向好几种现有的全球性货币。",
           "url": "https://wallstreetcn.com/livenews/3017813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "现货钯金突破1500美元/盎司，日内涨1.86%。",
@@ -70,41 +73,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "现货白银涨幅扩大至4%，刷新历史高位，逼近60.50美元。 内盘沪银夜盘涨超3.6%，最高达到14149元人民币/千克。",
           "url": "https://wallstreetcn.com/livenews/3017801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "现货白银突破60美元整数位心理关口，创历史新高，交易员押注利率走低。",
           "url": "https://wallstreetcn.com/livenews/3017794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "美国银行：供应过剩料将在2026年把石油价格打压至60美元下方。",
           "url": "https://wallstreetcn.com/livenews/3017789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "现货铂金上涨3%，至每盎司1692.10美元",
@@ -114,19 +120,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "纽约白银期货涨穿60美元整数位心理关口，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3017788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "现货黄金向上触及4220美元/盎司，日内涨0.71%；纽约期金站上4250美元/盎司，日内涨0.77%。",
@@ -136,15 +131,38 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "派拉蒙计划以1084亿美元收购华纳",
           "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，最新报60.48美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251210000341474800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "纽约白银期货涨穿60美元整数位心理关口，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3017788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -160,23 +178,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "现货白银日内大涨4.00%，最新报60.48美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251210000341474800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -186,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -197,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -208,8 +215,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -219,8 +226,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -230,8 +237,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -241,8 +248,42 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
+          "url": "https://flash.jin10.com/detail/20251210002300479800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普政府：维持大豆库存等预期不变",
+          "url": "https://wallstreetcn.com/livenews/3017823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时17分"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -256,26 +297,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
-          "url": "https://flash.jin10.com/detail/20251210002300479800",
-          "source": "金十数据",
+          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/1981659657740234762",
+          "source": "知乎",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时17分"
         },
         {
           "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
@@ -287,6 +317,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
+          "url": "https://wallstreetcn.com/livenews/3017827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     }
