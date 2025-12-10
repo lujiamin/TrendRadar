@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T12:31:05.111041+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-10T13:18:18.162997+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "派拉蒙计划以1084亿美元收购华纳",
@@ -42,19 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时31分]"
-        },
-        {
-          "title": "美利率决议前市场谨慎，摩根大通拖累道指，白银突破60美元创新高，加密货币涨",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "美联储决议前夕贵金属大幅飙升：白银史上首次站上60美元",
@@ -67,8 +56,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时41分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[06时41分 ~ 13时18分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，摩根大通拖累道指，白银突破60美元创新高，加密货币涨",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时17分]"
         },
         {
           "title": "现货钯金日内涨幅扩大至2.00%，现报1502.12美元/盎司。",
@@ -93,15 +93,17 @@
           "time_info": "05时14分"
         },
         {
-          "title": "报道：全球铝生产商向日本买家寻求190-203美元/吨的第一季度溢价",
-          "url": "https://wallstreetcn.com/livenews/3018141",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX据悉以1.5万亿美元估值进行IPO 白银首次站上60美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2224727",
+          "source": "财联社热门",
           "ranks": [
-            5
+            11,
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "纽约银日内涨幅达4.5%，报61.05美元/盎司。",
@@ -231,17 +233,16 @@
           "time_info": "[02时29分 ~ 04时17分]"
         },
         {
-          "title": "SpaceX据悉以1.5万亿美元估值进行IPO 白银首次站上60美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2224727",
-          "source": "财联社热门",
+          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3761054",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            8
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时31分]"
+          "time_info": "[11时19分 ~ 13时18分]"
         },
         {
           "title": "WTI 1月原油期货收跌0.63美元，跌幅1.07%，报58.25美元/桶。 布伦特2月原油期货收跌0.55美元，跌幅0.88%，报61.94美元/桶。 NYMEX 1月天然气期货收报4.5740美元/百万英热单位。 NYMEX 1月汽油期货收报1.7897美元/加仑，NYMEX 1月取暖油期货收报2.2601美元/加仑。",
@@ -256,16 +257,29 @@
           "time_info": "[04时17分 ~ 05时14分]"
         },
         {
-          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3761054",
-          "source": "华尔街见闻",
+          "title": "报道：全球铝生产商向日本买家寻求190-203美元/吨的第一季度溢价",
+          "url": "https://wallstreetcn.com/livenews/3018141",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时18分]"
+        },
+        {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时18分]"
         },
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
@@ -281,6 +295,18 @@
           "time_info": "[02时29分 ~ 04时17分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时18分]"
+        },
+        {
           "title": "周二（12月9日），韩元兑美元最终涨0.02%，报1469.62韩元。 日内交投于1472.40-1465.73韩元区间，北京时间14:50出现一波显著的拉升行情。",
           "url": "https://wallstreetcn.com/livenews/3017836",
           "source": "华尔街见闻-快讯",
@@ -292,18 +318,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时17分]"
-        },
-        {
-          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
-          "url": "https://www.cls.cn/detail/2224862",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "现货钯金突破1500美元/盎司，日内涨1.86%。",
@@ -327,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时41分]"
+        },
+        {
+          "title": "消息人士：全球铝生产商在日本谈判中寻求将明年1-3月的溢价定为每吨190-203美元，较本季度溢价水平上涨121%-136%。",
+          "url": "https://flash.jin10.com/detail/20251210120121276800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时18分]"
         },
         {
           "title": "联合国贸发会议：今年全球贸易额将达35万亿美元",
@@ -482,17 +508,6 @@
           "time_info": "[00时56分 ~ 01时17分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
           "title": "美国总统特朗普：我们现在的石油开采量比以往任何时候都多。近期有报道称，四个州的油价已经降到每加仑1.99美元。",
           "url": "https://flash.jin10.com/detail/20251210085429523800",
           "source": "金十数据",
@@ -504,15 +519,15 @@
           "time_info": "09时16分"
         },
         {
-          "title": "消息人士：全球铝生产商在日本谈判中寻求将明年1-3月的溢价定为每吨190-203美元，较本季度溢价水平上涨121%-136%。",
-          "url": "https://flash.jin10.com/detail/20251210120121276800",
-          "source": "金十数据",
+          "title": "亚马逊宣布，截至2030年将在印度投资超350亿美元。截至2030年在印度再新增 100 万个就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3018160",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "13时18分"
         },
         {
           "title": "三星SDI子公司与美国客户签署13.6亿美元磷酸铁锂电池协议",
@@ -579,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "印度电商公司Meesho完成6.03亿美元IPO，在孟买证交所上市首日股价暴涨54%。",
+          "url": "https://wallstreetcn.com/livenews/3018148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美国天然气期货日内大跌6.00%，现报4.617美元/百万英热。",
@@ -672,7 +698,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -709,8 +735,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 12时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 13时18分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -724,6 +750,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -752,17 +789,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时31分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -850,17 +876,6 @@
           "time_info": "[00时56分 ~ 03时13分]"
         },
         {
-          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
-          "url": "https://flash.jin10.com/detail/20251210121528240800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
@@ -929,6 +944,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时18分]"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -1257,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
