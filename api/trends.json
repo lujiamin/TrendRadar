@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T02:25:33.593325+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-12-11T03:15:31.434200+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "中国贸易顺差破万亿美元",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "美元指数DXY向下触及99，日内跌0.24%。",
@@ -54,15 +54,15 @@
           "time_info": "01时19分"
         },
         {
-          "title": "LME期铜收涨70美元，报11556美元/吨。 LME期铝收涨10美元，报2867美元/吨。 LME期锌收跌8美元，报3082美元/吨。 LME期铅收涨2美元，报1980美元/吨。 LME期镍收跌82美元，报14652美元/吨。 LME期锡收涨146美元，报4004美元/吨。 LME期钴收涨570美元，报52790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3018575",
+          "title": "美联储降息25个基点，符合预期，决议声明称：未来30天将购买400亿美元国债",
+          "url": "https://wallstreetcn.com/livenews/3018594",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "03时15分"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -72,8 +72,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "LME期铜收涨70美元，报11556美元/吨。 LME期铝收涨10美元，报2867美元/吨。 LME期锌收跌8美元，报3082美元/吨。 LME期铅收涨2美元，报1980美元/吨。 LME期镍收跌82美元，报14652美元/吨。 LME期锡收涨146美元，报4004美元/吨。 LME期钴收涨570美元，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3018575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时15分]"
+        },
+        {
+          "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
+          "url": "https://www.zhihu.com/question/1981351408461713790",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时15分]"
+        },
+        {
+          "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
+          "url": "https://wallstreetcn.com/livenews/3018591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.8021。",
@@ -82,7 +117,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -93,20 +128,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
         {
-          "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
-          "url": "https://www.zhihu.com/question/1981351408461713790",
-          "source": "知乎",
+          "title": "现货白银短线走高0.5美元，现报60.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251211030200216800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美联储FOMC声明：将在接下来的30天内购买400亿美元国库券。",
+          "url": "https://flash.jin10.com/detail/20251211030153272800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美联储如期降息，现货黄金短线拉升16美元，现报4205.23美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251211030050796800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "周三（12月10日），美联储隔夜逆回购协议（RRP）使用规模为50.45亿美元，上个交易日报32.11亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3018579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "SpaceX若以$1.5万亿美元估值上市马斯克财富将翻倍",
@@ -131,6 +199,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国11月政府预算 -1730亿美元，预期-2050亿美元，前值-2844亿美元。",
+          "url": "https://flash.jin10.com/detail/20251211030002183800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "SpaceX若以$1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
           "url": "https://wallstreetcn.com/livenews/3018534",
           "source": "华尔街见闻-快讯",
@@ -145,7 +224,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -177,8 +256,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -190,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
+          "url": "https://wallstreetcn.com/livenews/3018582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -228,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     }
