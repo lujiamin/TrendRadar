@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:20:59.930961+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2025-12-10T18:20:06.441143+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 18时20分]"
         },
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时19分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 18时20分]"
         },
         {
           "title": "派拉蒙计划以1084亿美元收购华纳",
@@ -133,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "汇丰据悉拟支付约3亿美元 以和解法国的“Cum-Cum”税务案件",
-          "url": "https://wallstreetcn.com/livenews/3018359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "美利率决议前市场谨慎，摩根大通警告拖累道指，白银突破60美元创新高，加密货币涨",
@@ -259,6 +248,18 @@
           "time_info": "[05时14分 ~ 06时41分]"
         },
         {
+          "title": "汇丰据悉拟支付约3亿美元 以和解法国的“Cum-Cum”税务案件",
+          "url": "https://wallstreetcn.com/livenews/3018359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
           "title": "欧洲央行管委Panetta：国际货币系统可能会从美元转向好几种现有的全球性货币。",
           "url": "https://wallstreetcn.com/livenews/3017813",
           "source": "华尔街见闻-快讯",
@@ -319,6 +320,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时18分]"
+        },
+        {
+          "title": "中国贸易顺差破万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
@@ -546,15 +559,15 @@
           "time_info": "14时27分"
         },
         {
-          "title": "中国贸易顺差破万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
+          "title": "汇丰据称拟付3亿美元了结法国Cum-Cum税务案",
+          "url": "https://flash.jin10.com/detail/20251210173833069800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：我们现在的石油开采量比以往任何时候都多。近期有报道称，四个州的油价已经降到每加仑1.99美元。",
@@ -769,7 +782,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -817,8 +830,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时56分 ~ 18时20分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -901,6 +914,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -1002,30 +1040,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时26分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
@@ -1138,6 +1152,17 @@
           "time_info": "[05时14分 ~ 06时41分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
           "url": "https://flash.jin10.com/detail/20251210020446643800",
           "source": "金十数据",
@@ -1172,6 +1197,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时14分]"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -1218,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "美国企业界对特朗普执政表现评价不高",
@@ -1536,6 +1583,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
+          "url": "https://www.zhihu.com/question/1981134593068390187",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         }
       ]
     }
