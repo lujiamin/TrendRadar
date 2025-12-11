@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:21:55.690764+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2025-12-11T16:24:40.529067+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 78,
+      "match_count": 85,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 16时24分]"
         },
         {
           "title": "中国贸易顺差破万亿美元",
@@ -53,11 +53,12 @@
             4,
             8,
             11,
-            30
+            30,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 15时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
@@ -74,6 +75,18 @@
           "time_info": "[02时25分 ~ 07时14分]"
         },
         {
+          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 16时24分]"
+        },
+        {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
           "url": "https://www.cls.cn/detail/2225488",
           "source": "财联社热门",
@@ -84,18 +97,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时14分]"
-        },
-        {
-          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761138",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 15时21分]"
         },
         {
           "title": "美元指数DXY向下触及99，日内跌0.24%。",
@@ -373,6 +374,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "印度卢比兑美元汇率跌破90.42，创下历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3019079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.8021。",
           "url": "https://flash.jin10.com/detail/20251211015244873800",
           "source": "金十数据",
@@ -382,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "美国银行全球研究：将甲骨文(ORCL.N)目标价从368美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251211155200386800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "花旗银行表示，随着经合组织（OECD）成员国原油库存开始累积，2026 年第一季度油价或将进一步回落，均值预计降至每桶60美元。",
@@ -461,6 +484,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "巴克莱：将甲骨文(ORCL.N)目标价从330美元下调至310美元。",
+          "url": "https://flash.jin10.com/detail/20251211154226469800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美元/印度卢比1个月NDF上涨0.5%至90.54。",
           "url": "https://wallstreetcn.com/livenews/3018957",
           "source": "华尔街见闻-快讯",
@@ -478,7 +512,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -525,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "美联储对未来进一步降息态度不如预期谨慎 美元保持疲软",
+          "url": "https://flash.jin10.com/detail/20251211153930388800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "花旗：在地缘政治博弈、需求减弱、欧佩克+供应增加以及美国中期选举临近的背景下，我们最悲观的情景预测是，2026年布伦特原油价格将跌至50美元/桶。",
@@ -593,15 +638,37 @@
           "time_info": "14时28分"
         },
         {
+          "title": "摩根士丹利：维持Meta Platforms(META.O)增持评级，目标价下调至750美元。",
+          "url": "https://flash.jin10.com/detail/20251211153340031800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "高盛预计4,900美元的金价预期有上调空间 ETF资金流入将是推动力",
           "url": "https://wallstreetcn.com/livenews/3019003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "石药创新计划通过香港上市筹资5亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3019061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "若SpaceX明年以1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
@@ -632,7 +699,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -665,7 +732,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -690,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "摩根士丹利：维持Meta Platforms增持评级，目标价下调至750美元。",
+          "url": "https://wallstreetcn.com/livenews/3019051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "花旗：随着经合组织库存逐渐累积，油价可能在2026年第一季度前进一步回落至均价60美元/桶。",
@@ -742,7 +820,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -786,7 +864,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -893,7 +971,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -917,8 +995,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 16时24分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -933,20 +1026,6 @@
           "time_info": "[00时23分 ~ 09时16分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 15时21分]"
-        },
-        {
           "title": "高市早苗求见特朗普",
           "url": "https://www.toutiao.com/trending/7581648109390921774/",
           "source": "今日头条",
@@ -958,6 +1037,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
           "url": "https://wallstreetcn.com/livenews/3018662",
           "source": "华尔街见闻-快讯",
@@ -967,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
+          "url": "https://wallstreetcn.com/livenews/3019085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -1035,6 +1136,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时22分]"
+        },
+        {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时24分]"
         },
         {
           "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
@@ -1269,17 +1382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "美威胁国际刑事法院：不要调查特朗普",
-          "url": "https://www.toutiao.com/trending/7582367829178269750/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普政府正在考虑进行更多与委内瑞拉和伊朗相关油轮的任务。",
