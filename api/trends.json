@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T16:24:40.529067+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2025-12-11T17:22:27.841259+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 88,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -80,11 +80,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 17时22分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -380,9 +381,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.8021。",
@@ -402,7 +414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -438,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国土安全部斥资上亿美元打造“遣返移民机队”",
+          "url": "https://wallstreetcn.com/livenews/3019113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美联储FOMC声明：将在接下来的30天内购买400亿美元国库券。",
@@ -490,7 +513,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -567,7 +590,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -644,7 +667,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -666,7 +689,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -765,7 +788,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -823,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0580，较上一交易日官方收盘价涨58点，较上日夜盘收盘涨81点。",
+          "url": "https://wallstreetcn.com/livenews/3019093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "现货黄金突破4240美元/盎司，日内涨0.28%。",
@@ -971,7 +1005,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -1026,6 +1060,17 @@
           "time_info": "[00时23分 ~ 09时16分]"
         },
         {
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时22分]"
+        },
+        {
           "title": "高市早苗求见特朗普",
           "url": "https://www.toutiao.com/trending/7581648109390921774/",
           "source": "今日头条",
@@ -1035,17 +1080,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "特朗普：被扣押油轮上的石油归美国了",
-          "url": "https://www.toutiao.com/trending/7581744403334086710/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -1065,7 +1099,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1090,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
@@ -1195,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
