@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T22:20:31.804902+08:00",
-  "total_titles_processed": 2144,
+  "generated_at": "2025-12-11T23:20:46.717455+08:00",
+  "total_titles_processed": 2219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 110,
+      "match_count": 114,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时16分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时16分 ~ 23时20分]"
         },
         {
           "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
@@ -118,9 +118,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3019310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报62.46美元/盎司。",
@@ -162,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -195,7 +206,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -244,17 +255,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "LME期铜价格涨穿11790美元，创盘中历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3019283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "美国众议院以312票对112票通过规模为9010亿美元的《国防授权法案》，下一步将由参议院审议。",
           "url": "https://flash.jin10.com/detail/20251211063331098800",
           "source": "金十数据",
@@ -301,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时15分]"
+        },
+        {
+          "title": "LME期铜价格涨穿11790美元，创盘中历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3019283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "贝索斯前妻今年捐赠72亿美元 已减持近一半亚马逊股份",
@@ -385,6 +397,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
+          "title": "现货白银涨幅扩大至1%，现报62.541美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3019276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
@@ -543,15 +567,15 @@
           "time_info": "20时36分"
         },
         {
-          "title": "现货白银涨幅扩大至1%，现报62.541美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3019276",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银短线回落0.4美元，现报62.38美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251211225437743800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时20分"
         },
         {
           "title": "美联储FOMC声明：将在接下来的30天内购买400亿美元国库券。",
@@ -576,13 +600,24 @@
           "time_info": "11时22分"
         },
         {
+          "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "墨西哥比索兑美元升至去年7月以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20251211215645539800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -923,7 +958,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -978,7 +1013,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1093,6 +1128,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "甲骨文市值蒸发1020亿美元",
+          "url": "https://flash.jin10.com/detail/20251211223232002800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
           "url": "https://wallstreetcn.com/livenews/3018670",
           "source": "华尔街见闻-快讯",
@@ -1143,7 +1189,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1176,7 +1222,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1421,7 +1467,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1443,11 +1489,12 @@
           "ranks": [
             19,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时20分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -1472,6 +1519,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时22分]"
+        },
+        {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
+        {
+          "title": "印度总理莫迪：与美国总统特朗普讨论了地区和国际局势的发展。",
+          "url": "https://wallstreetcn.com/livenews/3019280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "美威胁国际刑事法院：不要调查特朗普",
@@ -1556,17 +1626,6 @@
           "time_info": "18时20分"
         },
         {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -1576,17 +1635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "印度总理莫迪：与美国总统特朗普讨论了地区和国际局势的发展。",
-          "url": "https://wallstreetcn.com/livenews/3019280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -1933,8 +1981,20 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "迪士尼与OpenAI达成内容许可与投资协议",
+          "url": "https://wallstreetcn.com/livenews/3019279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
         {
           "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
           "url": "https://www.zhihu.com/question/1980552349165564560",
@@ -1954,7 +2014,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1965,18 +2025,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "迪士尼与OpenAI达成内容许可与投资协议",
-          "url": "https://wallstreetcn.com/livenews/3019279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1998,7 +2047,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2012,6 +2061,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
+          "url": "https://flash.jin10.com/detail/20251211224007045800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3019299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
