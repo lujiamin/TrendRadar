@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:16:26.683059+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2025-12-11T20:36:27.273190+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 95,
+      "match_count": 98,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时16分 ~ 19时16分]"
+          "appearance_count": 15,
+          "time_info": "[09时16分 ~ 20时36分]"
         },
         {
           "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
@@ -140,7 +140,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -422,6 +422,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "乌克兰央行：自今年年初以来，乌克兰已收到458亿美元的外国援助，预计12月还将再获得50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251211200129000800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.8021。",
           "url": "https://flash.jin10.com/detail/20251211015244873800",
           "source": "金十数据",
@@ -475,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "加拿大蒙特利尔银行：将甲骨文(ORCL.N)目标股价从355美元下调至270美元。",
+          "url": "https://flash.jin10.com/detail/20251211195254874800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "美联储FOMC声明：将在接下来的30天内购买400亿美元国库券。",
@@ -648,7 +670,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -774,6 +796,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "土耳其里拉在土耳其央行降息后跌至历史新低，美元兑里拉升至42.6241的高点。",
+          "url": "https://flash.jin10.com/detail/20251211192622630800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "“新美联储通讯社”Nick Timiraos：美联储本周将开始“储备管理购买”，起步为每月400亿美元的国库券。",
           "url": "https://wallstreetcn.com/livenews/3018605",
           "source": "华尔街见闻-快讯",
@@ -835,7 +868,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -868,7 +901,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -901,7 +934,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1147,8 +1180,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时36分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -1217,6 +1250,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时36分]"
+        },
+        {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
           "url": "https://flash.jin10.com/detail/20251211040650470800",
           "source": "金十数据",
@@ -1237,17 +1281,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -1331,6 +1364,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时14分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
         },
         {
           "title": "据AXIOS网站：特朗普计划任命一名美国将军领导加沙内部安全部队。",
@@ -1553,17 +1598,6 @@
           "time_info": "09时16分"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
           "url": "https://flash.jin10.com/detail/20251211045154571800",
           "source": "金十数据",
@@ -1713,6 +1747,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
           "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
           "url": "https://flash.jin10.com/detail/20251211064706062800",
           "source": "金十数据",
@@ -1733,17 +1779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         }
       ]
     },
@@ -1758,7 +1793,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
