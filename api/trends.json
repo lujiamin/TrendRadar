@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T17:22:27.841259+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2025-12-11T18:20:09.593361+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -61,6 +61,20 @@
           "time_info": "[00时23分 ~ 16时24分]"
         },
         {
+          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时16分 ~ 18时20分]"
+        },
+        {
           "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
           "url": "https://www.zhihu.com/question/1981351408461713790",
           "source": "知乎",
@@ -73,19 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时25分 ~ 07时14分]"
-        },
-        {
-          "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761138",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时16分 ~ 17时22分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -259,6 +260,18 @@
           "time_info": "[11时21分 ~ 12时32分]"
         },
         {
+          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "PJT正联络万科美元债持有人：呼吁组建债权人小组，主动与公司商讨开展债务管理等",
           "url": "https://wallstreetcn.com/livenews/3018941",
           "source": "华尔街见闻-快讯",
@@ -305,6 +318,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时14分]"
+        },
+        {
+          "title": "美国土安全部斥资上亿美元打造“遣返移民机队”",
+          "url": "https://wallstreetcn.com/livenews/3019113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
@@ -386,17 +411,6 @@
           "time_info": "16时24分"
         },
         {
-          "title": "甲骨文美股盘前跌超12%，公司业绩不及预期，资本开支比预期多约150亿美元。受此影响，美股明星科技股普跌，英伟达跌超1%，美光科技跌超2%，微软跌1%，AMD下跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3019120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "美元兑瑞郎USD/CHF日内走低0.50%，现报0.8021。",
           "url": "https://flash.jin10.com/detail/20251211015244873800",
           "source": "金十数据",
@@ -450,17 +464,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "美国土安全部斥资上亿美元打造“遣返移民机队”",
-          "url": "https://wallstreetcn.com/livenews/3019113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "美联储FOMC声明：将在接下来的30天内购买400亿美元国库券。",
@@ -518,6 +521,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "D.A.戴维森：将甲骨文(ORCL.N)目标股价从200美元下调至180美元。",
+          "url": "https://flash.jin10.com/detail/20251211175438359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美元/印度卢比1个月NDF上涨0.5%至90.54。",
           "url": "https://wallstreetcn.com/livenews/3018957",
           "source": "华尔街见闻-快讯",
@@ -549,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "杰富瑞：将奈飞(NFLX.O)目标价从150美元下调至134美元。",
+          "url": "https://flash.jin10.com/detail/20251211175011914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "周三（12月10日），美联储隔夜逆回购协议（RRP）使用规模为50.45亿美元，上个交易日报32.11亿美元。",
@@ -854,7 +879,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1005,7 +1030,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -1058,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 09时16分]"
+        },
+        {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -1126,17 +1162,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
           "url": "https://flash.jin10.com/detail/20251211040650470800",
           "source": "金十数据",
@@ -1157,6 +1182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -1207,6 +1243,17 @@
           "time_info": "[13时20分 ~ 14时28分]"
         },
         {
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%A2%AB%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE%E4%B8%8A%E7%9A%84%E7%9F%B3%E6%B2%B9%E5%BD%92%E7%BE%8E%E5%9B%BD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -1231,6 +1278,17 @@
           "time_info": "[06时44分 ~ 07时14分]"
         },
         {
+          "title": "据AXIOS网站：特朗普计划任命一名美国将军领导加沙内部安全部队。",
+          "url": "https://flash.jin10.com/detail/20251211180342849800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -1242,17 +1300,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
           "url": "https://flash.jin10.com/detail/20251211040624299800",
           "source": "金十数据",
@@ -1262,6 +1309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211180126675800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
@@ -1319,6 +1377,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "德国总理默茨：与美国总统特朗普的电话会谈富有建设性，双方互相尊重。",
+          "url": "https://flash.jin10.com/detail/20251211175511025800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国总统特朗普：今天将与美联储前理事凯文·沃什会面。",
           "url": "https://flash.jin10.com/detail/20251211050012508800",
           "source": "金十数据",
@@ -1328,6 +1397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
+          "url": "https://flash.jin10.com/detail/20251211175449735800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
