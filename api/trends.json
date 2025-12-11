@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-12T05:18:44.698733+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-12-12T06:17:06.150986+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 55,
       "titles": [
         {
           "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3761138",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时17分]"
+        },
+        {
+          "title": "博通：预计AI芯片开支动能将在2026财年增长。 上个季度，第四家客户是Anthropic，从对方获得110亿美元额外的订单。 本公司已经从第五家AI芯片客户锁定10亿美元订单。",
+          "url": "https://wallstreetcn.com/livenews/3019434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "现货黄金站上4280美元/盎司，日内涨1.22%。",
@@ -30,17 +42,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "露露柠檬三季度净收入25.7亿美元，分析师预期24.8亿美元。 预计全年净营收109.6亿-110.5亿美元，公司原本预计108.5亿-110亿美元。 预计第四财季净营收35.0亿-35.9亿美元，分析师预期35.9亿美元。 首席执行官Calvin McDonald将离职。",
-          "url": "https://wallstreetcn.com/livenews/3019415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
           "title": "现货白银冲上64美元 续刷新高",
           "url": "https://flash.jin10.com/detail/20251212010656311800",
           "source": "金十数据",
@@ -52,15 +53,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "Lululemon(LULU.O)预计第四季度营收为35亿至35.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20251212050653069800",
-          "source": "金十数据",
+          "title": "周四（12月11日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0522元，较周三纽约尾盘涨88点，日内整体交投于7.0650-7.0480元区间。",
+          "url": "https://wallstreetcn.com/livenews/3019430",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时17分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0570元，较周三夜盘收盘涨91点。成交量322.95亿美元。",
@@ -89,6 +90,19 @@
           "time_info": "[02时24分 ~ 04时20分]"
         },
         {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3019396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时17分]"
+        },
+        {
           "title": "纽约金日内涨幅达2.0%，报4309.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3019347",
           "source": "华尔街见闻-快讯",
@@ -101,16 +115,16 @@
           "time_info": "[01时22分 ~ 02时24分]"
         },
         {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3019396",
+          "title": "露露柠檬三季度净收入25.7亿美元，分析师预期24.8亿美元。 预计全年净营收109.6亿-110.5亿美元，公司原本预计108.5亿-110亿美元。 预计第四财季净营收35.0亿-35.9亿美元，分析师预期35.9亿美元。 首席执行官Calvin McDonald将离职。",
+          "url": "https://wallstreetcn.com/livenews/3019415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时18分]"
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "LME期铜收涨316美元，报11872美元/吨。 LME期铝收涨33美元，报2900美元/吨。 LME期锌收涨122美元，报3204美元/吨。 LME期铅收涨8美元，报1988美元/吨。 LME期镍收跌26美元，报14626美元/吨。 LME期锡收涨1747美元，报41751美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -137,6 +151,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时18分]"
+        },
+        {
+          "title": "Lululemon(LULU.O)预计第四季度营收为35亿至35.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212050653069800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "周四（12月11日）纽约尾盘，ICE美元指数跌0.45%，报98.348点，日内交投区间为98.763-98.134点，全天处于下跌状态，北京时间14:00-00:00持续走低。 彭博美元指数跌0.23%，报1206.71点，日内交投区间为1211.53-1204.45点。",
@@ -173,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时18分]"
+        },
+        {
+          "title": "美国上亿美元打造“遣返移民机队”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8A%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%93%E9%80%A0%E2%80%9C%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91%E6%9C%BA%E9%98%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 06时17分]"
         },
         {
           "title": "美元贬值将成为2026年焦点",
@@ -307,6 +345,17 @@
           "time_info": "[03时17分 ~ 04时20分]"
         },
         {
+          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
+          "url": "https://wallstreetcn.com/livenews/3019429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国制造的产品成本可能会（比进口商品）“高出1-2美元”。",
           "url": "https://wallstreetcn.com/livenews/3019378",
           "source": "华尔街见闻-快讯",
@@ -318,6 +367,39 @@
           "time_info": "03时17分"
         },
         {
+          "title": "权道亨 (Do Kwon)因涉及400亿美元欺诈案被判入狱15年。",
+          "url": "https://wallstreetcn.com/livenews/3019428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，现货白银涨2.79%，报63.5380美元/盎司，北京时间02:30曾涨至64.3120美元。 COMEX白银期货涨4.92%，报64.030美元/盎司，02:30也曾涨至64.720美元。 COMEX铜期货涨2.52%，报5.4885美元/磅。 现货铂金涨2.70%，现货钯金涨1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3019427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
+          "url": "https://wallstreetcn.com/livenews/3019425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "纽约期金日内大涨2.00%，现报4309.20美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251212005429325800",
           "source": "金十数据",
@@ -327,6 +409,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "巴克莱：维持我们对2026年布伦特原油价格60美元区间中段左右的预测。我们的石油供需平衡预期在2026年将略微宽松。",
+          "url": "https://flash.jin10.com/detail/20251212054658247800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美联储12月10日当周贴现窗贷款余额83.4亿美元，之前一周78.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "巴克莱：预计布伦特原油2026年均价预计为每桶65美元。预计明年石油供应将过剩190万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251212054533378800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "开市客Costco第一财季总营收673.1亿美元，同比增长8.3%，分析师预期670.7亿美元。 第一财季销售额659.8亿美元，同比增长8.2%，分析师预期657.7亿美元。 第一财季美国同店销售增长5.9%，分析师预期增长5.41%。",
+          "url": "https://wallstreetcn.com/livenews/3019423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "现货黄金日内涨超1.00%，现报4270.95美元/盎司。",
@@ -349,6 +475,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美元指数11日下跌",
+          "url": "https://flash.jin10.com/detail/20251212053829596800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3019419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "纽约期银向上触及64美元/盎司，日内涨4.87%。",
@@ -379,9 +527,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美国至12月5日当周外国央行持有美国国债 54.29亿美元，前值38.29亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212053139036800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
@@ -401,7 +560,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -412,9 +571,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "博通(AVGO.O)：预计人工智能半导体收入将同比增长一倍，达到82亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212051627093800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "光通信巨头Ciena Corp.（CIEN）一度涨8.2%，该公司给出的第一财季业绩指引超过市场预期。 最新业绩报告显示，Ciena第四财季营收13.5亿美元，分析师预期12.9亿美元。 第四财季调整后EPS为0.91美元，分析师预期0.79美元。 预计第一财季营收13.5亿-14.3亿美元，分析师预期12.5亿美元。 预计第一财季调整后毛利润率43%-44%，分析师预期42.6%。",
@@ -434,20 +604,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
         {
-          "title": "美国上亿美元打造“遣返移民机队”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8A%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%93%E9%80%A0%E2%80%9C%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91%E6%9C%BA%E9%98%9F%E2%80%9D",
-          "source": "百度热搜",
+          "title": "博通(AVGO.O)025财年Q4营收180.1亿美元，去年同期140.5亿美元。明年Q1营收展望为191亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212051603850800",
+          "source": "金十数据",
           "ranks": [
-            26
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "06时17分"
         },
         {
           "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
@@ -475,7 +645,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -485,8 +655,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -497,19 +667,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
-          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3019416",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普政府在加州边境建立新的军事化区域",
+          "url": "https://flash.jin10.com/detail/20251212061317117800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时17分"
+        },
+        {
+          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
+          "url": "https://flash.jin10.com/detail/20251212061240422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
@@ -522,6 +703,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时18分]"
+        },
+        {
+          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3019416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
@@ -721,9 +914,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
+          "url": "https://flash.jin10.com/detail/20251212054106500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
@@ -732,7 +936,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
