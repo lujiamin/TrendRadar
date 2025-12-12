@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:21:47.888126+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2025-12-12T18:19:03.897595+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 91,
       "titles": [
         {
           "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "LME铜突破每吨11906美元，创下历史新高。",
@@ -474,6 +485,17 @@
           "time_info": "[01时22分 ~ 02时24分]"
         },
         {
+          "title": "当美联储“独自降息”，其他央行甚至开始加息，美元贬值将成为2026年焦点",
+          "url": "https://wallstreetcn.com/articles/3761194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
           "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
           "url": "https://wallstreetcn.com/livenews/3019425",
           "source": "华尔街见闻-快讯",
@@ -694,7 +716,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -705,7 +727,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -730,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "纽约期金突破4350美元/盎司，日内涨0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3019822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "汇丰银行：将甲骨文(ORCL.N)目标价从382美元下调至364美元。",
@@ -760,7 +793,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -776,13 +809,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "纽约期金突破4350美元/盎司，日内涨0.86%。",
+          "url": "https://flash.jin10.com/detail/20251212172713489800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "银河通用据悉可能在香港IPO中寻求至多40亿美元的估值，选定中信、华泰、瑞银负责安排香港IPO事宜。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3019768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -870,7 +914,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -974,6 +1018,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "现货白银突破64美元，一度攀升至每盎司64.32美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3019808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
           "url": "https://wallstreetcn.com/livenews/3019296",
           "source": "华尔街见闻-快讯",
@@ -983,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "【中国央行：前十一个月人民币贷款增加15.36万亿元】11月末，本外币贷款余额274.84万亿元，同比增长6.3%。月末人民币贷款余额271万亿元，同比增长6.4%。前十一个月人民币贷款增加15.36万亿元。分部门看，住户贷款增加5333亿元，其中，短期贷款减少7328亿元，中长期贷款增加1.27万亿元；企（事）业单位贷款增加14.4万亿元，其中，短期贷款增加4.44万亿元，中长期贷款增加8.49万亿元，票据融资增加1.31万亿元；非银行业金融机构贷款减少332亿元。11月末，外币贷款余额5429亿美元，同比下降1.6%。前十一个月外币贷款增加8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "现货黄金短线走高18美元，报4256美元/盎司，日内涨0.51%。",
@@ -1045,11 +1111,12 @@
             3,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时19分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -1057,11 +1124,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 18时19分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -1096,6 +1164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
@@ -1159,6 +1239,18 @@
           "time_info": "[04时20分 ~ 05时18分]"
         },
         {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
+        },
+        {
           "title": "特朗普政府据悉计划加大企业减税力度",
           "url": "https://flash.jin10.com/detail/20251212035256895800",
           "source": "金十数据",
@@ -1195,6 +1287,18 @@
           "time_info": "[13时18分 ~ 14时27分]"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时19分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -1205,18 +1309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 02时24分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时21分]"
         },
         {
           "title": "加州州长再批特朗普：最具破坏性总统",
@@ -1240,18 +1332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时18分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时21分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -1437,17 +1517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -1643,6 +1712,20 @@
       "match_count": 26,
       "titles": [
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 18时19分]"
+        },
+        {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
           "url": "https://www.cls.cn/detail/2227243",
           "source": "财联社热门",
@@ -1654,19 +1737,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时16分 ~ 15时21分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 17时21分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1944,7 +2014,7 @@
     },
     {
       "keyword_group": "可控核聚变",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "杭氧股份：中标聚变新能公司新订单 标志着在可控核聚变扩展了新应用范围",
@@ -1981,6 +2051,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 16时24分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指放量涨近1%，全市场超百股涨超10%，电网、可控核聚变概念携手爆发",
+          "url": "https://www.cls.cn/detail/2228044",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "A股可控核聚变概念涨势扩大，中洲特材午后20cm涨停，中国西电、四创电子、雪人集团、国机重装、安泰科技等多股此前封板，哈焊华通、常辅股份涨超10%。",
