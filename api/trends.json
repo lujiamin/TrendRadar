@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T19:16:52.464151+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2025-12-12T20:34:49.888877+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 101,
+      "match_count": 109,
       "titles": [
         {
           "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
@@ -49,7 +49,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -104,9 +104,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "现货黄金短线波动不大，现报4333.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251212202157997800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "现货黄金失守4270美元/盎司，日内跌幅0.24%。",
@@ -151,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "德商银行：若哈塞特主导非理性降息 美元恐承压",
+          "url": "https://flash.jin10.com/detail/20251212201505152800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0570元，较周三夜盘收盘涨91点。成交量322.95亿美元。",
@@ -387,6 +409,17 @@
           "time_info": "[02时24分 ~ 07时16分]"
         },
         {
+          "title": "当美联储“独自降息”，其他央行甚至开始加息，美元贬值将成为2026年焦点",
+          "url": "https://wallstreetcn.com/articles/3761194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时34分]"
+        },
+        {
           "title": "美元贬值将成为2026年焦点",
           "url": "https://www.toutiao.com/trending/7582588038052580905/",
           "source": "今日头条",
@@ -495,6 +528,18 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时34分]"
+        },
+        {
           "title": "纽约银日内涨幅达5.0%，报64.09美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3019338",
           "source": "华尔街见闻-快讯",
@@ -505,17 +550,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
-        },
-        {
-          "title": "当美联储“独自降息”，其他央行甚至开始加息，美元贬值将成为2026年焦点",
-          "url": "https://wallstreetcn.com/articles/3761194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
@@ -710,6 +744,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "世界黄金协会：11月全球实物黄金ETF流入达52亿美元",
+          "url": "https://wallstreetcn.com/livenews/3019955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国制造的产品成本可能会（比进口商品）“高出1-2美元”。",
           "url": "https://wallstreetcn.com/livenews/3019378",
           "source": "华尔街见闻-快讯",
@@ -749,9 +794,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线小幅走高，现报155.95。",
+          "url": "https://flash.jin10.com/detail/20251212200712332800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "现货黄金站上4300美元/盎司，为10月21日以来首次，日内涨0.47%。",
@@ -763,17 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "纽约期金日内大涨2.00%，现报4309.20美元/盎司。",
@@ -804,9 +849,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "瑞穗银行：将博通(AVGO.O)目标价从435美元上调至450美元。",
+          "url": "https://flash.jin10.com/detail/20251212200105078800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "纽约期金突破4350美元/盎司，日内涨0.86%。",
@@ -848,7 +904,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -925,9 +981,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "花旗银行：首次覆盖洛克希德·马丁公司，给予“中性”评级，目标价定为505美元。",
+          "url": "https://flash.jin10.com/detail/20251212194130516800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -974,6 +1041,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "瑞穗银行：将雪佛龙(CVX.N)目标价上调至206美元，此前为204美元。",
+          "url": "https://flash.jin10.com/detail/20251212194115421800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3019310",
           "source": "华尔街见闻-快讯",
@@ -1002,7 +1080,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1024,7 +1102,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1073,6 +1151,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "印度外汇储备在12月5日当周升至6872.6亿美元，较一周前增加10.33亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212193031977800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "光通信巨头Ciena Corp.（CIEN）一度涨8.2%，该公司给出的第一财季业绩指引超过市场预期。 最新业绩报告显示，Ciena第四财季营收13.5亿美元，分析师预期12.9亿美元。 第四财季调整后EPS为0.91美元，分析师预期0.79美元。 预计第一财季营收13.5亿-14.3亿美元，分析师预期12.5亿美元。 预计第一财季调整后毛利润率43%-44%，分析师预期42.6%。",
           "url": "https://wallstreetcn.com/livenews/3019303",
           "source": "华尔街见闻-快讯",
@@ -1101,7 +1190,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1191,17 +1280,35 @@
           "time_info": "[00时24分 ~ 11时20分]"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 20时34分]"
+        },
+        {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
           "url": "https://www.zhihu.com/question/1982382027627073644",
           "source": "知乎",
           "ranks": [
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 20时34分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -1214,22 +1321,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -1248,11 +1339,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 20时34分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -1263,8 +1355,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 20时34分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -1276,6 +1368,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 20时34分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -1396,18 +1500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时27分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 19时16分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -1559,7 +1651,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1844,8 +1936,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 20时34分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -1908,6 +2000,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时22分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时34分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -2032,17 +2136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -2179,11 +2272,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时34分]"
         },
         {
           "title": "可控核聚变从实验验证迈向工程示范 产业链核心供应商或持续受益",
@@ -2215,7 +2309,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
