@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-13T06:16:58.141063+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-12-13T07:16:45.473546+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
-        {
-          "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
         {
           "title": "高盛：明年黄金目标价看至4900美元",
           "url": "https://www.toutiao.com/trending/7582891140597157427/",
@@ -31,8 +20,42 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时16分]"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "纽约期银回落至62美元/盎司下方，日内跌4.03%。",
@@ -68,6 +91,20 @@
           "time_info": "05时15分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0546元，较周四夜盘收盘涨24点。成交量288.66亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3020120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时18分 ~ 07时16分]"
+        },
+        {
           "title": "现货白银向下触及61美元",
           "url": "https://flash.jin10.com/detail/20251213004049273800",
           "source": "金十数据",
@@ -79,15 +116,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美联储：美国上周银行存款18.479万亿美元，之前一周18.528万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3020149",
+          "title": "周五（12月12日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0532元，较周四纽约尾盘跌10点，日内整体交投于7.0498-7.0567元区间。",
+          "url": "https://wallstreetcn.com/livenews/3020157",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时16分"
         },
         {
           "title": "LME期铜收跌357美元，报11515美元/吨。 LME期铝收跌32美元，报2868美元/吨。 LME期锌收跌78美元，报3125美元/吨。 LME期铅收跌20美元，报1968美元/吨。 LME期镍收跌39美元，报14587美元/吨。 LME期锡收跌414美元，报41337美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -102,30 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 05时15分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0546元，较周四夜盘收盘涨24点。成交量288.66亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3020120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
         },
         {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
@@ -159,11 +172,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.479万亿美元，之前一周18.528万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3020149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "WealthFront Corp.（WLTH）美国IPO首日开盘报14美元，此前给出的IPO发行价为每股14美元。",
@@ -292,6 +318,18 @@
           "time_info": "[03时14分 ~ 04时18分]"
         },
         {
+          "title": "周五（12月12日）纽约尾盘，美元兑日元涨0.16%，报155.83日元，本周累计上涨0.32%，整体交投区间为154.90-156.95日元。 本周，欧元兑日元累涨1.19%，报182.96日元；英镑兑日元累涨0.60%，报208.307日元。",
+          "url": "https://wallstreetcn.com/livenews/3020127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
           "title": "现货黄金跌破4260美元/盎司，日内跌0.50%。",
           "url": "https://flash.jin10.com/detail/20251213004029133800",
           "source": "金十数据",
@@ -301,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "周五（12月12日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.67%，报90470美元，本周累计上涨0.92%。 CME以太币期货DCR主力合约跌4.15%，报3096美元，本周累涨2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3020156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "纽约期银日内大跌5.00%，现报61.36美元/盎司。",
@@ -347,17 +396,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "周五（12月12日）纽约尾盘，美元兑日元涨0.16%，报155.83日元，本周累计上涨0.32%，整体交投区间为154.90-156.95日元。 本周，欧元兑日元累涨1.19%，报182.96日元；英镑兑日元累涨0.60%，报208.307日元。",
-          "url": "https://wallstreetcn.com/livenews/3020127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
           "title": "纳斯达克金龙中国指数盘初涨约1%。 热门中概股逸仙电商涨22.6%，金山云涨4.2%，网易涨3%，中通快递、新东方、阿特斯太阳能、再鼎医药涨超2%，百度则跌0.8%，文远知行跌1%，小马智行跌1.1%，Boss直聘跌1.4%。 此外，九紫新能涨30%，该公司将非公开配售规模扩大至10亿美元，希望满足投资者强劲的需求。 ETF中，KWEB涨0.76%，CQQQ涨0.68%。",
           "url": "https://wallstreetcn.com/livenews/3020041",
           "source": "华尔街见闻-快讯",
@@ -386,7 +424,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -405,7 +443,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -415,8 +453,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -426,8 +464,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -438,8 +476,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -449,8 +487,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -509,6 +580,32 @@
           "time_info": "[02时25分 ~ 05时15分]"
         },
         {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3020133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
@@ -522,31 +619,6 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
-          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3020133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
-          "url": "https://flash.jin10.com/detail/20251213022744229800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时16分]"
-        },
-        {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
           "url": "https://flash.jin10.com/detail/20251213031516659800",
           "source": "金十数据",
@@ -555,8 +627,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时18分 ~ 07时16分]"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -650,7 +722,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -661,8 +733,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -672,11 +744,24 @@
             1,
             4,
             9,
-            24
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时16分]"
+          "time_info": "[04时18分 ~ 07时16分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -700,18 +785,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时25分]"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -750,6 +823,17 @@
           "time_info": "[01时16分 ~ 02时25分]"
         },
         {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
           "url": "https://flash.jin10.com/detail/20251212235925421800",
           "source": "金十数据",
@@ -786,7 +870,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数收跌0.30%，报7750.11点，本周累计下跌1.04%。 热门中概股里，小马智行初步收跌5.6%，文远知行跌3.2%，百度、蔚来跌超2%，小鹏跌1.1%，阿里巴巴跌0.9%，拼多多持平，理想涨0.3%，百胜中国涨1.8%，新东方与网易涨2.1%。",
@@ -795,9 +879,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.30%，报7750.11点，本周累计下跌1.04%。 热门中概股里，小马智行初步收跌5.6%，文远知行跌3.2%，百度、蔚来跌超2%，小鹏跌1.1%，阿里巴巴跌0.9%，拼多多持平，理想涨0.3%，百胜中国涨1.8%，新东方与网易涨2.1%。 ETF中，中国科技指数ETF（CQQQ）收跌0.62%，中概互联网指数ETF（KWEB）收跌0.32%。XtrackersHarvest中证50（ASHS）收涨0.48%，德银嘉实沪深300指数ETF（ASHR）收涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3020137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     }
