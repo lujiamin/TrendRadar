@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T16:21:11.716216+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-12-14T17:16:35.324687+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 17时16分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 17时16分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -68,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 17时16分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -239,11 +239,12 @@
           "url": "https://www.zhihu.com/question/1983101482518668094",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 17时16分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -339,7 +340,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
@@ -388,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "Uber(UBER.N)：未来五年将在日本投资超过20亿美元，计划扩大与出租车公司和餐馆的合作关系，资助广告宣传活动，并增加员工人数。",
+          "url": "https://flash.jin10.com/detail/20251214162808730800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
