@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T13:22:32.873162+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2025-12-15T14:29:25.875138+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "比特币下跌1.6%，刷新日低，逼近88500美元。",
@@ -44,7 +44,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -85,13 +85,35 @@
           "time_info": "[00时19分 ~ 03时14分]"
         },
         {
+          "title": "现货黄金日内涨幅达1.00%，现报4343.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251215140000609800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "现货白银向上触及63美元/盎司，日内涨1.67%。",
+          "url": "https://flash.jin10.com/detail/20251215135648672800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "在岸、离岸人民币对美元汇率创下14个月以来新高",
           "url": "https://wallstreetcn.com/livenews/3020687",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -118,6 +140,39 @@
           "time_info": "11时27分"
         },
         {
+          "title": "现货黄金涨近1%报4342美元/盎司，现货白银涨1.7%报63美元。纽约银涨2%，纽约期金涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3020730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "现货黄金短线拉升9美元，报4338.5美元/盎司；纽约期金日内涨幅达1.00%，现报4371.60美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251215133618829800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "美元兑日元USD/JPY持续小幅走低，现跌近0.5%，报155.10。",
+          "url": "https://flash.jin10.com/detail/20251215133317884800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "洛阳钼业：子公司拟以10.15亿美元收购金矿项目",
           "url": "https://wallstreetcn.com/livenews/3020503",
           "source": "华尔街见闻-快讯",
@@ -127,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "美元兑日元跌0.45%，报155.11。",
+          "url": "https://wallstreetcn.com/livenews/3020714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "泰铢兑美元小幅走强至31.525，创2021年6月来最高。",
@@ -154,7 +220,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -183,6 +249,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时15分]"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 14时29分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 14时29分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -215,29 +307,18 @@
           "time_info": "[03时14分 ~ 07时15分]"
         },
         {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 13时22分]"
-        },
-        {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
+            10,
+            9,
             7,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 14时29分]"
         },
         {
           "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
@@ -253,19 +334,6 @@
           "time_info": "[05时15分 ~ 07时15分]"
         },
         {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 13时22分]"
-        },
-        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
           "url": "https://flash.jin10.com/detail/20251214211648647800",
           "source": "金十数据",
@@ -277,6 +345,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时15分]"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.toutiao.com/trending/7583736813425066020/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时29分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -291,15 +371,15 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
-          "url": "https://www.toutiao.com/trending/7583736813425066020/",
-          "source": "今日头条",
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时29分"
         }
       ]
     },
@@ -314,7 +394,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
