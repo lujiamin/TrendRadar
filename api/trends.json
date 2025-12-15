@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T17:28:23.448491+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-12-15T18:21:37.532025+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "比特币下跌1.6%，刷新日低，逼近88500美元。",
@@ -44,7 +44,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -58,17 +58,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "现货黄金向上触及4350美元/盎司，日内涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3020869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "派杰投资：将可口可乐(KO.N)目标价从81美元上调至87美元。",
@@ -88,7 +77,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -118,6 +107,18 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
+          "title": "现货黄金向上触及4350美元/盎司，日内涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3020869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
           "title": "科威特石油部长：在当前情况下，科威特认为每桶60至68美元的油价是合理的。",
           "url": "https://flash.jin10.com/detail/20251214203047950800",
           "source": "金十数据",
@@ -129,6 +130,42 @@
           "time_info": "[00时19分 ~ 03时14分]"
         },
         {
+          "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
+          "url": "https://wallstreetcn.com/livenews/3020863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "现货白银持续走高，日内涨超3%，现报63.87美元/盎司。 现货黄金日内涨超1%，现报4348美元/盎司。 纽约铂金日内涨超3%，纽约钯金日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3020857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
+          "title": "纽约期银日内涨幅扩大至3%，现报63.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3020855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
           "title": "受黄金、石油和煤炭进口下降影响，印度11月贸易逆差收窄至245.3亿美元",
           "url": "https://flash.jin10.com/detail/20251215155701922800",
           "source": "金十数据",
@@ -138,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
-          "url": "https://wallstreetcn.com/livenews/3020863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "现货黄金日内涨幅达1.00%，现报4343.39美元/盎司。",
@@ -168,7 +194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -182,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "现货白银持续走高，日内涨超3%，现报63.87美元/盎司。 现货黄金日内涨超1%，现报4348美元/盎司。 纽约铂金日内涨超3%，纽约钯金日内涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3020857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "现货白银向上触及63美元/盎司，日内涨1.67%。",
@@ -226,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "纽约期银日内涨幅扩大至3%，现报63.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3020855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "洛阳钼业收购金矿项目 涉资10.15亿美元",
@@ -289,7 +293,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -311,9 +315,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "印度贸易部：印度11月石油进口额达141.2亿美元；11月黄金进口额为40.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251215175613502800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "现货黄金短线拉升9美元，报4338.5美元/盎司；纽约期金日内涨幅达1.00%，现报4371.60美元/盎司。",
@@ -344,7 +359,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -358,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "摩根大通：将Illumina(ILMN.O)目标价从105美元上调至130美元。",
+          "url": "https://flash.jin10.com/detail/20251215174346918800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美元兑日元跌0.45%，报155.11。",
@@ -407,7 +433,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -430,8 +456,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 18时21分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -459,8 +485,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时18分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 18时21分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -510,6 +536,17 @@
           "time_info": "[03时14分 ~ 07时15分]"
         },
         {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
+        },
+        {
           "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
           "url": "https://wallstreetcn.com/livenews/3020440",
           "source": "华尔街见闻-快讯",
@@ -523,15 +560,16 @@
           "time_info": "[05时15分 ~ 07时15分]"
         },
         {
-          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 18时21分]"
         },
         {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
@@ -560,16 +598,15 @@
           "time_info": "[13时22分 ~ 15时22分]"
         },
         {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
           "ranks": [
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -584,15 +621,26 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215180602946800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 17时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
+          "url": "https://flash.jin10.com/detail/20251215174214172800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -605,11 +653,12 @@
           "url": "https://wallstreetcn.com/livenews/3020866",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时21分]"
         }
       ]
     },
