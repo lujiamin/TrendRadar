@@ -1,260 +1,11 @@
 {
-  "generated_at": "2025-12-16T04:28:47.869356+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-12-16T05:16:39.263941+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "市场消息：贝莱德失去荷兰养老基金PME一项价值59亿美元的资产管理委托。",
-          "url": "https://flash.jin10.com/detail/20251216010104610800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "比特币跌破8.6万美元 进一步滑向年内低点",
-          "url": "https://wallstreetcn.com/livenews/3021148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "WTI 1月原油期货收跌0.62美元，跌幅1.08%，报56.82美元/桶。 NYMEX 1月天然气期货收报4.0120美元/百万英热单位。 NYMEX 1月汽油期货收报1.7323美元/加仑，NYMEX 1月取暖油期货收报2.1806美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3021147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "马斯克身家现已达6000亿美元。（福布斯）",
-          "url": "https://wallstreetcn.com/livenews/3021144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "比特币日内跌幅达3.5%，报85725美元。",
-          "url": "https://wallstreetcn.com/livenews/3021132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时28分]"
-        },
-        {
-          "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3021129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时28分]"
-        },
-        {
-          "title": "阿根廷央行将调整其汇率交易区间机制，并于明年年初启动外汇储备积累计划，受此消息影响，阿根廷2035年到期的美元计价债券价格盘中一度升至当日高点。",
-          "url": "https://flash.jin10.com/detail/20251216025531857800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时28分]"
-        },
-        {
-          "title": "离岸人民币兑美元突破7.04元。",
-          "url": "https://wallstreetcn.com/livenews/3021084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
-        },
-        {
-          "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
-          "url": "https://wallstreetcn.com/livenews/3021127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时28分]"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：随着时间的推移，储备金规模可能会从2.9万亿美元增长。",
-          "url": "https://wallstreetcn.com/livenews/3021125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时28分]"
-        },
-        {
-          "title": "周一（12月15日），美联储隔夜逆回购协议（RRP）使用规模为26.01亿美元，上个交易日报8.38亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3021135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时28分]"
-        },
-        {
-          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
-          "url": "https://wallstreetcn.com/livenews/3021117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时17分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3021143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
-          "url": "https://flash.jin10.com/detail/20251216005103965800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "据华尔街日报：知情人士透露，美国办公设备与技术服务企业施乐正寻求一笔由知识产权担保的5亿美元贷款。",
-          "url": "https://flash.jin10.com/detail/20251216032535913800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "福布斯：马斯克净资产突破6700亿美元 距离万亿富翁比失去首富头衔更近",
-          "url": "https://flash.jin10.com/detail/20251216031801479800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
-          "url": "https://flash.jin10.com/detail/20251215235510246800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "据福布斯：马斯克身家现已达6000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251216030449591800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "现货黄金跌破4290美元/盎司，日内跌0.25%。",
-          "url": "https://flash.jin10.com/detail/20251216003632238800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "现货钯金日内大涨6.00%，现报1583.16美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251215234828915800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "特斯拉涨约4.9%，报481.37美元，逼近2024年12月顶部488.54美元。",
-          "url": "https://wallstreetcn.com/livenews/3021057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 33,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -264,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -276,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -286,11 +37,12 @@
           "ranks": [
             6,
             8,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -301,11 +53,12 @@
             24,
             26,
             30,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -317,6 +70,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：我今天没看股市，可能涨了。",
+          "url": "https://wallstreetcn.com/livenews/3021167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -368,6 +132,39 @@
           "time_info": "[03时17分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
+          "url": "https://flash.jin10.com/detail/20251216050154625800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
+          "url": "https://wallstreetcn.com/livenews/3021165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
+          "url": "https://flash.jin10.com/detail/20251216045805156800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "据知情人士透露，哈塞特的美联储理事提名在特朗普阵营内部遭遇一定阻力。 美国总统特朗普的一些盟友认为/担心，白宫顾问哈塞特与特朗普关系过从甚密。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3021078",
           "source": "华尔街见闻-快讯",
@@ -377,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
+          "url": "https://flash.jin10.com/detail/20251216045719232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -390,6 +198,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
+          "url": "https://flash.jin10.com/detail/20251216045556707800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3021155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
           "url": "https://flash.jin10.com/detail/20251216004941565800",
           "source": "金十数据",
@@ -399,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251216045447003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
@@ -412,6 +253,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普：将对极端组织 “伊斯兰国” 实施严厉打击。",
+          "url": "https://flash.jin10.com/detail/20251216044703308800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：我与内塔尼亚胡一直保持着良好的关系。",
+          "url": "https://flash.jin10.com/detail/20251216044528423800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
           "url": "https://wallstreetcn.com/livenews/3021099",
           "source": "华尔街见闻-快讯",
@@ -421,6 +284,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在调查以色列是否通过杀害哈马斯领导人而违反了停火协议。",
+          "url": "https://flash.jin10.com/detail/20251216044444718800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：正考虑通过行政命令重新对大麻进行分类。",
+          "url": "https://flash.jin10.com/detail/20251216044421725800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
@@ -434,6 +319,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美国总统特朗普：可能在今天下午或明天上午提交诉讼申请。",
+          "url": "https://flash.jin10.com/detail/20251216044233822800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "非农前夜，特朗普的BLS发布预警：11月住户调查统计方差更大",
           "url": "https://wallstreetcn.com/livenews/3021095",
           "source": "华尔街见闻-快讯",
@@ -443,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20251216044150857800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
@@ -456,11 +363,319 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普：将签署行政命令，将芬太尼列为“大规模杀伤性武器”。",
+          "url": "https://flash.jin10.com/detail/20251216043109134800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "美联储主席人选博弈加剧，哈塞特面临特朗普身边高层反对",
           "url": "https://flash.jin10.com/detail/20251215234404561800",
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "市场消息：贝莱德失去荷兰养老基金PME一项价值59亿美元的资产管理委托。",
+          "url": "https://flash.jin10.com/detail/20251216010104610800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "福特汽车为电动汽车投资计提195亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3021173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "WTI 1月原油期货收跌0.62美元，跌幅1.08%，报56.82美元/桶。 NYMEX 1月天然气期货收报4.0120美元/百万英热单位。 NYMEX 1月汽油期货收报1.7323美元/加仑，NYMEX 1月取暖油期货收报2.1806美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3021147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "比特币日内跌幅达3.5%，报85725美元。",
+          "url": "https://wallstreetcn.com/livenews/3021132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时28分]"
+        },
+        {
+          "title": "比特币跌破8.6万美元 进一步滑向年内低点",
+          "url": "https://wallstreetcn.com/livenews/3021148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时16分]"
+        },
+        {
+          "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3021129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时28分]"
+        },
+        {
+          "title": "阿根廷央行将调整其汇率交易区间机制，并于明年年初启动外汇储备积累计划，受此消息影响，阿根廷2035年到期的美元计价债券价格盘中一度升至当日高点。",
+          "url": "https://flash.jin10.com/detail/20251216025531857800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时28分]"
+        },
+        {
+          "title": "离岸人民币兑美元突破7.04元。",
+          "url": "https://wallstreetcn.com/livenews/3021084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时22分]"
+        },
+        {
+          "title": "马斯克身家现已达6000亿美元。（福布斯）",
+          "url": "https://wallstreetcn.com/livenews/3021144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时16分]"
+        },
+        {
+          "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
+          "url": "https://wallstreetcn.com/livenews/3021127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时28分]"
+        },
+        {
+          "title": "周一（12月15日），美联储隔夜逆回购协议（RRP）使用规模为26.01亿美元，上个交易日报8.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时16分]"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：随着时间的推移，储备金规模可能会从2.9万亿美元增长。",
+          "url": "https://wallstreetcn.com/livenews/3021125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时28分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时16分]"
+        },
+        {
+          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
+          "url": "https://wallstreetcn.com/livenews/3021117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "周一（12月15日）纽约尾盘，欧元兑美元涨0.09%，英镑兑美元大致持平，美元兑瑞郎涨0.09%。 商品货币对中，澳元兑美元跌0.22%，纽元兑美元跌0.37%，美元兑加元持平。 瑞典克朗兑美元跌0.14%，挪威克朗兑美元跌0.20%，丹麦克朗兑美元涨0.10%。 波兰兹罗提兑美元涨0.20%，匈牙利福林兑美元涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3021166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "周一（12月15日）纽约尾盘，美元兑日元跌0.36%，报155.24日元，日内交投区间为155.99-154.84日元，大部分时间低位震荡。 欧元兑日元跌0.28%，英镑兑日元跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3021164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
+          "url": "https://flash.jin10.com/detail/20251216005103965800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "周一（12月15日）纽约尾盘，ICE美元指数跌0.10%，报98.305点，日内交投区间为98.477-98.136点，一度呈现出V形走势。 彭博美元指数跌0.10%，报1206.05点，日内交投区间为1207.71-1204.43点。",
+          "url": "https://wallstreetcn.com/livenews/3021162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "据华尔街日报：知情人士透露，美国办公设备与技术服务企业施乐正寻求一笔由知识产权担保的5亿美元贷款。",
+          "url": "https://flash.jin10.com/detail/20251216032535913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "福布斯：马斯克净资产突破6700亿美元 距离万亿富翁比失去首富头衔更近",
+          "url": "https://flash.jin10.com/detail/20251216031801479800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
+          "url": "https://flash.jin10.com/detail/20251215235510246800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "据福布斯：马斯克身家现已达6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251216030449591800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "现货黄金跌破4290美元/盎司，日内跌0.25%。",
+          "url": "https://flash.jin10.com/detail/20251216003632238800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "现货钯金日内大涨6.00%，现报1583.16美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251215234828915800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "特斯拉涨约4.9%，报481.37美元，逼近2024年12月顶部488.54美元。",
+          "url": "https://wallstreetcn.com/livenews/3021057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -517,6 +732,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.1%。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3021170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     }
