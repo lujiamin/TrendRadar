@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T02:26:11.990585+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-16T03:17:32.224637+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -35,11 +35,26 @@
           "source": "微博",
           "ranks": [
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时17分]"
+        },
+        {
+          "title": "曝特朗普曾警告高市早苗别来添乱",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -51,19 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "曝特朗普曾警告高市早苗别来添乱",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时26分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -95,11 +97,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时17分]"
+        },
+        {
+          "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
+          "url": "https://flash.jin10.com/detail/20251216025403582800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "据知情人士透露，哈塞特的美联储理事提名在特朗普阵营内部遭遇一定阻力。 美国总统特朗普的一些盟友认为/担心，白宫顾问哈塞特与特朗普关系过从甚密。（CNBC）",
@@ -157,6 +171,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251216024550326800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "非农前夜，特朗普的BLS发布预警：11月住户调查统计方差更大",
           "url": "https://wallstreetcn.com/livenews/3021095",
           "source": "华尔街见闻-快讯",
@@ -193,7 +218,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场消息：贝莱德失去荷兰养老基金PME一项价值59亿美元的资产管理委托。",
@@ -207,26 +232,27 @@
           "time_info": "01时22分"
         },
         {
-          "title": "比特币日内跌幅达3.5%，报85725美元。",
-          "url": "https://wallstreetcn.com/livenews/3021132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3021129",
-          "source": "华尔街见闻-快讯",
+          "title": "阿根廷央行将调整其汇率交易区间机制，并于明年年初启动外汇储备积累计划，受此消息影响，阿根廷2035年到期的美元计价债券价格盘中一度升至当日高点。",
+          "url": "https://flash.jin10.com/detail/20251216025531857800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "03时17分"
+        },
+        {
+          "title": "比特币日内跌幅达3.5%，报85725美元。",
+          "url": "https://wallstreetcn.com/livenews/3021132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
         },
         {
           "title": "离岸人民币兑美元突破7.04元。",
@@ -241,26 +267,63 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "LME期铜收涨140美元，报11656美元/吨。 LME期铝收跌2美元，报2866美元/吨。 LME期锌收跌32美元，报3094美元/吨。 LME期铅收跌27美元，报1941美元/吨。 LME期镍收跌241美元，报14346美元/吨。 LME期锡收跌390美元，报40947美元/吨。 LME期钴收平，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3021129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
           "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
           "url": "https://wallstreetcn.com/livenews/3021127",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：随着时间的推移，储备金规模可能会从2.9万亿美元增长。",
           "url": "https://wallstreetcn.com/livenews/3021125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
+          "url": "https://wallstreetcn.com/livenews/3021117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "周一（12月15日），美联储隔夜逆回购协议（RRP）使用规模为26.01亿美元，上个交易日报8.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "03时17分"
         },
         {
           "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
@@ -272,17 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
-          "url": "https://wallstreetcn.com/livenews/3021117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
         },
         {
           "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
@@ -332,7 +384,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -352,7 +404,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -361,11 +413,23 @@
           "url": "https://wallstreetcn.com/livenews/3021118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
+          "url": "https://flash.jin10.com/detail/20251216023339316800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "03时17分"
         }
       ]
     }
