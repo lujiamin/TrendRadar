@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T11:27:47.905584+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2025-12-15T12:37:06.011168+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -38,17 +38,6 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
-          "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.5772。",
-          "url": "https://flash.jin10.com/detail/20251215111348295800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
           "title": "王曼昱收获1500冠军积分和8万美元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%94%B6%E8%8E%B71500%E5%86%A0%E5%86%9B%E7%A7%AF%E5%88%86%E5%92%8C8%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -60,6 +49,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 09时19分]"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.5772。",
+          "url": "https://flash.jin10.com/detail/20251215111348295800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "科威特石油部长：在当前情况下，科威特认为每桶60至68美元的油价是合理的。",
@@ -90,7 +91,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -112,7 +113,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -123,7 +124,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -218,15 +219,40 @@
           "time_info": "[00时19分 ~ 05时15分]"
         },
         {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时37分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时37分]"
+        },
+        {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
           "url": "https://wallstreetcn.com/articles/3761371",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 12时37分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -239,28 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
         }
       ]
     }
