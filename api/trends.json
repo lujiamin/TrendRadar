@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T07:17:04.116831+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-12-16T09:17:37.369670+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时17分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -40,11 +40,12 @@
             17,
             5,
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时17分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -207,6 +208,17 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
           "title": "据知情人士透露，哈塞特的美联储理事提名在特朗普阵营内部遭遇一定阻力。 美国总统特朗普的一些盟友认为/担心，白宫顾问哈塞特与特朗普关系过从甚密。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3021078",
           "source": "华尔街见闻-快讯",
@@ -290,7 +302,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -345,7 +357,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -359,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "文件显示：美国总统特朗普就“1月6日事件”演讲的剪辑片段起诉英国广播公司诽谤。",
+          "url": "https://flash.jin10.com/detail/20251216081535762800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "美国总统特朗普：正考虑通过行政命令重新对大麻进行分类。",
@@ -433,7 +456,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -444,7 +467,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -474,7 +497,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 41,
       "titles": [
         {
           "title": "市场消息：贝莱德失去荷兰养老基金PME一项价值59亿美元的资产管理委托。",
@@ -486,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "现货白银日内跌幅达1.00%，现报63.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251216090601743800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "福特汽车为电动汽车投资计提195亿美元。（华尔街日报）",
@@ -508,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "高盛将其2026年铜价预测从每吨10,650美元上调至11,400美元，理由是2026年上半年实施精炼铜关税的可能性降低，因为可负担性问题被优先考虑。",
+          "url": "https://wallstreetcn.com/livenews/3021270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "比特币日内跌幅达3.5%，报85725美元。",
@@ -720,6 +765,17 @@
           "time_info": "[02时26分 ~ 03时17分]"
         },
         {
+          "title": "SpaceX估值翻倍 马斯克身家跃升至6770亿美元",
+          "url": "https://www.cls.cn/detail/2230363",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
           "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
           "url": "https://flash.jin10.com/detail/20251216005103965800",
           "source": "金十数据",
@@ -742,6 +798,28 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普起诉BBC 索赔50亿美元",
+          "url": "https://flash.jin10.com/detail/20251216083812913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "“法律噩梦”拉开序幕 俄罗斯向欧洲清算银行索赔2300亿美元",
+          "url": "https://www.cls.cn/detail/2230273",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
           "title": "报道：福特汽车在电动汽车投资上倒退，计提将近200亿美元",
           "url": "https://wallstreetcn.com/livenews/3021173",
           "source": "华尔街见闻-快讯",
@@ -751,6 +829,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克身家跃升至6770亿美元",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E8%B7%83%E5%8D%87%E8%87%B36770%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "特朗普正式起诉BBC 索赔50亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9450%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "福特汽车(F.N)将2025年调整后息税前利润预期上调至70亿美元，此前预期为60亿至65亿美元。",
@@ -773,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251216081629510800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
@@ -803,9 +914,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "法庭文件显示，特朗普就2024年拼接纪录片一事起诉BBC诽谤，要求BBC赔偿50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "现货黄金跌破4290美元/盎司，日内跌0.25%。",
@@ -839,12 +961,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "特朗普起诉BBC诽谤，寻求向BBC索赔至少50亿美元。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3021240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -880,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时28分]"
+        },
+        {
+          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3021245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
@@ -919,6 +1063,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "可控核聚变",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "12月16日投资避雷针：3连板人气股提示风险 不涉及“可控核聚变”、“超导”、“商业航天”等业务",
+          "url": "https://www.cls.cn/detail/2230453",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     }
