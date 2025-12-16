@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-16T22:21:04.080258+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2025-12-16T23:20:14.613683+08:00",
+  "total_titles_processed": 2166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 93,
+      "match_count": 98,
       "titles": [
+        {
+          "title": "蜜雪冰城进军北美，外卖预售套餐 3.99 美元，能复制国内的成功吗？可选 200% 糖度，真的好喝吗？",
+          "url": "https://www.zhihu.com/question/1984194337068770415",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 23时20分]"
+        },
         {
           "title": "如何看待霉霉给员工发 2 亿美元奖金，包括伴舞、卡车司机、餐饮人员等？远超常规的「巨额激励」有何利弊？",
           "url": "https://www.zhihu.com/question/6912656041",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时19分 ~ 16时25分]"
-        },
-        {
-          "title": "蜜雪冰城进军北美，外卖预售套餐 3.99 美元，能复制国内的成功吗？可选 200% 糖度，真的好喝吗？",
-          "url": "https://www.zhihu.com/question/1984194337068770415",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时21分]"
         },
         {
           "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
@@ -220,7 +221,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -234,6 +235,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "马斯克身家跃升至6770亿美元",
+          "url": "https://www.douyin.com/hot/2337685",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时36分 ~ 23时20分]"
         },
         {
           "title": "欧洲多国承诺为乌提供安全保障 马斯克身家跃升至6770亿美元 | 环球市场",
@@ -446,16 +460,15 @@
           "time_info": "[09时17分 ~ 12时32分]"
         },
         {
-          "title": "马斯克身家跃升至6770亿美元",
-          "url": "https://www.douyin.com/hot/2337685",
-          "source": "抖音",
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时21分]"
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
@@ -688,6 +701,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "美国银行：将AMD(AMD.O)目标价从300美元下调至260美元。",
+          "url": "https://flash.jin10.com/detail/20251216230502095800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "现货黄金短线跳水13美元，跌破4290美元/盎司；现货白银失守63美元/盎司，日内跌幅1.74%。",
           "url": "https://flash.jin10.com/detail/20251216105904427800",
           "source": "金十数据",
@@ -716,9 +740,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "现货钯金日内涨超2.00%，现报1605.18美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251216230434844800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "WTI原油期货日内跌幅达2.00%，现报55.55美元/桶。",
@@ -727,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -752,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "现货钯金站上1600美元/盎司，日内涨1.67%。",
+          "url": "https://flash.jin10.com/detail/20251216230347408800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "报道：福特汽车在电动汽车投资上倒退，计提将近200亿美元",
@@ -818,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD向上触及1.18，日内涨0.41%。",
+          "url": "https://flash.jin10.com/detail/20251216230131276800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
@@ -1035,7 +1092,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1076,7 +1133,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -1108,11 +1165,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时17分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[09时17分 ~ 23时20分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -1156,8 +1214,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时21分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[11时21分 ~ 23时20分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -1189,13 +1247,24 @@
           "time_info": "[11时21分 ~ 15时20分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：Wiles是美国总统特朗普忠诚的顾问。",
+          "url": "https://wallstreetcn.com/livenews/3021803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国国家经济委员会主任凯文·哈塞特：总统特朗普认为，利率可以下降，许多人认同那样的看法。 美联储利率似乎与其他央行脱节。 如果我担任美联储主席，我会与联储官员们“谈判”。 鉴于供给侧冲击，（FOMC）存在大量降息空间。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3021767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1232,6 +1301,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
+          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
+        {
+          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
+          "url": "https://news.ifeng.com/c/8p8hxedgU29",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
@@ -1281,28 +1372,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时17分]"
-        },
-        {
-          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
-          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
-        },
-        {
-          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
-          "url": "https://news.ifeng.com/c/8p8hxedgU29",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -1499,6 +1568,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "白宫新闻秘书莱维特：Wiles是美国总统特朗普忠诚的顾问。",
+          "url": "https://flash.jin10.com/detail/20251216230344459800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
           "url": "https://flash.jin10.com/detail/20251216004832020800",
           "source": "金十数据",
@@ -1664,6 +1744,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "美国国家经济委员会主任凯文·哈塞特：总统特朗普拒绝“美联储主席不可以是一个密友”这种想法。 美联储是时候往前走了，特朗普很快会宣布。 我很高兴，特朗普这次做了正确的决定。 特朗普对“美联储相当具有政治立场”感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3021776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
           "url": "https://flash.jin10.com/detail/20251215234849282800",
           "source": "金十数据",
@@ -1766,7 +1857,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1796,7 +1887,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌2.1%。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。",
@@ -1819,6 +1910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "热门中概股新东方目前跌2.8%，网易跌2%，拼多多跌1.4%，百胜中国跌0.9%，阿里巴巴跌0.9%，理想、百度、蔚来则至多涨0.6%，小鹏涨1.2%，文远知行涨1.2%，小马智行涨3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3021790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.17%，报7582.05点。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.53%，德银嘉实沪深300指数ETF（ASHR）收跌0.36%。 中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.71%。",
@@ -1877,8 +1979,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时21分]"
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 23时20分]"
         }
       ]
     }
