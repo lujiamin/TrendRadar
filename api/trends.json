@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:16:12.303894+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2025-12-18T20:34:46.130567+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 77,
+      "match_count": 81,
       "titles": [
         {
           "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
@@ -17,8 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时16分 ~ 19时16分]"
+          "appearance_count": 19,
+          "time_info": "[06时16分 ~ 20时34分]"
+        },
+        {
+          "title": "外交部回应美110亿美元对台军售",
+          "url": "https://www.toutiao.com/trending/7585011293208182790/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 20时34分]"
         },
         {
           "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
@@ -33,17 +45,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 09时13分]"
-        },
-        {
-          "title": "外交部回应美110亿美元对台军售",
-          "url": "https://www.toutiao.com/trending/7585011293208182790/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
@@ -95,11 +96,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时34分]"
         },
         {
           "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
@@ -132,7 +134,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -377,6 +379,17 @@
           "time_info": "[02时26分 ~ 04时20分]"
         },
         {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时34分]"
+        },
+        {
           "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
           "url": "https://wallstreetcn.com/livenews/3022552",
           "source": "华尔街见闻-快讯",
@@ -460,17 +473,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报56.79美元/桶。",
@@ -643,7 +645,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -758,6 +760,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "摩根士丹利：将美光科技目标价从338美元上调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3023113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "美光科技(MU.O)第二财季营收展望183亿至191亿美元，市场预期为143亿美元。",
           "url": "https://flash.jin10.com/detail/20251218050313767800",
           "source": "金十数据",
@@ -835,6 +848,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "埃森哲第一季度营收187亿美元，市场预估185.2亿美元。 第一季度调整后每股收益3.94美元，市场预估3.72美元。 仍然预测全年营收增长2％至5％。 仍然预测全年调整后每股收益13.52美元至13.90美元。 预计第二季度营收增长1％至5％。 预计第二季度营收173.5亿美元至180亿美元，市场预估177.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "美国参议院通过超9000亿美元国防授权法案",
           "url": "https://flash.jin10.com/detail/20251218014139449800",
           "source": "金十数据",
@@ -857,6 +881,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "英镑兑美元GBP/USD短线上扬30点，报1.33384。",
+          "url": "https://flash.jin10.com/detail/20251218200110001800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
           "url": "https://flash.jin10.com/detail/20251218012702878800",
           "source": "金十数据",
@@ -877,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "富国银行：将美光科技目标价从300美元上调至335美元。",
+          "url": "https://wallstreetcn.com/livenews/3023101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "Paramount SkyDance（派拉蒙天舞）：确认将按每股30美元收购华纳兄弟探索公司（WBD）的要约。",
@@ -915,7 +961,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -1022,17 +1068,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251218063414755800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
           "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
           "url": "https://www.cls.cn/detail/2233203",
           "source": "财联社热门",
@@ -1042,8 +1077,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时34分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251218063414755800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -1236,6 +1282,17 @@
           "time_info": "[14时27分 ~ 14时28分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
           "url": "https://flash.jin10.com/detail/20251218010257604800",
           "source": "金十数据",
@@ -1363,7 +1420,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1388,6 +1445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普媒体科技集团：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://wallstreetcn.com/livenews/3023108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
@@ -1432,6 +1500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "特朗普媒体科技集团将以全股票交易方式与TAE Technologies合并",
+          "url": "https://wallstreetcn.com/livenews/3023103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "美国联邦上诉法院推翻先前裁决，允许美国总统特朗普政府恢复在美国消费者金融保护局的大规模裁员。",
@@ -1522,6 +1601,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "特朗普20分钟演讲晒经济成绩单",
+          "url": "https://www.toutiao.com/trending/7585127233983876650/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "美国总统特朗普：不会让任何不应通过委内瑞拉封锁线的人通行。",
           "url": "https://flash.jin10.com/detail/20251218045914520800",
           "source": "金十数据",
@@ -1548,8 +1638,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时27分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[14时27分 ~ 20时34分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1593,8 +1683,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时34分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -1687,7 +1777,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
