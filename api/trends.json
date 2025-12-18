@@ -1,11 +1,637 @@
 {
-  "generated_at": "2025-12-19T05:15:33.820025+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-19T06:16:56.841342+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 54,
+      "titles": [
+        {
+          "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
+          "url": "https://wallstreetcn.com/articles/3761585",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "外交部回应美110亿美元对台军售",
+          "url": "https://www.toutiao.com/trending/7585011293208182790/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            8,
+            6,
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时16分]"
+        },
+        {
+          "title": "高盛：重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。",
+          "url": "https://flash.jin10.com/detail/20251219010915714800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
+          "url": "https://wallstreetcn.com/livenews/3023366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251219010727290800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3023365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
+          "url": "https://wallstreetcn.com/livenews/3023324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时15分]"
+        },
+        {
+          "title": "联邦快递第二财季营收235亿美元，分析师预期228亿美元。 第二财季Federal Express营收204.3亿美元，分析师预期197.2亿美元。 第二财季FedEx Freight营收21.4亿美元，分析师预期21.4亿美元。 第二财季调整后运营利润率6.9%，分析师预期6.07%。 预计全年资本开支45亿美元，符合分析师预期，公司原本预计45亿美元。 联邦快递（FDX）美股盘后涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3023347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "美国财政部拍卖240亿美元五年期通胀保值国债（TIPS），得标利率1.4330%（10月23日为1.182%），投标倍数2.62（前次报2.51）。",
+          "url": "https://wallstreetcn.com/livenews/3023290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，彭博谷物分类指数涨0.29%，报29.1385点。 CBOT玉米期货涨0.79%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.72%，报10.6125美元/蒲式耳，豆粕期货持平，豆油期货跌0.54%。 CBOT瘦肉猪期货涨1.30%，活牛期货跌0.45%，饲牛期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3023323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时15分]"
+        },
+        {
+          "title": "美国10月长期资本净流入 175亿美元，前值 1798亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "日本美债持有规模升至1.2万亿美元",
+          "url": "https://flash.jin10.com/detail/20251219050608165800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "美国财政部将发行690亿美元两年期国债。 将发行700亿美元五年期国债。 将发行440亿美元七年期国债。 将发行280亿美元两年期浮息国债（FRNS）。 还将拍卖750亿美元六周期国债，860亿美元三个月期国债，500亿美元52周期国债。",
+          "url": "https://wallstreetcn.com/livenews/3023251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时20分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
+          "url": "https://wallstreetcn.com/livenews/3023271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时25分]"
+        },
+        {
+          "title": "美国10月国际资本净流入 -373亿美元，前值 1901亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "LME期铜收涨41美元，报11778美元/吨。 LME期铝收涨10美元，报2916美元/吨。 LME期锌收跌10美元，报3064美元/吨。 LME期铅收涨4美元，报1964美元/吨。 LME期镍收涨249美元，报14641美元/吨。 LME期锡收涨652美元，报42927美元/吨。 LME期钴收平，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3023283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.67万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3023343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时20分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050043558800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "美国10月国际资本净流入 -373亿美元，前值由1901亿美元修正为1843亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050002430800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "据知情人士透露，一家由加密货币挖矿公司TeraWulf Inc.和云计算初创公司Fluidstack Ltd.间接拥有的公司，正在发行12.8亿美元五年期高级担保票据，用于为美国得克萨斯州阿伯内西（Abernathy）在建的一个数据中心提供部分资金。该交易预计将于周四定价，债券收益率可能在7.25%左右。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3023299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时17分]"
+        },
+        {
+          "title": "美国10月长期资本净流入 175亿美元，前值由1798亿美元修正为1732亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050002429800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "美国10月外资净买入美国公债 -612亿美元，前值由255亿美元修正为251亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050002425800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "周四（12月18日），美联储隔夜逆回购协议（RRP）使用规模为117.08亿美元，上个交易日报103.61亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时17分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，商品货币对中，澳元兑美元涨0.14%，纽元兑美元持平，美元兑加元跌0.05%。 瑞典克朗兑美元涨0.22%，挪威克朗兑美元涨0.47%，丹麦克朗兑美元跌0.13%。 波兰兹罗提兑美元涨0.14%，匈牙利福林兑美元涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3023335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "高盛：预计布伦特原油和WTI原油价格将进一步下跌，到2026年的平均价格分别为56美元/桶和52美元/通。 预计油价将在2026年第四季度回升，因为市场开始定价2027年下半年重新出现供应短缺，并将关注重点转向激励长周期产能投产。",
+          "url": "https://wallstreetcn.com/livenews/3023287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
+          "url": "https://wallstreetcn.com/livenews/3023286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219020203855800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "美联储：截至12月17日当周，美联储准备金余额降至2.93万亿美元，较前一周减少了401亿美元。这一水平触及了自今年12月3日以来的最低点。",
+          "url": "https://flash.jin10.com/detail/20251219054603651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3023317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "美联储12月16日当周贴现窗贷款余额88.7亿美元，之前一周83.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
+          "url": "https://flash.jin10.com/detail/20251219013545433800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "美国至12月12日当周外国央行持有美国国债 -102.13亿美元，前值54.29亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219053036822800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，美元兑日元跌0.07%，报155.58日元，日内交投区间为155.97-155.29日元。 欧元兑日元跌0.21%，英镑兑日元跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3023330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "耐克第二财季营收124.3亿美元，分析师预期122.4亿美元。 第二财季总体耐克品牌营收121.2亿美元，分析师预期118.8亿美元。 第二财季EPS为0.53美元，上年同期0.78美元。 第二财季大中华区EBIT为1.91亿美元，分析师预期3.353亿美元。 第二财季毛利润率40.6%，符合分析师预期。 第二财季库存77.3亿美元，分析师预期78.0亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0412元，较周三夜盘收盘涨38点。成交量299.53亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "耐克(NKE.N)2026财年Q2营收124.27亿美元，市场预期为122.21亿美元，上年同期为123.54亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219051523143800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "纽约期金站上4400美元/盎司，日内涨0.62%。",
+          "url": "https://wallstreetcn.com/livenews/3023255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "KB Home第四财季营收16.9亿美元，分析师预期16.6亿美元。 第四财季EPS为1.55美元，分析师预期1.79美元。 第四财季交付3619（套），分析师预期3511。 预计2026年住房营收51.0亿-61.0亿美元，分析师预期58.3亿美元。 KB Home美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3023348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "秘鲁央行表示在现货市场买入2.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219024326118800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国天然气期货日内走低3.00%，现报3.903美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251219024301637800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "据法庭文件显示，Instacart将支付6000万美元，以了结美国联邦贸易委员会针对Instacart+会员计划提出的指控。",
+          "url": "https://flash.jin10.com/detail/20251219023851876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "高盛：预计2026/27年TTF天然气价格为每兆瓦时29/20欧元（每百万英热10/6.85美元）。预计2026年和2027年美国天然气价格将分别达4.60美元/百万英热和3.80美元/百万英热，足以激励美国天然气产量增长。",
+          "url": "https://flash.jin10.com/detail/20251219011811650800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "高盛：预计到2028年底，布伦特原油和WTI原油价格将逐步回升至每桶80美元和76美元。",
+          "url": "https://flash.jin10.com/detail/20251219011729059800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "欧洲央行：预计2026年一季度通胀率将低于2%，2026年三季度至2027年四季度也将那样。 预计2025年石油价格为69.20美元/桶，预计2026年为62.50美元，预计2027-28年分别为62.60美元、64.00美元。 预计2025年（欧元兑美元）汇率为1.13。 预计欧元区2025年薪资增速为4%，2026年料增3.2%，预计2027-28年将先后增长2.9%和3.0%。",
+          "url": "https://wallstreetcn.com/livenews/3023227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 布伦特2月原油期货收报59.82美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3023317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国批评南非拘押美国官员，宣称不会容忍南非对美国官员的行为。 南非股指目前重新涨超0.1%，兰特兑美元短线走低，跌0.1%刷新日低至16.7946兰特。",
+          "url": "https://wallstreetcn.com/livenews/3023226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "以色列国防部：以色列与德国签署31亿美元合同，以扩展由以色列航空航天工业公司生产的“箭-3”防空反导系统。",
+          "url": "https://flash.jin10.com/detail/20251218233846351800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
+          "url": "https://flash.jin10.com/detail/20251219022756138800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美元指数18日上涨",
+          "url": "https://flash.jin10.com/detail/20251219042953556800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "现货白银日内跌幅达1.5%，报65.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3023223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "高盛：预计布伦特原油和WTI原油价格将进一步下跌，到2026年的平均价格分别为56美元/桶和52美元/通。",
+          "url": "https://flash.jin10.com/detail/20251219011347963800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -15,8 +641,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时16分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -26,8 +652,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时16分]"
+        },
+        {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时15分]"
+          "time_info": "[01时20分 ~ 06时16分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -41,6 +679,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
+          "url": "https://flash.jin10.com/detail/20251219055432229800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "特朗普将签署命令，重新归类大麻",
           "url": "https://wallstreetcn.com/livenews/3023303",
           "source": "华尔街见闻-快讯",
@@ -50,29 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 特朗普旗下公司暴涨超40%",
-          "url": "https://flash.jin10.com/detail/20251219050129216800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时15分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -97,6 +723,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 特朗普旗下公司暴涨超40%",
+          "url": "https://flash.jin10.com/detail/20251219050129216800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -228,6 +866,28 @@
           "time_info": "04时17分"
         },
         {
+          "title": "特朗普签署行政命令 重申2028年登月目标",
+          "url": "https://flash.jin10.com/detail/20251219054334067800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普宣布联邦政府下周多关门两天，但纽交所宣布圣诞前后股市交易照旧",
+          "url": "https://wallstreetcn.com/livenews/3023357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
           "url": "https://flash.jin10.com/detail/20251219031834867800",
           "source": "金十数据",
@@ -283,6 +943,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
+          "url": "https://flash.jin10.com/detail/20251219051647002800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。 将在未来几周内公布。",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -322,7 +993,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -476,7 +1147,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -487,7 +1158,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -498,7 +1169,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -509,531 +1180,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 44,
-      "titles": [
-        {
-          "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
-          "url": "https://wallstreetcn.com/articles/3761585",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时15分]"
-        },
-        {
-          "title": "外交部回应美110亿美元对台军售",
-          "url": "https://www.toutiao.com/trending/7585011293208182790/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20,
-            8,
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时15分]"
-        },
-        {
-          "title": "高盛：重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。",
-          "url": "https://flash.jin10.com/detail/20251219010915714800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "联邦快递第二财季营收235亿美元，分析师预期228亿美元。 第二财季Federal Express营收204.3亿美元，分析师预期197.2亿美元。 第二财季FedEx Freight营收21.4亿美元，分析师预期21.4亿美元。 第二财季调整后运营利润率6.9%，分析师预期6.07%。 预计全年资本开支45亿美元，符合分析师预期，公司原本预计45亿美元。 联邦快递（FDX）美股盘后涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3023347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20251219010727290800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国10月长期资本净流入 175亿美元，前值 1798亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "日本美债持有规模升至1.2万亿美元",
-          "url": "https://flash.jin10.com/detail/20251219050608165800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国10月国际资本净流入 -373亿美元，前值 1901亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.67万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3023343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美元指数在美国CPI数据发布前后呈现出W形走势",
-          "url": "https://wallstreetcn.com/livenews/3023324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时15分]"
-        },
-        {
-          "title": "美国财政部拍卖240亿美元五年期通胀保值国债（TIPS），得标利率1.4330%（10月23日为1.182%），投标倍数2.62（前次报2.51）。",
-          "url": "https://wallstreetcn.com/livenews/3023290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，彭博谷物分类指数涨0.29%，报29.1385点。 CBOT玉米期货涨0.79%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.72%，报10.6125美元/蒲式耳，豆粕期货持平，豆油期货跌0.54%。 CBOT瘦肉猪期货涨1.30%，活牛期货跌0.45%，饲牛期货跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3023323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时15分]"
-        },
-        {
-          "title": "美国财政部将发行690亿美元两年期国债。 将发行700亿美元五年期国债。 将发行440亿美元七年期国债。 将发行280亿美元两年期浮息国债（FRNS）。 还将拍卖750亿美元六周期国债，860亿美元三个月期国债，500亿美元52周期国债。",
-          "url": "https://wallstreetcn.com/livenews/3023251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
-          "url": "https://wallstreetcn.com/livenews/3023271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时25分]"
-        },
-        {
-          "title": "LME期铜收涨41美元，报11778美元/吨。 LME期铝收涨10美元，报2916美元/吨。 LME期锌收跌10美元，报3064美元/吨。 LME期铅收涨4美元，报1964美元/吨。 LME期镍收涨249美元，报14641美元/吨。 LME期锡收涨652美元，报42927美元/吨。 LME期钴收平，报52790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3023283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3761635",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时20分]"
-        },
-        {
-          "title": "据知情人士透露，一家由加密货币挖矿公司TeraWulf Inc.和云计算初创公司Fluidstack Ltd.间接拥有的公司，正在发行12.8亿美元五年期高级担保票据，用于为美国得克萨斯州阿伯内西（Abernathy）在建的一个数据中心提供部分资金。该交易预计将于周四定价，债券收益率可能在7.25%左右。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3023299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "周四（12月18日），美联储隔夜逆回购协议（RRP）使用规模为117.08亿美元，上个交易日报103.61亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时17分]"
-        },
-        {
-          "title": "高盛：预计布伦特原油和WTI原油价格将进一步下跌，到2026年的平均价格分别为56美元/桶和52美元/通。 预计油价将在2026年第四季度回升，因为市场开始定价2027年下半年重新出现供应短缺，并将关注重点转向激励长周期产能投产。",
-          "url": "https://wallstreetcn.com/livenews/3023287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
-          "url": "https://wallstreetcn.com/livenews/3023286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219020203855800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219050043558800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国10月国际资本净流入 -373亿美元，前值由1901亿美元修正为1843亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219050002430800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3023317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "美国10月长期资本净流入 175亿美元，前值由1798亿美元修正为1732亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219050002429800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国10月外资净买入美国公债 -612亿美元，前值由255亿美元修正为251亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219050002425800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，商品货币对中，澳元兑美元涨0.14%，纽元兑美元持平，美元兑加元跌0.05%。 瑞典克朗兑美元涨0.22%，挪威克朗兑美元涨0.47%，丹麦克朗兑美元跌0.13%。 波兰兹罗提兑美元涨0.14%，匈牙利福林兑美元涨0.19%。",
-          "url": "https://wallstreetcn.com/livenews/3023335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
-          "url": "https://flash.jin10.com/detail/20251219013545433800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，美元兑日元跌0.07%，报155.58日元，日内交投区间为155.97-155.29日元。 欧元兑日元跌0.21%，英镑兑日元跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3023330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0412元，较周三夜盘收盘涨38点。成交量299.53亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "纽约期金站上4400美元/盎司，日内涨0.62%。",
-          "url": "https://wallstreetcn.com/livenews/3023255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "秘鲁央行表示在现货市场买入2.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219024326118800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美国天然气期货日内走低3.00%，现报3.903美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20251219024301637800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "据法庭文件显示，Instacart将支付6000万美元，以了结美国联邦贸易委员会针对Instacart+会员计划提出的指控。",
-          "url": "https://flash.jin10.com/detail/20251219023851876800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "高盛：预计2026/27年TTF天然气价格为每兆瓦时29/20欧元（每百万英热10/6.85美元）。预计2026年和2027年美国天然气价格将分别达4.60美元/百万英热和3.80美元/百万英热，足以激励美国天然气产量增长。",
-          "url": "https://flash.jin10.com/detail/20251219011811650800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "高盛：预计到2028年底，布伦特原油和WTI原油价格将逐步回升至每桶80美元和76美元。",
-          "url": "https://flash.jin10.com/detail/20251219011729059800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "欧洲央行：预计2026年一季度通胀率将低于2%，2026年三季度至2027年四季度也将那样。 预计2025年石油价格为69.20美元/桶，预计2026年为62.50美元，预计2027-28年分别为62.60美元、64.00美元。 预计2025年（欧元兑美元）汇率为1.13。 预计欧元区2025年薪资增速为4%，2026年料增3.2%，预计2027-28年将先后增长2.9%和3.0%。",
-          "url": "https://wallstreetcn.com/livenews/3023227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "WTI 1月原油期货收涨0.21美元，涨幅0.38%，报56.15美元/桶。 布伦特2月原油期货收报59.82美元/桶。 中东Abu Dhabi Murban原油期货涨0.97%，报61.45美元/桶。 NYMEX 1月天然气期货收报3.9080美元/百万英热单位。 NYMEX 1月汽油期货收报1.7013美元/加仑，NYMEX 1月取暖油期货收报2.1316美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3023317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国批评南非拘押美国官员，宣称不会容忍南非对美国官员的行为。 南非股指目前重新涨超0.1%，兰特兑美元短线走低，跌0.1%刷新日低至16.7946兰特。",
-          "url": "https://wallstreetcn.com/livenews/3023226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "以色列国防部：以色列与德国签署31亿美元合同，以扩展由以色列航空航天工业公司生产的“箭-3”防空反导系统。",
-          "url": "https://flash.jin10.com/detail/20251218233846351800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
-          "url": "https://flash.jin10.com/detail/20251219022756138800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美元指数18日上涨",
-          "url": "https://flash.jin10.com/detail/20251219042953556800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "现货白银日内跌幅达1.5%，报65.22美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3023223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "高盛：预计布伦特原油和WTI原油价格将进一步下跌，到2026年的平均价格分别为56美元/桶和52美元/通。",
-          "url": "https://flash.jin10.com/detail/20251219011347963800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时16分]"
+        },
+        {
+          "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3023367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
