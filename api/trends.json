@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T16:24:34.021918+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2025-12-19T17:20:44.687067+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -53,7 +53,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -67,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "美元兑日元上涨0.9%至156.89 触及12月10日以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3023759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         },
         {
           "title": "美国国防部表示，美国国务院已批准向北约支持与采购局出售“毒刺”导弹的零部件及相关设备，预计价值1.361亿美元。",
@@ -196,6 +185,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美元兑日元上涨0.9%至156.89 触及12月10日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3023759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时20分]"
         },
         {
           "title": "日本美债持有规模升至1.2万亿美元",
@@ -570,7 +571,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -963,7 +964,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -975,8 +976,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时20分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -1015,6 +1016,20 @@
           "time_info": "[11时21分 ~ 14时26分]"
         },
         {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -1028,22 +1043,34 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时20分 ~ 16时24分]"
+          "appearance_count": 17,
+          "time_info": "[01时20分 ~ 17时20分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6,
+            10,
             7,
-            9
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时16分 ~ 16时24分]"
+          "time_info": "[11时21分 ~ 17时20分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -1057,40 +1084,30 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 16时24分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 16时24分]"
-        },
-        {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
           "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -1102,17 +1119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
-          "url": "https://wallstreetcn.com/livenews/3023763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -1182,6 +1188,18 @@
           "time_info": "[03时16分 ~ 04时17分]"
         },
         {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
           "url": "https://flash.jin10.com/detail/20251219055432229800",
           "source": "金十数据",
@@ -1216,19 +1234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 16时24分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -1448,7 +1453,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1649,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "据日本产经新闻：日本政府正计划在新年或三月安排日本首相高市早苗访美并与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251219164128031800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美总统特朗普签署2026财年国防授权法案",
@@ -2015,6 +2031,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前，科技股多数走高，甲骨文涨近6%，美光科技涨2%，英伟达、AMD均涨超1%；阿里巴巴涨超1%。耐克大跌逾10%，此前公司表示第二季度毛利下滑。",
+          "url": "https://wallstreetcn.com/livenews/3023800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
