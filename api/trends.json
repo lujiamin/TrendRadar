@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:19:05.234394+08:00",
-  "total_titles_processed": 1792,
+  "generated_at": "2025-12-19T19:16:07.686048+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
@@ -86,7 +86,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -543,6 +543,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "布伦特原油站上60美元/桶，日内涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20251219185158485800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "欧盟正考虑通过发行共同债务向乌克兰提供高达1060亿美元的贷款。",
           "url": "https://flash.jin10.com/detail/20251219090509382800",
           "source": "金十数据",
@@ -593,7 +604,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -648,7 +659,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -673,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "WTI原油站上56美元/桶，日内涨0.25%。",
+          "url": "https://flash.jin10.com/detail/20251219184712225800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "周四（12月18日）纽约尾盘，美元兑日元跌0.07%，报155.58日元，日内交投区间为155.97-155.29日元。 欧元兑日元跌0.21%，英镑兑日元跌0.02%。",
@@ -736,7 +758,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -758,7 +780,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -780,7 +802,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1030,8 +1052,24 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 19时16分]"
+        },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://news.ifeng.com/c/8pCbX95hrxq",
@@ -1040,11 +1078,12 @@
             2,
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 19时16分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -1072,19 +1111,17 @@
           "time_info": "[09时16分 ~ 16时24分]"
         },
         {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            5,
+            3,
             4,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 19时16分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -1106,8 +1143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时21分 ~ 19时16分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -1120,8 +1157,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 19时16分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -1135,24 +1186,12 @@
             14,
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时20分 ~ 18时19分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[01时20分 ~ 19时16分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -1164,20 +1203,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 18时19分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -1224,6 +1249,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3023908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "布朗大学枪案后 特朗普下令暂停“绿卡抽签”",
+          "url": "https://wallstreetcn.com/livenews/3023907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.toutiao.com/trending/7585339674915573286/",
           "source": "今日头条",
@@ -1233,6 +1280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普正在为结束冲突作出真诚努力。",
+          "url": "https://flash.jin10.com/detail/20251219185310945800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普签行政令支持NASA登月计划及太空核能",
@@ -1306,6 +1364,18 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
           "url": "https://wallstreetcn.com/livenews/3023318",
           "source": "华尔街见闻-快讯",
@@ -1352,6 +1422,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时17分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -1460,17 +1541,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
@@ -1825,6 +1895,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "特朗普：不排除与委内瑞拉开战的可能性",
+          "url": "https://wallstreetcn.com/livenews/3023882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "巴西总统卢拉：已告知马杜罗和特朗普，巴西愿意帮助防止拉丁美洲地区发生武装对抗。",
           "url": "https://flash.jin10.com/detail/20251218233904758800",
           "source": "金十数据",
@@ -2126,7 +2207,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2148,7 +2229,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
