@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T17:16:32.002249+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-12-20T18:16:38.675879+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 17时16分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 18时16分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -56,8 +56,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 17时16分]"
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 18时16分]"
         },
         {
           "title": "高盛大宗商品展望：央行买金 + 美联储降息，看好黄金2026年冲击4900美元！",
@@ -155,6 +155,20 @@
           "time_info": "01时16分"
         },
         {
+          "title": "世界银行批准为巴基斯坦“公共资源促进包容性发展多阶段规划式方案”提供7亿美元融资，中期发展政策贷款将总共提供高达13.5亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20251220140026984800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 18时16分]"
+        },
+        {
           "title": "字节跳动全年利润500亿美元？知情人士回应：数据不实，偏差较大",
           "url": "https://flash.jin10.com/detail/20251220103535246800",
           "source": "金十数据",
@@ -206,19 +220,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 09时13分]"
-        },
-        {
-          "title": "世界银行批准为巴基斯坦“公共资源促进包容性发展多阶段规划式方案”提供7亿美元融资，中期发展政策贷款将总共提供高达13.5亿美元的融资。",
-          "url": "https://flash.jin10.com/detail/20251220140026984800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 17时16分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0408元，较周四夜盘收盘涨4点。成交量252.90亿美元。",
@@ -647,8 +648,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时12分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时12分 ~ 18时16分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -1113,7 +1114,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -1155,6 +1156,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时13分 ~ 12时22分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
