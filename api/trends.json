@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-20T16:20:57.294548+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-12-20T17:16:32.002249+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
       "match_count": 52,
       "titles": [
+        {
+          "title": "今年利润有望达500亿美元？接近字节跳动的知情人士回应：数据不实，偏差较大",
+          "url": "https://wallstreetcn.com/articles/3761747",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 17时16分]"
+        },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
           "url": "https://wallstreetcn.com/articles/3761704",
@@ -21,18 +34,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "今年利润有望达500亿美元？接近字节跳动的知情人士回应：数据不实，偏差较大",
-          "url": "https://wallstreetcn.com/articles/3761747",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 16时20分]"
-        },
-        {
           "title": "解放军报详解美对台111亿美元军售案",
           "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E8%AF%A6%E8%A7%A3%E7%BE%8E%E5%AF%B9%E5%8F%B0111%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE%E6%A1%88",
           "source": "百度热搜",
@@ -42,8 +43,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 17时16分]"
+        },
+        {
+          "title": "解放军报详解美对台111亿美元军售案",
+          "url": "https://www.toutiao.com/trending/7585459828026396202/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时22分 ~ 16时20分]"
+          "time_info": "[13时16分 ~ 17时16分]"
         },
         {
           "title": "高盛大宗商品展望：央行买金 + 美联储降息，看好黄金2026年冲击4900美元！",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时12分 ~ 12时22分]"
-        },
-        {
-          "title": "解放军报详解美对台111亿美元军售案",
-          "url": "https://www.toutiao.com/trending/7585459828026396202/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 16时20分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -207,6 +208,19 @@
           "time_info": "[06时17分 ~ 09时13分]"
         },
         {
+          "title": "世界银行批准为巴基斯坦“公共资源促进包容性发展多阶段规划式方案”提供7亿美元融资，中期发展政策贷款将总共提供高达13.5亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20251220140026984800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 17时16分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0408元，较周四夜盘收盘涨4点。成交量252.90亿美元。",
           "url": "https://wallstreetcn.com/livenews/3024125",
           "source": "华尔街见闻-快讯",
@@ -229,18 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "世界银行批准为巴基斯坦“公共资源促进包容性发展多阶段规划式方案”提供7亿美元融资，中期发展政策贷款将总共提供高达13.5亿美元的融资。",
-          "url": "https://flash.jin10.com/detail/20251220140026984800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时20分]"
         },
         {
           "title": "WTI 1月原油期货收涨0.91%，报56.66美元/桶。 布伦特2月原油期货收报60.47美元/桶。 NYMEX 1月天然气期货收报3.9840美元/百万英热单位。 NYMEX 1月汽油期货收报1.7082美元/加仑，NYMEX 1月取暖油期货收报2.1219美元/加仑。",
@@ -645,8 +647,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 16时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 17时16分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -1120,11 +1122,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时16分 ~ 16时20分]"
+          "appearance_count": 16,
+          "time_info": "[06时16分 ~ 17时16分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
