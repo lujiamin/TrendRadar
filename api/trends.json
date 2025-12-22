@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T21:32:14.674400+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2025-12-22T22:18:09.463388+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 69,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -64,6 +64,17 @@
           "time_info": "[14时28分 ~ 15时22分]"
         },
         {
+          "title": "WTI原油期货突破58美元/桶，日内涨2.62%。",
+          "url": "https://flash.jin10.com/detail/20251222214650693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
           "url": "https://wallstreetcn.com/articles/3761794",
           "source": "华尔街见闻",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时29分 ~ 15时22分]"
+        },
+        {
+          "title": "布伦特原油站上62美元/桶，日内涨2.23%。",
+          "url": "https://flash.jin10.com/detail/20251222214644815800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "人民币兑美元中间价报7.0572，下调22点；上一交易日中间价7.0550，上一交易日官方收盘价7.0410，上日夜盘报收7.0408。",
@@ -104,18 +126,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "现货黄金日内涨幅达2%，报4425.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -142,17 +153,6 @@
           "time_info": "20时34分"
         },
         {
-          "title": "美元兑日元短线走低，日本财务大臣称在对日元采取大胆行动方面拥有“自主权”",
-          "url": "https://wallstreetcn.com/livenews/3024983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "英镑兑美元GBP/USD站上1.34，日内涨0.16%。",
           "url": "https://flash.jin10.com/detail/20251222121147900800",
           "source": "金十数据",
@@ -163,6 +163,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 13时21分]"
+        },
+        {
+          "title": "现货黄金日内涨幅达2%，报4425.49美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3024985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
+          "title": "美元兑日元短线走低，日本财务大臣称在对日元采取大胆行动方面拥有“自主权”",
+          "url": "https://wallstreetcn.com/livenews/3024983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "泰铢兑美元进一步上涨至31.2350，为2021年6月中旬以来的高点。",
@@ -237,6 +261,18 @@
           "time_info": "[20时34分 ~ 21时32分]"
         },
         {
+          "title": "现货铂金日内上涨逾5%，报2085.95美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3024973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3024927",
           "source": "华尔街见闻-快讯",
@@ -289,7 +325,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -300,7 +336,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -322,7 +358,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -437,15 +473,15 @@
           "time_info": "20时34分"
         },
         {
-          "title": "现货铂金日内上涨逾5%，报2085.95美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024973",
-          "source": "华尔街见闻-快讯",
+          "title": "印度央行10月在现货外汇市场净卖出118.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20251222213935999800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "22时18分"
         },
         {
           "title": "现货白银站上69美元关口",
@@ -630,9 +666,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "派拉蒙修正收购邀约：拉里·埃里森提供404亿美元“不可撤销担保”",
+          "url": "https://wallstreetcn.com/livenews/3024981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "印尼盾兑美元汇率跌至16,755，为自11月19日以来最低水平。",
@@ -674,7 +721,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -707,7 +754,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -718,7 +765,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -740,7 +787,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -794,8 +841,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时18分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -812,8 +859,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时37分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时37分 ~ 22时18分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -910,6 +957,17 @@
           "time_info": "[14时28分 ~ 19时15分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时18分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
           "url": "https://wallstreetcn.com/livenews/3024442",
           "source": "华尔街见闻-快讯",
@@ -934,17 +992,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时32分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -973,6 +1020,20 @@
           "time_info": "[05时15分 ~ 07时15分]"
         },
         {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时18分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
           "url": "https://flash.jin10.com/detail/20251221182933074800",
           "source": "金十数据",
@@ -995,19 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时32分]"
         },
         {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
@@ -1052,7 +1100,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
