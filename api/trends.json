@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T11:29:44.250701+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-22T12:37:25.133365+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时37分]"
         },
         {
           "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
@@ -35,6 +35,17 @@
           "time_info": "[02时22分 ~ 07时15分]"
         },
         {
+          "title": "英镑兑美元GBP/USD站上1.34，日内涨0.16%。",
+          "url": "https://flash.jin10.com/detail/20251222121147900800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0572，下调22点；上一交易日中间价7.0550，上一交易日官方收盘价7.0410，上日夜盘报收7.0408。",
           "url": "https://wallstreetcn.com/livenews/3024555",
           "source": "华尔街见闻-快讯",
@@ -44,6 +55,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
+          "url": "https://wallstreetcn.com/articles/3761794",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时37分]"
+        },
+        {
+          "title": "LME铜价升至纪录高位，接近每吨12,000美元。",
+          "url": "https://wallstreetcn.com/livenews/3024648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时37分]"
+        },
+        {
+          "title": "泰铢兑美元汇率升至31.2950，为自2021年6月中旬以来首次。",
+          "url": "https://flash.jin10.com/detail/20251222115151744800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "现货铂金自2008年以来首次升破2,000美元/盎司。",
@@ -57,15 +103,15 @@
           "time_info": "09时20分"
         },
         {
-          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
-          "url": "https://wallstreetcn.com/articles/3761794",
+          "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
+          "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "12时37分"
         },
         {
           "title": "现货白银涨破68美元/盎司关口，刷新历史高点，日内涨超1.3%。 沪银期货主力合约涨超4%。",
@@ -79,15 +125,15 @@
           "time_info": "09时20分"
         },
         {
-          "title": "LME铜价升至纪录高位，接近每吨12,000美元。",
-          "url": "https://wallstreetcn.com/livenews/3024648",
-          "source": "华尔街见闻-快讯",
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "12时37分"
         },
         {
           "title": "现货钯金站上1800美元/盎司，为2023年1月以来首次，今年迄今累涨超100%。",
@@ -96,9 +142,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "现货白银站上69美元关口",
+          "url": "https://flash.jin10.com/detail/20251222113503491800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "现货钯金日内大涨6.00%，现报1793.56美元/盎司。",
@@ -107,7 +164,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -118,7 +175,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -129,7 +186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -140,9 +197,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "现货黄金突破4390美元/盎司，日内涨1.19%。",
+          "url": "https://flash.jin10.com/detail/20251222112015743800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "纽约银突破69美元，日内涨2.35%。",
@@ -151,7 +219,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -173,7 +241,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -184,7 +252,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -203,7 +271,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -229,17 +297,32 @@
           "time_info": "[00时19分 ~ 09时20分]"
         },
         {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时12分 ~ 12时37分]"
+        },
+        {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
           "source": "澎湃新闻",
           "ranks": [
             19,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 11时29分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 12时37分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -253,19 +336,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时12分 ~ 11时29分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -354,9 +424,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -365,9 +446,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
@@ -381,13 +473,24 @@
           "time_info": "09时20分"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
           "url": "https://flash.jin10.com/detail/20251222102452415800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -409,7 +512,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -442,8 +545,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时37分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -457,6 +560,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时22分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股芯片股盘中大涨，中芯国际一度涨超8%，华虹半导体一度涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3024678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },
