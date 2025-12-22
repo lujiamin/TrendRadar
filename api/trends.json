@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:19:17.787687+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2025-12-22T19:15:33.399574+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -369,6 +369,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "机构：欧元兑美元或维持区间震荡",
+          "url": "https://flash.jin10.com/detail/20251222183921216800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "纽约期金向上触及4450美元/盎司，日内涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3024754",
           "source": "华尔街见闻-快讯",
@@ -457,6 +468,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "现货铂金延续涨势，日内上涨近5%，至2073.63美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251222182725940800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "纽约期金向上触及4450美元/盎司，日内涨1.43%。",
           "url": "https://flash.jin10.com/detail/20251222145538435800",
           "source": "金十数据",
@@ -493,7 +515,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -528,8 +550,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时37分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时37分 ~ 19时15分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时37分 ~ 19时15分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -585,21 +623,6 @@
           "time_info": "[02时22分 ~ 07时15分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时37分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
@@ -630,6 +653,17 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 19时15分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
           "url": "https://wallstreetcn.com/livenews/3024442",
           "source": "华尔街见闻-快讯",
@@ -656,17 +690,6 @@
           "time_info": "[00时19分 ~ 06时16分]"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 18时19分]"
-        },
-        {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
           "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
           "source": "凤凰网",
@@ -674,8 +697,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时15分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -728,6 +751,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时15分]"
+        },
+        {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
           "url": "https://www.toutiao.com/trending/7586445374106796082/",
           "source": "今日头条",
@@ -741,17 +775,6 @@
           "time_info": "[16时25分 ~ 18时19分]"
         },
         {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://flash.jin10.com/detail/20251222105005973800",
           "source": "金十数据",
@@ -761,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
+          "url": "https://wallstreetcn.com/livenews/3024905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -780,7 +814,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -802,7 +836,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -827,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "曝高市早苗急着求见特朗普",
@@ -866,11 +911,12 @@
             10,
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 19时15分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
