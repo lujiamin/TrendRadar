@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-23T17:22:15.933948+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-12-23T18:19:22.406322+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 81,
+      "match_count": 87,
       "titles": [
+        {
+          "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
+          "url": "https://wallstreetcn.com/articles/3761880",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 18时19分]"
+        },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32227407",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 14时27分]"
-        },
-        {
-          "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
-          "url": "https://wallstreetcn.com/articles/3761880",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 17时22分]"
         },
         {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
@@ -117,6 +117,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
+          "url": "https://flash.jin10.com/detail/20251223175214274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "梅赛德斯-奔驰支付1.5亿美元 和解美国柴油车排放纠纷",
           "url": "https://wallstreetcn.com/livenews/3025141",
           "source": "华尔街见闻-快讯",
@@ -137,6 +148,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "WTI原油向上触及58美元/桶，日内涨0.19%。",
+          "url": "https://flash.jin10.com/detail/20251223174813580800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "美元兑加元跌至近5个月低点报1.3706。",
+          "url": "https://wallstreetcn.com/livenews/3025529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "周一（12月22日），美联储隔夜逆回购协议（RRP）使用规模为15.23亿美元，上个交易日报30.47亿美元。",
@@ -520,6 +553,18 @@
           "time_info": "[05时15分 ~ 06时17分]"
         },
         {
+          "title": "澳元兑美元涨幅扩大至0.5%，报0.6687，为三个月高点。",
+          "url": "https://wallstreetcn.com/livenews/3025502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时19分]"
+        },
+        {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025037",
           "source": "华尔街见闻-快讯",
@@ -530,6 +575,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "哈萨克斯坦将于1月至2月发行价值3亿至4亿美元的熊猫债券。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3025492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时19分]"
         },
         {
           "title": "美元兑日元USD/JPY日内跌幅达0.50%，现报156.83。",
@@ -572,9 +629,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "长荣海运：子公司以1.576亿美元收购五艘2500标准箱集装箱船。",
+          "url": "https://flash.jin10.com/detail/20251223174239794800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "周一（12月22日）纽约尾盘，现货黄金涨2.48%，刷新历史高位至4449.18美元/盎司，全天持续走高。 COMEX黄金期货涨2.16%，（在电子交易盘）报4482.30美元/盎司，也创历史新高。",
@@ -597,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美元兑加元USD/CAD跌至近5个月低点1.3706。",
+          "url": "https://flash.jin10.com/detail/20251223173521630800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "中信证券：2027年全球液冷市场空间将达到218亿美元",
@@ -638,7 +717,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -676,17 +755,6 @@
           "time_info": "09时16分"
         },
         {
-          "title": "澳元兑美元涨幅扩大至0.5%，报0.6687，为三个月高点。",
-          "url": "https://wallstreetcn.com/livenews/3025502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "现货黄金涨超1%报4491美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3025302",
           "source": "华尔街见闻-快讯",
@@ -718,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.6690。",
+          "url": "https://flash.jin10.com/detail/20251223170958375800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "在岸人民币兑美元早盘涨71点至7.0311元，创2024年9月30日以来新高。 离岸人民币兑美元涨66点至7.0245元，创20024年10月2日来新高。",
@@ -817,17 +896,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
-        },
-        {
-          "title": "哈萨克斯坦将于1月至2月发行价值3亿至4亿美元的熊猫债券。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3025492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
@@ -954,7 +1022,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -989,8 +1057,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 18时19分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -998,11 +1066,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时23分 ~ 18时19分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -1026,11 +1095,12 @@
             16,
             15,
             9,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 18时19分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -1064,8 +1134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时19分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -1082,6 +1152,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时35分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 18时19分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -1111,20 +1195,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时23分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 17时22分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -1409,6 +1479,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
           "url": "https://flash.jin10.com/detail/20251223062600931800",
           "source": "金十数据",
@@ -1418,6 +1499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "美股收盘：三大股指齐升 特朗普旗下公司跌超10%",
@@ -1798,8 +1890,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 18时19分]"
         },
         {
           "title": "欧洲汽车制造商协会：11月份，特斯拉在欧盟、英国和欧洲自由贸易联盟的市场份额降至2.1%，而比亚迪的市场份额为2%；特斯拉纯电动汽车的市场份额为9%。",
