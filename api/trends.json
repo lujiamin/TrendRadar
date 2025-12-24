@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T20:34:23.537380+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2025-12-24T21:30:21.750198+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 101,
+      "match_count": 102,
       "titles": [
         {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "现货钯金日内跌超4%，现报1781.5美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3026237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "美元兑南非兰特USD/ZAR汇率跌至自8月22日以来的最低水平，报16.6317。",
@@ -557,6 +568,18 @@
           "time_info": "[13时21分 ~ 14时28分]"
         },
         {
+          "title": "市场消息：尼日利亚将把1月夸伊博原油（Qua Iboe）官方售价定为较即期布伦特原油升水1.29美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251224200757485800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时30分]"
+        },
+        {
           "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
           "url": "https://wallstreetcn.com/livenews/3025755",
           "source": "华尔街见闻-快讯",
@@ -591,6 +614,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "奈飞：TRC资本提出以每股91美元收购125万股奈飞股票，敦促股东拒绝TRC的迷你要约收购。",
+          "url": "https://wallstreetcn.com/livenews/3026205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时30分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报71.14美元/盎司。",
@@ -708,17 +743,6 @@
           "time_info": "11时21分"
         },
         {
-          "title": "市场消息：尼日利亚将把1月夸伊博原油（Qua Iboe）官方售价定为较即期布伦特原油升水1.29美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251224200757485800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "本田拟以29亿美元收购LG在美电池资产",
           "url": "https://flash.jin10.com/detail/20251224184715072800",
           "source": "金十数据",
@@ -728,17 +752,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
-        },
-        {
-          "title": "奈飞：TRC资本提出以每股91美元收购125万股奈飞股票，敦促股东拒绝TRC的迷你要约收购。",
-          "url": "https://wallstreetcn.com/livenews/3026205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
         },
         {
           "title": "现货白银上破71美元",
@@ -1184,7 +1197,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -1200,6 +1213,18 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时30分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -1210,8 +1235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 20时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时21分 ~ 21时30分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -1264,8 +1289,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 20时34分]"
+          "appearance_count": 25,
+          "time_info": "[00时21分 ~ 21时30分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -1296,18 +1321,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 20时34分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -1376,6 +1389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时30分]"
         },
         {
           "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
@@ -1463,15 +1487,15 @@
           "time_info": "[09时16分 ~ 12时33分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
           "ranks": [
-            7
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 21时30分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -1546,6 +1570,17 @@
           "time_info": "[03时15分 ~ 04时18分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251224204509848800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "解析美军制造特朗普级战舰",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%86%9B%E5%88%B6%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -1610,6 +1645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "以色列总理办公室：哈马斯继续违反停火协议和特朗普总统的20点计划。今天，他们引爆简易爆炸装置，导致一名以色列国防军军官受伤，再次证实了他们的暴力意图和违法行为。以色列将作出相应回应。",
+          "url": "https://flash.jin10.com/detail/20251224203421132800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-24）",
@@ -1722,17 +1768,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "评论员：特朗普级战舰可能造不出来",
-          "url": "https://www.toutiao.com/trending/7587325146696781348/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "美国总统特朗普：任何反对我的人都永远得不到美联储主席职位。如果市场表现良好，我希望新任美联储主席降低利率。",
           "url": "https://flash.jin10.com/detail/20251224015744458800",
           "source": "金十数据",
@@ -1821,11 +1856,12 @@
           "url": "https://wallstreetcn.com/livenews/3026201",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时30分]"
         },
         {
           "title": "A股商业航天概念再度活跃，神剑股份5连板，九鼎新材、再升科技、创元科技等此前涨停，超捷股份、信维通信涨超10%。",
