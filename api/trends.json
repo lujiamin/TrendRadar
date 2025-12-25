@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-25T13:21:13.681582+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-12-25T14:26:56.926582+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
+          "url": "https://wallstreetcn.com/articles/3762030",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
         {
           "title": "现货黄金突破4500美元创新高 避险共识下机构现分歧：到顶了还是仍看涨？",
           "url": "https://www.cls.cn/detail/2239195",
@@ -38,18 +50,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
-          "url": "https://wallstreetcn.com/articles/3762030",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时21分]"
-        },
-        {
           "title": "年薪45万美元程序员半年变流浪汉",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%96%AA45%E4%B8%87%E7%BE%8E%E5%85%83%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%8A%E5%B9%B4%E5%8F%98%E6%B5%81%E6%B5%AA%E6%B1%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -57,11 +57,12 @@
             26,
             1,
             5,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时26分]"
         },
         {
           "title": "年薪45万美元程序员半年变流浪汉",
@@ -71,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "离岸人民币兑美元升破7.0大关",
@@ -83,8 +84,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时26分]"
+        },
+        {
+          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2239423",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
+        {
+          "title": "离岸人民币兑美元升破7.0大关",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E5%8D%87%E7%A0%B47.0%E5%A4%A7%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时26分]"
+        },
+        {
+          "title": "离岸人民币兑美元破7大关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E7%A0%B47%E5%A4%A7%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
@@ -112,18 +148,6 @@
           "time_info": "[03时13分 ~ 06时17分]"
         },
         {
-          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2239423",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时21分]"
-        },
-        {
           "title": "LME期铜收涨102美元，报12162美元/吨。 LME期铝收涨22美元，报2960美元/吨。 LME期锌收涨23美元，报42815美元/吨。 LME期铅收涨12美元，报1994美元/吨。 LME期镍收涨47美元，报15786美元/吨。 LME期锡收涨23美元，报42815美元/吨。 LME期钴收平，报52790美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3026305",
           "source": "华尔街见闻-快讯",
@@ -136,18 +160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时24分 ~ 05时15分]"
-        },
-        {
-          "title": "离岸人民币兑美元升破7.0大关",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E5%8D%87%E7%A0%B47.0%E5%A4%A7%E5%85%B3",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时21分]"
         },
         {
           "title": "WTI 2月原油期货收报58.35美元/桶。 布伦特2月原油期货收报62.24美元/桶。 中东Abu Dhabi Murban原油期货跌0.21%，报62.91美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
@@ -264,6 +276,30 @@
           "time_info": "[11时24分 ~ 12时35分]"
         },
         {
+          "title": "中美关系剧透警告｜董云裳：明年中美元首若能高频会晤，能为潜在冲击“托底”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243431",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时26分]"
+        },
+        {
+          "title": "在岸人民币兑美元升破7.01元关口",
+          "url": "https://www.toutiao.com/trending/7587618961869508132/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时26分]"
+        },
+        {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.930%（11月26日为3.781%），投标倍数2.51（前次为2.46enan ）。",
           "url": "https://wallstreetcn.com/livenews/3026289",
           "source": "华尔街见闻-快讯",
@@ -275,6 +311,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时13分]"
+        },
+        {
+          "title": "离岸人民币兑美元升破 7.0 大关，主要受哪些因素影响？「破 7」将带来哪些改变？",
+          "url": "https://www.zhihu.com/question/1987142144352335062",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "周三（12月24日），美联储隔夜逆回购协议（RRP）使用规模为48.03亿美元——交易对手八个，上个交易日报58.93亿美元。",
@@ -290,27 +338,15 @@
           "time_info": "[03时13分 ~ 05时15分]"
         },
         {
-          "title": "中美关系剧透警告｜董云裳：明年中美元首若能高频会晤，能为潜在冲击“托底”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243431",
-          "source": "澎湃新闻",
+          "title": "人民币大升值 有人存美元如今亏钱",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E5%8D%87%E5%80%BC+%E6%9C%89%E4%BA%BA%E5%AD%98%E7%BE%8E%E5%85%83%E5%A6%82%E4%BB%8A%E4%BA%8F%E9%92%B1",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
-          "title": "在岸人民币兑美元升破7.01元关口",
-          "url": "https://www.toutiao.com/trending/7587618961869508132/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "现货黄金在亚太早盘涨穿4500美元创历史新高",
@@ -335,17 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "离岸人民币兑美元升破 7.0 大关，主要受哪些因素影响？「破 7」将带来哪些改变？",
-          "url": "https://www.zhihu.com/question/1987142144352335062",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "市场消息：秘鲁央行在外汇市场买入1.37亿美元。",
@@ -382,17 +407,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "人民币大升值 有人存美元如今亏钱",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E5%8D%87%E5%80%BC+%E6%9C%89%E4%BA%BA%E5%AD%98%E7%BE%8E%E5%85%83%E5%A6%82%E4%BB%8A%E4%BA%8F%E9%92%B1",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "美国投资公司协会（ICI）：截至12月23日的6天内，美国货币市场基金总资产增至7.67万亿美元。",
@@ -440,6 +454,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "中东地区的IPO数量已下降超过三分之一，降至自2020年以来的最低水平。据金融数据平台Dealogic统计，截至11月底，中东地区公司已通过IPO筹集了65亿美元，而去年同期为99亿美元。",
+          "url": "https://flash.jin10.com/detail/20251225135301702800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
@@ -778,8 +803,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时26分]"
         }
       ]
     },
