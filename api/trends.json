@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T09:17:09.818348+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-12-26T11:22:20.320534+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
@@ -106,9 +106,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251226104958577800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "现货白银突破73美元/盎司，再创历史新高",
@@ -128,7 +139,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -165,9 +176,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3027004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "现货黄金站上4530美元/盎司，日内涨1.13%。",
@@ -176,7 +198,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -209,6 +231,18 @@
           "time_info": "[05时15分 ~ 07时16分]"
         },
         {
+          "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
+          "url": "https://www.zhihu.com/question/1987272426950780464",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 11时22分]"
+        },
+        {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克11月石油出口总额达65亿美元。",
           "url": "https://flash.jin10.com/detail/20251225231059144800",
           "source": "金十数据",
@@ -219,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
-          "url": "https://www.zhihu.com/question/1987272426950780464",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
         },
         {
           "title": "俄罗斯央行：将12月26日官方卢布汇率定为每美元77.8844卢布（此前为78.4368）。",
@@ -267,13 +290,46 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "现货白银首次突破74美元/盎司，日涨幅扩大至3%。",
           "url": "https://wallstreetcn.com/livenews/3026904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -284,9 +340,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "韩元兑美元升值1%。",
+          "url": "https://flash.jin10.com/detail/20251226103705477800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "韩元兑美元汇率升至11月4日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3026988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "现货黄金向上触及4520美元/盎司，日内涨0.91%。",
@@ -295,7 +373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -306,7 +384,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -317,7 +395,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -328,7 +406,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -339,7 +417,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -347,7 +425,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -466,6 +544,28 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -483,7 +583,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -517,7 +617,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
