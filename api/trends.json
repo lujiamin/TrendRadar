@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-26T07:16:35.124330+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2025-12-26T09:17:09.818348+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "去年10月以来首次！离岸人民币对美元收复“7”关口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32245587",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
         {
           "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
           "url": "https://wallstreetcn.com/articles/3762030",
@@ -29,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "去年10月以来首次！离岸人民币对美元收复“7”关口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32245587",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时17分]"
         },
         {
           "title": "中美关系剧透警告｜董云裳：明年中美元首若能高频会晤，能为潜在冲击“托底”",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时17分]"
         },
         {
           "title": "年薪45万美元程序员半年变流浪汉",
@@ -99,15 +100,37 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
+          "title": "现货白银突破75美元",
+          "url": "https://flash.jin10.com/detail/20251226090837772800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
           "title": "现货白银突破73美元/盎司，再创历史新高",
           "url": "https://wallstreetcn.com/livenews/3026859",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "现货黄金涨至4530美元/盎司上方，再创历史新高。 现货白银突破75美元/盎司，再创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "哈萨克斯坦总统托卡耶夫：基于国际会谈，哈萨克斯坦在2025年吸引了超过700亿美元的投资。",
@@ -131,9 +154,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "纽约期银日内大涨5.00%，现报75.29美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251226090600346800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货黄金站上4530美元/盎司，日内涨1.13%。",
+          "url": "https://flash.jin10.com/detail/20251226090523171800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         },
         {
           "title": "加纳财政部与非洲进出口银行已成功解决一项7.5亿美元融资安排。",
@@ -176,6 +221,17 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
+          "url": "https://www.zhihu.com/question/1987272426950780464",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 09时17分]"
+        },
+        {
           "title": "俄罗斯央行：将12月26日官方卢布汇率定为每美元77.8844卢布（此前为78.4368）。",
           "url": "https://flash.jin10.com/detail/20251225223428616800",
           "source": "金十数据",
@@ -198,12 +254,100 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "以色列将投入1100亿美元发展军火工业",
+          "url": "https://www.toutiao.com/trending/7587629290951966747/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 09时17分]"
+        },
+        {
+          "title": "现货白银首次突破74美元/盎司，日涨幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3026904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
+          "url": "https://wallstreetcn.com/livenews/3026903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货黄金向上触及4520美元/盎司，日内涨0.91%。",
+          "url": "https://flash.jin10.com/detail/20251226090009732800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货白银首次突破74美元",
+          "url": "https://flash.jin10.com/detail/20251226085237237800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货钯金上涨逾5%至每盎司1,772.24美元。",
+          "url": "https://wallstreetcn.com/livenews/3026891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货黄金重返4500美元/盎司上方，现报4502.97美元/盎司，日内涨0.5%。 现货铂金上涨逾3%至每盎司2,322.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3026889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "现货黄金重回4500美元/盎司之上，日涨幅近0.5%。",
+          "url": "https://flash.jin10.com/detail/20251226080706585800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -252,7 +396,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -263,7 +407,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -311,15 +455,37 @@
           "time_info": "[01时15分 ~ 04时18分]"
         },
         {
+          "title": "专家：特朗普或在2026“压榨”美联储",
+          "url": "https://www.toutiao.com/trending/7587727738132270635/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 09时17分]"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
+          "url": "https://wallstreetcn.com/livenews/3026898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     },
@@ -337,6 +503,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "可控核聚变",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信建投：可控核聚变行业投资逻辑正从主题叙事转变为产业趋势投资",
+          "url": "https://wallstreetcn.com/livenews/3026897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     }
