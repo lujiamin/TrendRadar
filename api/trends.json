@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:26:14.807051+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-12-29T14:29:22.844348+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 14时29分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -249,6 +249,18 @@
           "time_info": "[03时13分 ~ 07时16分]"
         },
         {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 14时29分]"
+        },
+        {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
           "url": "https://wallstreetcn.com/livenews/3027681",
           "source": "华尔街见闻-快讯",
@@ -281,21 +293,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
         {
-          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
-          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
           "source": "凤凰网",
           "ranks": [
-            10,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时26分]"
+          "time_info": "[11时45分 ~ 14时29分]"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -360,27 +371,17 @@
           "time_info": "[04时18分 ~ 07时16分]"
         },
         {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时26分]"
-        },
-        {
           "title": "特朗普当众施压泽连斯基",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
           "source": "百度热搜",
           "ranks": [
             29,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时29分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -773,7 +774,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -851,6 +852,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "现货钯金跌超10%，现报1745.38美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "现货白银开盘暴力拉升 突破82美元",
           "url": "https://flash.jin10.com/detail/20251229070200752800",
           "source": "金十数据",
@@ -871,17 +883,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "韩国贸易部表示，今年韩国出口额首次突破7,000亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3027910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "80美元！现货白银价格创下新记录",
@@ -917,6 +918,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "金银跳水，白银从涨6%到跌2%，黄金跌破4500美元关口，现货钯金跌近7%，铂主力合约触及跌停",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "伦镍日内涨幅达2.00%，现报15944.20美元/吨。",
           "url": "https://flash.jin10.com/detail/20251229090556801800",
           "source": "金十数据",
@@ -938,6 +950,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时18分]"
+        },
+        {
+          "title": "韩国贸易部表示，今年韩国出口额首次突破7,000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3027910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时29分]"
         },
         {
           "title": "小米联合创始人拟减持不超20亿美元",
@@ -1035,6 +1059,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "WTI原油日内涨幅扩大至1.00%，现报57.56美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251229133515170800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "消息人士：印度向信实工业和英国石油公司索赔300亿美元，理由是天然气田产量不足。",
           "url": "https://flash.jin10.com/detail/20251229112904282800",
           "source": "金十数据",
@@ -1046,6 +1081,28 @@
           "time_info": "12时45分"
         },
         {
+          "title": "韩国产业通商资源部：韩国2025年出口额创历史新高，首次突破7000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251229132142428800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF站上0.79，日内涨0.08%。",
+          "url": "https://flash.jin10.com/detail/20251229131802703800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "休市两日后伦铜价格飙升至近1.3万美元 创历史新高",
           "url": "https://flash.jin10.com/detail/20251229103817809800",
           "source": "金十数据",
@@ -1055,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "布伦特原油、WTI均涨超1%，分别报61美元和57.49美元。",
+          "url": "https://wallstreetcn.com/livenews/3027919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "现货白银日内振幅达9美元",
@@ -1180,8 +1248,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时29分]"
         }
       ]
     },
