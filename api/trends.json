@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T13:21:21.684453+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-12-30T14:27:09.988917+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 94,
       "titles": [
+        {
+          "title": "普京一个电话后，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 14时27分]"
+        },
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
           "url": "https://news.ifeng.com/c/8pUT7CeQojC",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时25分 ~ 07时16分]"
-        },
-        {
-          "title": "普京一个电话后，特朗普怒了",
-          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时21分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -43,6 +43,41 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 12时36分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 14时27分]"
+        },
+        {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时27分]"
+        },
+        {
+          "title": "特朗普回应解放军在台岛附近军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时27分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -68,16 +103,15 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时21分]"
+          "time_info": "[11时24分 ~ 14时27分]"
         },
         {
           "title": "特朗普：普京说他被袭击了 我很生气",
@@ -124,17 +158,6 @@
           "time_info": "09时17分"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
           "url": "https://flash.jin10.com/detail/20251230045657980800",
           "source": "金十数据",
@@ -168,15 +191,28 @@
           "time_info": "05时16分"
         },
         {
-          "title": "特朗普回应解放军在台岛附近军演",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
           "ranks": [
-            5
+            19,
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 14时27分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
@@ -190,17 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时16分]"
-        },
-        {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -470,17 +495,6 @@
           "time_info": "[02时25分 ~ 04时19分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
           "url": "https://flash.jin10.com/detail/20251230023701512800",
           "source": "金十数据",
@@ -505,18 +519,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
         },
         {
           "title": "欧洲军工股多数收跌，乌克兰总统泽连斯基向美国总统特朗普索要50年期的安全担保，称可能会与俄罗斯（总统普京）会面。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌0.92%，报29.485001欧元，跳空低开之后逐步收复失地。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌1.07%，全天持续低位震荡。",
@@ -602,6 +604,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时25分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
@@ -1106,8 +1119,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 68,
+      "match_count": 75,
       "titles": [
+        {
+          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 14时27分]"
+        },
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
           "url": "https://wallstreetcn.com/articles/3762225",
@@ -1132,17 +1156,6 @@
           "time_info": "[00时20分 ~ 06时16分]"
         },
         {
-          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时21分]"
-        },
-        {
           "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
           "url": "https://wallstreetcn.com/articles/3762221",
           "source": "华尔街见闻",
@@ -1154,6 +1167,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 09时17分]"
+        },
+        {
+          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
+          "url": "https://www.zhihu.com/question/1989248950952288367",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 14时27分]"
         },
         {
           "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，沪金跌破千元关口",
@@ -1173,7 +1199,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1206,7 +1232,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1220,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "LME三个月期铜基准价格涨超3%，至每吨12,594美元。",
+          "url": "https://flash.jin10.com/detail/20251230141214575800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "现货白银小幅上涨0.58%报72.56美元/盎司。现货黄金小幅上涨0.16%。",
@@ -1272,6 +1309,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时16分]"
+        },
+        {
+          "title": "Meta正以逾20亿美元收购人工智能初创公司Manus。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3028532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时27分]"
         },
         {
           "title": "Reliance：驳斥有关“印度（政府）向本公司和英国石油公司（BP）索要300亿美元资金”的说法。",
@@ -1358,18 +1408,6 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
-          "title": "Meta正以逾20亿美元收购人工智能初创公司Manus。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3028532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时21分]"
-        },
-        {
           "title": "现货白银跌9%逼近70美元整数位心理关口，纽约铜跌超4.6%，铂族贵金属至少跌约14%",
           "url": "https://wallstreetcn.com/livenews/3028345",
           "source": "华尔街见闻-快讯",
@@ -1396,16 +1434,16 @@
           "time_info": "[00时20分 ~ 03时14分]"
         },
         {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 14时27分]"
         },
         {
           "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
@@ -1533,6 +1571,30 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "在岸人民币兑美元升破7，为2023年5月来最高。",
+          "url": "https://wallstreetcn.com/livenews/3028542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时27分]"
+        },
+        {
+          "title": "现货铂金涨超3%至2175.10美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时27分]"
+        },
+        {
           "title": "现货白银日内跌幅达11.0%，报70.57美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3028246",
           "source": "华尔街见闻-快讯",
@@ -1580,15 +1642,15 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
+          "title": "现货白银涨超4%至75.14美元/盎司。现货黄金涨超1%报4379美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028577",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "14时27分"
         },
         {
           "title": "Meta 数十亿美元收购 Manus，如何从商业角度解读？会对双方带来怎样的影响？",
@@ -1624,28 +1686,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "在岸人民币兑美元升破7，为2023年5月来最高。",
-          "url": "https://wallstreetcn.com/livenews/3028542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "现货铂金涨超3%至2175.10美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3028541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "沪镍主力合约日内涨4.00%，现报132580.00元/吨；伦镍日内大涨4.00%，现报16384.20美元/吨。",
           "url": "https://flash.jin10.com/detail/20251230104946731800",
           "source": "金十数据",
@@ -1655,6 +1695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "现货白银突破75美元/盎司，日内大涨4%。纽约期银日内暴涨6%，现报74.69美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251230135012394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "现货白银日内涨超1%，此前跌超1%，现报72.83美元/盎司。",
@@ -1701,6 +1752,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "现货黄金突破4380美元/盎司，日内涨1.12%。",
+          "url": "https://flash.jin10.com/detail/20251230134118575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "现货白银反弹，目前日内涨1.2%报73.02美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3028402",
           "source": "华尔街见闻-快讯",
@@ -1710,6 +1772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "现货黄金日内涨1%报4374美元/盎司，现货白银涨3.3%报74.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报71.26美元/盎司。 现货黄金日内跌幅达5.0%，报4302美元/盎司。",
@@ -1798,6 +1871,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "现货黄金短线走高超10美元，现报4376.24美元/盎司，日内涨1%。",
+          "url": "https://flash.jin10.com/detail/20251230132605610800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "纽约期金日内涨幅扩大至1.00%，现报4387.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251230132455641800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "英媒：英国到2040年将需超1万亿美元落实国防项目",
@@ -1991,8 +2086,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 14时27分]"
         }
       ]
     }
