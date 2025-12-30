@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-31T01:17:53.306439+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-12-31T02:25:32.765963+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -26,8 +27,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "纽约期铜日内涨幅扩大至4.00%，现报5.7895美元/磅。",
+          "url": "https://flash.jin10.com/detail/20251231020620711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "现货白银日内涨幅达8.0%，报77.91美元/盎司。 纽约银日内涨幅达10.5%，报77.86美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。",
@@ -36,18 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "纽约期银暴涨9% 现货站上77美元",
-          "url": "https://flash.jin10.com/detail/20251231005904663800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -59,8 +71,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "纽约期银暴涨9% 现货站上77美元",
+          "url": "https://flash.jin10.com/detail/20251231005904663800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
         },
         {
           "title": "Prosus于12月22-26日按均价52.8621欧元回购股票65.2573万，合计0.345亿欧元（折合0.406亿美元）。 同期，Naspers按均价1120.1722南非兰特回购33.8611万，合计3.793亿兰特（折合0.227亿美元）。",
@@ -73,6 +97,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "LME期镍涨6.85%，报16855美元，创2024年10月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3028860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
         },
         {
           "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
@@ -109,15 +145,59 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "LME期镍涨6.85%，报16855美元，创2024年10月份以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3028860",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
+          "url": "https://flash.jin10.com/detail/20251231015607378800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时25分"
+        },
+        {
+          "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3028884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "LME期铜收涨336美元，报12558美元/吨。 LME期铝收涨28美元，报2980美元/吨。 LME期锌收涨36美元，报3124美元/吨。 LME期铅收涨4美元，报2010美元/吨。 LME期镍收涨10141美元，报16828美元/吨。 LME期锡收涨1211美元，报41954美元/吨。 LME期钴收涨565美元，报53355美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3028883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "纽约期银日内暴涨10.00%，现报77.51美元/盎司；现货白银现涨7.7%。",
+          "url": "https://flash.jin10.com/detail/20251231012647305800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。 现货白银日内涨幅达7.0%，报77.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "伦镍涨6.5%至16845美元/吨，为2024年10月以来最高水平。",
@@ -126,9 +206,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251231011253846800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     },
@@ -144,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -155,8 +246,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -167,8 +258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -179,8 +270,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -191,8 +282,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -222,11 +313,12 @@
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
