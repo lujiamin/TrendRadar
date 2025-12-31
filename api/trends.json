@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T12:35:52.439692+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-31T13:24:00.913154+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 12时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 13时24分]"
         },
         {
           "title": "国航拟95.3亿美元买60架空客飞机",
@@ -57,6 +58,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "现货铂金下跌逾9%至每盎司1985.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3029099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "现货铂金跌超9%，至1988.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251231130854403800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。",
@@ -92,17 +115,6 @@
           "time_info": "09时18分"
         },
         {
-          "title": "WTI原油期货突破58美元/桶，日内涨0.09%。",
-          "url": "https://flash.jin10.com/detail/20251231120332919800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3028905",
           "source": "华尔街见闻-快讯",
@@ -112,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "现货白银日内暴跌6.00%，现报71.56美元/盎司。纽约期银日内暴跌8.00%，现报71.68美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251231125704213800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "现货白银日内涨幅达8.0%，报77.91美元/盎司。 纽约银日内涨幅达10.5%，报77.86美元/盎司。",
@@ -141,6 +164,19 @@
           "time_info": "[04时19分 ~ 06时16分]"
         },
         {
+          "title": "现货白银盘中一度跌超5%，最低触及72.48美元/盎司。 现货钯金跌超7%，报1497.75美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
+        },
+        {
           "title": "纽约期铜日内涨幅扩大至4.00%，现报5.7895美元/磅。",
           "url": "https://flash.jin10.com/detail/20251231020620711800",
           "source": "金十数据",
@@ -153,16 +189,17 @@
           "time_info": "[02时25分 ~ 03时14分]"
         },
         {
-          "title": "现货白银盘中一度跌超5%，最低触及72.48美元/盎司。 现货钯金跌超7%，报1497.75美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029065",
+          "title": "现货白银日内跌超4%，报73.13美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029059",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11
+            4,
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
         },
         {
           "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
@@ -188,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "WTI原油期货突破58美元/桶，日内涨0.09%。",
+          "url": "https://flash.jin10.com/detail/20251231120332919800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时24分]"
         },
         {
           "title": "现货钯金日内大跌6.00%，现报1521.78美元/盎司。",
@@ -224,18 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "现货白银日内跌超4%，报73.13美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -275,6 +312,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时14分]"
+        },
+        {
+          "title": "美元理财大放异彩，2025年新增超4000亿元，九成产品期限1年以内，投资者看重“落袋为安”",
+          "url": "https://www.cls.cn/detail/2244389",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时24分]"
         },
         {
           "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。 现货白银日内涨幅达7.0%，报77.19美元/盎司。",
@@ -360,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
+          "title": "现货铂金跌超7%，报2038.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时24分]"
         },
         {
           "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
@@ -468,6 +529,17 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "白银日内大跌5% 跌近72美元关口",
+          "url": "https://www.toutiao.com/trending/7589863421571501604/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
           "url": "https://flash.jin10.com/detail/20251231015607378800",
           "source": "金十数据",
@@ -490,6 +562,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "布伦特原油向上触及62美元/桶，日内涨0.40%。",
+          "url": "https://flash.jin10.com/detail/20251231122940487800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "LME期铜收涨336美元，报12558美元/吨。 LME期铝收涨28美元，报2980美元/吨。 LME期锌收涨36美元，报3124美元/吨。 LME期铅收涨4美元，报2010美元/吨。 LME期镍收涨10141美元，报16828美元/吨。 LME期锡收涨1211美元，报41954美元/吨。 LME期钴收涨565美元，报53355美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3028883",
           "source": "华尔街见闻-快讯",
@@ -499,28 +582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "现货铂金跌超7%，报2038.55美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "美元理财大放异彩，2025年新增超4000亿元，九成产品期限1年以内，投资者看重“落袋为安”",
-          "url": "https://www.cls.cn/detail/2244389",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
@@ -584,7 +645,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -746,7 +807,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -822,6 +883,17 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
+          "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
+          "url": "https://flash.jin10.com/detail/20251231130723991800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特朗普为何称不担心解放军绕台军演",
           "url": "https://www.toutiao.com/trending/7589509514882891795/",
           "source": "今日头条",
@@ -857,6 +929,18 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时24分]"
+        },
+        {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
           "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
@@ -890,18 +974,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时17分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
