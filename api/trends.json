@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-01-01T02:24:10.015587+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-01T03:13:37.494436+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国投资公司协会（ICI）：截至12月30日当周，货币市场基金总资产增至7.73万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260101023254111800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.73万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3029457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
         {
           "title": "LME期铜收跌136美元，报12423美元/吨。 LME期铝收涨16美元，报2996美元/吨。 LME期锌收跌6美元，报3118美元/吨。 LME期铅收涨1美元，报2011美元/吨。 LME期镍收跌182美元，报16646美元/吨。 LME期锡收跌1398美元，报40556美元/吨。 LME期钴收平，报53355美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3029452",
@@ -14,20 +36,56 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了49个对手方的1059.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20260101021647434800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "周三（12月31日），美联储隔夜逆回购协议（RRP）使用规模为1059.93亿美元（交易对手49家），上个交易日报126.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3029454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "周三（12月31日），韩元兑美元最终跌0.35%，报1444.62韩元。 2025年，韩元累计上涨将近2.30%，月线图上呈现出冲高回落走势。",
           "url": "https://wallstreetcn.com/livenews/3029449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时13分]"
+        },
+        {
+          "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
+          "url": "https://wallstreetcn.com/livenews/3029434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
         },
         {
           "title": "澳元兑美元AUD/USD日内下跌0.50%，现报0.6659。",
@@ -40,18 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
-          "url": "https://wallstreetcn.com/livenews/3029434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时24分]"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.6663。",
@@ -103,7 +149,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普称“凯旋门”将于两个月内开建",
@@ -111,11 +157,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
         },
         {
           "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
@@ -123,11 +170,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
@@ -140,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
