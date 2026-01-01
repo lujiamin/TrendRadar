@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T22:16:13.984922+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-01-01T23:17:45.096002+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时46分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[11时46分 ~ 23时17分]"
         },
         {
           "title": "LME期铜收跌136美元，报12423美元/吨。 LME期铝收涨16美元，报2996美元/吨。 LME期锌收跌6美元，报3118美元/吨。 LME期铅收涨1美元，报2011美元/吨。 LME期镍收跌182美元，报16646美元/吨。 LME期锡收跌1398美元，报40556美元/吨。 LME期钴收平，报53355美元/吨。",
@@ -439,6 +439,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "2025年大涨后，人民币对美元汇率2026年如何走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292462",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "韩国12月贸易帐初值 121.8亿美元，预期100亿美元，前值由97.35亿美元修正为97.4亿美元。",
           "url": "https://flash.jin10.com/detail/20260101080002504800",
           "source": "金十数据",
@@ -464,7 +475,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -477,6 +488,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时24分 ~ 15时20分]"
+        },
+        {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -701,11 +723,12 @@
           "ranks": [
             2,
             8,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时17分]"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -714,11 +737,12 @@
           "ranks": [
             6,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时17分]"
         },
         {
           "title": "比亚迪去年累计销量超460万辆",
@@ -736,7 +760,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -751,6 +775,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时24分 ~ 18时19分]"
+        },
+        {
+          "title": "OpenAI采取行动，改善语音AI模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     }
