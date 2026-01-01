@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-01-02T00:21:30.974326+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-02T01:17:01.694033+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
+          "url": "https://wallstreetcn.com/livenews/3029639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
+          "url": "https://flash.jin10.com/detail/20260101224323084800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
+          "url": "https://wallstreetcn.com/livenews/3029637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 3,
@@ -12,33 +63,36 @@
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
           "url": "https://wallstreetcn.com/livenews/3029628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         }
       ]
     },
@@ -51,11 +105,12 @@
           "url": "https://wallstreetcn.com/livenews/3029635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -65,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时17分]"
         },
         {
           "title": "2025年大涨后，人民币对美元汇率2026年如何走",
@@ -76,36 +131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
-          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
-          "url": "https://flash.jin10.com/detail/20260101224323084800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时17分]"
         }
       ]
     },
@@ -118,11 +145,12 @@
           "url": "https://wallstreetcn.com/livenews/3029612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
