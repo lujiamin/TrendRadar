@@ -1,438 +1,68 @@
 {
-  "generated_at": "2026-01-01T23:17:45.096002+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-01-02T00:21:30.974326+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 38,
+      "keyword_group": "openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
-          "url": "https://www.cls.cn/detail/2240328",
-          "source": "财联社热门",
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7,
-            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时46分 ~ 23时17分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "LME期铜收跌136美元，报12423美元/吨。 LME期铝收涨16美元，报2996美元/吨。 LME期锌收跌6美元，报3118美元/吨。 LME期铅收涨1美元，报2011美元/吨。 LME期镍收跌182美元，报16646美元/吨。 LME期锡收跌1398美元，报40556美元/吨。 LME期钴收平，报53355美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3029452",
+          "title": "秘鲁计划将价值60亿美元的炼油厂从国家石油公司剥离",
+          "url": "https://wallstreetcn.com/livenews/3029635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "00时21分"
         },
         {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.73万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3029457",
-          "source": "华尔街见闻-快讯",
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            11,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时17分]"
-        },
-        {
-          "title": "周三（12月31日），美联储隔夜逆回购协议（RRP）使用规模为1059.93亿美元（交易对手49家），上个交易日报126.05亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时17分]"
-        },
-        {
-          "title": "周三（12月31日），韩元兑美元最终跌0.35%，报1444.62韩元。 2025年，韩元累计上涨将近2.30%，月线图上呈现出冲高回落走势。",
-          "url": "https://wallstreetcn.com/livenews/3029449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时24分 ~ 05时15分]"
-        },
-        {
-          "title": "据阿曼国家通讯社报道，阿曼将2026年预算的平均油价设定为每桶60美元。",
-          "url": "https://flash.jin10.com/detail/20260101151626275800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12,
-            17,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 20时34分]"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：截至12月30日当周，货币市场基金总资产增至7.73万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101023254111800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时15分]"
-        },
-        {
-          "title": "分析师：一旦去美元化主题重新浮现，美元可能在2026年继续走弱",
-          "url": "https://wallstreetcn.com/livenews/3029469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时17分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了49个对手方的1059.93亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101021647434800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时15分]"
-        },
-        {
-          "title": "彭博美元指数四连涨，但全年表现为2017年以来最差",
-          "url": "https://wallstreetcn.com/livenews/3029468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时17分]"
-        },
-        {
-          "title": "纽约期银跌破70美元大关",
-          "url": "https://flash.jin10.com/detail/20260101041219229800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "美元录得2017年以来最大年跌幅",
-          "url": "https://flash.jin10.com/detail/20260101071012070800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时25分]"
-        },
-        {
-          "title": "周三（12月31日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.10%，报88175美元，12月份累计下跌3.81%。 CME以太币期货DCR主力合约涨0.86%，报2997.50美元，12月份累跌2.36%。",
-          "url": "https://wallstreetcn.com/livenews/3029491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "12月份，美元兑日元累计上涨0.18%，周三（12月31日）纽约尾盘报156.45日元，四季度累涨2.20%，2025年累跌将近0.48%，整体交投区间为139.89-158.87日元，呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3029505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时25分]"
-        },
-        {
-          "title": "纽约期银跌穿70美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3029463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时17分]"
-        },
-        {
-          "title": "现货白银日内重挫8%，逼近失守70美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260101040806081800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "布伦特原油日内跌幅达1.0%，报60.71美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3029464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时17分]"
-        },
-        {
-          "title": "纽约期银日内重挫10.00%，现报70.12美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260101033700648800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
-          "url": "https://wallstreetcn.com/livenews/3029434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9879元，较周二夜盘收盘涨63点。成交量376.32亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时17分]"
-        },
-        {
-          "title": "澳元兑美元AUD/USD日内下跌0.50%，现报0.6659。",
-          "url": "https://flash.jin10.com/detail/20251231235207972800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "墨西哥比索兑美元2025年累计上涨13.53%。",
-          "url": "https://wallstreetcn.com/livenews/3029500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时25分]"
-        },
-        {
-          "title": "周三（12月31日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9757元，较周二纽约尾盘涨165点，日内整体交投于6.9945-6.9752元区间。 12月份，离岸人民币累计上涨大约950点、涨幅1.35%，四季度累涨大约1500点、涨幅2.14%，2025年累计上涨大约3600点、涨幅超过4.93%。",
-          "url": "https://wallstreetcn.com/livenews/3029497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时25分]"
-        },
-        {
-          "title": "纽约白银期货跌超9%下探70美元整数位心理关口，现货白银全年涨约148%",
-          "url": "https://wallstreetcn.com/livenews/3029495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时25分]"
-        },
-        {
-          "title": "澳元/美元日内跌幅达0.5%，报0.6663。",
-          "url": "https://wallstreetcn.com/livenews/3029417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101052422897800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "前动视制作人宣称成本 1 亿美元的游戏，需要 600W 销量才能回本，钱到底被谁赚走了？",
-          "url": "https://www.zhihu.com/question/1980220595682689077",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
-        },
-        {
-          "title": "机构：即使美元坚挺，日元和人民币明年兑美元仍有望升值",
-          "url": "https://wallstreetcn.com/livenews/3029408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "WTI 2月原油期货收跌0.53美元，跌幅0.91%，报57.42美元/桶。 布伦特2月原油期货收跌0.48美元，跌幅0.78%，报60.85美元/桶。 NYMEX 2月天然气期货收报3.6860美元/百万英热单位，2025年累涨约2%，连续第二年走高。 NYMEX 1月汽油期货收报1.7054美元/加仑，NYMEX 1月取暖油期货收报2.1206美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3029460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "史上最赚钱一年！今年全球最富500人财富增加2.2万亿美元",
-          "url": "https://wallstreetcn.com/articles/3762398",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "墨西哥比索兑美元2025年累计上涨13.53%。",
-          "url": "https://flash.jin10.com/detail/20260101064115042800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "全球主权基金进军科技领域，资产规模增至 15 万亿美元",
-          "url": "https://flash.jin10.com/detail/20260101083402371800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "韩国2月出口增幅超预期，2025年全年出口首次突破7000亿美元",
-          "url": "https://flash.jin10.com/detail/20260101082827440800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "EIA原油库存数据公布后，WTI原油日内转跌，现报58.03美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251231233318848800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -443,52 +73,18 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32292462",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "韩国12月贸易帐初值 121.8亿美元，预期100亿美元，前值由97.35亿美元修正为97.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101080002504800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "相关法令显示，印度对进口低灰分冶金焦炭征收临时反倾销税，税额为每吨60.87至130.66美元，实施期限为六个月。",
-          "url": "https://flash.jin10.com/detail/20260101002853498800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 15时20分]"
-        },
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
           "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
@@ -496,296 +92,48 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
-          "url": "https://wallstreetcn.com/livenews/3029479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "00时21分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
+          "url": "https://flash.jin10.com/detail/20260101224323084800",
           "source": "金十数据",
           "ranks": [
-            5,
-            9,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时16分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24,
-            20,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时16分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普称“凯旋门”将于两个月内开建",
-          "url": "https://flash.jin10.com/detail/20260101010133280800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
-          "url": "https://flash.jin10.com/detail/20260101043557341800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时17分]"
-        },
-        {
-          "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
-          "url": "https://wallstreetcn.com/livenews/3029490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
-          "url": "https://flash.jin10.com/detail/20260101004424120800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
-          "url": "https://flash.jin10.com/detail/20260101111825003800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普施压下，委内瑞拉Orinoco Belt的石油产量两周骤降25%",
-          "url": "https://flash.jin10.com/detail/20260101054514817800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
-          "url": "https://flash.jin10.com/detail/20260101111709020800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://wallstreetcn.com/livenews/3029479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
-          "url": "https://wallstreetcn.com/livenews/3029419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://flash.jin10.com/detail/20260101054057768800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
-          "url": "https://flash.jin10.com/detail/20260101024610835800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
-          "url": "https://wallstreetcn.com/livenews/3029538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
-          "url": "https://flash.jin10.com/detail/20260101045615854800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪：2025年比亚迪海外年销量首次突破100万辆，同比增长145%。",
           "url": "https://wallstreetcn.com/livenews/3029612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            8,
-            10,
-            15
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
           "url": "https://wallstreetcn.com/livenews/3029608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            12,
-            14,
-            19
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 23时17分]"
-        },
-        {
-          "title": "比亚迪去年累计销量超460万辆",
-          "url": "https://www.toutiao.com/trending/7589655842434220075/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时24分 ~ 18时19分]"
-        },
-        {
-          "title": "OpenAI采取行动，改善语音AI模型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时17分"
+          "time_info": "00时21分"
         }
       ]
     }
