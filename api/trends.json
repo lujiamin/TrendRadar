@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T21:31:25.851134+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-01-02T22:17:33.349712+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时21分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 22时17分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -30,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时27分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[14时27分 ~ 22时17分]"
         },
         {
           "title": "老黄超200亿美元的推理闭环成型了",
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时27分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[11时27分 ~ 22时17分]"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -150,15 +151,15 @@
           "time_info": "16时24分"
         },
         {
-          "title": "现货黄金重回4400美元/盎司上方，日内涨1.89%。",
-          "url": "https://flash.jin10.com/detail/20260102211634049800",
-          "source": "金十数据",
+          "title": "WTI原油日内跌幅达1%，报56.82美元/桶；布伦特原油日内跌幅达1%，报60.24美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3029848",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "22时17分"
         },
         {
           "title": "现货白银日内大涨2美元，现报73.63美元/盎司，涨幅2.83%。",
@@ -259,6 +260,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 15时21分]"
+        },
+        {
+          "title": "现货黄金重回4400美元/盎司上方，日内涨1.89%。",
+          "url": "https://flash.jin10.com/detail/20260102211634049800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "现货白银日内大涨4%，现报74.47美元/盎司。",
@@ -525,6 +538,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "WTI原油日内下跌1.00%，现报56.85美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260102220012076800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "现货钯金上涨3%至每盎司1655.95美元。",
           "url": "https://wallstreetcn.com/livenews/3029676",
           "source": "华尔街见闻-快讯",
@@ -542,9 +566,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "现货黄金突破4400美元/盎司关口，日内涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3029838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "WTI原油跌破57美元/桶，日内跌0.82%。",
@@ -553,9 +588,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元汇率在现货交易中上涨约1%。",
+          "url": "https://flash.jin10.com/detail/20260102215437012800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "现货黄金站上4350美元/盎司，日内涨0.72%。",
@@ -569,13 +615,24 @@
           "time_info": "09时19分"
         },
         {
+          "title": "乌克兰国防部：乌克兰在2025年已吸引超过450亿美元的国际安全援助。",
+          "url": "https://flash.jin10.com/detail/20260102215025026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "伯恩斯坦：将美光科技(MU.O)目标价从270美元上调至330美元。",
           "url": "https://flash.jin10.com/detail/20260102204807064800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -660,7 +717,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -672,6 +729,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            14,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 22时17分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -688,20 +760,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 07时16分]"
-        },
-        {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 21时31分]"
         },
         {
           "title": "特朗普承认服用阿司匹林",
@@ -773,11 +831,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 22时17分]"
         },
         {
           "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
@@ -858,6 +917,18 @@
           "time_info": "[18时18分 ~ 20时33分]"
         },
         {
+          "title": "日本首相高市早苗与美国总统特朗普进行了通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
@@ -887,18 +958,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "日本首相高市早苗与美国总统特朗普进行了通话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -947,6 +1007,17 @@
           "time_info": "20时33分"
         },
         {
+          "title": "高市早苗与特朗普商定将于春季访美。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-02）",
           "url": "https://flash.jin10.com/detail/20260102183706260800",
           "source": "金十数据",
@@ -969,13 +1040,24 @@
           "time_info": "20时33分"
         },
         {
+          "title": "如何看待特朗普回应健康质疑",
+          "url": "https://www.toutiao.com/trending/7590742092725358143/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "据日本共同社：日本首相高市早苗与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260102204110786800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1028,8 +1110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时23分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 22时17分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -1043,8 +1125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时21分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 22时17分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -1098,8 +1180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时17分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -1126,11 +1208,12 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时37分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[12时37分 ~ 22时17分]"
         },
         {
           "title": "曝2025比亚迪首超特斯拉登顶全球销冠",
@@ -1139,11 +1222,12 @@
           "ranks": [
             25,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 22时17分]"
         },
         {
           "title": "2025比亚迪销量或超特斯拉成全球第1",
@@ -1156,8 +1240,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时17分]"
         },
         {
           "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
@@ -1168,8 +1252,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 22时17分]"
         },
         {
           "title": "比亚迪：2025年比亚迪海外年销量首次突破100万辆，同比增长145%。",
