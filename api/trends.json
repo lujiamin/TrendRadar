@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T12:37:47.009929+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-01-02T13:22:08.395241+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -76,15 +76,62 @@
           "time_info": "11时27分"
         },
         {
-          "title": "现货白银日内大涨2美元，现报73.63美元/盎司，涨幅2.83%。",
-          "url": "https://flash.jin10.com/detail/20260102120726176800",
+          "title": "交易员：印度央行可能通过国有银行抛售美元，以捍卫卢比90关口。",
+          "url": "https://flash.jin10.com/detail/20260102130004168800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "交易员称，印度央行可能正通过国有银行抛售美元，捍卫90这一汇率水平。",
+          "url": "https://wallstreetcn.com/livenews/3029737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "杰富瑞：将百度(BIDU.O)目标价从159美元上调至181美元。",
+          "url": "https://flash.jin10.com/detail/20260102123642829800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "现货白银日内大涨2美元，现报73.63美元/盎司，涨幅2.83%。",
+          "url": "https://flash.jin10.com/detail/20260102120726176800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "现货黄金涨1.18%，报4361美元/盎司。现货白银涨2.6%报72.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时22分]"
         },
         {
           "title": "现货黄金日内涨幅达0.5%，报4332.23美元/盎司。 现货白银日内涨幅达1.5%，报72.41美元/盎司。 纽约银日内涨幅达1.5%，报71.76美元/盎司。",
@@ -99,18 +146,6 @@
           "time_info": "[07时16分 ~ 09时19分]"
         },
         {
-          "title": "现货黄金涨1.18%，报4361美元/盎司。现货白银涨2.6%报72.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时37分]"
-        },
-        {
           "title": "老黄超200亿美元的推理闭环成型了",
           "url": "https://wallstreetcn.com/articles/3762431",
           "source": "华尔街见闻",
@@ -119,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时22分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -131,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时22分]"
         },
         {
           "title": "现货黄金日内涨超1.00%，现报4362.09美元/盎司。",
@@ -140,11 +175,84 @@
           "source": "金十数据",
           "ranks": [
             9,
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时22分]"
+        },
+        {
+          "title": "纽约期银突破73美元/盎司，日内涨3.40%。",
+          "url": "https://flash.jin10.com/detail/20260102114905936800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时37分]"
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102114437454800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
+          "url": "https://wallstreetcn.com/livenews/3029719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "纽约期银日内涨幅扩大至3.00%，现报72.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102113544423800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "现货白银上涨2.8%报73美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
         },
         {
           "title": "2025年美元指数黯然收官！美联储主席动向将左右后市行情",
@@ -158,15 +266,28 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "纽约期银突破73美元/盎司，日内涨3.40%。",
-          "url": "https://flash.jin10.com/detail/20260102114905936800",
+          "title": "现货白银日内涨超2%，现报73.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102112509147800",
           "source": "金十数据",
           "ranks": [
-            6
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "2026年首个交易日，现货黄金日内大涨50美元，突破4370美元/盎司，日内涨1.18%。",
+          "url": "https://flash.jin10.com/detail/20260102111449651800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
         },
         {
           "title": "韩国央行行长李昌镛：将审视韩国央行对未来利率路径的前瞻性指引政策，美元兑韩元汇率在1400点位的高位似乎与韩国经济的基本面相去甚远。",
@@ -180,50 +301,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102114437454800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
-          "url": "https://wallstreetcn.com/livenews/3029719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "纽约期银日内涨幅扩大至3.00%，现报72.74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102113544423800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
           "title": "现货钯金上涨3%至每盎司1655.95美元。",
           "url": "https://wallstreetcn.com/livenews/3029676",
           "source": "华尔街见闻-快讯",
@@ -235,28 +312,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "现货白银上涨2.8%报73美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "现货白银日内涨超2%，现报73.10美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102112509147800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
           "title": "现货黄金站上4350美元/盎司，日内涨0.72%。",
           "url": "https://flash.jin10.com/detail/20260102075839531800",
           "source": "金十数据",
@@ -266,17 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "2026年首个交易日，现货黄金日内大涨50美元，突破4370美元/盎司，日内涨1.18%。",
-          "url": "https://flash.jin10.com/detail/20260102111449651800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "现货白银站上73美元/盎司，日内涨1.96%。",
@@ -523,6 +567,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
+          "url": "https://www.zhihu.com/question/1990172846333325720",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
           "title": "比亚迪：2025年比亚迪海外年销量首次突破100万辆，同比增长145%。",
           "url": "https://wallstreetcn.com/livenews/3029612",
           "source": "华尔街见闻-快讯",
@@ -533,17 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
-          "url": "https://www.zhihu.com/question/1990172846333325720",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -567,11 +612,12 @@
           "url": "https://wallstreetcn.com/livenews/3029726",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
         },
         {
           "title": "港股芯片股集体走强，华虹半导体涨超7%，芯智控股涨近5%，中电华大科技、ASMPT、中芯国际涨超3%。",
