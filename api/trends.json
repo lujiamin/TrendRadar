@@ -1,2284 +1,353 @@
 {
-  "generated_at": "2026-01-06T23:19:16.745914+08:00",
-  "total_titles_processed": 2120,
+  "generated_at": "2026-01-07T00:22:42.109037+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 109,
-      "titles": [
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时17分 ~ 23时19分]"
-        },
-        {
-          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
-          "url": "https://www.zhihu.com/question/1991189102696091881",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            10,
-            9,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32319448",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时17分 ~ 20时36分]"
-        },
-        {
-          "title": "伦敦铜冲破13300美元",
-          "url": "https://www.toutiao.com/trending/7592183736104390190/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时35分 ~ 23时19分]"
-        },
-        {
-          "title": "据英国《金融时报》：Telegram遭遇5亿美元俄罗斯债券冻结冲击。",
-          "url": "https://flash.jin10.com/detail/20260106130333842800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3031081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "中国台湾12月外汇存底 6025.53亿美元，前值5997.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106162004967800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "美元涨势受限于降息预期 市场静候就业报告",
-          "url": "https://flash.jin10.com/detail/20260106230128265800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "BlueScope股价飙升15%。此前Steel Dynamics和SGH提议，按88亿美元收购BlueScope。",
-          "url": "https://wallstreetcn.com/livenews/3031152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
-          "url": "https://wallstreetcn.com/livenews/3031226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "据英国《金融时报》：埃尼和雷普索尔力争从委内瑞拉追回60亿美元天然气付款。",
-          "url": "https://flash.jin10.com/detail/20260106130247573800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "特朗普干预主义引发去美元化担忧 杰富瑞看好黄金避险属性",
-          "url": "https://flash.jin10.com/detail/20260106174715588800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "摩根大通将富国银行目标价从92美元上调至99美元，看好净利息收入增长。",
-          "url": "https://wallstreetcn.com/livenews/3031670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "现货金银周二小幅高开，分别报4451美元/盎司和76.73美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106070136283800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "现货黄金突破4490美元/盎司，日内涨0.93%。",
-          "url": "https://flash.jin10.com/detail/20260106230044605800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "美国向核燃料生产商们授予27亿美元浓缩合同。",
-          "url": "https://wallstreetcn.com/livenews/3030992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：这些美国政策正在削弱全球投资者对美元资产的信心，并很可能助长多元化趋势。",
-          "url": "https://flash.jin10.com/detail/20260106171003401800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "维勒鲁瓦警告美国政策侵蚀美元霸权 多极化货币体系或成定局",
-          "url": "https://flash.jin10.com/detail/20260106174445026800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "以色列重返全球债市 拟发售数十亿美元多期限债券",
-          "url": "https://flash.jin10.com/detail/20260106184559897800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "现货钯金涨3%，至1761.18美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106215749917800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "瑞士销售30亿美元AT1，获得投资者超过210亿美元认购。",
-          "url": "https://wallstreetcn.com/livenews/3031049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时21分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9866元，较上个交易日夜盘收盘涨13点。成交量526.39亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "花旗预计，人民币兑美元将在未来6-12个月升至6.8，预计该货币对未来三个月可能在6.9左右波动。",
-          "url": "https://wallstreetcn.com/livenews/3031326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时37分]"
-        },
-        {
-          "title": "龙湖集团2028年到期美元债势创4个月最大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3031520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时23分]"
-        },
-        {
-          "title": "欧洲央行管委兼法国央行行长Villeroy：对美联储独立性的攻击削弱美元。",
-          "url": "https://wallstreetcn.com/livenews/3031560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时19分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的64.85亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106021805870800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时18分]"
-        },
-        {
-          "title": "沙特将2月份面向美国的阿拉伯轻质原油官方售价定为较阿格斯含硫原油均价升水2.20美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260106024404962800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
-        },
-        {
-          "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
-          "url": "https://flash.jin10.com/detail/20260106024236433800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘，现货白银涨5.13%，报76.5495美元/盎司，日内绝大部分时间持稳于76美元附近。 COMEX白银期货涨7.63%，报76.430美元/盎司。 COMEX铜期货涨5.16%，报5.9850美元/磅。 现货铂金涨6.32%，报2277.67美元/盎司；现货钯金涨4.92%，报1716.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3031119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "现货白银日内涨超2%，站上78美元/盎司关口。",
-          "url": "https://wallstreetcn.com/livenews/3031322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时37分]"
-        },
-        {
-          "title": "1月6日（2026年首个周一），美国投资级债券市场迎来370亿美元供应量。 包括通用汽车、Williams Cos.、法国农业信贷银行瑞银集团在内，20家公司发行了高评级债券。",
-          "url": "https://wallstreetcn.com/livenews/3031118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
-          "url": "https://wallstreetcn.com/livenews/3031065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "美国能源部宣布拨款27亿美元以加强美国的铀浓缩能力。",
-          "url": "https://flash.jin10.com/detail/20260106023638125800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
-        },
-        {
-          "title": "美国宣布价值27亿美元订单，以提高铀浓缩能力",
-          "url": "https://flash.jin10.com/detail/20260106034615843800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3031019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时27分]"
-        },
-        {
-          "title": "周一（1月5日），韩元兑美元最终跌0.04%，报1445.14韩元，全天呈现出W形走势。",
-          "url": "https://wallstreetcn.com/livenews/3031045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时18分]"
-        },
-        {
-          "title": "现货白银突破79美元/盎司，日内涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3031354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
-        },
-        {
-          "title": "纽约银日内涨幅达9.0%，报77.42美元/盎司。 现货白银日内涨幅达6.5%，报77.43美元/盎司。 沪银主力合约日内大涨4.00%，现报18920.00元/千克。",
-          "url": "https://wallstreetcn.com/livenews/3031017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时27分]"
-        },
-        {
-          "title": "韩国12月外汇储备 4280.5亿美元，前值4306.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106050002412800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘，美元兑日元跌0.37%，报156.26日元，日内交投区间为157.30-156.12日元。 欧元兑日元跌0.32%，英镑兑日元涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3031088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
-          "title": "铜价升穿1.3万美元创新高，智利铜矿罢工加剧供应担忧",
-          "url": "https://flash.jin10.com/detail/20260106014527643800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时18分]"
-        },
-        {
-          "title": "周一（1月5日），美联储隔夜逆回购协议（RRP）使用规模为64.85亿美元（交易对手17个），上个交易日报56.67亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
-        },
-        {
-          "title": "王者荣耀2025年营收超20亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "市场分析：全球美元债券发行量或将加速",
-          "url": "https://flash.jin10.com/detail/20260106114809004800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：担心美国可能日益将美元全球支付体系武器化，这正推动部分司法管辖区积极发展替代性支付系统。",
-          "url": "https://flash.jin10.com/detail/20260106170915921800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "从外设到AI生态：雷蛇私有化后发力 拟投入6亿美元重塑品牌",
-          "url": "https://flash.jin10.com/detail/20260106210418581800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。 LME期铅日内涨幅达2.00%，现报2064.03美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3031755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "现货钯金日内大涨6.00%，现报1730.38美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106005110635800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "以色列财政部官员：以色列的目标是发行约50亿美元债券，但目前尚无法确定最终发行规模。",
-          "url": "https://flash.jin10.com/detail/20260106174332635800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "WTI原油日内涨幅达2.0%，报58.48美元/桶。 布伦特原油日内涨幅达1.5%，报61.69美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3030988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "LME期铜收涨522美元，报12992美元/吨。 LME期铝收涨70美元，报3086美元/吨。 LME期锌收涨68美元，报3195美元/吨。 LME期铅收涨17美元，报2024美元/吨。 LME期镍收涨183美元，报17003美元/吨。 LME期锡收涨2057美元，报42466美元/吨。 LME期钴收涨1480美元，报54835美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3031044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "Kalshi年化成交额达到1000亿美元。（NYT Dealbook）",
-          "url": "https://wallstreetcn.com/livenews/3031754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "瑞银上调金价目标至5000美元",
-          "url": "https://www.toutiao.com/trending/7592024699937230379/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "新加坡元兑美元持续走高，触及1.2796，为2025年9月18日以来高位。",
-          "url": "https://flash.jin10.com/detail/20260106105130772800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美国天然气期货日内跌超3.00%，现报3.417美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260106170656766800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘，现货黄金涨2.64%，报4446.50美元/盎司。 COMEX黄金期货涨2.96%，报4457.60美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3031114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "现货白银突破80美元/盎司关口，涨幅超过4.3%。 纽约金日内涨幅达1.0%，报4496.1美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3031753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "纽约期银日内暴涨9.00%，现报77.41美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106005025310800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "现货铂金涨超5%，至2396.52美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106225618680800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "保诚集团（Prudential）将启动最高达12亿美元的股票回购计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3031452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106045521971800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "委内瑞拉变局点燃矿业热潮 矿商拟夺回444亿美元核心金矿",
-          "url": "https://flash.jin10.com/detail/20260106183542481800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "白银涨势不停 突破79美元关口",
-          "url": "https://flash.jin10.com/detail/20260106121319016800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "富国银行：将微芯科技(MCHP.O)目标价从58美元上调至68美元。",
-          "url": "https://flash.jin10.com/detail/20260106195456186800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "现货钯金向上触及1800美元/盎司，日内涨5.59%。",
-          "url": "https://flash.jin10.com/detail/20260106225319506800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "黄金飙升后另一面：美元在全球储备中的地位降至数十年来最低",
-          "url": "https://www.cls.cn/detail/2248705",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "现货铂金涨近3%，报2339.20美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106103523677800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
-          "url": "https://flash.jin10.com/detail/20260106134420710800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。伦铅日内涨幅达2.00%，现报2064.03美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260106225155536800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "SanDisk（SNDK）上涨14.47%，刷新盘中历史高位至313.74美元，盘中市值超过450亿美元。 半导体概念股中，Wolfspeed涨10.1%，微芯科技涨7.35%，AMKR涨6.8%，德州仪器涨5.6%，恩智浦涨5.6%，英特格、意法半导体ADR涨超5%，日月光半导体、安森美半导体、亚德诺涨超4%。 AMD则跌1.9%，相干公司COHR跌3.2%，安费诺跌6.2%。",
-          "url": "https://wallstreetcn.com/livenews/3031748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
-          "url": "https://wallstreetcn.com/livenews/3031082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "Vistra将收购Cogentrix Energy，净购价大约40亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "英国12月官方储备变动 15.15亿美元，前值13.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106173119440800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "伦镍日内大涨4.00%，现报17975.70美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260106182807793800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "WTI 2月原油期货收涨1.00美元，涨幅1.74%，报58.32美元/桶。 布伦特3月原油期货收涨1.01美元，涨幅1.66%，报61.76美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3031081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "现货白银日内涨幅达4.0%，报79.7美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3031746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
-          "url": "https://flash.jin10.com/detail/20260106052744835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "埃及央行：埃及12月净外汇储备从11月的502.16亿美元升至514.52亿美元。",
-          "url": "https://flash.jin10.com/detail/20260106182732990800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "澳元兑美元AUD/USD升至近15个月高点，报0.6739。",
-          "url": "https://flash.jin10.com/detail/20260106155414990800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "现货白银涨破80美元",
-          "url": "https://flash.jin10.com/detail/20260106224822226800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "现货白银日内涨幅达6.0%，报77.02美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3030971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "LME镍主力合约涨幅扩大至5%，现报18160.0美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3031715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "微芯科技(MCHP.O)：预计第三季度销售额达11.9亿美元，正准备在三月扩大工厂产能以降低费用。",
-          "url": "https://flash.jin10.com/detail/20260106051816320800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "斯蒂费尔：将微芯科技(MCHP.O)目标价从75美元上调至80美元。",
-          "url": "https://flash.jin10.com/detail/20260106194045717800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "纽约期金日内涨超1.00%，现报4496.20美元/盎司。纽约期银日内大涨4.00%，现报79.74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106224605108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "纽约金日内涨幅达3.0%，报4461美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3030969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "微芯科技：预计第三财季净销售大约11.85亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "制造业疲软拖累美债收益率 美元高位回吐涨幅",
-          "url": "https://flash.jin10.com/detail/20260105233306495800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "据CoinShares：全球加密货币交易所交易产品（ETPs）在2025年累计获得472亿美元资金流入，略微低于2024年所创历史最高纪录。 其中，比特币ETPs流入269亿美元，降幅35%。 而以太坊、XRP、Solana相关的ETPs合计流入超过200亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20260106042022412800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "现货黄金突破4470美元/盎司，日内涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20260106132831319800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
-          "url": "https://wallstreetcn.com/livenews/3031028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "墨西哥财政部声明称，今年首次发行了价值90亿美元的债券。",
-          "url": "https://wallstreetcn.com/livenews/3031202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "TD Cowen：将雅诗兰黛(EL.N)目标价从110美元上调至115美元。",
-          "url": "https://flash.jin10.com/detail/20260106204628066800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "伦铝日内涨幅扩大至2.00%，现报3080.10美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260105232359739800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "现货钯金日内涨幅扩大至2.00%，现报1739.26美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106102829007800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "地缘避险情绪对冲经济疲软忧虑 美元指数震荡回升",
-          "url": "https://flash.jin10.com/detail/20260106193112753800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "欧元兑美元EUR/USD回落至1.17下方，日内跌0.18%。",
-          "url": "https://flash.jin10.com/detail/20260106204313598800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "纽约期银日内涨幅达1.00%，现报77.43美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106102803282800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9835元，较上周五纽约尾盘跌132点，日内整体交投于6.9696-6.9918元区间。",
-          "url": "https://wallstreetcn.com/livenews/3031122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "英伟达发布推理型自动驾驶AI模型Alpamayo 剑指6万亿美元市值",
-          "url": "https://flash.jin10.com/detail/20260106203551409800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9813，较上一交易日官方收盘价跌7点，较上日夜盘收盘涨53点。",
-          "url": "https://wallstreetcn.com/livenews/3031524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "LME锡主力合约涨幅扩大至6%，现报42750.0美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3030959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "新加坡元兑美元上涨0.1%至1.2810，为2025年9月19日以来最强水位。",
-          "url": "https://wallstreetcn.com/livenews/3031274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "电力需求激增，美国向核燃料制造商提供27亿美元资助",
-          "url": "https://wallstreetcn.com/livenews/3030992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "现货白银日内大涨4.00%，现报79.70美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260106223713184800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 20,
       "titles": [
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
+          "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
+          "url": "https://wallstreetcn.com/livenews/3031788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普：将与国防承包商对话。",
+          "url": "https://flash.jin10.com/detail/20260107000150386800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
+          "title": "美国总统特朗普重申对国防承包商的批评。",
+          "url": "https://flash.jin10.com/detail/20260107000144682800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时26分 ~ 17时23分]"
-        },
-        {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时18分]"
-        },
-        {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            10,
-            16,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 18时19分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时21分 ~ 23时19分]"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            17,
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时28分 ~ 23时19分]"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时36分 ~ 17时23分]"
-        },
-        {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            19,
-            16,
-            17,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            20,
-            23,
-            24,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时22分 ~ 23时19分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            14,
-            21,
-            29,
-            18,
-            20,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时26分 ~ 18时19分]"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普接连向多国发出威胁",
-          "url": "https://www.douyin.com/hot/2358156",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
           "ranks": [
-            7,
-            6,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 23时19分]"
-        },
-        {
-          "title": "特朗普对印度买俄石油发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7591650384435888171/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
-          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时35分]"
-        },
-        {
-          "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
-          "url": "https://flash.jin10.com/detail/20260106070427283800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
-          "url": "https://flash.jin10.com/detail/20260106070419372800",
-          "source": "金十数据",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美国众议院议长约翰逊：特朗普政府在委内瑞拉的所作所为符合法律规定。",
-          "url": "https://flash.jin10.com/detail/20260106090218091800",
+          "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
+          "url": "https://flash.jin10.com/detail/20260106234406802800",
           "source": "金十数据",
           "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "00时22分"
         },
         {
-          "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
-          "url": "https://flash.jin10.com/detail/20260105235811612800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：委内瑞拉发生的事情并非政权更迭；特朗普采取任何行动保护美国人都是正确的。",
-          "url": "https://flash.jin10.com/detail/20260106090149019800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美国白宫办公厅副主任斯蒂芬·米勒：特朗普已要求卢比奥领导委内瑞拉进程，委内瑞拉任何商务往来都需要美国的批准，我们正得到委内瑞拉的全力配合。",
-          "url": "https://wallstreetcn.com/livenews/3031148",
+          "title": "美国总统特朗普：希望最高法院（围绕关税官司）做出对国家有利的决定。",
+          "url": "https://wallstreetcn.com/livenews/3031776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
-          "url": "https://www.toutiao.com/trending/7592114928259285042/",
-          "source": "今日头条",
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时23分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
-          "url": "https://flash.jin10.com/detail/20260106070034158800",
+          "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
+          "url": "https://wallstreetcn.com/livenews/3031774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国总统特朗普：我老婆讨厌我跳舞。她跟我说，你能想象罗斯福（FDR）跳舞吗？",
+          "url": "https://flash.jin10.com/detail/20260106233914098800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普称，委内瑞拉代总统罗德里格斯在配合美国，卢比奥和罗德里格斯关系“牢固”。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3031146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "根据法新社5日报道，随着伊朗国内的抗议活动进入第二周，美国总统特朗普警告伊朗，如果抗议活动中有更多抗议者死亡，美国将对其进行“非常严厉的打击”。（环球时报）",
-          "url": "https://wallstreetcn.com/livenews/3031403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
-          "url": "https://www.cls.cn/detail/2248057",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时27分]"
-        },
-        {
-          "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
-          "url": "https://wallstreetcn.com/livenews/3031051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时21分]"
-        },
-        {
-          "title": "墨西哥总统回应特朗普：合作可以，干预不行",
-          "url": "https://wallstreetcn.com/livenews/3030994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时19分]"
-        },
-        {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.toutiao.com/trending/7591151766478290986/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 11时26分]"
-        },
-        {
-          "title": "乌克兰外交部长：此类袭击表明俄罗斯总统普京完全无视由美国总统特朗普主导的和平努力。",
-          "url": "https://flash.jin10.com/detail/20260106021438268800",
-          "source": "金十数据",
-          "ranks": [
-            4,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "美国总统特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3031704",
+          "title": "美国总统特朗普：委内瑞拉的电力供应被切断了。",
+          "url": "https://wallstreetcn.com/livenews/3031773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            20
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时19分]"
-        },
-        {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 12时37分]"
-        },
-        {
-          "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
-          "url": "https://flash.jin10.com/detail/20260106050326397800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
           "source": "百度热搜",
           "ranks": [
-            23,
-            17,
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时35分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时37分]"
-        },
-        {
-          "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3031091",
+          "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
+          "url": "https://wallstreetcn.com/livenews/3031771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国总统特朗普：希望最高法院做出有利于我国的裁决。",
+          "url": "https://flash.jin10.com/detail/20260106233045494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普称加州现已成为欺诈调查的目标",
+          "url": "https://wallstreetcn.com/livenews/3031765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国总统特朗普：F-35和阿帕奇直升机制造时间太长。",
+          "url": "https://flash.jin10.com/detail/20260106232946014800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
+          "url": "https://flash.jin10.com/detail/20260106232908036800",
+          "source": "金十数据",
+          "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
-          "url": "https://flash.jin10.com/detail/20260106033006198800",
+          "title": "美国总统特朗普：将要求国防承包商加快建设速度。",
+          "url": "https://flash.jin10.com/detail/20260106232836411800",
           "source": "金十数据",
           "ranks": [
-            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国总统特朗普：制造武器耗时太长。",
+          "url": "https://flash.jin10.com/detail/20260106232832385800",
+          "source": "金十数据",
+          "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "特朗普称西半球是我们的半球",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：将更快地开始生产武器。",
+          "url": "https://flash.jin10.com/detail/20260106232823127800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            15
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
-          "url": "https://wallstreetcn.com/livenews/3031063",
+          "title": "美元/瑞郎日内涨幅达0.5%，报0.7953。",
+          "url": "https://wallstreetcn.com/livenews/3031780",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            16
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3031058",
+          "title": "纽约银日内涨幅达5.0%，报80.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3031772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
-        },
-        {
-          "title": "特朗普一天之内威胁多国",
-          "url": "https://www.toutiao.com/trending/7591841454150913599/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
-          "url": "https://flash.jin10.com/detail/20260106070009215800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
-          "url": "https://wallstreetcn.com/livenews/3031665",
+          "title": "AI初创公司Lmarena按17亿美元估值融资1.5亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3031770",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "知情人士：特朗普政府计划本周约谈美国石油巨头",
-          "url": "https://flash.jin10.com/detail/20260106174326152800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普涉印度表态让印网民不满",
-          "url": "https://www.toutiao.com/trending/7591321463978868742/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "特朗普政府大幅削减儿童疫苗接种计划",
-          "url": "https://flash.jin10.com/detail/20260106032305906800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
-          "url": "https://flash.jin10.com/detail/20260106055021121800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美联储理事米兰：预计数据将支持更多降息。 美联储今年应降息超过100个基点。 核心通胀接近美联储目标。 美联储政策具有限制性，正在拖累经济发展。 尚未与特朗普讨论成为美联储主席一事。 美联储主席候选名单上的所有人都很有资历。",
-          "url": "https://wallstreetcn.com/livenews/3031716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
-          "url": "https://flash.jin10.com/detail/20260105234304273800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
-          "url": "https://flash.jin10.com/detail/20260106055013705800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "据Politico：据三位消息人士透露，美国众议院将于周四投票推翻特朗普对两项共和党支持法案的否决。",
-          "url": "https://flash.jin10.com/detail/20260106195816977800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
-          "url": "https://wallstreetcn.com/livenews/3031714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3031110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
-          "url": "https://www.cls.cn/detail/2248515",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
-          "url": "https://flash.jin10.com/detail/20260106004640700800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普派往格陵兰岛的特使：把委内瑞拉和格陵兰岛相提并论并不公允。格陵兰岛的核心在于蓬勃的贸易往来。",
-          "url": "https://flash.jin10.com/detail/20260106205222690800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "委内瑞拉总统马杜罗的儿子Nicolas Maduro Guerra通过国家电视台表示 ：父亲（被特朗普政府）绑架，他将回国。 美军掳走父亲违反国际法。",
-          "url": "https://wallstreetcn.com/livenews/3031006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "美国参议员马克·凯利：美国国防部长赫格塞思和唐纳德·特朗普无权决定美国民众如何评价他们的政府。",
-          "url": "https://flash.jin10.com/detail/20260106004424537800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
-          "url": "https://flash.jin10.com/detail/20260106030259018800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
-          "url": "https://wallstreetcn.com/livenews/3031688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "美国参议员马克·凯利：美国国防部长赫格塞思想向每一位退役军人传达这样的信息——如果他们说了什么他或唐纳德·特朗普不喜欢的话，他们就会遭到同样的报复。",
-          "url": "https://flash.jin10.com/detail/20260106004351865800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "00时22分"
         },
         {
-          "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260106103144934800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "特朗普派往格陵兰岛的特使：特朗普支持格陵兰岛独立。",
-          "url": "https://flash.jin10.com/detail/20260106204844706800",
+          "title": "美元兑瑞郎USD/CHF日内涨幅达0.50%，现报0.7952。",
+          "url": "https://flash.jin10.com/detail/20260106233512920800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "00时22分"
         },
         {
-          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
-          "url": "https://flash.jin10.com/detail/20260106204807985800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "美国总统特朗普对众议院共和党人的讲话将于上午10点左右（北京时间23:00）进行现场直播。",
-          "url": "https://flash.jin10.com/detail/20260106214535298800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "特朗普说马斯克八成是超级天才",
-          "url": "https://wallstreetcn.com/livenews/3031682",
+          "title": "Prosus在12月29日-1月2日当周按均价53.4137欧元回购股票77.4742万，合计将近0.414亿欧元（折合0.641亿美元）。 Naspers同期按均价1115.6887南非兰特回购股票19.0342万，合计超2.123亿兰特（折合0.128亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3031766",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "00时22分"
         },
         {
-          "title": "特朗普在变成第二个拜登吗",
-          "url": "https://www.toutiao.com/trending/7592036422320655891/",
-          "source": "今日头条",
+          "title": "王者荣耀2025年营收超20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美联储理事米兰：尚未就美联储主席职位与特朗普总统交谈。",
-          "url": "https://flash.jin10.com/detail/20260106214218662800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
-          "url": "https://flash.jin10.com/detail/20260105231851320800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "特朗普称有望在18个月内完成委内瑞拉能源改造 专家泼冷水",
-          "url": "https://flash.jin10.com/detail/20260106075724030800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
-          "url": "https://flash.jin10.com/detail/20260105231438346800",
-          "source": "金十数据",
+          "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。 LME期铅日内涨幅达2.00%，现报2064.03美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3031755",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "00时22分"
         },
         {
-          "title": "ICC原检察官：特朗普犯了“侵略罪”",
-          "url": "https://www.toutiao.com/trending/7591104646660948011/",
-          "source": "今日头条",
+          "title": "Kalshi年化成交额达到1000亿美元。（NYT Dealbook）",
+          "url": "https://wallstreetcn.com/livenews/3031754",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32313092",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
         {
           "title": "巴菲特为什么清仓了比亚迪？",
           "url": "https://www.zhihu.com/question/1953387099500815760",
           "source": "知乎",
           "ranks": [
-            16,
-            17,
-            4,
-            3,
-            13,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时21分 ~ 23时19分]"
-        },
-        {
-          "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
-          "url": "https://www.cls.cn/detail/2248257",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "比亚迪去年在欧洲两大电动车市场销量超越特斯拉",
-          "url": "https://wallstreetcn.com/livenews/3031703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
-          "url": "https://flash.jin10.com/detail/20260106063634804800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3031108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "00时22分"
         }
       ]
     }
