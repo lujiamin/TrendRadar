@@ -1,12 +1,82 @@
 {
-  "generated_at": "2026-01-07T02:25:30.412589+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-07T03:14:12.861753+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "哥伦比亚就特朗普言论向美国发出外交照会",
+          "url": "https://wallstreetcn.com/livenews/3031852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff：在乌克兰安全担保框架方面取得进展。 美方将在今明两天继续与乌克兰磋商。",
+          "url": "https://wallstreetcn.com/livenews/3031851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
         {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
@@ -30,17 +100,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
           "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
           "url": "https://wallstreetcn.com/livenews/3031788",
           "source": "华尔街见闻-快讯",
@@ -53,40 +112,27 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
+          "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3031823",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         },
         {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
+          "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
+          "url": "https://flash.jin10.com/detail/20260107025800176800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            22,
-            17
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -139,7 +185,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -164,17 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
-          "url": "https://wallstreetcn.com/livenews/3031823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -326,7 +361,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -334,7 +369,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -345,30 +380,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
-          "title": "周二（1月6日），美联储隔夜逆回购协议（RRP）使用规模为25.82亿美元（交易对手10家），上个交易日报64.85亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "巴西贸易部预计2026年出口额将高达3800亿美元，2026年进口额将高达2900亿美元，贸易顺差最高可达900亿美元。",
-          "url": "https://flash.jin10.com/detail/20260107020402088800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "王者荣耀2025年营收超20亿美元",
@@ -377,11 +390,35 @@
           "ranks": [
             23,
             19,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "巴西贸易部预计2026年出口额将高达3800亿美元，2026年进口额将高达2900亿美元，贸易顺差最高可达900亿美元。",
+          "url": "https://flash.jin10.com/detail/20260107020402088800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "周二（1月6日），美联储隔夜逆回购协议（RRP）使用规模为25.82亿美元（交易对手10家），上个交易日报64.85亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
@@ -396,6 +433,30 @@
           "time_info": "[01时21分 ~ 02时25分]"
         },
         {
+          "title": "现货白银日内涨幅达6.0%，报81.21美元/盎司。 纽约银日内涨幅达6.0%，报81.28美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3031832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "LME期铜收涨246美元，报13238美元/吨。 LME期铝收涨44美元，报3129美元/吨。 LME期锌收涨56美元，报3251美元/吨。 LME期铅收涨52美元，报2076美元/吨。 LME期镍收涨1521美元，报18524美元/吨。 LME期锡收涨2060美元，报44526美元/吨。 LME期钴收涨1455美元，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3031831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.7953。",
           "url": "https://wallstreetcn.com/livenews/3031780",
           "source": "华尔街见闻-快讯",
@@ -406,6 +467,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时21分]"
+        },
+        {
+          "title": "现货白银站上81美元/盎司，日内涨5.76%。",
+          "url": "https://wallstreetcn.com/livenews/3031828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "周二（1月6日），韩元兑美元最终跌0.16%，报1447.45韩元。",
+          "url": "https://wallstreetcn.com/livenews/3031826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         },
         {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
@@ -419,37 +504,37 @@
           "time_info": "01时21分"
         },
         {
-          "title": "现货白银日内涨幅达6.0%，报81.21美元/盎司。 纽约银日内涨幅达6.0%，报81.28美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3031832",
+          "title": "英伟达跌0.34%，刷新日低至187.30美元，该公司CEO黄仁勋正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3031846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "03时14分"
         },
         {
-          "title": "LME期铜收涨246美元，报13238美元/吨。 LME期铝收涨44美元，报3129美元/吨。 LME期锌收涨56美元，报3251美元/吨。 LME期铅收涨52美元，报2076美元/吨。 LME期镍收涨1521美元，报18524美元/吨。 LME期锡收涨2060美元，报44526美元/吨。 LME期钴收涨1455美元，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3031831",
+          "title": "阿根廷通过电厂私有化买入美元，总统米莱的政府即将在数日之后面临关键的债务偿还。",
+          "url": "https://wallstreetcn.com/livenews/3031841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "03时14分"
         },
         {
-          "title": "现货白银站上81美元/盎司，日内涨5.76%。",
-          "url": "https://wallstreetcn.com/livenews/3031828",
+          "title": "现货黄金日内涨幅达1.0%，报4493.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3031840",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "03时14分"
         },
         {
           "title": "现货白银日内暴涨6.00%，现报81.20美元/盎司。",
@@ -458,18 +543,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "周二（1月6日），韩元兑美元最终跌0.16%，报1447.45韩元。",
-          "url": "https://wallstreetcn.com/livenews/3031826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -535,7 +609,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -579,7 +653,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -607,11 +681,12 @@
           "ranks": [
             9,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     }
