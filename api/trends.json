@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T07:17:23.591659+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-06T09:18:41.357810+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -36,6 +36,18 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时18分]"
+        },
+        {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3031081",
           "source": "华尔街见闻-快讯",
@@ -47,26 +59,26 @@
           "time_info": "04时21分"
         },
         {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
           "title": "BlueScope股价飙升15%。此前Steel Dynamics和SGH提议，按88亿美元收购BlueScope。",
           "url": "https://wallstreetcn.com/livenews/3031152",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3031226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "现货金银周二小幅高开，分别报4451美元/盎司和76.73美元/盎司。",
@@ -75,7 +87,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -286,6 +298,18 @@
           "time_info": "[02时27分 ~ 03时18分]"
         },
         {
+          "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319448",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时18分]"
+        },
+        {
           "title": "周一（1月5日），美联储隔夜逆回购协议（RRP）使用规模为64.85亿美元（交易对手17个），上个交易日报56.67亿美元。",
           "url": "https://wallstreetcn.com/livenews/3031055",
           "source": "华尔街见闻-快讯",
@@ -463,17 +487,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32319448",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
           "title": "制造业疲软拖累美债收益率 美元高位回吐涨幅",
           "url": "https://flash.jin10.com/detail/20260105233306495800",
           "source": "金十数据",
@@ -483,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "据CoinShares：全球加密货币交易所交易产品（ETPs）在2025年累计获得472亿美元资金流入，略微低于2024年所创历史最高纪录。 其中，比特币ETPs流入269亿美元，降幅35%。 而以太坊、XRP、Solana相关的ETPs合计流入超过200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美元指数5日下跌",
@@ -505,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "墨西哥财政部声明称，今年首次发行了价值90亿美元的债券。",
+          "url": "https://wallstreetcn.com/livenews/3031202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "伦铝日内涨幅扩大至2.00%，现报3080.10美元/吨。",
@@ -535,7 +570,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -565,7 +600,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -575,8 +610,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -588,8 +623,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -643,8 +678,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时18分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -658,6 +693,18 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "特朗普接连向多国发出威胁",
+          "url": "https://www.douyin.com/hot/2358156",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 09时18分]"
+        },
+        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -665,17 +712,6 @@
             20,
             16,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普接连向多国发出威胁",
-          "url": "https://www.douyin.com/hot/2358156",
-          "source": "抖音",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -699,7 +735,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -710,9 +746,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：特朗普政府在委内瑞拉的所作所为符合法律规定。",
+          "url": "https://flash.jin10.com/detail/20260106090218091800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -726,13 +784,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国众议院议长约翰逊：委内瑞拉发生的事情并非政权更迭；特朗普采取任何行动保护美国人都是正确的。",
+          "url": "https://flash.jin10.com/detail/20260106090149019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国白宫办公厅副主任斯蒂芬·米勒：特朗普已要求卢比奥领导委内瑞拉进程，委内瑞拉任何商务往来都需要美国的批准，我们正得到委内瑞拉的全力配合。",
           "url": "https://wallstreetcn.com/livenews/3031148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -743,7 +812,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -754,7 +823,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -884,9 +953,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "特朗普涉印度表态让印网民不满",
+          "url": "https://www.toutiao.com/trending/7591321463978868742/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -909,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -942,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -1010,6 +1123,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普称有望在18个月内完成委内瑞拉能源改造 专家泼冷水",
+          "url": "https://flash.jin10.com/detail/20260106075724030800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
           "url": "https://flash.jin10.com/detail/20260105231438346800",
           "source": "金十数据",
@@ -1046,7 +1170,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
