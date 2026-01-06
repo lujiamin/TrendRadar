@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:18:41.357810+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-06T11:26:32.431004+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时26分]"
         },
         {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "花旗预计，人民币兑美元将在未来6-12个月升至6.8，预计该货币对未来三个月可能在6.9左右波动。",
+          "url": "https://wallstreetcn.com/livenews/3031326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "BlueScope股价飙升15%。此前Steel Dynamics和SGH提议，按88亿美元收购BlueScope。",
@@ -76,9 +87,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "现货白银日内涨超2%，站上78美元/盎司关口。",
+          "url": "https://wallstreetcn.com/livenews/3031322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "现货金银周二小幅高开，分别报4451美元/盎司和76.73美元/盎司。",
@@ -202,6 +224,18 @@
           "time_info": "[03时18分 ~ 05时17分]"
         },
         {
+          "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319448",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时26分]"
+        },
+        {
           "title": "美国能源部宣布拨款27亿美元以加强美国的铀浓缩能力。",
           "url": "https://flash.jin10.com/detail/20260106023638125800",
           "source": "金十数据",
@@ -298,18 +332,6 @@
           "time_info": "[02时27分 ~ 03时18分]"
         },
         {
-          "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32319448",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时18分]"
-        },
-        {
           "title": "周一（1月5日），美联储隔夜逆回购协议（RRP）使用规模为64.85亿美元（交易对手17个），上个交易日报56.67亿美元。",
           "url": "https://wallstreetcn.com/livenews/3031055",
           "source": "华尔街见闻-快讯",
@@ -366,6 +388,28 @@
           "time_info": "02时27分"
         },
         {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "新加坡元兑美元持续走高，触及1.2796，为2025年9月18日以来高位。",
+          "url": "https://flash.jin10.com/detail/20260106105130772800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "周一（1月5日）纽约尾盘，现货黄金涨2.64%，报4446.50美元/盎司。 COMEX黄金期货涨2.96%，报4457.60美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3031114",
           "source": "华尔街见闻-快讯",
@@ -397,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "现货铂金涨近3%，报2339.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106103523677800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
@@ -504,7 +559,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -537,7 +592,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -551,6 +606,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至2.00%，现报1739.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102829007800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报77.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102803282800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
@@ -586,6 +663,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "新加坡元兑美元上涨0.1%至1.2810，为2025年9月19日以来最强水位。",
+          "url": "https://wallstreetcn.com/livenews/3031274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "电力需求激增，美国向核燃料制造商提供27亿美元资助",
           "url": "https://wallstreetcn.com/livenews/3030992",
           "source": "华尔街见闻-快讯",
@@ -600,7 +688,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -678,8 +766,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时26分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -757,20 +845,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.toutiao.com/trending/7591151766478290986/",
-          "source": "今日头条",
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "11时26分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -790,7 +878,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -864,6 +952,18 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 11时26分]"
+        },
+        {
           "title": "乌克兰外交部长：此类袭击表明俄罗斯总统普京完全无视由美国总统特朗普主导的和平努力。",
           "url": "https://flash.jin10.com/detail/20260106021438268800",
           "source": "金十数据",
@@ -912,6 +1012,28 @@
           "time_info": "[04时21分 ~ 05时17分]"
         },
         {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 11时26分]"
+        },
+        {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
           "url": "https://wallstreetcn.com/livenews/3031063",
           "source": "华尔街见闻-快讯",
@@ -947,6 +1069,28 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
           "url": "https://flash.jin10.com/detail/20260106070009215800",
           "source": "金十数据",
@@ -958,24 +1102,13 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "特朗普涉印度表态让印网民不满",
           "url": "https://www.toutiao.com/trending/7591321463978868742/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -1000,17 +1133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -1046,15 +1168,37 @@
           "time_info": "06时17分"
         },
         {
+          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
+          "url": "https://www.cls.cn/detail/2248515",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -1112,6 +1256,28 @@
           "time_info": "01时19分"
         },
         {
+          "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260106103144934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "特朗普在变成第二个拜登吗",
+          "url": "https://www.toutiao.com/trending/7592036422320655891/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
           "url": "https://flash.jin10.com/detail/20260105231851320800",
           "source": "金十数据",
@@ -1129,9 +1295,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
@@ -1143,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "ICC原检察官：特朗普犯了“侵略罪”",
+          "url": "https://www.toutiao.com/trending/7591104646660948011/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
