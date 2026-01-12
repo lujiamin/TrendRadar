@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:22:20.451005+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-01-12T23:21:42.994737+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -58,6 +58,17 @@
           "time_info": "[21时39分 ~ 22时22分]"
         },
         {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "人民币兑美元中间价创2024年9月30日以来新高",
           "url": "https://wallstreetcn.com/livenews/3034858",
           "source": "华尔街见闻-快讯",
@@ -67,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "现货黄金站上4600美元后略有回落，目前报4584美元/盎司。",
@@ -319,7 +341,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -341,7 +363,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -363,7 +385,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -429,9 +451,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)将在未来五年内与礼来(LLY.N)共同投资10亿美元建立人工智能药物实验室。",
+          "url": "https://flash.jin10.com/detail/20260112230042713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "Lululemon(LULU.O)预计第四季度净收入在35亿美元至35.9亿美元的高端区间，市场预测为35.8亿美元。",
@@ -454,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "花旗：将Palantir(PLTR.N)评级从“中性”上调至“买入”；将目标价从210美元上调至235美元。",
+          "url": "https://flash.jin10.com/detail/20260112225949302800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "现货钯金涨逾3%，报每盎司1,873.50美元。",
@@ -484,7 +528,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -553,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "智利国家铜业公司董事长：债务约为240亿美元；年度投资已增至50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260112225345099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "现货白银涨4%站上83美元/盎司。 现货黄金涨1.66%报4584美元/盎司。",
@@ -734,7 +789,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -758,8 +813,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时28分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 23时21分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -770,8 +825,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时28分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 23时21分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -901,6 +956,43 @@
           "time_info": "[00时19分 ~ 06时17分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时17分 ~ 23时21分]"
+        },
+        {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时21分]"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时37分 ~ 23时21分]"
+        },
+        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -925,19 +1017,6 @@
           "time_info": "[09时22分 ~ 13时27分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时17分 ~ 22时22分]"
-        },
-        {
           "title": "全美抗议 特朗普“后院”失火",
           "url": "https://www.toutiao.com/trending/7594088610216361990/",
           "source": "今日头条",
@@ -947,28 +1026,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
-          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时37分 ~ 22时22分]"
         },
         {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
@@ -983,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时45分 ~ 15时24分]"
+        },
+        {
+          "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3035435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -1045,6 +1113,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时16分]"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时21分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -1119,18 +1199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 18时22分]"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时39分 ~ 22时22分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -1326,7 +1394,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1373,6 +1441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "鲍威尔称被调查只因没听特朗普话",
@@ -1466,7 +1545,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
@@ -1478,6 +1557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "iShares MSCI中国ETF上涨1.6%，iShares中国大盘股ETF上涨1.5%。热门中概股延续涨势，阿里巴巴(BABA.N)涨超7%、小鹏汽车(XPEV.N)涨超4%、蔚来汽车(NIO.N)涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260112225556093800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
