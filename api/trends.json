@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T12:46:40.786660+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-01-12T13:27:24.412028+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时27分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -69,6 +70,17 @@
           "time_info": "[00时19分 ~ 09时22分]"
         },
         {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
           "url": "https://wallstreetcn.com/livenews/3034755",
           "source": "华尔街见闻-快讯",
@@ -83,17 +95,6 @@
           "time_info": "[00时19分 ~ 06时17分]"
         },
         {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时46分]"
-        },
-        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -105,26 +106,15 @@
           "time_info": "[09时22分 ~ 11时45分]"
         },
         {
-          "title": "全美抗议 特朗普“后院”失火",
-          "url": "https://www.toutiao.com/trending/7594088610216361990/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 07时16分]"
-        },
-        {
           "title": "特朗普发图自称“委内瑞拉代总统”",
           "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -136,8 +126,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 13时27分]"
+        },
+        {
+          "title": "全美抗议 特朗普“后院”失火",
+          "url": "https://www.toutiao.com/trending/7594088610216361990/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时16分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -166,15 +167,15 @@
           "time_info": "[00时19分 ~ 05时15分]"
         },
         {
-          "title": "分析师：特朗普攻击美联储动摇市场信心",
-          "url": "https://flash.jin10.com/detail/20260112115831082800",
-          "source": "金十数据",
+          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3034991",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "13时27分"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -234,11 +235,36 @@
           "source": "抖音",
           "ranks": [
             4,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时27分]"
+        },
+        {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 13时27分]"
+        },
+        {
+          "title": "分析师：特朗普攻击美联储动摇市场信心",
+          "url": "https://flash.jin10.com/detail/20260112115831082800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时46分]"
+          "time_info": "[12时46分 ~ 13时27分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -274,15 +300,41 @@
           "time_info": "[00时19分 ~ 03时13分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时46分]"
+          "time_info": "[11时45分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时27分]"
+        },
+        {
+          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3034951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时27分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -296,41 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时46分]"
-        },
-        {
-          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3034951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时46分]"
         },
         {
           "title": "特朗普发图自称委内瑞拉代总统",
@@ -373,7 +390,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -447,8 +464,20 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "现货黄金首次涨至4600美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E6%B6%A8%E8%87%B34600%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
         {
           "title": "人民币兑美元中间价创2024年9月30日以来新高",
           "url": "https://wallstreetcn.com/livenews/3034858",
@@ -459,17 +488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "现货黄金首次涨至4600美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E6%B6%A8%E8%87%B34600%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         },
         {
           "title": "现货黄金站上4600美元后略有回落，目前报4584美元/盎司。",
@@ -505,6 +523,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "杰富瑞：将波音(BA.N)目标价从255美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20260112124657476800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "廉价航空公司Allegiant将按15亿美元（现金+股票）收购竞争对手Sun Country。",
           "url": "https://wallstreetcn.com/livenews/3034776",
           "source": "华尔街见闻-快讯",
@@ -524,8 +553,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时27分]"
         },
         {
           "title": "鲍威尔遭刑事调查冲击全球市场：美元急跌、金价升破4600美元",
@@ -534,9 +563,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
         },
         {
           "title": "沪锡主力合约日内大涨6.00%，现报369980.00元/吨。伦锡日内涨超7%，现报46575.00美元/吨。",
@@ -548,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "韩元兑美元跌幅扩大至0.7%，表现逊于其他新兴市场亚洲货币。",
+          "url": "https://wallstreetcn.com/livenews/3034985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "现货黄金首次站上4600美元",
