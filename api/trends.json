@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T09:22:45.424746+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-12T11:45:53.734201+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -37,11 +37,24 @@
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 11时45分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时19分 ~ 09时22分]"
+          "time_info": "[00时19分 ~ 11时45分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -70,16 +83,15 @@
           "time_info": "[00时19分 ~ 06时17分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
+          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时45分]"
         },
         {
           "title": "全美抗议 特朗普“后院”失火",
@@ -93,15 +105,15 @@
           "time_info": "[01时14分 ~ 07时16分]"
         },
         {
-          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
-          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时45分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -130,15 +142,15 @@
           "time_info": "[00时19分 ~ 05时15分]"
         },
         {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
-          "source": "凤凰网",
+          "title": "特朗普对台问题表态引岛内热议",
+          "url": "https://www.douyin.com/hot/2364980",
+          "source": "抖音",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "11时45分"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -193,6 +205,18 @@
           "time_info": "[05时15分 ~ 07时16分]"
         },
         {
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时45分]"
+        },
+        {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
           "url": "https://flash.jin10.com/detail/20260111203618040800",
           "source": "金十数据",
@@ -245,20 +269,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时45分]"
         },
         {
-          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
-          "url": "https://www.cls.cn/detail/2254115",
-          "source": "财联社热门",
+          "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
+          "url": "https://flash.jin10.com/detail/20260112111415549800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "11时45分"
+        },
+        {
+          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3034951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "鲍威尔称被调查只因没听特朗普话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%8D%E5%A8%81%E5%B0%94%E7%A7%B0%E8%A2%AB%E8%B0%83%E6%9F%A5%E5%8F%AA%E5%9B%A0%E6%B2%A1%E5%90%AC%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%9D%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
@@ -267,9 +335,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普：可能否决延长医疗补贴的法案",
+          "url": "https://flash.jin10.com/detail/20260112104054089800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "特朗普发图自称委内瑞拉代总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%9B%BE%E8%87%AA%E7%A7%B0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "特朗普称信用卡公司若不设定利率上限将违法",
+          "url": "https://flash.jin10.com/detail/20260112103526201800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "关于委内瑞拉，特朗普称，一切进展顺利。 不喜欢埃克森美孚对委内瑞拉问题的回应。 倾向于让埃克森美孚排除在外。",
@@ -278,7 +379,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -289,15 +390,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普称伊朗提议谈判但美国或“先行动”",
+          "url": "https://wallstreetcn.com/livenews/3034906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "人民币兑美元中间价创2024年9月30日以来新高",
@@ -306,7 +418,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -317,7 +429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -328,7 +440,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -339,7 +451,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -362,7 +474,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -373,7 +485,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -384,7 +496,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -395,7 +507,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -406,7 +518,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -417,7 +529,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -428,7 +540,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -439,7 +551,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -450,9 +562,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "现货黄金首次站上4600美元",
+          "url": "https://www.douyin.com/hot/2364906",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "纽约期银日内大涨5.00%，现报83.31美元/盎司。",
@@ -461,7 +584,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -472,7 +595,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -483,7 +606,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -494,7 +617,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -505,7 +628,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -516,7 +639,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -527,7 +650,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
@@ -546,11 +669,12 @@
             9,
             5,
             7,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 09时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 11时45分]"
         }
       ]
     }
