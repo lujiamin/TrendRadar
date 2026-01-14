@@ -1,279 +1,11 @@
 {
-  "generated_at": "2026-01-15T04:18:02.925234+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-01-15T05:18:57.408980+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
-          "url": "https://wallstreetcn.com/articles/3763245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时18分]"
-        },
-        {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 04时18分]"
-        },
-        {
-          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时24分]"
-        },
-        {
-          "title": "现货白银日内涨幅达7.0%，报93.1美元/盎司。 纽约银日内涨幅达8.0%，报93.38美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3037277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "据Semafor：政府官员表示，美国已达成首笔价值5亿美元的委内瑞拉石油交易。",
-          "url": "https://flash.jin10.com/detail/20260115030450775800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "现货白银日内暴涨7.00%，突破93美元/盎司，再创新高。",
-          "url": "https://flash.jin10.com/detail/20260115040930692800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3037223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时28分]"
-        },
-        {
-          "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3037264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
-        },
-        {
-          "title": "NYMEX天然气期货跌幅扩大至10%，创最近12周新低，暂报3.1美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3037222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时28分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
-          "url": "https://wallstreetcn.com/livenews/3037221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时28分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9739元，较周二夜盘收盘涨56点。成交量383.78亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3037262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
-        },
-        {
-          "title": "周三（1月14日），韩元兑美元最终涨0.76%，报1464.70韩元。 北京时间22:00，美国财行贝森特置评韩元而从1475.40一线飙升至1461.23。",
-          "url": "https://wallstreetcn.com/livenews/3037252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
-        },
-        {
-          "title": "周三（1月14日），美联储隔夜逆回购协议（RRP）使用规模为32.23亿美元（交易对手15家），上个交易日报32.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3037249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
-        },
-        {
-          "title": "WTI原油回落至60美元/桶下方，短线跌幅达2美元，日内跌1.82%。",
-          "url": "https://flash.jin10.com/detail/20260115040720193800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
-          "url": "https://wallstreetcn.com/livenews/3037272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "纽约期银突破93美元/盎司，日内涨7.72%。",
-          "url": "https://wallstreetcn.com/livenews/3037270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "WTI原油日内涨超2.00%，现报62.33美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260115035840275800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了15个对手方的32.23亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115024616241800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "布伦特原油日内涨幅扩大至2.00%，现报66.90美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260115035620849800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "AgiBank申请美国IPO，寻求按代码“AGBK”在纽交所挂牌交易其股票。 彭博援引知情人士报道称，巴西AgiBank计划通过美国IPO融资10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3037205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "智利国家铜业公司：已获得一项价值28亿美元的环境许可，用于延长Ministro Hales矿山的开采年限。",
-          "url": "https://flash.jin10.com/detail/20260115034412709800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美国天然气期货日内暴跌9.00%，现报3.111美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260115002507829800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "纽约期银站上93美元/盎司，日内涨7.72%。",
-          "url": "https://flash.jin10.com/detail/20260115032036698800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -296,19 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时18分]"
-        },
-        {
-          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3037278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -322,6 +43,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
+          "url": "https://wallstreetcn.com/livenews/3037300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
           "url": "https://wallstreetcn.com/livenews/3037193",
           "source": "华尔街见闻-快讯",
@@ -333,15 +65,51 @@
           "time_info": "00时25分"
         },
         {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
           "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
           "url": "https://wallstreetcn.com/livenews/3037276",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
+          "url": "https://wallstreetcn.com/livenews/3037268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
@@ -385,9 +153,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "特朗普称与委内瑞拉代总统通话",
+          "url": "https://wallstreetcn.com/livenews/3037292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
@@ -396,18 +175,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
-          "url": "https://wallstreetcn.com/livenews/3037268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -418,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -429,7 +197,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -440,9 +208,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：与丹麦关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3037286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
@@ -451,9 +230,97 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：今天早上和委内瑞拉方面通了电话。",
+          "url": "https://flash.jin10.com/detail/20260115044513703800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：已选定新助理司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260115044157137800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260115044111087800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
+          "url": "https://wallstreetcn.com/livenews/3037280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：我想会有办法的。",
+          "url": "https://flash.jin10.com/detail/20260115044104596800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：我不能指望丹麦。",
+          "url": "https://flash.jin10.com/detail/20260115044054055800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及是否排除对伊朗采取军事行动）我们会观察事态发展，然后再做决定。",
+          "url": "https://flash.jin10.com/detail/20260115043926070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -478,6 +345,39 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260115043826743800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
+          "url": "https://flash.jin10.com/detail/20260115043746236800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260115043632565800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3037168",
           "source": "华尔街见闻-快讯",
@@ -487,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "特朗普称伊朗“杀戮”已停止 或暗示暂缓对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260115042905002800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "特朗普当场被激怒，白宫称抗议者是“歇斯底里的疯子”，福特将其停职",
@@ -513,8 +424,336 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
+          "url": "https://wallstreetcn.com/articles/3763245",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 05时18分]"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时24分]"
+        },
+        {
+          "title": "据Semafor：政府官员表示，美国已达成首笔价值5亿美元的委内瑞拉石油交易。",
+          "url": "https://flash.jin10.com/detail/20260115030450775800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "现货白银日内暴涨7.00%，突破93美元/盎司，再创新高。",
+          "url": "https://flash.jin10.com/detail/20260115040930692800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3037264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时18分]"
+        },
+        {
+          "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3037223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时28分]"
+        },
+        {
+          "title": "现货白银日内涨幅达7.0%，报93.1美元/盎司。 纽约银日内涨幅达8.0%，报93.38美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3037277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "NYMEX天然气期货跌幅扩大至10%，创最近12周新低，暂报3.1美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3037222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时28分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3037221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时28分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9739元，较周二夜盘收盘涨56点。成交量383.78亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3037262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
+          "url": "https://wallstreetcn.com/livenews/3037272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "纽约期银突破93美元/盎司，日内涨7.72%。",
+          "url": "https://wallstreetcn.com/livenews/3037270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "周三（1月14日），韩元兑美元最终涨0.76%，报1464.70韩元。 北京时间22:00，美国财行贝森特置评韩元而从1475.40一线飙升至1461.23。",
+          "url": "https://wallstreetcn.com/livenews/3037252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "周三（1月14日），美联储隔夜逆回购协议（RRP）使用规模为32.23亿美元（交易对手15家），上个交易日报32.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3037249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "WTI原油回落至60美元/桶下方，短线跌幅达2美元，日内跌1.82%。",
+          "url": "https://flash.jin10.com/detail/20260115040720193800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "周三（1月14日）纽约尾盘，ICE美元指数跌0.06%，报99.077点，日内交投区间为99.248-98.933点，北京时间00:02刷新日低，全天V形走势。 彭博美元指数跌0.10%，报1210.52点，09:35微涨至1212.63点刷新日高，最后震荡走低，00:03刷新日低至1209.09点。",
+          "url": "https://wallstreetcn.com/livenews/3037289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "WTI原油期货陡然跳水，下跌3%，逼近59美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3037285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "WTI原油日内涨超2.00%，现报62.33美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260115035840275800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了15个对手方的32.23亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115024616241800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至2.00%，现报66.90美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260115035620849800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "AgiBank申请美国IPO，寻求按代码“AGBK”在纽交所挂牌交易其股票。 彭博援引知情人士报道称，巴西AgiBank计划通过美国IPO融资10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3037205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "智利国家铜业公司：已获得一项价值28亿美元的环境许可，用于延长Ministro Hales矿山的开采年限。",
+          "url": "https://flash.jin10.com/detail/20260115034412709800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "WTI原油日内大跌3.00%，现报59.24美元/桶。布伦特原油跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260115043904912800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国天然气期货日内暴跌9.00%，现报3.111美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260115002507829800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "纽约期银站上93美元/盎司，日内涨7.72%。",
+          "url": "https://flash.jin10.com/detail/20260115032036698800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国官员：美国已完成首笔价值5亿美元的委内瑞拉石油销售。未来几天和几周内预计委内瑞拉石油的额外销量将增加。",
+          "url": "https://flash.jin10.com/detail/20260115041607980800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国国防部：美国国务院批准向伊拉克出售超小型孔径终端，预计金额为1.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115041511041800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -523,7 +762,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -532,11 +771,12 @@
           "url": "https://wallstreetcn.com/livenews/3037274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -551,13 +791,24 @@
           "time_info": "[02时28分 ~ 03时17分]"
         },
         {
+          "title": "OpenAI与Cerebras达成百亿美元算力合作",
+          "url": "https://flash.jin10.com/detail/20260115045202393800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
           "url": "https://flash.jin10.com/detail/20260115040115164800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -568,9 +819,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，美团初步收跌约4%，拼多多跌3.9%，网易、理想、蔚来、小鹏跌超2%，百度涨0.8%，腾讯涨1%，文远知行涨1.3%，小马智行涨1.8%，阿里巴巴涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3037295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     }
