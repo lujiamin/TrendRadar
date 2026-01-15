@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:20:28.395734+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-15T19:17:04.802574+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -44,18 +44,6 @@
           "time_info": "[00时25分 ~ 04时18分]"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 18时20分]"
-        },
-        {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
@@ -67,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时37分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时37分 ~ 19时17分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -78,8 +66,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 19时17分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时17分 ~ 19时17分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时17分 ~ 15时22分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "市场消息：美国总统特朗普表示，不知道他（伊朗反对派领袖礼萨·巴列维）在自己国家会如何表现。",
@@ -191,9 +202,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -245,6 +268,17 @@
           "time_info": "[06时19分 ~ 07时15分]"
         },
         {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普同委内瑞拉代总统通话",
           "url": "https://www.toutiao.com/trending/7594631182898397227/",
           "source": "今日头条",
@@ -255,18 +289,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 14时28分]"
-        },
-        {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时20分]"
         },
         {
           "title": "特朗普邀请记者喝放了5天的牛奶",
@@ -409,17 +431,6 @@
           "time_info": "[04时17分 ~ 04时18分]"
         },
         {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
           "url": "https://flash.jin10.com/detail/20260115040624036800",
           "source": "金十数据",
@@ -484,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "民调显示，特朗普支持率从1月初的42%下滑至41%。",
+          "url": "https://flash.jin10.com/detail/20260115190107698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
@@ -929,7 +951,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 75,
+      "match_count": 80,
       "titles": [
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -941,8 +963,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 19时17分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1003,6 +1025,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "Spotify：将把美国、爱沙尼亚和拉脱维亚现有用户的高级订阅服务价格从每月11.99美元提高到12.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3037951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "机构：澳元兑美元年内或上行至0.70",
           "url": "https://flash.jin10.com/detail/20260115110741207800",
           "source": "金十数据",
@@ -1012,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "贝莱德第四季度收入增长23%，达到70亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115190413145800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "现货白银跌1.5%报91.81美元/盎司。",
@@ -1089,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "贝莱德第四财季资产管理规模14.04万亿美元，市场预期13.94万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115190245610800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "台积电：预计2026年资本支出520亿美元至560亿美元。 未来三年资本支出将大幅增加。 长期毛利率达到56%及以上是可实现的。 预计2026年销售额（以美元计）将增长接近30%。",
@@ -1223,6 +1278,17 @@
           "time_info": "[03时17分 ~ 04时18分]"
         },
         {
+          "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
           "url": "https://wallstreetcn.com/livenews/3037272",
           "source": "华尔街见闻-快讯",
@@ -1354,6 +1420,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3037945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美、布两油在纽约尾盘短线拉升近1美元。",
           "url": "https://flash.jin10.com/detail/20260115055503387800",
           "source": "金十数据",
@@ -1442,6 +1519,17 @@
           "time_info": "17时25分"
         },
         {
+          "title": "澳元兑美元AUD/USD突破0.67，日内涨0.30%。",
+          "url": "https://flash.jin10.com/detail/20260115184237673800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "韩国央行行长李昌镛：韩元兑美元走弱可能影响通胀，进而可能导致政策利率上调。",
           "url": "https://flash.jin10.com/detail/20260115105340891800",
           "source": "金十数据",
@@ -1503,7 +1591,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1528,17 +1616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了15个对手方的32.23亿美元。",
@@ -1646,7 +1723,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
