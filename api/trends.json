@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:20:39.531653+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2026-01-16T23:20:17.465201+08:00",
+  "total_titles_processed": 2137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 99,
+      "match_count": 103,
       "titles": [
         {
           "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
@@ -109,7 +109,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -134,6 +134,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时20分]"
         },
         {
           "title": "杰富瑞：将英伟达(NVDA.O)目标价从250美元上调至275美元。",
@@ -195,18 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "LME三个月期锡下跌7.5%，至每吨48,110美元。",
@@ -498,6 +498,17 @@
           "time_info": "[03时22分 ~ 04时20分]"
         },
         {
+          "title": "标普500指数转跌，道指下跌逾百点、跌幅超0.2%，纳指大致持平。 美元/日元日内跌幅达0.5%，报157.84。",
+          "url": "https://wallstreetcn.com/livenews/3038894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260115234252489800",
           "source": "金十数据",
@@ -559,7 +570,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -691,7 +702,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -806,6 +817,17 @@
           "time_info": "21时35分"
         },
         {
+          "title": "美光科技涨超8%，盘中值首次突破4000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国至1月16日当周外国央行持有美国国债 38.88亿美元，前值322.18亿美元。",
           "url": "https://flash.jin10.com/detail/20260116053056924800",
           "source": "金十数据",
@@ -834,7 +856,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -867,7 +889,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -878,7 +900,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -903,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美光科技(MU.O)上涨逾8%，总市值首次突破4000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260116224211918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "现货铂金下跌3%，至每盎司2336.35美元。",
@@ -966,7 +999,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -999,7 +1032,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1021,7 +1054,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1054,9 +1087,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260116223032607800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.8039。",
@@ -1139,7 +1183,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 99,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -1162,6 +1206,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时18分]"
+        },
+        {
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时28分 ~ 23时20分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -1187,22 +1247,6 @@
           "time_info": "[09时19分 ~ 16时24分]"
         },
         {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时28分 ~ 22时20分]"
-        },
-        {
           "title": "特朗普暂缓对伊朗动武决定",
           "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
           "source": "凤凰网",
@@ -1226,8 +1270,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 23时20分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -1262,8 +1306,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时24分 ~ 22时20分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 23时20分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -1272,11 +1316,12 @@
           "ranks": [
             18,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 23时20分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -1307,9 +1352,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
@@ -1351,7 +1407,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1515,6 +1571,19 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普直播打瞌睡被小女孩发现",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1525,18 +1594,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时29分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时20分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -1674,7 +1731,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1685,7 +1742,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1729,7 +1786,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1784,7 +1841,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1883,7 +1940,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1982,7 +2039,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2018,6 +2075,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "Vistra（VST）跌7.3%，星牌能源（CEG）跌6.9%。 美国总统特朗普推动通过电力拍卖，让数据中心承担飙涨的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3038883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普称赞低油气价格。",
@@ -2185,6 +2253,17 @@
           "time_info": "21时35分"
         },
         {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://flash.jin10.com/detail/20260116022949055800",
           "source": "金十数据",
@@ -2272,8 +2351,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时36分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 23时20分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
