@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T14:32:44.557278+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-01-19T15:26:19.724026+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -55,17 +55,6 @@
           "time_info": "[00时19分 ~ 11时47分]"
         },
         {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 14时32分]"
-        },
-        {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
           "url": "https://www.cls.cn/detail/2261562",
           "source": "财联社热门",
@@ -74,8 +63,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 15时26分]"
+        },
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 15时26分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -261,6 +262,18 @@
           "time_info": "09时23分"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 15时26分]"
+        },
+        {
           "title": "伊朗：将追究特朗普等人责任",
           "url": "https://news.ifeng.com/c/8q2B9XoMclS",
           "source": "凤凰网",
@@ -349,18 +362,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 14时32分]"
         },
         {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
@@ -575,12 +576,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "美媒：特朗普就职一周年满意度下降",
+          "url": "https://www.toutiao.com/trending/7596933654534688302/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -623,6 +635,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时16分]"
+        },
+        {
+          "title": "印尼盾兑美元进一步跌至16,945，创2025年4月初以来新低。",
+          "url": "https://flash.jin10.com/detail/20260119150420491800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美元对日元跌至157.55，日内跌0.36%或56点。",
@@ -715,7 +738,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -740,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
+          "url": "https://www.cls.cn/detail/2261835",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "离岸人民币兑美元升破6.96关口，日内涨超80点报6.9594。",
@@ -775,6 +809,17 @@
           "time_info": "12时48分"
         },
         {
+          "title": "消息人士：印尼新成立的主权财富基金Danantara计划在上半年通过新一轮“爱国债券”筹集20万亿印尼盾（12亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260119143412356800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "华泰证券：铜价或持续走强 看向15000美元/吨",
           "url": "https://flash.jin10.com/detail/20260119080845732800",
           "source": "金十数据",
@@ -784,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "加皇银行：将高盛(GS.N)目标价从900美元上调至1030美元。",
+          "url": "https://flash.jin10.com/detail/20260119143127276800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "印尼卢比兑美元跌至16,905，为2025年4月初以来首次。",
