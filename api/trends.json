@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T06:18:22.052612+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-20T07:17:43.982243+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -40,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 07时17分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -53,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -64,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 07时17分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -75,19 +76,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
           "url": "https://wallstreetcn.com/articles/3763556",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -246,13 +248,24 @@
           "time_info": "[02时26分 ~ 03时17分]"
         },
         {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
           "url": "https://flash.jin10.com/detail/20260120045515099800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -310,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美媒：特朗普拒绝表明他是否会动用武力来夺取格陵兰岛",
@@ -381,7 +405,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -390,29 +414,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
-          "url": "https://wallstreetcn.com/livenews/3039930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3039928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -488,11 +490,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
+          "url": "https://wallstreetcn.com/livenews/3039930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时18分]"
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
@@ -569,6 +596,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "周一（1月19日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9567元，较上周五纽约尾盘涨111点，日内整体交投于6.9700-6.9547元区间。 日线图上，离岸人民币逼近2023年5月12日顶部6.9504元和当年5月4日顶部6.8963元。",
+          "url": "https://wallstreetcn.com/livenews/3039939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "澳元/美元日内涨幅达0.5%，报0.6714。",
           "url": "https://wallstreetcn.com/livenews/3039857",
           "source": "华尔街见闻-快讯",
@@ -583,7 +621,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -595,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
+          "url": "https://www.zhihu.com/question/63359251",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     }
