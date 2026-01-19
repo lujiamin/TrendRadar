@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:42:32.568863+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-01-19T22:24:03.278179+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 21时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时23分 ~ 22时24分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时48分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时48分 ~ 22时24分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -131,6 +131,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普为何对欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时24分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时24分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -242,17 +267,6 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
-          "url": "https://wallstreetcn.com/livenews/3039803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
           "url": "https://flash.jin10.com/detail/20260118222345424800",
           "source": "金十数据",
@@ -288,17 +302,6 @@
           "time_info": "16时27分"
         },
         {
-          "title": "特朗普为何对欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "欧洲被特朗普打脸了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E8%84%B8%E4%BA%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -310,18 +313,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
+          "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
+          "url": "https://wallstreetcn.com/livenews/3039809",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 21时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
@@ -436,6 +436,18 @@
           "time_info": "[00时20分 ~ 04时19分]"
         },
         {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时24分]"
+        },
+        {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
           "url": "https://flash.jin10.com/detail/20260119053728522800",
           "source": "金十数据",
@@ -535,6 +547,17 @@
           "time_info": "[00时20分 ~ 02时22分]"
         },
         {
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时24分]"
+        },
+        {
           "title": "内塔尼亚胡罕见公开“叫板”特朗普",
           "url": "https://www.toutiao.com/trending/7596220832478363654/",
           "source": "今日头条",
@@ -593,6 +616,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时40分 ~ 21时42分]"
+        },
+        {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时24分]"
         },
         {
           "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
@@ -756,17 +791,6 @@
           "time_info": "20时40分"
         },
         {
-          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
-          "url": "https://wallstreetcn.com/livenews/3039789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "金十整理：从突袭委内瑞拉、威胁伊朗到为格陵兰岛对欧发动关税战，特朗普开年三周的“三连击”将如何搅动市场？",
           "url": "https://flash.jin10.com/detail/20260119182634326800",
           "source": "金十数据",
@@ -811,6 +835,17 @@
           "time_info": "12时48分"
         },
         {
+          "title": "欧洲官员：美国总统特朗普希望加沙在周四签署协议。",
+          "url": "https://flash.jin10.com/detail/20260119215503570800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "英国首相斯塔默：（就美国总统特朗普的和平委员会）我们已表明愿意在第二阶段发挥我们的作用。我们正就相关条款与盟友磋商。",
           "url": "https://flash.jin10.com/detail/20260119174618506800",
           "source": "金十数据",
@@ -833,6 +868,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
+          "url": "https://flash.jin10.com/detail/20260119215216307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
           "url": "https://flash.jin10.com/detail/20260119155228340800",
           "source": "金十数据",
@@ -842,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "德国经济研究所IW：美国总统特朗普第二任期第一年，德国对美国的投资几乎腰斩。",
+          "url": "https://flash.jin10.com/detail/20260119215002234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "欧洲斯托克50指数期货下跌1%，德国DAX指数期货下跌1.1%。此前消息，特朗普称2月1日起对欧洲八国加征关税，直至“完全收购格陵兰岛”。报道称欧盟考虑对930亿欧元输欧美国商品加征关税反击。",
@@ -886,17 +943,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "普京收到加入特朗普和平委员会邀请",
-          "url": "https://www.toutiao.com/trending/7596940910904573978/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "据泰国《民族报》：泰国外交部周一表示，泰国已受邀加入特朗普的“和平委员会”，参与加沙和平计划。泰国正在研究相关细节。",
@@ -971,7 +1017,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1001,7 +1047,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -1057,17 +1103,6 @@
           "time_info": "15时26分"
         },
         {
-          "title": "美元兑加元USD/CAD短线走低，现报1.3878。",
-          "url": "https://flash.jin10.com/detail/20260119213048308800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "美元对日元跌至157.55，日内跌0.36%或56点。",
           "url": "https://wallstreetcn.com/livenews/3039387",
           "source": "华尔街见闻-快讯",
@@ -1079,6 +1114,28 @@
           "time_info": "09时23分"
         },
         {
+          "title": "印度外交部官员Vikram Misri：印度、阿联酋将致力于防务合作伙伴关系。 两国达成液化天然气（LNG）供应协议。 阿联酋将在Dholera投资修建基础设施。 阿联酋每年将向印度供应5亿吨LNG。 两国同意衔接国家支付平台。 将联合探索高级民用核技术。 两国到2032年将把（双边）贸易规模提高至2000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "印度外交秘书：印阿两国力争在2032年前将双边贸易额翻一番，达到2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260119220141689800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "人民币兑美元中间价创逾32个月新高",
           "url": "https://wallstreetcn.com/livenews/3039385",
           "source": "华尔街见闻-快讯",
@@ -1088,17 +1145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "德银：欧洲持有8万亿美元美国债券和股票 关税威胁下恐将资本武器化",
-          "url": "https://wallstreetcn.com/livenews/3039801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
@@ -1140,6 +1186,18 @@
           "time_info": "[15时26分 ~ 19时19分]"
         },
         {
+          "title": "美元兑加元USD/CAD短线走低，现报1.3878。",
+          "url": "https://flash.jin10.com/detail/20260119213048308800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时24分]"
+        },
+        {
           "title": "美元兑日元小幅走低，日本首相高市早苗表示，将密切关注外汇市场的投机性波动，随时准备采取必要行动。",
           "url": "https://wallstreetcn.com/livenews/3039684",
           "source": "华尔街见闻-快讯",
@@ -1150,6 +1208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
+          "title": "德银：欧洲持有8万亿美元美国债券和股票 关税威胁下恐将资本武器化",
+          "url": "https://wallstreetcn.com/livenews/3039801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时24分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -1232,6 +1302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "阿里巴巴投资的初创公司月之暗面估值达48亿美元。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3039805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美元兑日元收复失地，目前基本持平于158.05。",
@@ -1317,7 +1398,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1397,6 +1478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "据CNBC：初创公司Moonshot AI估值达48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260119214006003800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "现货黄金突破4670美元",
