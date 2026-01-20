@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T05:17:35.989376+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-01-21T06:19:59.356722+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -39,19 +39,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
           "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1996980159144801247",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普计划于4月访华？外交部回应",
+          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -67,28 +92,18 @@
           "time_info": "[00时29分 ~ 05时17分]"
         },
         {
-          "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1996980159144801247",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普计划于4月访华？外交部回应",
-          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "title": "特朗普2.0政府：月月惊奇桩桩怪象",
+          "url": "https://www.toutiao.com/trending/7597438425674812937/",
           "source": "今日头条",
           "ranks": [
-            24,
-            23,
-            22
+            28,
+            14,
+            19,
+            30
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "time_info": "[00时29分 ~ 06时19分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -102,19 +117,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "特朗普2.0政府：月月惊奇桩桩怪象",
-          "url": "https://www.toutiao.com/trending/7597438425674812937/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时09分]"
-        },
-        {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20260121034837826800",
           "source": "金十数据",
@@ -124,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "美媒：美国国会首次正式回应鲍威尔遭调查，民主党要求特朗普官员交出记录",
-          "url": "https://flash.jin10.com/detail/20260121044420379800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "特朗普：将很快开始打击陆路毒品走私",
@@ -159,17 +150,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "据华尔街日报：美国参议员沃伦、德宾致信司法部长邦迪和美国联邦住房金融局局长普尔特，寻求获取美联储主席鲍威尔调查相关记录。信件直接要求两名特朗普官员保存文件并将其提供给参议院。",
-          "url": "https://flash.jin10.com/detail/20260121043924701800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121033511635800",
           "source": "金十数据",
@@ -187,9 +167,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普：联合国应继续存在 但“和平委员会”可能取而代之",
+          "url": "https://wallstreetcn.com/livenews/3040697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -202,6 +193,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时29分]"
+        },
+        {
+          "title": "美媒：美国国会首次正式回应鲍威尔遭调查，民主党要求特朗普官员交出记录",
+          "url": "https://flash.jin10.com/detail/20260121044420379800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "据华尔街日报：美国参议员沃伦、德宾致信司法部长邦迪和美国联邦住房金融局局长普尔特，寻求获取美联储主席鲍威尔调查相关记录。信件直接要求两名特朗普官员保存文件并将其提供给参议院。",
+          "url": "https://flash.jin10.com/detail/20260121043924701800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
         },
         {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
@@ -221,11 +236,12 @@
           "source": "微博",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时08分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 06时19分]"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -281,7 +297,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -292,7 +308,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -303,7 +319,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -325,7 +341,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -336,7 +352,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -358,7 +374,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -369,7 +385,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -380,7 +396,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -413,7 +429,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -424,9 +440,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普：我妻子认为，我是天才，就像巴菲特一样",
+          "url": "https://wallstreetcn.com/livenews/3040691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
@@ -457,7 +484,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -468,7 +495,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -501,7 +528,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -512,7 +539,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -534,9 +561,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
+          "url": "https://wallstreetcn.com/livenews/3040687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
@@ -556,9 +594,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普借他人之口自比巴菲特",
+          "url": "https://flash.jin10.com/detail/20260121051916818800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：明年我们将不会出现贸易逆差。",
@@ -578,7 +627,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -592,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
+          "url": "https://wallstreetcn.com/livenews/3040685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
@@ -611,7 +671,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -644,7 +704,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -655,9 +715,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普：不会前往巴黎参加七国集团峰会",
+          "url": "https://wallstreetcn.com/livenews/3040683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：（谈到了经济悲观情绪）经济前景良好。 我们没能把意思传达出去。或许我的公关人员太差劲了。",
@@ -677,7 +748,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -688,7 +759,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -721,7 +792,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -732,7 +803,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -743,7 +814,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -781,6 +852,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普：若最高法限制联邦政府关税政策，还可采用其他手段",
+          "url": "https://wallstreetcn.com/livenews/3040674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
           "title": "美国总统特朗普：索马里根本算不上一个国家，如果他们真算一个国家，那也是最糟糕的。",
           "url": "https://flash.jin10.com/detail/20260121030043864800",
           "source": "金十数据",
@@ -798,9 +880,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普：若最高法限制联邦政府关税政策 还可采用其他手段",
+          "url": "https://flash.jin10.com/detail/20260121044911482800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国最高法院未就特朗普关税案作出裁决，下次窗口期至少一个月后",
@@ -831,7 +924,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -842,7 +935,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -875,7 +968,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -883,7 +976,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -894,19 +987,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时19分]"
         },
         {
-          "title": "美元指数20日下跌",
-          "url": "https://flash.jin10.com/detail/20260121044831880800",
+          "title": "力拓(RIO.N)：2025年铜平均实现价格为4.57美元/磅，铝平均实现价格为3318美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260121054305608800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "06时19分"
         },
         {
           "title": "WTI 2月原油期货收涨0.90美元，涨幅1.51%，报60.34美元/桶，逼近1月14日收盘位62.02美元。 NYMEX 2月天然气期货收报3.9070美元/百万英热单位。 NYMEX 2月汽油期货收报1.8238美元/加仑，NYMEX 2月取暖油期货收报2.3385美元/加仑。",
@@ -918,6 +1011,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20260121044831880800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
         },
         {
           "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
@@ -991,6 +1096,28 @@
           "time_info": "[01时25分 ~ 02时29分]"
         },
         {
+          "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
+          "url": "https://wallstreetcn.com/livenews/3040696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "纽约期金涨3.7%，一度刷新历史高位至4770美元上方",
+          "url": "https://wallstreetcn.com/livenews/3040694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
           "title": "美国总统特朗普：我们接手时油价很高，但我们大幅降低了油价。看看汽油价格——现在美国有些地方的汽油价格是每加仑1.99美元，其他地方是每加仑2.50美元。在拜登执政时期，汽油价格是每加仑4美元、5美元，甚至更高。",
           "url": "https://flash.jin10.com/detail/20260121032437725800",
           "source": "金十数据",
@@ -1008,9 +1135,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉从5亿美元石油销售合同中获得3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3040690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：委内瑞拉已从石油销售中获得3​​亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260121052239801800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "现货黄金突破4760美元/盎司，续刷历史新高，日内涨1.91%。",
@@ -1057,15 +1206,59 @@
           "time_info": "04时09分"
         },
         {
+          "title": "美联航预计2026年调整后EPS为每股12-14美元，分析师预期13.04美元。",
+          "url": "https://wallstreetcn.com/livenews/3040682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
           "title": "现货黄金回落至4750美元/盎司下方。",
           "url": "https://flash.jin10.com/detail/20260121042352108800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "奈飞四季度营收120.5亿美元，分析师预期121.7亿美元。 预计2026年营收507亿-517亿美元，分析师预期509.6亿美元。 预计一季度营收121.6亿美元，分析师预期121.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3040681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "奈飞(NFLX.O)预计Q1营收121.6亿美元，市场预期121.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260121050429470800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "奈飞(NFLX.O)2025年Q4营收120.5亿美元，市场预期119.7亿美元，上年同期102.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260121050347581800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：认为无需向国会寻求批准，即可向纳税人发放2000美元的退税支票。",
@@ -1074,7 +1267,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -1096,7 +1289,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -1150,6 +1343,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌1.45%，报7608.38点。 热门中概股里，小马智行初步收跌6.4%，小米跌5%，文远知行跌4.4%，比亚迪、小鹏、腾讯跌超3%，百度涨超0.3%。 ETF中，中国科技指数ETF（CQQQ）收跌2.87%，中概互联网指数ETF（KWEB）收跌2.07%。 XtrackersHarvest中证50（ASHS）收跌0.48%，德银嘉实沪深300指数ETF（ASHR）收跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3040678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     }
