@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T21:29:02.906177+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-01-24T22:16:37.269676+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时18分 ~ 21时29分]"
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 22时16分]"
         },
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时17分 ~ 21时29分]"
+          "appearance_count": 19,
+          "time_info": "[09时17分 ~ 22时16分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -89,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时23分 ~ 21时29分]"
+          "appearance_count": 18,
+          "time_info": "[11时23分 ~ 22时16分]"
         },
         {
           "title": "经济学家警告：格陵兰协议难解美欧裂痕 美元地位面临威胁",
@@ -640,6 +640,17 @@
           "time_info": "[06时15分 ~ 07时18分]"
         },
         {
+          "title": "市场消息：美国联邦住房金融局决定让房利美和房地美继续持有价值400亿美元的抵押债券。",
+          "url": "https://flash.jin10.com/detail/20260124213632166800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美元兑日元“收”涨1.7%，报155.70日元。",
           "url": "https://wallstreetcn.com/livenews/3043156",
           "source": "华尔街见闻-快讯",
@@ -830,7 +841,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -908,8 +919,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时32分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时32分 ~ 22时16分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -931,8 +942,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[14时25分 ~ 22时16分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -985,8 +996,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[14时25分 ~ 22时16分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -1056,6 +1067,20 @@
           "time_info": "[15时17分 ~ 19时15分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            30,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 22时16分]"
+        },
+        {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
           "url": "https://flash.jin10.com/detail/20260124113127622800",
           "source": "金十数据",
@@ -1069,19 +1094,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时33分 ~ 16时22分]"
-        },
-        {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            30,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 21时29分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -1137,6 +1149,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时17分 ~ 21时29分]"
+        },
+        {
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -1353,6 +1398,17 @@
           "time_info": "[09时17分 ~ 11时24分]"
         },
         {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时16分]"
+        },
+        {
           "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
           "url": "https://flash.jin10.com/detail/20260124191803265800",
           "source": "金十数据",
@@ -1436,17 +1492,6 @@
           "time_info": "[02时27分 ~ 03时22分]"
         },
         {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
           "title": "特朗普去达沃斯做买卖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8E%BB%E8%BE%BE%E6%B2%83%E6%96%AF%E5%81%9A%E4%B9%B0%E5%8D%96%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1456,6 +1501,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时25分 ~ 14时26分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3043290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -1544,6 +1611,46 @@
       ]
     },
     {
+      "keyword_group": "比亚迪",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比亚迪起诉自媒体姚十八胜诉，获赔 201 万，如何看待用极端测试恶意抹黑车企的行为？",
+          "url": "https://www.zhihu.com/question/1997735046166099243",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时18分]"
+        },
+        {
+          "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3043291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "市场消息：比亚迪计划2026年在中国以外地区销售130万辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260124213308759800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴",
       "match_count": 1,
       "titles": [
@@ -1558,24 +1665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 09时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪起诉自媒体姚十八胜诉，获赔 201 万，如何看待用极端测试恶意抹黑车企的行为？",
-          "url": "https://www.zhihu.com/question/1997735046166099243",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     }
