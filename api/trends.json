@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T05:20:19.210089+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-01-27T06:18:49.805951+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 68,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
         },
         {
           "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
@@ -37,19 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -57,6 +46,17 @@
           "source": "财联社热门",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -74,15 +74,48 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美元指数26日下跌",
-          "url": "https://flash.jin10.com/detail/20260127044040593800",
+          "title": "超微电脑(SMCI.O)有意向将设施扩建规模增至20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127054926238800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "现货铂金大跌逾6%，下破2600美元/盎司，早前创下新高至2919美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127054708562800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时18分"
+        },
+        {
+          "title": "超微电脑有意向将设施扩建规模增至20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "白银在纽约中午刷新历史高位至接近118美元的水平，随后快速回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3044209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -94,6 +127,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "现货金银走低，现货黄金跌破5000美元关口，现货白银一度跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260127053726943800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "现货黄金涨超0.2%，亚太尾盘刷新历史高位至5110美元上方，纽约中午以来显著回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3044208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "首破5000美元大关！黄金创新高，机构直言还能涨",
@@ -195,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时27分]"
+        },
+        {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20260127044040593800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时18分]"
         },
         {
           "title": "现货白银冲高回落，目前涨5.4%失守108美元，北京时间02:03还曾涨至117.7132美元创历史新高。",
@@ -393,6 +460,18 @@
           "time_info": "[04时22分 ~ 05时20分]"
         },
         {
+          "title": "周一（1月26日）纽约尾盘，欧元兑美元涨0.44%，英镑兑美元涨0.27%，美元兑瑞郎跌0.39%。 商品货币对中，澳元兑美元涨0.32%，纽元兑美元涨0.46%，美元兑加元涨0.12%。 瑞典克朗兑美元涨0.07%，挪威克朗兑美元大致持平，丹麦克朗兑美元涨0.46%。 波兰兹罗提兑美元涨0.55%，匈牙利福林兑美元涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3044185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时18分]"
+        },
+        {
           "title": "现货、期货白银双双突破117美元",
           "url": "https://flash.jin10.com/detail/20260127015919893800",
           "source": "金十数据",
@@ -489,6 +568,17 @@
           "time_info": "[01时27分 ~ 02时29分]"
         },
         {
+          "title": "纽柯钢铁(NUE.N)盘后跌超4%，公司第四季度销售额为76.9亿美元，而IBES的预测为78.68亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127053254477800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "现货白银日内暴涨9.00%，现报112.53美元/盎司。纽约期银日内暴涨11.00%，现报112.48美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260127000324636800",
           "source": "金十数据",
@@ -500,13 +590,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "美元走软，干预风险推动日元上涨",
           "url": "https://flash.jin10.com/detail/20260127042445135800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -522,15 +623,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "周一（1月26日）纽约尾盘，欧元兑美元涨0.44%，英镑兑美元涨0.27%，美元兑瑞郎跌0.39%。 商品货币对中，澳元兑美元涨0.32%，纽元兑美元涨0.46%，美元兑加元涨0.12%。 瑞典克朗兑美元涨0.07%，挪威克朗兑美元大致持平，丹麦克朗兑美元涨0.46%。 波兰兹罗提兑美元涨0.55%，匈牙利福林兑美元涨0.73%。",
-          "url": "https://wallstreetcn.com/livenews/3044185",
-          "source": "华尔街见闻-快讯",
+          "title": "倒V型走势 白银创下新高后下跌超12美元",
+          "url": "https://flash.jin10.com/detail/20260127051949584800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时18分"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -561,7 +662,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -572,7 +673,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -597,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "纽约银日内涨幅达10.0%，报111.54美元/盎司。",
@@ -627,7 +739,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -690,7 +802,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -700,8 +812,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -711,8 +823,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -722,19 +834,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时20分]"
-        },
-        {
-          "title": "卢拉与特朗普通电话 讨论两国关系和委内瑞拉局势",
-          "url": "https://flash.jin10.com/detail/20260127044150899800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 06时18分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -748,6 +849,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时20分]"
+        },
+        {
+          "title": "卢拉与特朗普通电话 讨论两国关系和委内瑞拉局势",
+          "url": "https://flash.jin10.com/detail/20260127044150899800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时18分]"
         },
         {
           "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
@@ -772,6 +885,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时22分]"
+        },
+        {
+          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
+          "url": "https://www.cls.cn/detail/2270329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
+          "url": "https://flash.jin10.com/detail/20260127042724482800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时18分]"
         },
         {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
@@ -846,17 +982,6 @@
           "time_info": "[01时27分 ~ 02时29分]"
         },
         {
-          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
-          "url": "https://www.cls.cn/detail/2270329",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时20分]"
-        },
-        {
           "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
           "url": "https://flash.jin10.com/detail/20260127022628782800",
           "source": "金十数据",
@@ -867,17 +992,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
-          "url": "https://flash.jin10.com/detail/20260127042724482800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -897,9 +1011,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
@@ -908,9 +1033,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
+          "url": "https://flash.jin10.com/detail/20260127051213344800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "白宫：特朗普“不希望任何美国人丧生”",
@@ -935,6 +1071,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
+          "url": "https://wallstreetcn.com/livenews/3044213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "巴西政府声明：巴西总统卢拉于周一与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260127004336827800",
           "source": "金十数据",
@@ -946,6 +1093,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "特朗普政府提议维持联邦医疗保险优势计划（Medicare Advantage）费率不变。",
+          "url": "https://flash.jin10.com/detail/20260127050517298800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "美国总统特朗普：明尼苏达州州长蒂姆·沃尔兹致电我，请求在明尼苏达州问题上携手合作。这是一次非常棒的通话，而且我们实际上似乎心有灵犀。",
           "url": "https://flash.jin10.com/detail/20260127003839029800",
           "source": "金十数据",
@@ -955,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "民调：特朗普严打移民 支持率降至低位",
+          "url": "https://flash.jin10.com/detail/20260127050316323800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
