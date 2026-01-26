@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T01:27:05.388370+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-27T02:29:31.821309+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 42,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -26,19 +26,63 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
-          "url": "https://wallstreetcn.com/livenews/3044129",
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
+          "url": "https://wallstreetcn.com/livenews/3044146",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的14.89亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127021804913800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "周一（1月26日），韩元兑美元最终涨1.48%，报1441.63韩元，跳空高开之后，全天处于上涨状态、持续高位震荡、北京时间16:34刷新日高至1432.89韩元，直追12月24日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3044145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "纽约银日内涨幅达15.0%，报116.55美元/盎司。 现货白银日内涨幅达13.0%，报116.63美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127021009672800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时29分"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -50,6 +94,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465295",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "现货白银日内暴涨10.00%，现报113.55美元/盎司。纽约期银日内暴涨12.00%，现报113.57美元/盎司。",
@@ -76,26 +142,16 @@
           "time_info": "[00时28分 ~ 01时27分]"
         },
         {
-          "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465295",
-          "source": "澎湃新闻",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
+          "url": "https://wallstreetcn.com/livenews/3044129",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -105,8 +161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "首破5000美元大关！黄金创新高，机构直言还能涨",
@@ -116,8 +172,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至11.00%，现报114.57美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127010526787800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
+        },
+        {
+          "title": "【白银创2021年以来最大涨幅，避险需求推动金属价格走高】现货白银日内涨幅达10.5%，报114.1美元/盎司。 纽约银日内涨幅达12.5%，报114.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
         },
         {
           "title": "欧元/美元日内涨幅达0.5%，报1.1886。",
@@ -132,15 +212,38 @@
           "time_info": "[00时28分 ~ 01时27分]"
         },
         {
-          "title": "现货白银日内涨幅扩大至11.00%，现报114.57美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260127010526787800",
+          "title": "纽约银日内涨幅达11.5%，报113.02美元/盎司。 现货白银日内涨幅达9.5%，报113.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
+        },
+        {
+          "title": "现货白银持续拉升，日内暴涨14.00%，现报117.68美元/盎司。纽约期银日内暴涨16.00%，现报117.55美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127020414928800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时29分"
+        },
+        {
+          "title": "LME期铜收涨84美元，报13199美元/吨。 LME期铝收涨20美元，报3188美元/吨。 LME期锌收涨82美元，报3342美元/吨。 LME期铅收涨12美元，报2038美元/吨。 LME期镍收涨234美元，报18522美元/吨。 LME期锡收跌2584美元，报54232美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3044141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "现货白银日内暴涨9.00%，现报112.53美元/盎司。纽约期银日内暴涨11.00%，现报112.48美元/盎司。",
@@ -154,15 +257,26 @@
           "time_info": "00时28分"
         },
         {
-          "title": "【白银创2021年以来最大涨幅，避险需求推动金属价格走高】现货白银日内涨幅达10.5%，报114.1美元/盎司。 纽约银日内涨幅达12.5%，报114.04美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3044124",
+          "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3044140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "石油巨头们在与哈萨克斯坦价值高达40亿美元的Karachaganak油田争端仲裁中败诉。",
+          "url": "https://wallstreetcn.com/livenews/3044139",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时29分"
         },
         {
           "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
@@ -176,6 +290,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "贝克休斯计划将未来三年的数据中心设备订单目标翻倍，至30亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
           "url": "https://flash.jin10.com/detail/20260126235706137800",
           "source": "金十数据",
@@ -187,15 +312,70 @@
           "time_info": "00时28分"
         },
         {
+          "title": "现货、期货白银双双突破117美元",
+          "url": "https://flash.jin10.com/detail/20260127015919893800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "纽约期银日内暴涨15.00%，现报116.54美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127015022404800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "现货白银涨11.9%，创2008年以来最大涨幅。纽约银日内涨幅达14.0%，报115.56美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
           "title": "现货白银涨势不止，突破114美元/盎司，日内涨10.45%。",
           "url": "https://flash.jin10.com/detail/20260127005024460800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "现货白银突破116美元/盎司，日内涨12.41%。纽约期银站上116美元/盎司，日内涨14.47%。",
+          "url": "https://flash.jin10.com/detail/20260127014119167800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国天然气期货突破7美元/百万英热",
+          "url": "https://flash.jin10.com/detail/20260127013347479800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "NYMEX天然气期货涨超21%，现报6.41美元/百万英热单位，1月份迄今已经累计上涨72%。",
@@ -209,15 +389,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "纽约银日内涨幅达11.5%，报113.02美元/盎司。 现货白银日内涨幅达9.5%，报113.14美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3044114",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银突破115美元",
+          "url": "https://flash.jin10.com/detail/20260127011725130800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时29分"
         },
         {
           "title": "纽约银日内涨幅达10.0%，报111.54美元/盎司。",
@@ -237,7 +417,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -248,7 +428,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -310,8 +490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -321,8 +501,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -332,30 +512,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "巴西：总统卢拉与美国总统特朗普通电话。 卢拉告知特朗普，所谓的“和平委员会”应当仅限于处置加沙问题。",
           "url": "https://wallstreetcn.com/livenews/3044121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
           "url": "https://wallstreetcn.com/livenews/3044120",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -364,7 +546,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -375,7 +557,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -386,7 +568,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
