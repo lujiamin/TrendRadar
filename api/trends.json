@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T18:23:44.804150+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-01-27T19:20:44.733942+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 111,
+      "match_count": 115,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 19时20分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 19时20分]"
         },
         {
           "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
@@ -87,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 19时20分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -152,9 +152,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "汇丰股价在伦敦上涨2.7%，市值突破3000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "现货白银重新向上触及110美元/盎司，日内涨6.16%。",
@@ -810,7 +821,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -912,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "多重利空下美元看跌对冲成本创纪录 交易员为其进一步下探做准备",
+          "url": "https://wallstreetcn.com/livenews/3044718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -1286,6 +1308,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "沃尔核材计划周三为其3亿至4亿美元规模的香港上市启动预路演。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3044688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "以国防部签署超1.8亿美元订单 扩大本土国防工业生产能力",
+          "url": "https://wallstreetcn.com/livenews/3044686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
@@ -1414,17 +1458,6 @@
           "time_info": "[09时24分 ~ 14时29分]"
         },
         {
-          "title": "在美上市韩国ETF盘后暴跌超2%，特朗普宣布将针对韩国部分商品（含汽车）的关税从15%提高至25%。",
-          "url": "https://wallstreetcn.com/livenews/3044232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
           "source": "澎湃新闻",
@@ -1435,8 +1468,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时20分]"
+        },
+        {
+          "title": "在美上市韩国ETF盘后暴跌超2%，特朗普宣布将针对韩国部分商品（含汽车）的关税从15%提高至25%。",
+          "url": "https://wallstreetcn.com/livenews/3044232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -1501,6 +1545,17 @@
           "time_info": "[14时29分 ~ 16时27分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时20分]"
+        },
+        {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
           "url": "https://www.cls.cn/detail/2270329",
           "source": "财联社热门",
@@ -1557,17 +1612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
