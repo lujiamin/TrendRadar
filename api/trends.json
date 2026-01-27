@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T14:29:22.228419+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-01-27T15:25:03.406036+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -30,6 +30,30 @@
           "time_info": "[00时28分 ~ 06时18分]"
         },
         {
+          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
+          "url": "https://wallstreetcn.com/articles/3764206",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 15时25分]"
+        },
+        {
+          "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465295",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时25分]"
+        },
+        {
           "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
           "url": "https://www.cls.cn/detail/2270502",
           "source": "财联社热门",
@@ -41,27 +65,30 @@
           "time_info": "[09时24分 ~ 14时29分]"
         },
         {
-          "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465295",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时29分]"
-        },
-        {
-          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-          "url": "https://wallstreetcn.com/articles/3764206",
+          "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
+          "url": "https://wallstreetcn.com/articles/3764173",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时18分 ~ 15时25分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -75,19 +102,6 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 14时29分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -97,18 +111,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 05时20分]"
-        },
-        {
-          "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
-          "url": "https://wallstreetcn.com/articles/3764173",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 14时29分]"
         },
         {
           "title": "美国天然气价格突破7美元大关 寒冷地区价格突破200美元",
@@ -205,7 +207,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -664,6 +666,17 @@
           "time_info": "[00时28分 ~ 01时27分]"
         },
         {
+          "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
+          "url": "https://www.cls.cn/detail/2270515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
           "title": "纽约期银日内暴涨15.00%，现报116.54美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260127015022404800",
           "source": "金十数据",
@@ -841,7 +854,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1022,6 +1035,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "新台币兑美元上涨0.3%至31.413。",
+          "url": "https://wallstreetcn.com/livenews/3044509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "欧洲资管巨头：美国政策威胁正驱动资金由美元转向黄金",
           "url": "https://flash.jin10.com/detail/20260127125718271800",
           "source": "金十数据",
@@ -1086,12 +1110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "现货黄金突破5090美元/盎司，日内涨1.63%。",
+          "url": "https://flash.jin10.com/detail/20260127144627708800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -1113,8 +1148,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 15时25分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -1124,8 +1159,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 15时25分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -1135,8 +1170,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 15时25分]"
+        },
+        {
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 15时25分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -1161,18 +1209,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时18分]"
-        },
-        {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 14时29分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -1270,6 +1306,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时22分]"
+        },
+        {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时25分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -1423,6 +1471,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
+        {
+          "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
+          "url": "https://flash.jin10.com/detail/20260127150805425800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -1700,17 +1770,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "美媒称边境巡逻队高级官员将离开明尼阿波利斯市，特朗普与明州州长通话",
           "url": "https://wallstreetcn.com/livenews/3044390",
           "source": "华尔街见闻-快讯",
@@ -1767,7 +1826,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1812,7 +1871,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -1820,8 +1879,19 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "比亚迪“大唐”实车曝光",
+          "url": "https://www.toutiao.com/trending/7599114575476178994/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
         {
           "title": "比亚迪与埃克森美孚签署战略合作备忘录",
           "url": "https://wallstreetcn.com/livenews/3044414",
@@ -1866,6 +1936,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
