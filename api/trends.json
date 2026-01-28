@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T03:24:18.694037+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-29T04:25:25.459942+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -28,19 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
@@ -50,8 +51,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
+          "url": "https://wallstreetcn.com/articles/3764318",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
+          "url": "https://www.zhihu.com/question/1999138722730500772",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "宽松周期步入延长期 分析师看淡美元后续上涨空间",
+          "url": "https://flash.jin10.com/detail/20260129035444473800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：美元的避风港角色已经削弱。",
@@ -71,31 +105,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
-          "url": "https://wallstreetcn.com/articles/3764318",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
-          "url": "https://www.zhihu.com/question/1999138722730500772",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -164,7 +176,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -175,9 +187,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "鲍威尔：并没有看到数据表明投资者对冲美元风险。",
+          "url": "https://wallstreetcn.com/livenews/3045794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：近期美元走软在很大程度上是由地缘政治事件推动的。",
@@ -197,7 +220,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -208,9 +231,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美联储主席鲍威尔：我们未见数据表明投资者在对冲美元风险。",
+          "url": "https://flash.jin10.com/detail/20260129035117392800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美元兑日元、欧元日内均跌1%",
@@ -233,6 +267,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "据知情人士透露，Jersey Mike为超过10亿美元规模美国IPO遴选银行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "现货黄金短线走高近15美元，现报5317.45美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129034956859800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "鲍威尔：我们不会置评美元走势。",
+          "url": "https://wallstreetcn.com/livenews/3045785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美元兑日元涨幅扩大至1%，美国财长贝森特宣称“绝对没有”干预（日元）汇率。 新兴市场货币刷新日高，投资者关注贝森特汇率立场。",
@@ -274,7 +341,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -318,7 +385,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -340,9 +407,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "WTI 3月原油期货收报63.21美元/桶。 NYMEX 2月汽油期货收报1.8923美元/加仑，NYMEX 2月取暖油期货收报2.6661美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3045775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "欧洲央行管委Simkus：欧元兑美元的汇率水平并不意味着任何的政策方向。 当前，欧洲央行政策立场“非常适用于当前的局势”。",
@@ -362,15 +440,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "德国总理默茨：我一直在密切关注美元下跌现象。 担心德国出口主导型经济将承受更大的负担。 如果欧洲竞争力提高，将能够应对美元走软问题。",
+          "url": "https://wallstreetcn.com/livenews/3045770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -380,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -391,8 +480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -403,8 +492,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -417,8 +506,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -429,8 +518,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -652,13 +741,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "鲍威尔：我不会针对（美国总统特朗普的司法部刑事调查）传唤在已有声明的基础上做出更多表态。",
+          "url": "https://wallstreetcn.com/livenews/3045782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
           "url": "https://wallstreetcn.com/livenews/3045739",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
