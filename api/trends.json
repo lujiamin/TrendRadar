@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:26:46.678562+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-01-28T17:31:35.494876+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 127,
+      "match_count": 138,
       "titles": [
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时18分 ~ 16时26分]"
+          "appearance_count": 12,
+          "time_info": "[07时18分 ~ 17时31分]"
         },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -52,8 +52,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时31分]"
+        },
+        {
+          "title": "现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例",
+          "url": "https://www.cls.cn/detail/2272212",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 17时31分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -66,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时32分 ~ 16时26分]"
+          "appearance_count": 21,
+          "time_info": "[02时32分 ~ 17时31分]"
         },
         {
           "title": "专家：银价或跌回90美元之下",
@@ -109,20 +124,6 @@
           "time_info": "[00时25分 ~ 05时15分]"
         },
         {
-          "title": "现货黄金升破5200美元！芝商所上调白银、铂金、钯金保证金比例",
-          "url": "https://www.cls.cn/detail/2272212",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 16时26分]"
-        },
-        {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
           "url": "https://www.cls.cn/detail/2271977",
           "source": "财联社热门",
@@ -133,8 +134,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时31分]"
         },
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -300,7 +301,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -726,7 +727,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -770,7 +771,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -784,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -896,6 +908,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "黄金站上5200美元！盛宝银行：盘整概率上升，短期不会大幅回调",
+          "url": "https://www.cls.cn/detail/2272259",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "澳元兑美元AUD/USD突破0.70，日内涨1.25%。",
           "url": "https://flash.jin10.com/detail/20260128044829287800",
           "source": "金十数据",
@@ -968,7 +991,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1056,7 +1079,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1081,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "SK海力士：将向人工智能公司投资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128165729471800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "高盛：上调2026年上半年伦敦金属交易所（LME）铝价预测，从每吨2575美元上调至3150美元。",
@@ -1155,9 +1189,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "SK海力士将以资本投入的方式向人工智能部门投入100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "渣打银行：美元走软及黄金和白银大幅上涨支撑铜价。",
@@ -1232,7 +1277,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1259,6 +1304,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "欧洲央行管委维勒鲁瓦：这（欧元相对美元升值及其影响）是指导我们货币政策决策的一个因素。",
+          "url": "https://flash.jin10.com/detail/20260128165552092800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "现货、期货白银站上115美元",
           "url": "https://flash.jin10.com/detail/20260128110824137800",
           "source": "金十数据",
@@ -1276,7 +1332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1353,9 +1409,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：正密切关注欧元相对美元升值的情况及其对通胀走低的可能影响。",
+          "url": "https://flash.jin10.com/detail/20260128165457264800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "希捷科技第二财季营收28.3亿美元，分析师预期27.5亿美元。",
@@ -1367,6 +1434,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：鉴于美国经济政策难以预测，美元走软是市场信心下降的迹象。",
+          "url": "https://flash.jin10.com/detail/20260128165434940800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：美元兑欧元走弱是人们对美国经济不可预测性信心下降的信号。",
+          "url": "https://flash.jin10.com/detail/20260128165408801800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "现货钯金向下触及1900美元/盎司，日内跌2.75%。",
@@ -1413,6 +1502,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：欧元汇率没有目标。 美元下跌是美国不可预测性的体现。 欧洲央行密切关注欧元走势及其对通货膨胀的影响。 欧元是将影响政策的一个重要因素。",
+          "url": "https://wallstreetcn.com/livenews/3045441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "现货黄金首次突破5200美元",
           "url": "https://www.toutiao.com/trending/7600214221992775177/",
           "source": "今日头条",
@@ -1435,6 +1535,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报96.24。美元兑瑞郎USD/CHF日内涨幅扩大至1.00%，现报0.7691。",
+          "url": "https://flash.jin10.com/detail/20260128165244937800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "NYMEX钯金主力合约暴跌12%，现报1925.5美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044848",
           "source": "华尔街见闻-快讯",
@@ -1444,6 +1555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "中谷物流：公司或其子公司拟与恒力造船（大连）有限公司签订4+2艘6,000TEU集装箱船舶建造合同，合同总金额不超过34.8亿人民币或等值美元。",
+          "url": "https://wallstreetcn.com/livenews/3045440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
@@ -1460,7 +1582,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -1470,8 +1592,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 17时31分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -1518,8 +1640,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -1733,7 +1855,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1777,7 +1899,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1947,6 +2069,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "惠誉评级：越南不断扩大的贸易顺差可能引发特朗普政府的更严格审查，增加了美国采取额外贸易措施的风险。",
+          "url": "https://flash.jin10.com/detail/20260128165630688800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "拜登批评特朗普政府在明州的移民执法行动",
           "url": "https://wallstreetcn.com/livenews/3044911",
           "source": "华尔街见闻-快讯",
@@ -2019,7 +2152,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
