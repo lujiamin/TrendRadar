@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:22:49.236143+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-01-29T07:23:08.937726+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -32,6 +32,19 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
+          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
+          "url": "https://wallstreetcn.com/articles/3764316",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -44,28 +57,17 @@
           "time_info": "[00时31分 ~ 05时26分]"
         },
         {
-          "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
-          "url": "https://wallstreetcn.com/articles/3764316",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
           "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
           "url": "https://wallstreetcn.com/articles/3764318",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
@@ -75,8 +77,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "现货黄金本月累涨逾1000美元",
@@ -112,6 +125,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特斯拉首席财务官：预计2026年的资本支出将超过200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129065110872800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。智能云营收329.1亿美元，预期323.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3045829",
           "source": "华尔街见闻-快讯",
@@ -129,7 +153,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -151,9 +175,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "特斯拉：2026年资本开支将超过200亿美元，那将支持“重大投资（年）”。",
+          "url": "https://wallstreetcn.com/livenews/3045884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：美元的避风港角色已经削弱。",
@@ -291,7 +337,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -489,7 +535,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -511,7 +557,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -544,7 +590,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -588,7 +634,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -610,7 +656,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -621,7 +667,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -643,7 +689,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -676,7 +722,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -703,13 +749,24 @@
           "time_info": "05时26分"
         },
         {
+          "title": "周三（1月28日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9437元，较周二纽约尾盘跌100点。 日内，离岸人民币整体交投于6.9319-6.9493元区间，整体持续下挫，03:00美联储宣布按兵不动时刷新日低，之后略微收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3045860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "IBM(IBM.N)第四季度营收为196.9亿美元，高于IBES预期的192.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260129050837710800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -739,7 +796,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -749,8 +806,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -761,8 +818,38 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
+          "url": "https://www.cls.cn/detail/2273193",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -774,34 +861,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
-          "url": "https://www.cls.cn/detail/2273193",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -996,9 +1055,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "消息人士称，特朗普政府正逐步取消关键矿产项目的价格下限。",
+          "url": "https://flash.jin10.com/detail/20260129064430759800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -1007,7 +1077,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -1156,7 +1226,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
