@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:34:26.678561+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-01-29T17:38:29.931709+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 116,
+      "match_count": 123,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -97,11 +97,12 @@
           "url": "https://wallstreetcn.com/articles/3764381",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 16时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 17时38分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -111,11 +112,12 @@
             10,
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 17时38分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -157,7 +159,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -217,6 +219,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "布伦特原油价格自9月以来首次触及每桶70美元。",
+          "url": "https://wallstreetcn.com/livenews/3046345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "现货白银日内暴涨4.00美元，现报116.32美元/盎司，涨幅3.56%。",
           "url": "https://flash.jin10.com/detail/20260129043930303800",
           "source": "金十数据",
@@ -237,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "伦锌日内大涨4.00%，现报3515.56美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129173247192800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "纽约期银涨9.8%，试图收复117美元",
@@ -272,6 +296,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "布伦特原油期货涨至每桶70美元，为去年9月以来首次。",
+          "url": "https://flash.jin10.com/detail/20260129173246810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "特斯拉：2026年资本开支将超过200亿美元，那将支持“重大投资（年）”。",
           "url": "https://wallstreetcn.com/livenews/3045884",
           "source": "华尔街见闻-快讯",
@@ -303,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "市场分析：市场抛售美元，而非抛售美国",
+          "url": "https://flash.jin10.com/detail/20260129173204056800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -352,6 +398,19 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "黄金一度逼近5600美元！渣打：这远非投机狂热 短期上涨空间仍存",
+          "url": "https://www.cls.cn/detail/2273671",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 17时38分]"
+        },
+        {
           "title": "1美元vs10亿美元前沿科技",
           "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
           "source": "bilibili 热搜",
@@ -363,18 +422,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 16时34分]"
-        },
-        {
-          "title": "黄金一度逼近5600美元！渣打：这远非投机狂热 短期上涨空间仍存",
-          "url": "https://www.cls.cn/detail/2273671",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 16时34分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -423,6 +470,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时38分]"
         },
         {
           "title": "欧元/美元日内跌幅达1.0%，创7月份以来最大盘中跌幅，报1.192。",
@@ -594,15 +652,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
-          "url": "https://wallstreetcn.com/articles/3764398",
+          "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "17时38分"
         },
         {
           "title": "现货白银、纽约银均站上120美元/盎司",
@@ -908,7 +966,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -1111,6 +1169,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "好未来第三季度净营收7.702亿美元，预估7.846亿美元。 第三季度调整后每ADS收益 0.25美元，预估0.07美元。 好未来美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3046314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "钯金期货日内涨4%，报2130.00美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3046104",
           "source": "华尔街见闻-快讯",
@@ -1221,6 +1290,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "特朗普暗示可以操控美元汇率",
+          "url": "https://www.toutiao.com/trending/7600301655842291754/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "IBM(IBM.N)第四季度营收为196.9亿美元，高于IBES预期的192.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260129050837710800",
           "source": "金十数据",
@@ -1312,7 +1392,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -1338,6 +1418,19 @@
           "time_info": "[00时31分 ~ 09时41分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 17时38分]"
+        },
+        {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
           "source": "财联社热门",
@@ -1352,19 +1445,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 09时41分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 16时34分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -1432,8 +1512,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 17时38分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -1664,6 +1744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
