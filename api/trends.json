@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T06:23:51.129631+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-01-30T07:22:38.418212+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -28,11 +28,12 @@
             26,
             10,
             6,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模升至7.71万亿美元，三周以来首次增长。",
@@ -46,13 +47,24 @@
           "time_info": "05时23分"
         },
         {
+          "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
+          "url": "https://flash.jin10.com/detail/20260130065505073800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "苹果(AAPL.O)2026财年Q1净利润420.97亿美元，市场预期393.31亿美元，去年同期363.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260130054610900800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -85,7 +97,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -276,6 +288,18 @@
           "time_info": "[04时25分 ~ 05时23分]"
         },
         {
+          "title": "富国银行批准CEO Scharf 2025年4000万美元薪酬。",
+          "url": "https://wallstreetcn.com/livenews/3046712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
           "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
           "url": "https://flash.jin10.com/detail/20260130014047592800",
           "source": "金十数据",
@@ -286,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时27分]"
+        },
+        {
+          "title": "周四（1月29日））纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.9447元，较周三纽约尾盘跌10点，日内整体交投于6.9382-6.9547元区间。",
+          "url": "https://wallstreetcn.com/livenews/3046711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "瑞银维持黄金看涨立场 上调目标价至6200美元",
@@ -354,7 +390,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -365,7 +401,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -376,9 +412,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "苹果被问及第一财季（含假日销售季）和当前季度的关税（成本）、以及整体利润。 CFO称，公司利润率高度喜人。 苹果的关税成本的确处于14亿美元影响区间之中，就像之前预料的那样。",
+          "url": "https://wallstreetcn.com/livenews/3046734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
+          "url": "https://www.cls.cn/detail/2274893",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国国防部批准向西班牙出售价值17亿美元的F-100护卫舰中期升级项目。",
@@ -403,17 +461,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "富国银行批准CEO Scharf 2025年4000万美元薪酬。",
-          "url": "https://wallstreetcn.com/livenews/3046712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "商品货币澳元/美元日内跌幅达1.0%，报0.6967。",
           "url": "https://wallstreetcn.com/livenews/3046581",
           "source": "华尔街见闻-快讯",
@@ -436,24 +483,13 @@
           "time_info": "05时23分"
         },
         {
-          "title": "周四（1月29日））纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.9447元，较周三纽约尾盘跌10点，日内整体交投于6.9382-6.9547元区间。",
-          "url": "https://wallstreetcn.com/livenews/3046711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "苹果(AAPL.O)2026财年Q1可穿戴设备收入为114.93亿美元。",
           "url": "https://flash.jin10.com/detail/20260130053200516800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -464,7 +500,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -475,7 +511,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -486,7 +522,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -497,7 +533,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -508,7 +544,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -530,9 +566,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "苹果首席财务官：预计3月当季运营支出将在184亿至187亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260130062708345800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "芝商所将COMEX铜期货保证金上调20%，至1.2万美元。",
@@ -541,7 +588,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -563,9 +610,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260130061735359800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "西部数据第二财季营收30.2亿美元，分析师预期29.6亿美元。 预计第三财季营收31亿-33亿美元，预计资本开支3.8亿-3.9亿美元。",
@@ -574,7 +632,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -596,7 +654,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -629,7 +687,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -637,7 +695,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -648,8 +706,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时22分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -661,6 +719,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 05时23分]"
+        },
+        {
+          "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
+          "url": "https://flash.jin10.com/detail/20260130065258833800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -868,6 +937,17 @@
           "time_info": "[02时38分 ~ 04时25分]"
         },
         {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
@@ -902,6 +982,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 02时38分]"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
         },
         {
           "title": "特朗普：普京同意停火一周",
@@ -1024,26 +1116,26 @@
           "time_info": "[02时38分 ~ 03时27分]"
         },
         {
-          "title": "特朗普：普京同意停火一周",
-          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
-          "source": "凤凰网",
+          "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
+          "url": "https://flash.jin10.com/detail/20260130063308194800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "07时22分"
         },
         {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
+          "url": "https://flash.jin10.com/detail/20260130063254804800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -1055,6 +1147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国总统特朗普宣称：特使Witkoff有“好消息”。",
+          "url": "https://wallstreetcn.com/livenews/3046729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
