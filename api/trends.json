@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:38:06.727020+08:00",
-  "total_titles_processed": 2155,
+  "generated_at": "2026-01-29T23:32:27.262416+08:00",
+  "total_titles_processed": 2249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 169,
+      "match_count": 176,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -129,8 +129,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 22时38分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 23时32分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时32分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -144,15 +155,19 @@
           "time_info": "[07时22分 ~ 07时23分]"
         },
         {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
+          "title": "1美元vs10亿美元前沿科技",
+          "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            16,
+            24,
+            25,
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 23时32分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -200,20 +215,6 @@
           "time_info": "16时34分"
         },
         {
-          "title": "1美元vs10亿美元前沿科技",
-          "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 22时38分]"
-        },
-        {
           "title": "宽松周期步入延长期 分析师看淡美元后续上涨空间",
           "url": "https://flash.jin10.com/detail/20260129035444473800",
           "source": "金十数据",
@@ -253,7 +254,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -289,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
-        },
-        {
-          "title": "纽约银日内涨幅达7.0%，报121.7美元/盎司。 现货白银日内涨幅达4.0%，报121.36美元/盎司。 WTI原油期货涨幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3046537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
         },
         {
           "title": "现货白银日内暴涨4.00美元，现报116.32美元/盎司，涨幅3.56%。",
@@ -440,9 +430,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
+        },
+        {
+          "title": "纽约期金跌破5400美元/盎司关口，现报5394.00美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129231516483800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -454,17 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "白银涨向121美元，布油破70美元整数位心理关口，美油涨4.5%",
-          "url": "https://wallstreetcn.com/livenews/3046533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
         },
         {
           "title": "伦铜涨幅扩大至10%，现报14410.5美元/吨，续创历史新高。",
@@ -503,6 +493,18 @@
           "time_info": "[17时38分 ~ 18时32分]"
         },
         {
+          "title": "纽约银日内涨幅达7.0%，报121.7美元/盎司。 现货白银日内涨幅达4.0%，报121.36美元/盎司。 WTI原油期货涨幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3046537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时32分]"
+        },
+        {
           "title": "周三（1月28日），韩元兑美元最终涨0.14%，报1435.77韩元，全天呈现出冲高回落走势，北京时间15:17刷新日高至1419.81韩元。",
           "url": "https://wallstreetcn.com/livenews/3045729",
           "source": "华尔街见闻-快讯",
@@ -539,6 +541,18 @@
           "time_info": "[19时28分 ~ 20时45分]"
         },
         {
+          "title": "白银涨向121美元，布油破70美元整数位心理关口，美油涨4.5%",
+          "url": "https://wallstreetcn.com/livenews/3046533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时32分]"
+        },
+        {
           "title": "黄金一度逼近5600美元！渣打：这远非投机狂热 短期上涨空间仍存",
           "url": "https://www.cls.cn/detail/2273671",
           "source": "财联社热门",
@@ -556,11 +570,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32488559",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时32分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -793,6 +808,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "机构：美元走软≠抛售美国资产 但弱势进入第二年恐引质疑",
+          "url": "https://flash.jin10.com/detail/20260129231338618800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "Pimco：各国央行和机构投资者正在重新评估美元的集中度",
           "url": "https://wallstreetcn.com/livenews/3046125",
           "source": "华尔街见闻-快讯",
@@ -821,7 +847,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -859,6 +885,17 @@
           "time_info": "19时28分"
         },
         {
+          "title": "现货黄金持续走低 跌破5400美元关口",
+          "url": "https://flash.jin10.com/detail/20260129231332177800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -887,7 +924,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -909,7 +946,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1024,6 +1061,17 @@
           "time_info": "20时45分"
         },
         {
+          "title": "摩根大通：将特斯拉(TSLA.O)目标价从150美元下调至145美元。",
+          "url": "https://flash.jin10.com/detail/20260129230529188800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "现货黄金突破5350美元/盎司，再创历史新高，日内涨3.29%。",
           "url": "https://wallstreetcn.com/livenews/3045817",
           "source": "华尔街见闻-快讯",
@@ -1046,6 +1094,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "IBM发行美元债券和欧元债券，合计供应超过70亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美元兑日元、欧元日内均跌1%",
           "url": "https://flash.jin10.com/detail/20260129003356751800",
           "source": "金十数据",
@@ -1063,7 +1122,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1110,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "现货黄金短线跳水约45美元，现报5452美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129230332983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "据知情人士透露，Jersey Mike为超过10亿美元规模美国IPO遴选银行。（彭博）",
@@ -1250,7 +1320,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1602,7 +1672,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1640,6 +1710,17 @@
           "time_info": "21时57分"
         },
         {
+          "title": "瑞银集团：将特斯拉(TSLA.O)目标股价从307美元上调至352美元。",
+          "url": "https://flash.jin10.com/detail/20260129225950217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "钯金期货日内涨4%，报2130.00美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3046104",
           "source": "华尔街见闻-快讯",
@@ -1668,7 +1749,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1734,7 +1815,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -1907,7 +1988,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -2017,6 +2098,21 @@
           "time_info": "[09时41分 ~ 15时38分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 23时32分]"
+        },
+        {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
           "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
@@ -2030,21 +2126,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时04分 ~ 16时34分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 22时38分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -2137,8 +2218,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时32分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -2300,6 +2381,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特朗普被曝正考虑对伊朗发动重大打击",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E6%AD%A3%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E9%87%8D%E5%A4%A7%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -2410,6 +2502,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
           "url": "https://flash.jin10.com/detail/20260129001106475800",
           "source": "金十数据",
@@ -2427,7 +2530,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -2452,6 +2555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
@@ -2519,11 +2633,12 @@
           "url": "https://www.zhihu.com/question/1999888901490304692",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 23时32分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
