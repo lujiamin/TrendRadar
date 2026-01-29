@@ -1,66 +1,46 @@
 {
-  "generated_at": "2026-01-30T01:34:29.562657+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-30T02:38:40.049605+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 47,
       "titles": [
         {
-          "title": "美国总统特朗普：与礼来制药老板对话。",
-          "url": "https://wallstreetcn.com/livenews/3046628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "特朗普：利率应该低2到3个百分点",
-          "url": "https://flash.jin10.com/detail/20260130011817239800",
+          "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
+          "url": "https://flash.jin10.com/detail/20260130020218038800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时38分"
         },
         {
-          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
-          "url": "https://flash.jin10.com/detail/20260130011653273800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
-          "url": "https://wallstreetcn.com/livenews/3046625",
+          "title": "美国总统特朗普：与礼来制药老板对话。",
+          "url": "https://wallstreetcn.com/livenews/3046628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
-          "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
-          "url": "https://flash.jin10.com/detail/20260130011559284800",
+          "title": "特朗普：利率应该低2到3个百分点",
+          "url": "https://flash.jin10.com/detail/20260130011817239800",
           "source": "金十数据",
           "ranks": [
-            5
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
@@ -75,6 +55,42 @@
           "time_info": "[00时38分 ~ 01时34分]"
         },
         {
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260130011653273800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
+        },
+        {
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3046625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
+        },
+        {
+          "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
+          "url": "https://flash.jin10.com/detail/20260130011559284800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
+        },
+        {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
           "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
           "source": "凤凰网",
@@ -82,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时38分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -93,74 +109,157 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时38分]"
         },
         {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
           "url": "https://wallstreetcn.com/livenews/3046620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
           "url": "https://wallstreetcn.com/livenews/3046619",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
           "url": "https://flash.jin10.com/detail/20260130011129338800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
           "url": "https://flash.jin10.com/detail/20260130010707619800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
           "url": "https://flash.jin10.com/detail/20260130010650342800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260130020053884800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
+          "url": "https://wallstreetcn.com/livenews/3046644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
+          "url": "https://flash.jin10.com/detail/20260130015932428800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
+          "url": "https://flash.jin10.com/detail/20260130015749406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
+          "url": "https://wallstreetcn.com/livenews/3046641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
+          "url": "https://flash.jin10.com/detail/20260130014330273800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
+          "url": "https://flash.jin10.com/detail/20260130013218508800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -169,9 +268,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
+          "url": "https://wallstreetcn.com/livenews/3046634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -191,7 +301,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -202,7 +312,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -213,9 +323,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国总统特朗普：与礼来公司负责人通话，对方表示他们正在建设6家工厂。",
+          "url": "https://flash.jin10.com/detail/20260130013037529800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "美国总统特朗普赞扬股市上涨。",
@@ -224,7 +345,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -235,9 +356,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "特朗普：白宫仍在与民主党人协商 避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260130012842040800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "美国总统特朗普：希望我们不会（在1月30日）发生政府停摆。 （白宫）正努力避免政府关门。 （国会山的）民主党也不希望政府关门。",
@@ -246,9 +378,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
+          "url": "https://wallstreetcn.com/livenews/3046629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "美国总统特朗普：希望我们不会出现政府停摆，民主党人也不希望政府停摆。",
@@ -257,7 +400,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -268,7 +411,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -279,7 +422,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -290,7 +433,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -301,7 +444,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -312,7 +455,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -334,7 +477,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -345,7 +488,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -356,7 +499,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -367,7 +510,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -378,7 +521,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         },
@@ -389,7 +532,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         }
@@ -397,7 +540,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -407,19 +550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
-        },
-        {
-          "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
-          "url": "https://flash.jin10.com/detail/20260130011936072800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时38分]"
         },
         {
           "title": "周三（8月6日），韩元兑美元最终涨0.12%，报1434.09韩元，跳空高开之后，北京时间14:00之前开始持续回吐涨幅。",
@@ -428,9 +560,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "周四（1月29日）），美联储隔夜逆回购协议（RRP）使用规模为28.52亿美元（交易对手4家），上个交易日报11.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "阿迪达斯四季度营收初步估算为60.8亿欧元，分析师预期61.9亿美元。 四季度运营利润初步估算为1.64亿欧元，分析师预期1.594亿欧元。 四季度毛利润率初步估算为50.8%，分析师预期49.9%。 全年毛利润率初步估算为51.6%，分析师预期51.4%。 阿迪达斯ADR涨3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3046645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
+          "url": "https://flash.jin10.com/detail/20260130011936072800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时38分]"
         },
         {
           "title": "1美元vs10亿美元前沿科技",
@@ -438,11 +604,57 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时38分]"
+        },
+        {
+          "title": "瑞银维持黄金看涨立场 上调目标价至6200美元",
+          "url": "https://flash.jin10.com/detail/20260130010542479800",
+          "source": "金十数据",
+          "ranks": [
+            12,
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "time_info": "[01时34分 ~ 02时38分]"
+        },
+        {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.018%（12月24日为3.930%），投标倍数2.45（前次为2.51）。",
+          "url": "https://wallstreetcn.com/livenews/3046642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "LME期铜收涨532美元，报13618美元/吨。 LME期铝收跌38美元，报3218美元/吨。 LME期锌收涨48美元，报3412美元/吨。 LME期铅收跌3美元，报2014美元/吨。 LME期镍收涨99美元，报18369美元/吨。 LME期锡收跌869美元，报55084美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3046638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
+          "url": "https://flash.jin10.com/detail/20260130014047592800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "商品货币澳元/美元日内跌幅达1.0%，报0.6967。",
@@ -456,15 +668,48 @@
           "time_info": "00时38分"
         },
         {
-          "title": "瑞银维持黄金看涨立场 上调目标价至6200美元",
-          "url": "https://flash.jin10.com/detail/20260130010542479800",
+          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130013359793800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时38分"
+        },
+        {
+          "title": "现货黄金短时呈现出V形走势，目前跌0.8%，重返5370美元上方，北京时间23:00之前开启一波跳水行情、23:36刷新日低至5106.21美元。",
+          "url": "https://wallstreetcn.com/livenews/3046635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3046630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "周四（1月29日），韩元兑美元最终涨0.12%，报1434.09韩元，跳空高开之后，北京时间14:00之前开始持续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3046627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "现货白银日内跌幅达6.0%，报109.18美元/盎司。 纽约金跌破5200美元/盎司关口，报5180.4美元/盎司。 现货黄金日内跌幅达4.0%，报5173.28美元/盎司。",
@@ -476,6 +721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "高盛：超过90%的投资者预计人民币兑美元将在2026年升值。",
+          "url": "https://wallstreetcn.com/livenews/3046624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -517,7 +773,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
         }
