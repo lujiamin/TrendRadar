@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T12:21:55.393743+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-02-02T14:02:12.832536+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 64,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -32,6 +32,28 @@
           "time_info": "[00时23分 ~ 09时48分]"
         },
         {
+          "title": "金银深V遭沪盘打压，黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，原油大跌近5%",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "现货黄金失守4500美元 较历史高位回撤近1100美元",
+          "url": "https://flash.jin10.com/detail/20260202135350281800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
           "url": "https://wallstreetcn.com/livenews/3047847",
           "source": "华尔街见闻-快讯",
@@ -49,9 +71,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金失守4500美元/盎司，为1月9日以来首次，日内跌近8%。",
+          "url": "https://wallstreetcn.com/livenews/3048113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "现货黄金回落至4750美元/盎司下方，日内跌2.80%。",
@@ -65,15 +98,26 @@
           "time_info": "07时21分"
         },
         {
-          "title": "黄金有望涨至6000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B36000%E7%BE%8E%E5%85%83%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "现货白银失守73美元/盎司，为1月5日以来首次，日内跌超14%。",
+          "url": "https://wallstreetcn.com/livenews/3048111",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "现货钯金向下触及1600美元/盎司，日内跌3.48%。",
+          "url": "https://flash.jin10.com/detail/20260202135329611800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "WTI原油日内大跌4.00%，最低报63.03美元/桶。",
@@ -87,6 +131,29 @@
           "time_info": "07时21分"
         },
         {
+          "title": "现货黄金跌破4510美元/盎司，日内跌7.68%。现货白银失守73美元/盎司，为1月5日以来首次，日内跌14.14%。",
+          "url": "https://flash.jin10.com/detail/20260202135324213800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时02分]"
+        },
+        {
           "title": "布伦特原油日内大跌4.00%，现报66.82美元/桶。",
           "url": "https://flash.jin10.com/detail/20260202093219833800",
           "source": "金十数据",
@@ -96,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "现货黄金跌破4520美元/盎司，日内跌7.51%。",
+          "url": "https://flash.jin10.com/detail/20260202135240939800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
@@ -109,6 +187,18 @@
           "time_info": "07时21分"
         },
         {
+          "title": "黄金有望涨至6000美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9C%89%E6%9C%9B%E6%B6%A8%E8%87%B36000%E7%BE%8E%E5%85%83%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时02分]"
+        },
+        {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
@@ -119,6 +209,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 12时21分]"
+        },
+        {
+          "title": "中金：黄金超过5500美元是一个重要分水岭",
+          "url": "https://wallstreetcn.com/articles/3764710",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "现货黄金失守4500美元",
+          "url": "https://www.toutiao.com/trending/7601742033405788166/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "现货金银快速反弹，现分别报4864美元/盎司和83.40美元/盎司。",
@@ -143,13 +255,35 @@
           "time_info": "09时48分"
         },
         {
+          "title": "现货钯金下跌逾5%，至每盎司1,591.0美元。",
+          "url": "https://flash.jin10.com/detail/20260202135145645800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "现货白银失守74美元/盎司，日内跌13%。",
+          "url": "https://wallstreetcn.com/livenews/3048105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "现货白银回落至76美元/盎司下方，日内跌10.94%。",
           "url": "https://flash.jin10.com/detail/20260202120309007800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -165,15 +299,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
+          "title": "现货黄金跌破4550美元/盎司，为1月16日以来首次，较日高回落超330美元。",
+          "url": "https://wallstreetcn.com/livenews/3048103",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "14时02分"
         },
         {
           "title": "现货钯金日内跌超2.00%，现报1621.40美元/盎司。",
@@ -182,9 +316,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货白银失守74美元/盎司，日内跌幅13.01%。",
+          "url": "https://flash.jin10.com/detail/20260202134946485800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "韩元兑美元日内跌幅扩大至1%。",
@@ -204,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -226,9 +371,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金向下触及4530美元/盎司，日内跌7.29%。",
+          "url": "https://flash.jin10.com/detail/20260202134934266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "现货黄金跌破4600美元，日内跌5.7%。",
@@ -240,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "纽约期银回落至75美元/盎司下方，日内跌4.58%。",
+          "url": "https://wallstreetcn.com/livenews/3048096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美元兑日元USD/JPY日内涨近0.4%，至155.32。",
@@ -259,9 +426,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金向下触及4540美元/盎司，日内跌7.07%。",
+          "url": "https://flash.jin10.com/detail/20260202134924028800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "现货黄金失守4580美元/盎司，日内跌幅6.27%。 纽约期金回落至4600美元/盎司下方，日内跌3.07%。",
+          "url": "https://wallstreetcn.com/livenews/3048094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "现货黄金跌破4550美元/盎司，为1月16日以来首次，较日高回落超330美元。",
+          "url": "https://flash.jin10.com/detail/20260202134912184800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
@@ -275,15 +475,37 @@
           "time_info": "09时48分"
         },
         {
+          "title": "纽约期银日内大跌5.00%，现报74.52美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260202134839230800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "现货白银最新报76.73美元/盎司，跌幅再次扩大至10%。",
           "url": "https://flash.jin10.com/detail/20260202115925009800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金跌破4560美元/盎司，日内跌6.67%。",
+          "url": "https://flash.jin10.com/detail/20260202134805041800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "台湾证交所加权股价指数盘初下跌1.1%至31,712.11点。 新台币兑美元下跌0.3%至31.565。",
@@ -303,7 +525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -336,7 +558,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -363,15 +585,59 @@
           "time_info": "09时48分"
         },
         {
+          "title": "纽约期银回落至75美元/盎司下方，日内跌4.58%。",
+          "url": "https://flash.jin10.com/detail/20260202134607443800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "现货黄金向下触及4570美元/盎司，日内跌6.46%。",
+          "url": "https://flash.jin10.com/detail/20260202134536101800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "现货黄金失守4580美元/盎司，日内跌幅6.27%。纽约期金回落至4600美元/盎司下方，日内跌3.07%。",
+          "url": "https://flash.jin10.com/detail/20260202134441515800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "现货黄金跌破4600美元",
           "url": "https://www.toutiao.com/trending/7601742033405788166/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金日内再次失守4600美元关口，跌近6%。",
+          "url": "https://flash.jin10.com/detail/20260202134411870800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "中金：黄金超过5500美元/盎司是一个重要分水岭",
@@ -385,6 +651,28 @@
           "time_info": "09时48分"
         },
         {
+          "title": "美元兑加元上涨0.35%，至1.3661。",
+          "url": "https://flash.jin10.com/detail/20260202134237490800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD下跌0.55%，报0.6925。",
+          "url": "https://flash.jin10.com/detail/20260202134101196800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "现货黄金失守4700美元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884700%E7%BE%8E%E5%85%83%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -396,21 +684,43 @@
           "time_info": "09时48分"
         },
         {
+          "title": "现货白银重返80美元上方，日内跌幅收窄至5.2%，此前一度跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3048067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "WTI原油跌破63美元/桶",
           "url": "https://www.toutiao.com/trending/7601369976884232246/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "伦镍日内跌幅扩大至4.00%，现报16849.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260202133753594800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -499,15 +809,28 @@
           "time_info": "[00时24分 ~ 07时21分]"
         },
         {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时02分]"
+        },
+        {
           "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
           "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 14时02分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -536,15 +859,16 @@
           "time_info": "[04时21分 ~ 07时21分]"
         },
         {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
           "source": "凤凰网",
           "ranks": [
+            7,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时02分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -607,6 +931,18 @@
           "time_info": "[00时24分 ~ 03时22分]"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时02分]"
+        },
+        {
           "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
           "url": "https://news.ifeng.com/c/8qPOoB0E678",
           "source": "凤凰网",
@@ -642,28 +978,6 @@
           "time_info": "[07时20分 ~ 07时21分]"
         },
         {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://wallstreetcn.com/livenews/3047836",
           "source": "华尔街见闻-快讯",
@@ -686,13 +1000,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
+          "url": "https://flash.jin10.com/detail/20260202134832302800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -700,7 +1025,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -752,13 +1077,24 @@
           "time_info": "[00时23分 ~ 01时21分]"
         },
         {
+          "title": "1月车市“大变天”！吉利反超比亚迪 小米SU7停产致销量跌超二成",
+          "url": "https://www.cls.cn/detail/2277327",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至3%，华虹半导体跌超10%，小鹏汽车跌超8%，蔚来、比亚迪股份跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3048012",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -774,11 +1110,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时02分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -805,7 +1142,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
