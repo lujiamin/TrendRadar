@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T01:35:07.203413+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-03T02:37:37.696795+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -15,19 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
-          "title": "美元兑印度卢比一个月NDF下跌1%，报90.94。",
-          "url": "https://wallstreetcn.com/livenews/3048482",
+          "title": "周一（2月2日），美联储隔夜逆回购协议（RRP）使用规模为104.15亿美元（交易对手8家），上个交易日报96.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3048504",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时35分"
+          "time_info": "02时37分"
         },
         {
           "title": "美国天然气期货日内暴跌24.00%，现报3.309美元/百万英热。",
@@ -36,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "【特朗普：美印达成一项贸易协议，“对等关税”将从25%降至18%】2月2日，美国总统特朗普在社交媒体平台“真实社交”上发文称，他于当日上午与印度总理莫迪进行了交谈。 特朗普表示，双方达成了一项美印贸易协议，美国对印度的“对等关税”将从25%降至18%。印度也将相应地降低对美国的关税和非关税壁垒，直至降至零。特朗普还称，莫迪承诺将大幅增加对美国产品的采购，包括价值超过5000亿美元的美国能源、技术、农产品、煤炭以及其他许多产品。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3048500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "中金：黄金超过5500美元是一个重要分水岭",
@@ -48,8 +59,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时37分]"
+        },
+        {
+          "title": "美元兑印度卢比一个月NDF下跌1%，报90.94。",
+          "url": "https://wallstreetcn.com/livenews/3048482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时37分]"
         },
         {
           "title": "欧元/美元日内跌幅达0.5%，报1.1792。",
@@ -64,13 +87,35 @@
           "time_info": "[00时34分 ~ 01时35分]"
         },
         {
+          "title": "LME期铜收跌266美元，报12892美元/吨。 LME期铝收跌88元，报3056美元/吨。 LME期锌收跌78美元，报3324美元/吨。 LME期铅收跌46美元，报1963美元/吨。 LME期镍收跌1127美元，报16827美元/吨。 LME期锡收跌5364美元，报46591美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3048499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "哥伦比亚比索兑美元涨至3600比索。",
+          "url": "https://wallstreetcn.com/livenews/3048496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
           "url": "https://flash.jin10.com/detail/20260203010335671800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -84,6 +129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "印度官员宣称，美国将针对购买俄罗斯石油撤销25%的惩罚性关税。 印度同意，未来五年购买5000亿美元（美国产品）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "周一（2月2日），韩元兑美元最终跌0.51%，报1451.89韩元。",
+          "url": "https://wallstreetcn.com/livenews/3048486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美元兑瑞郎涨1%，报0.7808。",
@@ -147,7 +214,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         }
@@ -155,8 +222,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
+          "url": "https://wallstreetcn.com/livenews/3048503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
           "url": "https://flash.jin10.com/detail/20260203011746385800",
@@ -164,9 +242,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3048475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时37分]"
         },
         {
           "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
@@ -181,15 +271,37 @@
           "time_info": "[00时34分 ~ 01时35分]"
         },
         {
-          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3048475",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
+          "url": "https://flash.jin10.com/detail/20260203021528114800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时35分"
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美国总统特朗普谈及明尼苏达州（移民相关问题），声称：我们想要一个东西，他们关押的人。",
+          "url": "https://wallstreetcn.com/livenews/3048498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
+          "url": "https://wallstreetcn.com/livenews/3048493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
@@ -198,7 +310,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -209,7 +321,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -220,7 +332,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -242,7 +354,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -267,6 +379,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及明尼苏达州）我们可以很快离开那里。",
+          "url": "https://flash.jin10.com/detail/20260203015233342800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：Codex应用今日在MacOS上线。",
+          "url": "https://wallstreetcn.com/livenews/3048502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
+          "url": "https://flash.jin10.com/detail/20260203021332925800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "OpenAI：Codex应用今日在MacOS上线。",
+          "url": "https://flash.jin10.com/detail/20260203020942519800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     }
