@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T22:02:28.050923+08:00",
-  "total_titles_processed": 1874,
+  "generated_at": "2026-02-03T23:44:49.000464+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 115,
+      "match_count": 122,
       "titles": [
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 23时44分]"
+        },
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 14时44分]"
-        },
-        {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 22时02分]"
         },
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "现货白银站上87美元/盎司，日内涨9.80%。",
@@ -275,7 +286,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -319,7 +330,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -371,6 +382,18 @@
           "time_info": "[13时47分 ~ 14时44分]"
         },
         {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 23时44分]"
+        },
+        {
           "title": "现货黄金重回4900美元/盎司",
           "url": "https://www.toutiao.com/trending/7602537659117866532/",
           "source": "今日头条",
@@ -416,17 +439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 22时02分]"
         },
         {
           "title": "现货白银向上触及80美元/盎司，日内涨1.07%。",
@@ -495,6 +507,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "Prosus于1月26-30日当周按均值49.9973欧元回购股票17.56605万股，合计0.878亿欧元（折合1.047亿美元）。 Naspers同期按均价1027.0534南非兰特回购股票64.7万股，合计6.645亿兰特（折合0.417亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3049207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "现货黄金站上4840美元/盎司，日内涨3.84%。",
           "url": "https://flash.jin10.com/detail/20260203091521637800",
           "source": "金十数据",
@@ -512,7 +535,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -523,7 +546,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -578,7 +601,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -633,7 +656,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -655,9 +678,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "沃尔玛市值首次突破1万亿美元 AI布局与高性价比推动增长",
+          "url": "https://flash.jin10.com/detail/20260203230306441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "黄金惊魂两日难挡华尔街热情！德银坚持看多：年底有望站上6000美元",
@@ -737,6 +771,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "沃尔玛市值首次超过1万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3049197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "据几位知情人士透露，日本方面和美国至少达成了三项协议，有望最终落实日本对美国的5500亿美元投资承诺，这些协议预计将在2月8日大选结束后公布。",
           "url": "https://flash.jin10.com/detail/20260203132224858800",
           "source": "金十数据",
@@ -787,7 +832,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -831,7 +876,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1023,6 +1068,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "美国天然气期货日内涨超3.00%，现报3.336美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260203225331286800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3048566",
           "source": "华尔街见闻-快讯",
@@ -1040,9 +1096,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.00%，现报66.92美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260203225324423800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9362，较上一交易日官方收盘价涨151点，较上日夜盘收盘涨86点。",
@@ -1054,6 +1121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "辉瑞制药跌4%，该公司业绩指引和减肥药数据让投资者感到失望。第四季度营收175.6亿美元，调整后每股收益0.66美元。维持2026全年营收595亿-至625亿美元不变。",
+          "url": "https://wallstreetcn.com/livenews/3049189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "据外媒报道，美国总统特朗普在中期选举前建立4.83亿美元的战争基金，竞选资金申报显示共和党人筹集的资金多于民主党人。",
@@ -1172,7 +1250,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1290,7 +1368,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -1313,8 +1391,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 23时44分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -1324,11 +1402,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[14时44分 ~ 23时44分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -1336,11 +1415,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 23时44分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -1417,6 +1497,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 23时44分]"
+        },
+        {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
           "url": "https://wallstreetcn.com/livenews/3048475",
           "source": "华尔街见闻-快讯",
@@ -1441,17 +1532,6 @@
           "time_info": "[00时34分 ~ 01时35分]"
         },
         {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 22时02分]"
-        },
-        {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
           "url": "https://flash.jin10.com/detail/20260203021528114800",
           "source": "金十数据",
@@ -1461,6 +1541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "据悉美国主要开发商将考虑推出100万套“特朗普住宅”的计划。",
+          "url": "https://flash.jin10.com/detail/20260203231453724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普谈及明尼苏达州（移民相关问题），声称：我们想要一个东西，他们关押的人。",
@@ -1483,6 +1574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "美国参议员格雷厄姆敦促特朗普向基辅提供战斧导弹。",
+          "url": "https://flash.jin10.com/detail/20260203230620098800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
@@ -1540,6 +1642,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
+          "url": "https://wallstreetcn.com/livenews/3049198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
           "url": "https://flash.jin10.com/detail/20260203005909864800",
           "source": "金十数据",
@@ -1582,6 +1695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "Archer-Daniels-Midland Co.（ADM）跌8.3%，创4月份以来最大盘中跌幅。 投资者担心，（美国总统特朗普政府的）生物燃料政策推迟恐怕会不利于公司的利润前景。",
+          "url": "https://wallstreetcn.com/livenews/3049193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普：古巴是个失败国家，他们从委内瑞拉那里拿不到任何钱。",
@@ -1846,7 +1970,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒指高开0.82%，报26995.76点；恒生科技指数涨0.68%。网易、华虹半导体涨超3%，哔哩哔哩涨超2%，阿里巴巴、中芯国际等涨超1%。",
@@ -1858,6 +1982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
+          "url": "https://wallstreetcn.com/livenews/3049196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至3.1%。快手跌超7%，哔哩哔哩、百度、腾讯控股跌超6%，阿里巴巴跌近5%。",
