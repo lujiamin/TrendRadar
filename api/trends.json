@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T07:24:15.044431+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-02-03T09:47:35.485545+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 44,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 09时47分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -41,6 +41,28 @@
           "time_info": "02时37分"
         },
         {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "现货白银日内大涨7.00%，现报84.83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203092604613800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "美国天然气期货日内暴跌24.00%，现报3.309美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260203011931257800",
           "source": "金十数据",
@@ -58,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -69,9 +91,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "现货黄金站上4850美元/盎司，较日低回升180美元，日内涨4.08%。",
+          "url": "https://flash.jin10.com/detail/20260203092340545800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "纽约期银日内大涨10.00%，现报84.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203092302719800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "【特朗普：美印达成一项贸易协议，“对等关税”将从25%降至18%】2月2日，美国总统特朗普在社交媒体平台“真实社交”上发文称，他于当日上午与印度总理莫迪进行了交谈。 特朗普表示，双方达成了一项美印贸易协议，美国对印度的“对等关税”将从25%降至18%。印度也将相应地降低对美国的关税和非关税壁垒，直至降至零。特朗普还称，莫迪承诺将大幅增加对美国产品的采购，包括价值超过5000亿美元的美国能源、技术、农产品、煤炭以及其他许多产品。（央视）",
@@ -83,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "现货黄金涨超4%，现报4851.49美元/盎司。 现货白银站上85美元关口，日内大涨7.8%。",
+          "url": "https://wallstreetcn.com/livenews/3048675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "中金：黄金超过5500美元是一个重要分水岭",
@@ -137,9 +192,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "现货黄金日内大涨4.00%，现报4848.07美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203091545348800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "LME期铜收跌266美元，报12892美元/吨。 LME期铝收跌88元，报3056美元/吨。 LME期锌收跌78美元，报3324美元/吨。 LME期铅收跌46美元，报1963美元/吨。 LME期镍收跌1127美元，报16827美元/吨。 LME期锡收跌5364美元，报46591美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -153,13 +219,24 @@
           "time_info": "02时37分"
         },
         {
+          "title": "现货黄金站上4840美元/盎司，日内涨3.84%。",
+          "url": "https://flash.jin10.com/detail/20260203091521637800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "现货黄金周二高开，现报4680美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260203070045906800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -184,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "据知情人士透露，甲骨文寻求发行50亿美元强制可转换债券。（彭博）",
@@ -214,7 +302,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -228,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9608，上调87点；上一交易日中间价6.9695，上一交易日官方收盘价6.9513，上日夜盘报收6.9448。",
+          "url": "https://wallstreetcn.com/livenews/3048660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美元兑瑞郎涨1%，报0.7808。",
@@ -258,7 +357,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -280,9 +379,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "现货白银涨幅收窄至4%，现报82.45美元/盎司，现货黄金则回落至4800美元/盎司之下。",
+          "url": "https://flash.jin10.com/detail/20260203085112050800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
@@ -291,7 +401,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -313,7 +423,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -324,7 +434,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -335,7 +445,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -357,7 +467,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -368,7 +478,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -387,18 +497,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
           "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时47分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -418,7 +529,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -480,6 +591,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
           "url": "https://wallstreetcn.com/livenews/3048493",
           "source": "华尔街见闻-快讯",
@@ -519,7 +641,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -574,9 +696,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
+          "url": "https://wallstreetcn.com/livenews/3048649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国总统特朗普：墨西哥将停止向古巴输送石油。",
@@ -585,7 +718,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -596,7 +729,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -607,7 +740,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -618,7 +751,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -629,7 +762,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -651,7 +784,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -662,7 +795,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -684,7 +817,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -712,7 +845,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -734,7 +867,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -756,7 +889,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -767,9 +900,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒指高开0.82%，报26995.76点；恒生科技指数涨0.68%。网易、华虹半导体涨超3%，哔哩哔哩涨超2%，阿里巴巴、中芯国际等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3048661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     }
