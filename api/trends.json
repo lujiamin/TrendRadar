@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T06:25:58.523506+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-02-04T07:25:30.225829+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 59,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时25分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -47,11 +48,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时25分]"
         },
         {
           "title": "韩国1月外汇储备 4259.1亿美元，前值4280.5亿美元。",
@@ -76,15 +78,15 @@
           "time_info": "00时47分"
         },
         {
-          "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
-          "url": "https://wallstreetcn.com/livenews/3049352",
+          "title": "小马智行港交所公告，根据对本集团截至2025年12月31日止年度之未经审核综合管理账目的初步评估及目前可得资料，本集团预期于报告期内录得亏损净额介乎约6900万-8600万美元。",
+          "url": "https://wallstreetcn.com/livenews/3049377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时25分"
         },
         {
           "title": "现货黄金站上4980美元/盎司，日内涨6.85%。",
@@ -107,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
-          "url": "https://wallstreetcn.com/livenews/3049349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -167,6 +158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时25分]"
+        },
+        {
+          "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
+          "url": "https://wallstreetcn.com/livenews/3049352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "周二（2月3日），美联储隔夜逆回购协议（RRP）使用规模为17.85亿美元（交易对手18家），上个交易日报104.15亿美元。",
@@ -240,6 +243,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时25分]"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3049349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3049348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "据知情人士透露，甲骨文50亿美元强制性可转债销售获得数倍超额认购。（彭博）",
@@ -350,15 +377,26 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
-          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
-          "url": "https://wallstreetcn.com/livenews/3049348",
-          "source": "华尔街见闻-快讯",
+          "title": "30亿美元资金蓄势待发 美国稀土公司加速矿产供应链建设",
+          "url": "https://flash.jin10.com/detail/20260204063505140800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "秘鲁政府表示，2025年该国出口额同比增长21%，达到创纪录的900.82亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204063103535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
@@ -466,7 +504,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -515,6 +553,39 @@
           "time_info": "00时47分"
         },
         {
+          "title": "Lumen Technologies Inc.（LUMN）四季度营收30.4亿美元，分析师预期30.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "AMD：预计2027年AI收入将达到“数百亿美元”规模。",
+          "url": "https://wallstreetcn.com/livenews/3049362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
+          "url": "https://flash.jin10.com/detail/20260204061458712800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "Prosus于1月26-30日当周按均值49.9973欧元回购股票17.56605万股，合计0.878亿欧元（折合1.047亿美元）。 Naspers同期按均价1027.0534南非兰特回购股票64.7万股，合计6.645亿兰特（折合0.417亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3049207",
           "source": "华尔街见闻-快讯",
@@ -524,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "Cirrus Logic Inc.（CRUS）第三财季净销售5.806亿美元，分析师预期5.30亿美元。 预计第四财季营收4.10亿-4.70亿美元，分析师预期3.843亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "周二（2月3日），韩元兑美元最终涨0.29%，报1447.73韩元，北京时间15:42曾冲高至1439.62韩元。",
@@ -537,6 +619,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "思佳讯（Skyworks）第一财季营收10.4亿美元，同比下降3.1%。 第一财季调整后每股收益（EPS）为1.54美元，上年同期1.60美元。 第一财季调整后运营利润2.521亿美元，分析师预期2.30亿美元。 预计第二财季营收8.75亿美元，分析师预期9.25亿美元。 预计第二财季调整后EPS为1.54美元。",
+          "url": "https://wallstreetcn.com/livenews/3049359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "纽约金日内涨幅达7.5%，报5001.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3049229",
           "source": "华尔街见闻-快讯",
@@ -546,6 +639,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9351元，较周一纽约尾盘涨75点，日内整体交投于6.9437-6.9309元区间。",
+          "url": "https://wallstreetcn.com/livenews/3049355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20260204060820348800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "沃尔玛市值首次超过1万亿美元",
@@ -573,7 +688,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -583,8 +698,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时25分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -609,28 +724,6 @@
           "time_info": "[00时46分 ~ 06时25分]"
         },
         {
-          "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
-          "url": "https://flash.jin10.com/detail/20260204060246322800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "美国总统特朗普重申对医疗保险行业的批零。",
-          "url": "https://wallstreetcn.com/livenews/3049354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
           "url": "https://flash.jin10.com/detail/20260204045944147800",
           "source": "金十数据",
@@ -653,15 +746,15 @@
           "time_info": "00时47分"
         },
         {
-          "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
-          "url": "https://wallstreetcn.com/livenews/3049351",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普签署拨款法案，结束政府部分“停摆”",
+          "url": "https://news.ifeng.com/c/8qRFXQoY4Em",
+          "source": "凤凰网",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时25分"
         },
         {
           "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
@@ -673,6 +766,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
+          "url": "https://flash.jin10.com/detail/20260204060246322800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "美国总统特朗普重申对医疗保险行业的批零。",
+          "url": "https://wallstreetcn.com/livenews/3049354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
+          "url": "https://wallstreetcn.com/livenews/3049351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
@@ -687,6 +816,20 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
+        },
+        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -696,19 +839,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时50分]"
-        },
-        {
-          "title": "特朗普称有问题的是比尔盖茨那些人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时25分]"
         },
         {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
@@ -788,7 +918,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -821,7 +951,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -843,7 +973,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -854,7 +984,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -865,7 +995,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -876,9 +1006,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3049367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
@@ -931,9 +1072,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
+          "url": "https://flash.jin10.com/detail/20260204061551878800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
@@ -942,7 +1094,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -964,7 +1116,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -986,7 +1138,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1008,7 +1160,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1019,7 +1171,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1033,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "美伊会谈前生两起摩擦 特朗普：本周的谈判仍在继续",
+          "url": "https://flash.jin10.com/detail/20260204060809275800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
@@ -1060,7 +1223,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1171,7 +1334,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1196,6 +1359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20260204062113821800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "OpenAI：ChatGPT当前存在一些问题。",
@@ -1226,7 +1400,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
