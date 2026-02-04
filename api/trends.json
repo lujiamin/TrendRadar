@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T09:31:21.378865+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-02-04T12:08:53.988400+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 73,
+      "match_count": 80,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 12时08分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时25分]"
+        },
+        {
+          "title": "印美达成贸易协议，分析人士：5000亿美元应被视为“政治信号”",
+          "url": "https://news.ifeng.com/c/8qSAk7N1gWi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 12时08分]"
         },
         {
           "title": "韩国1月外汇储备 4259.1亿美元，前值4280.5亿美元。",
@@ -89,17 +101,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "印美达成贸易协议，分析人士：5000亿美元应被视为“政治信号”",
-          "url": "https://news.ifeng.com/c/8qSAk7N1gWi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "现货黄金站上4980美元/盎司，日内涨6.85%。",
           "url": "https://flash.jin10.com/detail/20260204002833018800",
           "source": "金十数据",
@@ -117,7 +118,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -131,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "现货黄金突破5070美元/盎司，日内涨2.49%。",
+          "url": "https://flash.jin10.com/detail/20260204113950180800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -351,6 +363,18 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.douyin.com/hot/2388894",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 12时08分]"
+        },
+        {
           "title": "高盛：将2026年镍价预测上调至平均每吨17,200美元，此前预测为每吨14,800美元。",
           "url": "https://flash.jin10.com/detail/20260204030039864800",
           "source": "金十数据",
@@ -405,7 +429,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -427,7 +451,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -438,7 +462,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -454,6 +478,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "韩元兑美元抹去了早些时候的跌幅，此前韩国保健福祉部部长表示今年可能发行国民养老金外汇债券。",
+          "url": "https://flash.jin10.com/detail/20260204113138533800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3049301",
           "source": "华尔街见闻-快讯",
@@ -465,15 +500,26 @@
           "time_info": "04时31分"
         },
         {
-          "title": "现货黄金重新站上5000美元",
-          "url": "https://www.douyin.com/hot/2388894",
-          "source": "抖音",
+          "title": "现货黄金涨破5070美元/盎司，日内涨约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时08分"
         },
         {
           "title": "城堡投资创始人格里芬：府的一些言论使得美元的光芒有所黯淡。",
@@ -515,7 +561,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -559,7 +605,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -625,7 +671,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -658,9 +704,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "韩国保健福祉部部长：韩国养老基金目前正灵活开展外汇对冲操作，有望于今年发行美元债券。",
+          "url": "https://flash.jin10.com/detail/20260204112743672800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "Lumen Technologies Inc.（LUMN）四季度营收30.4亿美元，分析师预期30.5亿美元。",
@@ -680,7 +737,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -735,7 +792,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -779,7 +836,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -806,13 +863,24 @@
           "time_info": "07时25分"
         },
         {
+          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
+          "url": "https://wallstreetcn.com/livenews/3049511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "智利上调铜价预期至4.95美元/磅",
           "url": "https://www.toutiao.com/trending/7602481102993997874/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -837,12 +905,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "哈登放弃230万美元交易补偿金",
+          "url": "https://www.toutiao.com/trending/7602813303634529842/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -909,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
@@ -1055,6 +1145,17 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
@@ -1075,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -1209,6 +1321,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "特朗普称普京兑现了“能源停火”承诺",
+          "url": "https://wallstreetcn.com/livenews/3049533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普总统总是倾向于首先采取外交手段解决问题。",
           "url": "https://flash.jin10.com/detail/20260204021303359800",
           "source": "金十数据",
@@ -1240,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
@@ -1377,7 +1511,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1391,6 +1525,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -1400,6 +1545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -1412,6 +1568,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时31分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 12时08分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -1436,17 +1604,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时43分]"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
