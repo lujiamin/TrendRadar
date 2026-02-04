@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:44:46.059143+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-02-04T15:41:32.272387+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 91,
+      "match_count": 101,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 14时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 15时41分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -96,7 +96,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "现货钯金日内涨幅达4.00%，现报1809.13美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260204153200591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "现货黄金站上4980美元/盎司，日内涨6.85%。",
@@ -154,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "现货铂金日内涨超5%，报2318.89美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260204152819027800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "现货黄金重新站上5000美元",
@@ -326,6 +348,17 @@
           "time_info": "[12时08分 ~ 13时45分]"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时41分]"
+        },
+        {
           "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
           "url": "https://wallstreetcn.com/livenews/3049348",
           "source": "华尔街见闻-快讯",
@@ -470,17 +503,6 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
           "title": "现货钯金上涨3%，至每盎司1784.96美元。",
           "url": "https://wallstreetcn.com/livenews/3049426",
           "source": "华尔街见闻-快讯",
@@ -490,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "纽约期银日内涨超8%，站上90美元/盎司。现货白银日内暴涨6%，现报90.34美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260204152701611800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "30亿美元资金蓄势待发 美国稀土公司加速矿产供应链建设",
@@ -547,6 +580,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "现货白银重回90美元上方",
+          "url": "https://flash.jin10.com/detail/20260204152347572800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3049301",
           "source": "华尔街见闻-快讯",
@@ -597,7 +641,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -712,6 +756,28 @@
           "time_info": "06时25分"
         },
         {
+          "title": "贝伦斯坦：将AMD(AMD.O)目标价从225美元上调至235美元。",
+          "url": "https://flash.jin10.com/detail/20260204151928836800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "现货白银重回90美元上方",
+          "url": "https://wallstreetcn.com/livenews/3049664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "布伦特原油向上触及67美元/桶，日内涨1.22%。",
           "url": "https://flash.jin10.com/detail/20260204011322425800",
           "source": "金十数据",
@@ -745,6 +811,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "阿塞拜疆央行行长：预计2026年天然气平均价格为每千立方米269美元。",
+          "url": "https://flash.jin10.com/detail/20260204151649559800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3049236",
           "source": "华尔街见闻-快讯",
@@ -762,7 +839,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -817,7 +894,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -853,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "阿塞拜疆央行行长：截至2025年底，战略外汇储备为851亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204151135963800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
@@ -897,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "美伊紧张局势提振黄金 分析师短期上看5600美元",
+          "url": "https://flash.jin10.com/detail/20260204151011099800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "周二（2月3日），韩元兑美元最终涨0.29%，报1447.73韩元，北京时间15:42曾冲高至1439.62韩元。",
@@ -976,13 +1075,24 @@
           "time_info": "12时08分"
         },
         {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "现货黄金向上触及5090美元/盎司，日内涨2.90%。",
           "url": "https://flash.jin10.com/detail/20260204135150921800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -1015,7 +1125,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -1045,7 +1155,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -1070,6 +1180,18 @@
           "time_info": "[00时46分 ~ 06时25分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -1081,18 +1203,6 @@
           "time_info": "[00时46分 ~ 06时25分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 14时44分]"
-        },
-        {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
           "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
           "source": "凤凰网",
@@ -1100,8 +1210,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时41分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -1113,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 15时41分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -1137,6 +1270,18 @@
           "time_info": "13时45分"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
           "url": "https://news.ifeng.com/c/8qRFXQoY4Em",
           "source": "凤凰网",
@@ -1157,17 +1302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
@@ -1192,18 +1326,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 14时44分]"
         },
         {
           "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
@@ -1253,17 +1375,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时50分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时44分]"
         },
         {
           "title": "特朗普称正与伊朗进行谈判",
@@ -1368,6 +1479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)首席执行官：希望与美国总统特朗普政府达成一致的肥胖症药物医保覆盖将于今年“年中左右”启动。",
+          "url": "https://flash.jin10.com/detail/20260204152741614800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -1557,6 +1679,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普被问及爱泼斯坦案连怼记者",
+          "url": "https://wallstreetcn.com/livenews/3049655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
           "url": "https://flash.jin10.com/detail/20260204042744936800",
           "source": "金十数据",
@@ -1684,6 +1817,20 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时41分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
           "url": "https://flash.jin10.com/detail/20260204013101107800",
           "source": "金十数据",
@@ -1715,19 +1862,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时44分]"
         },
         {
           "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
