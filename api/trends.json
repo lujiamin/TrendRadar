@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:25:30.225829+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-02-04T09:31:21.378865+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 73,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 09时31分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -84,9 +84,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "印美达成贸易协议，分析人士：5000亿美元应被视为“政治信号”",
+          "url": "https://news.ifeng.com/c/8qSAk7N1gWi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "现货黄金站上4980美元/盎司，日内涨6.85%。",
@@ -98,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "现货黄金站上5020美元/盎司，日内涨1.51%。",
+          "url": "https://flash.jin10.com/detail/20260204090633959800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "纽约期金重回5000美元",
@@ -377,15 +399,48 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
+          "title": "现货钯金上涨3%，至每盎司1784.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3049426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "30亿美元资金蓄势待发 美国稀土公司加速矿产供应链建设",
           "url": "https://flash.jin10.com/detail/20260204063505140800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "现货黄金站上5000美元关口，日内涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3049424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.toutiao.com/trending/7602806779071696438/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "秘鲁政府表示，2025年该国出口额同比增长21%，达到创纪录的900.82亿美元。",
@@ -394,7 +449,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -408,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.douyin.com/hot/2388894",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "城堡投资创始人格里芬：府的一些言论使得美元的光芒有所黯淡。",
@@ -443,6 +509,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "特朗普公布120亿美元“金库计划”",
+          "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "城堡投资创始人格里芬表示，过去12个月里，美元的光环有所褪色。",
           "url": "https://flash.jin10.com/detail/20260204002305541800",
           "source": "金十数据",
@@ -474,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "现货白银持续反弹，日内涨幅扩大至1%，现报86.08美元/盎司，此前一度跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260204090049696800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美、布两油日内涨超2.00%，现分别报63.64美元/桶和67.31美元/桶。",
@@ -531,6 +619,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "市场消息：美国纽约和新泽西州就美国总统特朗普决定扣留160亿美元隧道项目资金提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260204085800714800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3049236",
           "source": "华尔街见闻-快讯",
@@ -553,15 +652,37 @@
           "time_info": "00时47分"
         },
         {
+          "title": "现货白银突破86美元/盎司，日内涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260204085521696800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "Lumen Technologies Inc.（LUMN）四季度营收30.4亿美元，分析师预期30.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3049363",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美元兑日元USD/JPY突破156，日内涨0.17%。",
+          "url": "https://flash.jin10.com/detail/20260204085354733800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "AMD：预计2027年AI收入将达到“数百亿美元”规模。",
@@ -570,7 +691,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -581,7 +702,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -603,9 +724,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://flash.jin10.com/detail/20260204084913408800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "周二（2月3日），韩元兑美元最终涨0.29%，报1447.73韩元，北京时间15:42曾冲高至1439.62韩元。",
@@ -625,7 +757,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -641,13 +773,24 @@
           "time_info": "01时50分"
         },
         {
+          "title": "市场消息：Anthropic计划以3500亿美元估值进行员工股权要约收购。",
+          "url": "https://flash.jin10.com/detail/20260204084223933800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "周二（2月3日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9351元，较周一纽约尾盘涨75点，日内整体交投于6.9437-6.9309元区间。",
           "url": "https://wallstreetcn.com/livenews/3049355",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -658,9 +801,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "智利上调铜价预期至4.95美元/磅",
+          "url": "https://www.toutiao.com/trending/7602481102993997874/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "沃尔玛市值首次超过1万亿美元",
@@ -752,7 +906,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1017,7 +1171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1083,7 +1237,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1193,7 +1347,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -1223,7 +1377,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1282,6 +1436,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时43分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
@@ -1367,7 +1532,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
