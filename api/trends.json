@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:08:53.988400+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-02-04T13:45:14.808444+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 12时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 13时45分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -140,7 +140,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -291,6 +291,30 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.douyin.com/hot/2388894",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 13时45分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
+        },
+        {
           "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
           "url": "https://wallstreetcn.com/livenews/3049348",
           "source": "华尔街见闻-快讯",
@@ -363,16 +387,16 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
-          "title": "现货黄金重新站上5000美元",
-          "url": "https://www.douyin.com/hot/2388894",
-          "source": "抖音",
+          "title": "现货黄金涨破5070美元/盎司，日内涨约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049545",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11
+            9,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 12时08分]"
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "高盛：将2026年镍价预测上调至平均每吨17,200美元，此前预测为每吨14,800美元。",
@@ -484,7 +508,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -498,28 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "现货黄金涨破5070美元/盎司，日内涨约2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3049545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "城堡投资创始人格里芬：府的一些言论使得美元的光芒有所黯淡。",
@@ -610,6 +612,28 @@
           "time_info": "09时31分"
         },
         {
+          "title": "纽约期金突破5100美元/盎司，日内涨3.34%。",
+          "url": "https://flash.jin10.com/detail/20260204125810633800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "纽约期金触及5100美元/盎司，日内涨3.34%。 现货黄金突破5080美元/盎司，日内涨2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3049570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "美、布两油日内涨超2.00%，现分别报63.64美元/桶和67.31美元/桶。",
           "url": "https://flash.jin10.com/detail/20260204011548299800",
           "source": "金十数据",
@@ -619,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "现货黄金突破5080美元/盎司，日内涨2.71%。",
+          "url": "https://flash.jin10.com/detail/20260204125729335800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "Axiom按15亿美元估值融资超过1亿美元。（The Information）",
@@ -715,7 +750,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -751,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "摩根大通：将恩智浦半导体(NXPI.O)目标价从245.00美元上调至250.00美元。",
+          "url": "https://flash.jin10.com/detail/20260204121141558800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
@@ -869,7 +915,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -913,7 +959,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -921,7 +967,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -957,6 +1003,29 @@
           "time_info": "[00时46分 ~ 06时25分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
           "url": "https://flash.jin10.com/detail/20260204045944147800",
           "source": "金十数据",
@@ -979,6 +1048,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普外交斡旋遭遇空袭挑战 普京极限施压意在逼和",
+          "url": "https://flash.jin10.com/detail/20260204131831207800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
           "url": "https://news.ifeng.com/c/8qRFXQoY4Em",
           "source": "凤凰网",
@@ -988,17 +1068,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
@@ -1074,6 +1143,17 @@
           "time_info": "[04时31分 ~ 07时25分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
+        },
+        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -1083,6 +1163,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时50分]"
+        },
+        {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
@@ -1121,6 +1224,17 @@
           "time_info": "[05时30分 ~ 06时25分]"
         },
         {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
           "url": "https://wallstreetcn.com/livenews/3049266",
           "source": "华尔街见闻-快讯",
@@ -1145,15 +1259,15 @@
           "time_info": "[03时43分 ~ 04时31分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
+          "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
@@ -1176,17 +1290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -1327,7 +1430,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -1363,17 +1466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普称正与伊朗进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
@@ -1511,7 +1603,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -1531,7 +1623,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -1553,9 +1645,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
+          "url": "https://flash.jin10.com/detail/20260204131636619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 13时45分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -1568,18 +1695,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时31分]"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 12时08分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
