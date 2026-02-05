@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-06T00:41:55.680737+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T01:44:43.324142+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美团拟 7.17 亿美元收购叮咚买菜，已有小象超市等类似业务为何还需要高额收购？收购后将带来哪些改变？",
           "url": "https://www.zhihu.com/question/2002797018704269521",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
         },
         {
           "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
@@ -26,41 +27,66 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
         },
         {
-          "title": "英镑兑美元跌幅扩大至1%，刷新日低至1.3518。",
-          "url": "https://wallstreetcn.com/livenews/3050789",
+          "title": "周四（2月5日），韩元兑美元最终跌0.30%，报1463.34韩元。",
+          "url": "https://wallstreetcn.com/livenews/3050821",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "专家：中俄中美元首同日互动实属罕见",
-          "url": "https://www.toutiao.com/trending/7602957012384956470/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时44分"
         },
         {
           "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2002497105818825469",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
+        },
+        {
+          "title": "英镑兑美元跌幅扩大至1%，刷新日低至1.3518。",
+          "url": "https://wallstreetcn.com/livenews/3050789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
+        },
+        {
+          "title": "专家：中俄中美元首同日互动实属罕见",
+          "url": "https://www.toutiao.com/trending/7602957012384956470/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
+        },
+        {
+          "title": "美团：拟7.17亿美元收购叮咚",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%EF%BC%9A%E6%8B%9F7.17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8F%AE%E5%92%9A",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
         },
         {
           "title": "壳牌首席执行官：在数月内，委内瑞拉就有可能迎来一系列机遇，届时可能会有数十亿美元的投资和生产活动。",
@@ -107,6 +133,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
+          "url": "https://wallstreetcn.com/livenews/3050802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
           "title": "英镑兑美元GBP/USD日内下跌1.00%，至1月23日以来的最低水平，最新报1.3518。",
           "url": "https://flash.jin10.com/detail/20260206001043820800",
           "source": "金十数据",
@@ -116,34 +153,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "美团：拟7.17亿美元收购叮咚",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%EF%BC%9A%E6%8B%9F7.17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8F%AE%E5%92%9A",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于美东时间19:00揭晓TrumpRX。",
           "url": "https://wallstreetcn.com/livenews/3050787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -153,8 +180,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时44分]"
         },
         {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
@@ -177,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
         },
         {
           "title": "美国财长贝森特：特朗普已提议设定为期一年的信用卡利率上限。",
@@ -215,8 +253,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
+          "url": "https://wallstreetcn.com/livenews/3050813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
         {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
           "url": "https://flash.jin10.com/detail/20260206001240368800",
