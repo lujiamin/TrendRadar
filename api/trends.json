@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T06:22:51.288131+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-02-06T07:20:15.336441+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
@@ -15,22 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时22分]"
-        },
-        {
-          "title": "美团拟 7.17 亿美元收购叮咚买菜，已有小象超市等类似业务为何还需要高额收购？收购后将带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2002797018704269521",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时20分]"
         },
         {
           "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
@@ -42,6 +28,20 @@
             6,
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "美团拟 7.17 亿美元收购叮咚买菜，已有小象超市等类似业务为何还需要高额收购？收购后将带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2002797018704269521",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -64,6 +64,18 @@
           "time_info": "[00时41分 ~ 05时24分]"
         },
         {
+          "title": "比特币跌破7万美元，超20万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时35分 ~ 07时20分]"
+        },
+        {
           "title": "美团：拟7.17亿美元收购叮咚",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%EF%BC%9A%E6%8B%9F7.17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8F%AE%E5%92%9A",
           "source": "百度热搜",
@@ -77,70 +89,37 @@
           "time_info": "[00时41分 ~ 05时24分]"
         },
         {
-          "title": "Strategy老板的加密项目因124亿美元亏损而遭重创",
-          "url": "https://wallstreetcn.com/livenews/3050907",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金回落至4760美元/盎司下方，日内跌0.41%。",
+          "url": "https://flash.jin10.com/detail/20260206070140239800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时20分"
         },
         {
-          "title": "现货金银均刷新日低，现分别报4766美元/盎司和71.9美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260206053514435800",
+          "title": "现货金银小幅高开，最新报4777和70.61美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206070054967800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时20分"
         },
         {
-          "title": "周四，现货白银一度下跌超过19.87%，在临近结束一天的交易时跌至70.52美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3050906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国至2月6日当周外国央行持有美国国债 -40.02亿美元，前值199.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260206053055630800",
+          "title": "韩国12月未季调经常帐 187亿美元，前值由122.367亿美元修正为129亿美元。",
+          "url": "https://flash.jin10.com/detail/20260206070002438800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "周四（2月5日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.9405 元，较周三纽约尾盘涨7点，日内整体交投于6.9477-6.9338元区间。",
-          "url": "https://wallstreetcn.com/livenews/3050905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "比特币跌破7万美元，超20万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时35分 ~ 06时22分]"
+          "time_info": "07时20分"
         },
         {
           "title": "周四（2月5日），韩元兑美元最终跌0.30%，报1463.34韩元。",
@@ -156,6 +135,19 @@
           "time_info": "[01时44分 ~ 03时35分]"
         },
         {
+          "title": "亚马逊预计全年资本开支约2000亿美元，股价盘后重挫11%",
+          "url": "https://wallstreetcn.com/livenews/3050885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时20分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)2025年Q4营收2134亿美元，市场预期2113.1亿美元，上年同期1878亿美元。",
           "url": "https://flash.jin10.com/detail/20260206050138921800",
           "source": "金十数据",
@@ -168,16 +160,28 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
-          "title": "亚马逊预计全年资本开支约2000亿美元，股价盘后重挫11%",
-          "url": "https://wallstreetcn.com/livenews/3050885",
+          "title": "Strategy老板的加密项目因124亿美元亏损而遭重创",
+          "url": "https://wallstreetcn.com/livenews/3050907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时22分]"
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "现货金银均刷新日低，现分别报4766美元/盎司和71.9美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206053514435800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "Mutapa Platinum Group已经接触多家矿商，希望帮助其开发津巴布韦一座5亿美元规模的铂金矿场。 该公司预计，这个位于Darwendale的项目将在一季度末之前动工，估计铂族贵金属资源4400万盎司。",
@@ -190,6 +194,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "周四，现货白银一度下跌超过19.87%，在临近结束一天的交易时跌至70.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3050906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "比特币跌幅扩大至10%，逼近6.5万美元和2024年10月10日底部58892.78美元。",
@@ -215,6 +231,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "美国至2月6日当周外国央行持有美国国债 -40.02亿美元，前值199.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260206053055630800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "周四（2月5日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.9405 元，较周三纽约尾盘涨7点，日内整体交投于6.9477-6.9338元区间。",
+          "url": "https://wallstreetcn.com/livenews/3050905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "现货铂金再度跌破2000美元/盎司关口，日内跌超10%。",
@@ -253,6 +293,30 @@
           "time_info": "[05时23分 ~ 06时22分]"
         },
         {
+          "title": "现货白银日内跌幅达19.5%，报70.84美元/盎司。 纽约银日内跌幅达16.5%，报70.44美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3050901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：2025年AWS销售额同比增长20%，达到1287亿美元。",
+          "url": "https://flash.jin10.com/detail/20260206051008036800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月4日当周，美国市政债券基金获得24亿美元资金流入。 长期市政债券基金流入大约18亿美元、中期基金流入大约2.97亿美元。 高收益债券基金流入大约5.64亿美元。",
           "url": "https://wallstreetcn.com/livenews/3050861",
           "source": "华尔街见闻-快讯",
@@ -277,6 +341,18 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "亚马逊(AMZN.O)：2025年的营收增长了12%，达到7169亿美元，2024年为6380亿美元。",
+          "url": "https://flash.jin10.com/detail/20260206050923559800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
           "title": "英镑兑美元跌幅扩大至1%，刷新日低至1.3518。",
           "url": "https://wallstreetcn.com/livenews/3050789",
           "source": "华尔街见闻-快讯",
@@ -287,6 +363,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时44分]"
+        },
+        {
+          "title": "纽约银日内跌幅达16.0%，报70.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3050899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：预计第一季度营收为1735亿至1785亿美元。",
+          "url": "https://flash.jin10.com/detail/20260206050740054800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "现货黄金日内跌幅达4.0%，报4763.2美元/盎司。 纽约金日内跌幅达3.0%，报4793美元/盎司。 纽约银日内跌幅达15.5%，报71.12美元/盎司。 现货白银日内跌幅达18.5%，报71.67美元/盎司。 商品货币澳元/美元日内跌幅达1.0%，报0.6927。",
+          "url": "https://wallstreetcn.com/livenews/3050898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.8万亿美元。",
@@ -301,6 +413,30 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "美联储2月4日当周贴现窗贷款余额45.2亿美元，之前一周45.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "Power Integrations四季度净营收1.032亿美元，分析师预期1.034亿美元。 预计一季度营收1.04亿-1.09亿美元，分析师预期1.064亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
           "title": "LME期铜收跌142美元，报12903美元/吨。 LME期铝收跌42美元，报3027美元/吨。 LME期锌收跌7美元，报3302美元/吨。 LME期铅收跌11美元，报1956美元/吨。 LME期镍收跌308美元，报17071美元/吨。 LME期锡收跌2068美元，报46458美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3050827",
           "source": "华尔街见闻-快讯",
@@ -313,81 +449,63 @@
           "time_info": "[02时42分 ~ 03时35分]"
         },
         {
-          "title": "现货白银日内跌幅达19.5%，报70.84美元/盎司。 纽约银日内跌幅达16.5%，报70.44美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3050901",
+          "title": "MonoLithic Power四季度营收7.512亿美元，分析师预期7.426亿美元。 预计一季度营收7.70亿-7.90亿美元，分析师预期7.393亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050893",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "亚马逊(AMZN.O)：2025年AWS销售额同比增长20%，达到1287亿美元。",
-          "url": "https://flash.jin10.com/detail/20260206051008036800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：2025年的营收增长了12%，达到7169亿美元，2024年为6380亿美元。",
-          "url": "https://flash.jin10.com/detail/20260206050923559800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "纽约银日内跌幅达16.0%，报70.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3050899",
+          "title": "微芯科技第三财季净销售11.9亿美元，分析师预期11.8亿美元。 第三财季调整后EPS为0.44美元，分析师预期0.42美元。 预计第四财季净销售12.4亿-12.8亿美元，分析师预期12.3亿美元。 预计第四财季调整后EPS为0.48-0.52美元，分析师预期0.48美元。",
+          "url": "https://wallstreetcn.com/livenews/3050892",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "亚马逊(AMZN.O)：预计第一季度营收为1735亿至1785亿美元。",
-          "url": "https://flash.jin10.com/detail/20260206050740054800",
-          "source": "金十数据",
+          "title": "Roblox四季度营收14.2亿美元，分析师预期14.4亿美元。 四季度预定22.2亿美元，分析师预期20.9亿美元。 四季度日活用户数（DAU）为1.44亿，分析师预期1.4039亿。 四季度（用户）参与（在线）小时数350亿，分析师预期329.7亿。 预计2026年营收60.2亿-62.9亿美元，分析师预期61.9亿美元。 预计2026年预定82.8亿-85.5亿美元，分析师预期80.5亿美元。 预计一季度Consol净亏损3.11亿-3.29亿美元，分析师预期亏损2.988亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "现货黄金日内跌幅达4.0%，报4763.2美元/盎司。 纽约金日内跌幅达3.0%，报4793美元/盎司。 纽约银日内跌幅达15.5%，报71.12美元/盎司。 现货白银日内跌幅达18.5%，报71.67美元/盎司。 商品货币澳元/美元日内跌幅达1.0%，报0.6927。",
-          "url": "https://wallstreetcn.com/livenews/3050898",
+          "title": "Strategy四季度营收1.23亿美元，分析师预期1.232亿美元。 四季度持有比特币71.3502万枚。 公司已经在2月1日动用22.5亿美元美元储备资金。",
+          "url": "https://wallstreetcn.com/livenews/3050887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
+          "url": "https://wallstreetcn.com/livenews/3050910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美联储2月4日当周贴现窗贷款余额45.2亿美元，之前一周45.2亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时20分"
         },
         {
           "title": "壳牌首席执行官：在数月内，委内瑞拉就有可能迎来一系列机遇，届时可能会有数十亿美元的投资和生产活动。",
@@ -423,24 +541,13 @@
           "time_info": "05时24分"
         },
         {
-          "title": "Power Integrations四季度净营收1.032亿美元，分析师预期1.034亿美元。 预计一季度营收1.04亿-1.09亿美元，分析师预期1.064亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "亚马逊(AMZN.O)2025年Q4净利润211.92亿美元，市场预期211.1亿美元，上年同期200亿美元。",
           "url": "https://flash.jin10.com/detail/20260206050452557800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -456,35 +563,13 @@
           "time_info": "00时41分"
         },
         {
-          "title": "MonoLithic Power四季度营收7.512亿美元，分析师预期7.426亿美元。 预计一季度营收7.70亿-7.90亿美元，分析师预期7.393亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "亚马逊(AMZN.O)：第四季度AWS净销售额为356亿美元。",
           "url": "https://flash.jin10.com/detail/20260206050411178800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "微芯科技第三财季净销售11.9亿美元，分析师预期11.8亿美元。 第三财季调整后EPS为0.44美元，分析师预期0.42美元。 预计第四财季净销售12.4亿-12.8亿美元，分析师预期12.3亿美元。 预计第四财季调整后EPS为0.48-0.52美元，分析师预期0.48美元。",
-          "url": "https://wallstreetcn.com/livenews/3050892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -517,7 +602,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -544,37 +629,26 @@
           "time_info": "05时24分"
         },
         {
-          "title": "Roblox四季度营收14.2亿美元，分析师预期14.4亿美元。 四季度预定22.2亿美元，分析师预期20.9亿美元。 四季度日活用户数（DAU）为1.44亿，分析师预期1.4039亿。 四季度（用户）参与（在线）小时数350亿，分析师预期329.7亿。 预计2026年营收60.2亿-62.9亿美元，分析师预期61.9亿美元。 预计2026年预定82.8亿-85.5亿美元，分析师预期80.5亿美元。 预计一季度Consol净亏损3.11亿-3.29亿美元，分析师预期亏损2.988亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "亚马逊(AMZN.O)：预计2026年亚马逊将投资约2000亿美元用于资本支出。",
           "url": "https://flash.jin10.com/detail/20260206050213646800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
         {
-          "title": "Strategy四季度营收1.23亿美元，分析师预期1.232亿美元。 四季度持有比特币71.3502万枚。 公司已经在2月1日动用22.5亿美元美元储备资金。",
-          "url": "https://wallstreetcn.com/livenews/3050887",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊(AMZN.O)CEO：计划中的2000亿美元资本支出将主要用于AWS。",
+          "url": "https://flash.jin10.com/detail/20260206061724252800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时20分"
         },
         {
           "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
@@ -586,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "现货白银跌幅扩大至19%，现报71.40美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260206054218676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "英镑兑美元GBP/USD日内下跌1.00%，至1月23日以来的最低水平，最新报1.3518。",
@@ -645,8 +730,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时20分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -721,6 +806,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时44分 ~ 07时20分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -805,18 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时35分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 02时42分]"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
