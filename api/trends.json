@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T07:23:17.092870+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-05T09:43:41.287272+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "中美元首通话全文公布",
@@ -45,15 +45,48 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "德国拟斥资410亿美元打造太空军备",
           "url": "https://flash.jin10.com/detail/20260205065358079800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2002497105818825469",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "现货黄金回落至4950美元/盎司下方，日内跌0.32%。",
+          "url": "https://flash.jin10.com/detail/20260205091642728800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
@@ -90,6 +123,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
+        },
+        {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时29分 ~ 09时43分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的24.14亿美元。",
@@ -173,19 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时23分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9450元，较周二夜盘收盘跌53点。成交量442.71亿美元。",
@@ -317,9 +351,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9570，下调37点；上一交易日中间价6.9533，上一交易日16:30官方收盘价6.9376，上日夜盘报收6.9450。",
+          "url": "https://wallstreetcn.com/livenews/3050224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "伦敦金属交易所（LME）三个月期铜下跌3%，至每吨13,070美元。",
@@ -350,7 +406,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -416,7 +472,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -482,7 +538,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -622,7 +678,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -632,8 +688,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时43分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时43分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -647,43 +728,6 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时23分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时23分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时23分]"
-        },
-        {
           "title": "详讯丨习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
           "source": "澎湃新闻",
@@ -691,22 +735,25 @@
             18,
             15,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 09时43分]"
         },
         {
-          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
-          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
-          "source": "凤凰网",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            16,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 09时43分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -715,9 +762,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时43分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -729,6 +776,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时43分]"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -961,6 +1020,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
+          "url": "https://wallstreetcn.com/livenews/3050196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普：美联储“理论上”是独立机构。 鲍威尔在解释（美联储大楼）翻修工程时表现得体。 邦迪（现任美国司法部长）和皮罗（白宫法律顾问）将就鲍威尔的问题自行做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3050195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
