@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T15:47:46.378740+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-02-05T16:37:52.239636+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 92,
       "titles": [
         {
           "title": "中美元首通话全文公布",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 06时23分]"
+        },
+        {
+          "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2002497105818825469",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 16时37分]"
         },
         {
           "title": "中美元首通电话",
@@ -56,17 +67,6 @@
           "time_info": "[09时43分 ~ 15时47分]"
         },
         {
-          "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2002497105818825469",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时43分 ~ 15时47分]"
-        },
-        {
           "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
           "url": "https://wallstreetcn.com/articles/3764985",
           "source": "华尔街见闻",
@@ -77,8 +77,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时29分 ~ 15时47分]"
+          "appearance_count": 9,
+          "time_info": "[05时29分 ~ 16时37分]"
+        },
+        {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 16时37分]"
         },
         {
           "title": "德国拟斥资410亿美元打造太空军备",
@@ -98,7 +112,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -120,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -180,17 +194,15 @@
           "time_info": "09时43分"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
+          "title": "欧元兑美元抹去0.2%的跌幅，基本持平于1.1806。",
+          "url": "https://wallstreetcn.com/livenews/3050505",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时43分 ~ 15时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
@@ -312,6 +324,19 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "现货黄金跌破4800美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时37分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9450元，较周二夜盘收盘跌53点。成交量442.71亿美元。",
           "url": "https://wallstreetcn.com/livenews/3050070",
           "source": "华尔街见闻-快讯",
@@ -349,19 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
-        },
-        {
-          "title": "现货黄金跌破4800美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时47分]"
         },
         {
           "title": "美、布两油短线下跌1美元。",
@@ -470,6 +482,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "中国台湾1月外汇存底 6044.57亿美元，前值6025.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205162002149800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "人民币兑美元中间价报6.9570，下调37点；上一交易日中间价6.9533，上一交易日16:30官方收盘价6.9376，上日夜盘报收6.9450。",
           "url": "https://wallstreetcn.com/livenews/3050224",
           "source": "华尔街见闻-快讯",
@@ -509,9 +532,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "分析师：贵金属波动仍将持续 反弹取决于美元走势等因素",
+          "url": "https://flash.jin10.com/detail/20260205161655335800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "现货黄金失守4900美元/盎司，日内跌1.08％。",
@@ -553,9 +587,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -652,7 +697,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -806,7 +851,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -894,7 +939,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -1047,8 +1092,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 15时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -1074,8 +1119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时43分 ~ 15时47分]"
+          "appearance_count": 14,
+          "time_info": "[01时43分 ~ 16时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -1099,8 +1144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时37分]"
         },
         {
           "title": "习近平同特朗普通电话",
