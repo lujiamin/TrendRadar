@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-06T18:35:26.621049+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-02-06T19:31:11.005920+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 97,
+      "match_count": 101,
       "titles": [
-        {
-          "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
-          "url": "https://www.toutiao.com/trending/7602916107016388644/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时20分]"
-        },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
           "url": "https://wallstreetcn.com/articles/3765079",
@@ -28,8 +17,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 19时31分]"
+        },
+        {
+          "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
+          "url": "https://www.toutiao.com/trending/7602916107016388644/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时20分]"
         },
         {
           "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
@@ -61,6 +61,19 @@
           "time_info": "[00时41分 ~ 06时22分]"
         },
         {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时11分 ~ 19时31分]"
+        },
+        {
           "title": "比特币跌破7万美元，超20万人爆仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
           "source": "澎湃新闻",
@@ -72,8 +85,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时35分 ~ 18时35分]"
+          "appearance_count": 18,
+          "time_info": "[03时35分 ~ 19时31分]"
         },
         {
           "title": "中俄中美元首极为罕见同日互动有何意味？",
@@ -96,19 +109,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时43分 ~ 14时47分]"
-        },
-        {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 18时35分]"
         },
         {
           "title": "专家：中俄中美元首同日互动实属罕见",
@@ -182,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3051361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "摩根士丹利：将亚马逊(AMZN.O)目标股价从315美元下调至300美元。",
@@ -657,7 +668,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -668,7 +679,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -682,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：当前美元疲软可能源于政治意愿，而非欧元走强。",
+          "url": "https://flash.jin10.com/detail/20260206190122481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
@@ -715,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "伯恩斯坦：将亚马逊(AMZN.O)目标价从300美元下调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260206185459390800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
@@ -981,6 +1014,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "摩根大通：将亚马逊(AMZN.O)目标价从305美元下调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260206184105800800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "现货黄金重回4900美元/盎司，日内涨2.5%。 现货白银上破75美元/盎司，日内涨近6%。",
           "url": "https://wallstreetcn.com/livenews/3051146",
           "source": "华尔街见闻-快讯",
@@ -998,7 +1042,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1042,7 +1086,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1138,7 +1182,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -1149,8 +1193,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 19时31分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -1164,8 +1208,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[12时11分 ~ 19时31分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 19时31分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -1177,17 +1232,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时20分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时35分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -1208,7 +1252,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1333,6 +1377,17 @@
           "time_info": "[16时36分 ~ 16时37分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时31分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
           "url": "https://wallstreetcn.com/livenews/3050862",
           "source": "华尔街见闻-快讯",
@@ -1417,6 +1472,17 @@
           "time_info": "[02时42分 ~ 03时35分]"
         },
         {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时31分]"
+        },
+        {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
           "url": "https://flash.jin10.com/detail/20260206022526998800",
           "source": "金十数据",
@@ -1434,7 +1500,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1445,7 +1511,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1699,7 +1765,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
