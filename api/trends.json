@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T16:37:07.982923+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-02-06T17:38:23.795411+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 87,
+      "match_count": 93,
       "titles": [
         {
           "title": "美团拟豪掷7.17亿美元收购叮咚买菜",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 17时38分]"
         },
         {
           "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
@@ -48,19 +61,6 @@
           "time_info": "[00时41分 ~ 06时22分]"
         },
         {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 16时37分]"
-        },
-        {
           "title": "比特币跌破7万美元，超20万人爆仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32541853",
           "source": "澎湃新闻",
@@ -68,11 +68,12 @@
             20,
             17,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时35分 ~ 16时37分]"
+          "appearance_count": 15,
+          "time_info": "[03时35分 ~ 17时38分]"
         },
         {
           "title": "中俄中美元首极为罕见同日互动有何意味？",
@@ -113,6 +114,19 @@
           "time_info": "[00时41分 ~ 05时24分]"
         },
         {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时38分]"
+        },
+        {
           "title": "美团：拟7.17亿美元收购叮咚",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%EF%BC%9A%E6%8B%9F7.17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8F%AE%E5%92%9A",
           "source": "百度热搜",
@@ -124,18 +138,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 05时24分]"
-        },
-        {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时37分]"
         },
         {
           "title": "现货黄金回落至4760美元/盎司下方，日内跌0.41%。",
@@ -182,6 +184,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "摩根士丹利：将亚马逊(AMZN.O)目标股价从315美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260206170222902800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "韩国12月未季调经常帐 187亿美元，前值由122.367亿美元修正为129亿美元。",
           "url": "https://flash.jin10.com/detail/20260206070002438800",
           "source": "金十数据",
@@ -202,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "周四（2月5日），韩元兑美元最终跌0.30%，报1463.34韩元。",
@@ -768,6 +792,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "香港1月底官方外汇储备资产为4356亿美元",
+          "url": "https://wallstreetcn.com/livenews/3051277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "亚马逊(AMZN.O)：预计2026年第一季度营业利润约为165亿至215亿美元。",
           "url": "https://flash.jin10.com/detail/20260206050342950800",
           "source": "金十数据",
@@ -777,6 +812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "消息称韩国保险机构探索首次进军印度千亿美元保险市场",
+          "url": "https://flash.jin10.com/detail/20260206165122214800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "比特币跌穿6.7万美元。",
@@ -843,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9401，较上一交易日官方收盘价涨7点，较上日夜盘收盘跌38点。",
+          "url": "https://wallstreetcn.com/livenews/3051268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
@@ -920,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "凯投宏观：油价在2026年底前跌向每桶50美元水平",
+          "url": "https://flash.jin10.com/detail/20260206163038269800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "现货黄金重回4900美元 较日低反弹近250美元",
@@ -1024,7 +1092,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -1035,8 +1103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 17时38分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -1057,11 +1125,12 @@
             11,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时38分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -1083,8 +1152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时38分]"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -1377,6 +1446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "据伊朗国家电视台报道：特朗普高级顾问库什纳也将出席伊美会谈。",
+          "url": "https://flash.jin10.com/detail/20260206164225309800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "白宫发言人：美国总统特朗普将于周四推出TrumpRX网站。",
