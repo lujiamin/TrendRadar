@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T06:19:31.891751+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-02-07T07:21:34.626275+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美财长承认在伊朗制造美元短缺",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时21分]"
         },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时21分]"
         },
         {
           "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时21分]"
         },
         {
           "title": "WTI 3月原油期货收报63.55美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
@@ -75,6 +75,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 07时21分]"
         },
         {
           "title": "周五（2月6日），美联储隔夜逆回购协议（RRP）使用规模为31.11亿美元（交易对手7家），上个交易日报17.48亿美元。",
@@ -104,6 +116,30 @@
           "time_info": "[04时29分 ~ 06时19分]"
         },
         {
+          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
+          "url": "https://flash.jin10.com/detail/20260207040013468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时21分]"
+        },
+        {
+          "title": "英伟达收涨7.8%，市值增加3250亿美元。 本周，亚马逊累跌12%，创2022年以来最差单周表现。",
+          "url": "https://wallstreetcn.com/livenews/3051622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时21分]"
+        },
+        {
           "title": "英伟达领衔增长浪潮，半导体行业有望首次迈入万亿美元时代",
           "url": "https://wallstreetcn.com/livenews/3051558",
           "source": "华尔街见闻-快讯",
@@ -116,39 +152,15 @@
           "time_info": "[00时39分 ~ 01时38分]"
         },
         {
-          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
-          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207032258342800",
           "source": "金十数据",
           "ranks": [
-            6,
-            29
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时36分 ~ 06时19分]"
-        },
-        {
-          "title": "英伟达收涨7.8%，市值增加3250亿美元。 本周，亚马逊累跌12%，创2022年以来最差单周表现。",
-          "url": "https://wallstreetcn.com/livenews/3051622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时19分]"
-        },
-        {
-          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
-          "url": "https://flash.jin10.com/detail/20260207040013468800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时19分]"
+          "time_info": "[04时29分 ~ 07时21分]"
         },
         {
           "title": "Bill Holdings涨43%，报50.88美元。",
@@ -203,6 +215,19 @@
           "time_info": "[02时42分 ~ 04时29分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者对美元的看空程度创7月份以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3051614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时21分]"
+        },
+        {
           "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
           "url": "https://wallstreetcn.com/livenews/3051594",
           "source": "华尔街见闻-快讯",
@@ -242,17 +267,6 @@
           "time_info": "[02时42分 ~ 04时29分]"
         },
         {
-          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260207032258342800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时19分]"
-        },
-        {
           "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
           "url": "https://wallstreetcn.com/livenews/3051564",
           "source": "华尔街见闻-快讯",
@@ -277,16 +291,16 @@
           "time_info": "[00时39分 ~ 01时38分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者对美元的看空程度创7月份以来最高。",
-          "url": "https://wallstreetcn.com/livenews/3051614",
+          "title": "美联储：美国上周银行存款18.647万亿美元，之前一周18.610万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            21
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时19分]"
+          "time_info": "[06时19分 ~ 07时21分]"
         },
         {
           "title": "比特币涨超9%，刷新日高至69151.50美元，北京时间08:15还曾跌至60033美元——短时呈现出V形反转，随后逐步走高。",
@@ -313,6 +327,18 @@
           "time_info": "[05时27分 ~ 06时19分]"
         },
         {
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时21分]"
+        },
+        {
           "title": "WTI 3月原油期货收报63.55美元/桶。 布伦特4月原油期货收报68.05美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3051604",
           "source": "华尔街见闻-快讯",
@@ -336,15 +362,26 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美联储：美国上周银行存款18.647万亿美元，之前一周18.610万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051631",
+          "title": "周五（2月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9301元，较周四纽约尾盘涨104点，日内整体交投于6.9419-6.9297元区间。",
+          "url": "https://wallstreetcn.com/livenews/3051642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。 印度有意从美国购买价值5000亿美元的美国能源、飞机、金属。",
+          "url": "https://wallstreetcn.com/livenews/3051639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国财长贝森特：推行强势美元政策意味着采取措施为美元创造强劲的支撑环境。",
@@ -356,17 +393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
         },
         {
           "title": "现货白银日内暴涨9.00%，现报77.19美元/盎司；纽约期银向上触及77美元/盎司，日内涨0.37%。",
@@ -408,18 +434,6 @@
       "match_count": 22,
       "titles": [
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时19分]"
-        },
-        {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
           "source": "凤凰网",
@@ -428,8 +442,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时21分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时21分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -438,11 +465,12 @@
           "ranks": [
             10,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时21分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -451,11 +479,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时42分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[02时42分 ~ 07时21分]"
         },
         {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
@@ -466,8 +495,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时36分 ~ 06时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 07时21分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -540,6 +569,17 @@
           "time_info": "[01时38分 ~ 02时42分]"
         },
         {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时21分]"
+        },
+        {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3051586",
           "source": "华尔街见闻-快讯",
@@ -551,17 +591,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
-        },
-        {
-          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
-          "url": "https://flash.jin10.com/detail/20260207034858058800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时19分]"
         },
         {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
@@ -590,6 +619,18 @@
           "time_info": "[02时42分 ~ 04时29分]"
         },
         {
+          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3051632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时21分]"
+        },
+        {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
           "url": "https://wallstreetcn.com/livenews/3051562",
           "source": "华尔街见闻-快讯",
@@ -612,17 +653,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时38分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3051632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -682,8 +712,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时21分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -796,11 +826,12 @@
           "url": "https://wallstreetcn.com/livenews/3051620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时21分]"
         }
       ]
     },
@@ -813,11 +844,12 @@
           "url": "https://www.zhihu.com/question/2002523570601993002",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时21分]"
         }
       ]
     }
