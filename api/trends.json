@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T19:18:54.576358+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-02-07T20:37:53.917205+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普：下周将再与伊朗谈判",
@@ -50,11 +50,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 20时37分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -95,11 +96,12 @@
             14,
             11,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 20时37分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -120,11 +122,12 @@
           "url": "https://www.zhihu.com/question/2001670984583902597",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 20时37分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -237,17 +240,6 @@
           "time_info": "01时38分"
         },
         {
-          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
-          "url": "https://flash.jin10.com/detail/20260207191137605800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
           "url": "https://wallstreetcn.com/livenews/3051670",
           "source": "华尔街见闻-快讯",
@@ -264,15 +256,26 @@
           "time_info": "[12时05分 ~ 17时26分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
-          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
+          "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时37分"
+        },
+        {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时37分]"
         },
         {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
@@ -330,15 +333,28 @@
           "time_info": "[13时39分 ~ 17时26分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
+          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
+          "url": "https://flash.jin10.com/detail/20260207191137605800",
+          "source": "金十数据",
           "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时37分]"
+        },
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时18分]"
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -364,6 +380,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时37分]"
         },
         {
           "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
@@ -451,17 +479,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时21分]"
-        },
-        {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时18分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -647,15 +664,37 @@
           "time_info": "[00时39分 ~ 01时38分]"
         },
         {
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "特朗普称道指将站上10万点",
           "url": "https://www.toutiao.com/trending/7603935969964359722/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国总统特朗普谈奥巴马视频：我没把整个视频看完。",
@@ -738,20 +777,8 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
-        {
-          "title": "美财长承认在伊朗制造美元短缺",
-          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时05分]"
-        },
         {
           "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
@@ -765,11 +792,24 @@
             10,
             8,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 20时37分]"
+        },
+        {
+          "title": "美财长承认在伊朗制造美元短缺",
+          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 12时05分]"
         },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -813,8 +853,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 19时18分]"
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 20时37分]"
         },
         {
           "title": "中国1月外汇储备 33990.8亿美元，前值 33578.7亿美元。",
@@ -883,6 +923,19 @@
           "time_info": "[02时42分 ~ 05时27分]"
         },
         {
+          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
+          "url": "https://wallstreetcn.com/livenews/3051709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时37分]"
+        },
+        {
           "title": "美国12月消费信贷变动 240.45亿美元，预期 80亿美元，前值 42.29亿美元。",
           "url": "https://wallstreetcn.com/livenews/3051607",
           "source": "华尔街见闻-快讯",
@@ -894,18 +947,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时19分]"
-        },
-        {
-          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
-          "url": "https://wallstreetcn.com/livenews/3051709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
@@ -1231,6 +1272,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "2026年半导体产业有望首度冲破万亿美元大关",
+          "url": "https://flash.jin10.com/detail/20260207192154238800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国财长贝森特：推行强势美元政策意味着采取措施为美元创造强劲的支撑环境。",
           "url": "https://flash.jin10.com/detail/20260207020014168800",
           "source": "金十数据",
@@ -1284,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "徐明浩3条iG创造了360万美元价值",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A93%E6%9D%A1iG%E5%88%9B%E9%80%A0%E4%BA%86360%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%B7%E5%80%BC&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
