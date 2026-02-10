@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T17:57:39.123640+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-02-10T18:53:54.571885+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 78,
+      "match_count": 82,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 17时57分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 18时53分]"
         },
         {
           "title": "“股神”巴菲特躺赚20亿美元",
@@ -91,6 +91,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "美元兑日元USD/JPY日内跌超0.50%，现报155.06。",
+          "url": "https://flash.jin10.com/detail/20260210184046363800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "市场消息：Alphabet(GOOG.O)发行美元债券，吸引超1000亿美元认购需求。",
           "url": "https://flash.jin10.com/detail/20260210010851569800",
           "source": "金十数据",
@@ -130,7 +141,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -188,28 +199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "法国巴黎银行：看好黄金上探6000美元/盎司，预计金银比价将上升",
-          "url": "https://wallstreetcn.com/livenews/3052934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "台积电：批准派发第四季度现金股息每股6元台币；批准拨款约449.62亿美元，用于先进技术产能的安装和升级等。",
-          "url": "https://wallstreetcn.com/livenews/3052932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "美防长：国防预算或提到1.5万亿美元，将导弹驱逐舰产能推到极限",
@@ -299,6 +288,18 @@
           "time_info": "[06时32分 ~ 07时34分]"
         },
         {
+          "title": "法国巴黎银行：看好黄金上探6000美元/盎司，预计金银比价将上升",
+          "url": "https://wallstreetcn.com/livenews/3052934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时53分]"
+        },
+        {
           "title": "黄金ETF收涨超2.4%，领跑美股大类资产类ETF，做多美元指数跌0.8%",
           "url": "https://wallstreetcn.com/livenews/3052519",
           "source": "华尔街见闻-快讯",
@@ -309,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "台积电：批准派发第四季度现金股息每股6元台币；批准拨款约449.62亿美元，用于先进技术产能的安装和升级等。",
+          "url": "https://wallstreetcn.com/livenews/3052932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时53分]"
         },
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -346,6 +359,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时35分 ~ 14时10分]"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时53分]"
         },
         {
           "title": "据IMM：美国电网运营商PJM的1月输电成本达到150亿美元，较一年之前超过翻倍。",
@@ -528,17 +553,6 @@
           "time_info": "[04时52分 ~ 05时36分]"
         },
         {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
-        },
-        {
           "title": "市场消息：支付巨头Stripe在最新一轮要约收购中，其估值有望攀升至1400亿美元。",
           "url": "https://flash.jin10.com/detail/20260210070952987800",
           "source": "金十数据",
@@ -556,9 +570,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "台积电董事会核准449.62亿美元资本预算，将用于建置及升级先进制程产能",
+          "url": "https://wallstreetcn.com/livenews/3052956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
@@ -567,7 +592,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -581,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "台积电拟向子公司注资300亿美元 以降低外汇对冲成本",
+          "url": "https://wallstreetcn.com/livenews/3052955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
@@ -737,6 +773,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "现货白银日内上涨7% 纽约期银站上83美元",
           "url": "https://flash.jin10.com/detail/20260210003752203800",
           "source": "金十数据",
@@ -798,7 +845,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -905,7 +952,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -920,6 +967,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时01分 ~ 16时54分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 18时53分]"
         },
         {
           "title": "特朗普：我犯了大错",
@@ -961,20 +1022,6 @@
           "time_info": "[12时35分 ~ 16时54分]"
         },
         {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 17时57分]"
-        },
-        {
           "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
           "url": "https://wallstreetcn.com/livenews/3052839",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
+          "url": "https://flash.jin10.com/detail/20260210182252680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
@@ -1031,6 +1089,17 @@
           "time_info": "[04时01分 ~ 05时36分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时53分]"
+        },
+        {
           "title": "美民调：多数人不认可特朗普关税政策",
           "url": "https://www.toutiao.com/trending/7604360239181807658/",
           "source": "今日头条",
@@ -1043,15 +1112,15 @@
           "time_info": "[01时48分 ~ 05时36分]"
         },
         {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-10）",
+          "url": "https://flash.jin10.com/detail/20260210181924005800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "18时53分"
         },
         {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
@@ -1170,7 +1239,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1241,29 +1310,42 @@
     },
     {
       "keyword_group": "中芯国际",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中芯国际：2026年资本开支与2025年相比大致持平",
           "url": "https://wallstreetcn.com/livenews/3052916",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时53分]"
         },
         {
           "title": "中芯国际：第四季度净利润12.23亿元，同比增长23.2%",
           "url": "https://wallstreetcn.com/livenews/3052913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时53分]"
+        },
+        {
+          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
+          "url": "https://www.cls.cn/detail/2286051",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "18时53分"
         }
       ]
     },
@@ -1295,11 +1377,29 @@
           "ranks": [
             19,
             20,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 18时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪要求美政府退还部分已缴税款",
+          "url": "https://www.toutiao.com/trending/7605147482078678554/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     }
