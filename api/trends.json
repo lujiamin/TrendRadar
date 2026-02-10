@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T01:58:11.071214+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-02-11T03:04:49.031464+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "巴菲特在日股上躺赚20亿美元",
@@ -93,8 +93,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率双双升破6.91",
@@ -104,8 +104,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "大摩：预计超大规模云服务商今年的借款规模将达到4000亿美元",
@@ -130,6 +130,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "周二（2月10日），美联储隔夜逆回购协议（RRP）使用规模为14.47亿美元（交易对手5家），上个交易日报13.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
           "title": "AI视频初创公司Runway据悉以53亿美元估值完成新一轮融资",
           "url": "https://flash.jin10.com/detail/20260210231620915800",
           "source": "金十数据",
@@ -152,13 +163,57 @@
           "time_info": "00时05分"
         },
         {
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.518%（1月12日为3.609%），投标倍数2.62（前次为2.65）。",
+          "url": "https://wallstreetcn.com/livenews/3053198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "LME期铜收跌68美元，报13108美元/吨。 LME期铝收跌32美元，报3093美元/吨。 LME期锌收涨20美元，报3395美元/吨。 LME期铅收涨5美元，报1974美元/吨。 LME期镍收涨141美元，报17490美元/吨。 LME期锡收涨185美元，报49283美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3053194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的14.47亿美元。",
+          "url": "https://flash.jin10.com/detail/20260211021657663800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "据CNBC：Alphabet在欧洲的债券发售筹集了110亿美元，使其全球债务发售总额超过300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260211021457311800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
           "url": "https://wallstreetcn.com/livenews/3053171",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -191,7 +246,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -202,7 +257,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
@@ -210,8 +265,30 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
+          "url": "https://wallstreetcn.com/livenews/3053209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
+          "url": "https://wallstreetcn.com/livenews/3053206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
@@ -220,8 +297,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
+        },
+        {
+          "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
+          "url": "https://flash.jin10.com/detail/20260211023104811800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器或导弹",
+          "url": "https://wallstreetcn.com/livenews/3053205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
+          "url": "https://wallstreetcn.com/livenews/3053180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时04分]"
         },
         {
           "title": "特朗普表面祝贺高市私下大发雷霆",
@@ -235,15 +346,37 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
-          "url": "https://wallstreetcn.com/livenews/3053180",
+          "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3053203",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
+          "url": "https://flash.jin10.com/detail/20260211022808666800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时04分"
+        },
+        {
+          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
+          "url": "https://flash.jin10.com/detail/20260211022551688800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
@@ -266,6 +399,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
+          "url": "https://flash.jin10.com/detail/20260211022239268800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "据AXIOS网站：特朗普称，如果谈判失败，他可能会派遣第二艘航母打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260211021733708800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
@@ -282,8 +437,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         },
         {
           "title": "比亚迪起诉美国政府",
@@ -292,11 +447,12 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         }
       ]
     },
@@ -309,11 +465,12 @@
           "url": "https://www.cls.cn/detail/2286051",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         }
       ]
     },
@@ -330,8 +487,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时04分]"
         }
       ]
     }
