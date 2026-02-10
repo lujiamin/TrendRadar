@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:47:49.743485+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-02-10T21:02:26.256524+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 86,
+      "match_count": 94,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 19时47分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 21时02分]"
         },
         {
           "title": "“股神”巴菲特躺赚20亿美元",
@@ -190,6 +190,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "摩根士丹利：预计特斯拉(TSLA.O)太阳能业务有望为其能源板块增加200亿至500亿美元的股权价值。尽管这一投资本身不具变革性，但它可能开启长期增长空间，并缓解能源瓶颈，从而支持特斯拉更宏大的战略目标。",
+          "url": "https://flash.jin10.com/detail/20260210202612810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
           "source": "华尔街见闻-快讯",
@@ -201,15 +212,40 @@
           "time_info": "01时48分"
         },
         {
+          "title": "摩根士丹利：维持对特斯拉(TSLA.O)的中性评级及415美元目标价。",
+          "url": "https://flash.jin10.com/detail/20260210202541427800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3053011",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时02分]"
         },
         {
           "title": "美防长：国防预算或提到1.5万亿美元，将导弹驱逐舰产能推到极限",
@@ -347,19 +383,6 @@
           "time_info": "[10时01分 ~ 14时10分]"
         },
         {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时47分]"
-        },
-        {
           "title": "现货白银日内大涨6美元，现报83.81美元/盎司，涨幅7.73%。",
           "url": "https://flash.jin10.com/detail/20260210042022848800",
           "source": "金十数据",
@@ -385,6 +408,19 @@
           "time_info": "[12时35分 ~ 14时10分]"
         },
         {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 21时02分]"
+        },
+        {
           "title": "台积电董事会核准449.62亿美元资本预算，将用于建置及升级先进制程产能",
           "url": "https://wallstreetcn.com/livenews/3052956",
           "source": "华尔街见闻-快讯",
@@ -395,6 +431,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时53分 ~ 19时47分]"
+        },
+        {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时02分]"
         },
         {
           "title": "据IMM：美国电网运营商PJM的1月输电成本达到150亿美元，较一年之前超过翻倍。",
@@ -553,18 +601,6 @@
           "time_info": "[04时52分 ~ 05时36分]"
         },
         {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时47分]"
-        },
-        {
           "title": "美联储理事米兰：美元传导至通胀并非主要问题。",
           "url": "https://flash.jin10.com/detail/20260210040241741800",
           "source": "金十数据",
@@ -640,7 +676,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -654,17 +690,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         },
         {
           "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
@@ -720,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "人民币兑美元中间价报6.9458，上调65点；上一交易日中间价6.9523，上一交易日16:30官方收盘价6.9284，上日夜盘报收6.9208。",
@@ -783,7 +819,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -832,6 +868,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "日本首席贸易谈判代表赤泽亮正与美国商务部长卢特尼克将于本周会晤，讨论通过5500亿美元投资工具支持的首个项目。",
+          "url": "https://flash.jin10.com/detail/20260210200940210800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "现货白银日内上涨7% 纽约期银站上83美元",
           "url": "https://flash.jin10.com/detail/20260210003752203800",
           "source": "金十数据",
@@ -841,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "德意志银行：将美光科技(MU.O)目标价从300美元上调至500美元。",
+          "url": "https://flash.jin10.com/detail/20260210200835777800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "LME期铜收涨182美元，报13176美元/吨。 LME期铝收涨40美元，报3126美元/吨。 LME期锌收涨30美元，报3376美元/吨。 LME期铅收涨10美元，报1970美元/吨。 LME期镍收涨259美元，报17349美元/吨。 LME期锡收涨2380美元，报49098美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -898,6 +956,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "可口可乐(KO.N)预计2026年资本支出22亿美元，市场预估23.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210200100472800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "纽约银日内涨幅达7.0%，报82.29美元/盎司。 现货白银日内涨幅达6.5%，报82.54美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3052434",
           "source": "华尔街见闻-快讯",
@@ -942,6 +1011,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。 西维斯健康盘前下跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "市场消息：巴西启动45亿美元美元计价债券发售。",
           "url": "https://flash.jin10.com/detail/20260210024422348800",
           "source": "金十数据",
@@ -951,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "可口可乐(KO.N)第四季度净营收118亿美元，市场预估120.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210195656250800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "现货黄金日内涨幅达2.0%，报5059.55美元/盎司。",
@@ -1000,7 +1091,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -1025,11 +1116,12 @@
             11,
             13,
             14,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 19时47分]"
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 21时02分]"
         },
         {
           "title": "特朗普：我犯了大错",
@@ -1115,6 +1207,17 @@
           "time_info": "[10时01分 ~ 14时10分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时02分]"
+        },
+        {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
           "url": "https://flash.jin10.com/detail/20260210055913441800",
           "source": "金十数据",
@@ -1125,17 +1228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时34分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时47分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -1247,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "特朗普：若沃什履职得当，美国经济可增长15%",
@@ -1367,11 +1470,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 21时02分]"
         },
         {
           "title": "中芯国际：2026年资本开支与2025年相比大致持平",
@@ -1401,8 +1505,20 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "比亚迪起诉美国政府",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时02分]"
+        },
         {
           "title": "比亚迪要求美政府退还部分已缴税款",
           "url": "https://www.toutiao.com/trending/7605147482078678554/",
@@ -1415,15 +1531,15 @@
           "time_info": "18时53分"
         },
         {
-          "title": "比亚迪起诉美国政府",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
-          "source": "百度热搜",
+          "title": "比亚迪车主们，再买车你们还会继续选择比亚迪吗？",
+          "url": "https://www.zhihu.com/question/2002044616925524488",
+          "source": "知乎",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时47分"
+          "time_info": "21时02分"
         }
       ]
     },
@@ -1456,11 +1572,12 @@
             19,
             20,
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 19时47分]"
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 21时02分]"
         }
       ]
     }
