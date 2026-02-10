@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T18:53:54.571885+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-02-10T19:47:49.743485+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 18时53分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 19时47分]"
         },
         {
           "title": "“股神”巴菲特躺赚20亿美元",
@@ -97,7 +97,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -199,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "美防长：国防预算或提到1.5万亿美元，将导弹驱逐舰产能推到极限",
@@ -336,6 +347,19 @@
           "time_info": "[10时01分 ~ 14时10分]"
         },
         {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 19时47分]"
+        },
+        {
           "title": "现货白银日内大涨6美元，现报83.81美元/盎司，涨幅7.73%。",
           "url": "https://flash.jin10.com/detail/20260210042022848800",
           "source": "金十数据",
@@ -361,16 +385,16 @@
           "time_info": "[12时35分 ~ 14时10分]"
         },
         {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
+          "title": "台积电董事会核准449.62亿美元资本预算，将用于建置及升级先进制程产能",
+          "url": "https://wallstreetcn.com/livenews/3052956",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 18时53分]"
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
         },
         {
           "title": "据IMM：美国电网运营商PJM的1月输电成本达到150亿美元，较一年之前超过翻倍。",
@@ -395,6 +419,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时34分]"
+        },
+        {
+          "title": "台积电拟向子公司注资300亿美元 以降低外汇对冲成本",
+          "url": "https://wallstreetcn.com/livenews/3052955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
         },
         {
           "title": "周一（2月9日）纽约尾盘，现货黄金涨2.01%，报5064.10美元/盎司。 COMEX黄金期货涨2.04%，报5081.50美元/盎司。",
@@ -517,6 +553,18 @@
           "time_info": "[04时52分 ~ 05时36分]"
         },
         {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
+        },
+        {
           "title": "美联储理事米兰：美元传导至通胀并非主要问题。",
           "url": "https://flash.jin10.com/detail/20260210040241741800",
           "source": "金十数据",
@@ -575,17 +623,6 @@
           "time_info": "17时57分"
         },
         {
-          "title": "台积电董事会核准449.62亿美元资本预算，将用于建置及升级先进制程产能",
-          "url": "https://wallstreetcn.com/livenews/3052956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
           "url": "https://flash.jin10.com/detail/20260210173001721800",
           "source": "金十数据",
@@ -595,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "富国银行：将沃尔玛(WMT.N)目标价从130美元上调至140美元。",
+          "url": "https://flash.jin10.com/detail/20260210191834935800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
@@ -608,15 +656,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "台积电拟向子公司注资300亿美元 以降低外汇对冲成本",
-          "url": "https://wallstreetcn.com/livenews/3052955",
-          "source": "华尔街见闻-快讯",
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "19时47分"
         },
         {
           "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
@@ -729,6 +777,17 @@
           "time_info": "15时57分"
         },
         {
+          "title": "Spotify四季度营收45.3亿欧元，预估45.2亿欧元。 四季度每股收益4.43美元，上年同期1.76美元。 Spotify预计一季度营收45亿欧元，市场预估45.8亿欧元。 Spotify预计一季度月活跃用户数为7590万，市场预估7524.5万。 Spotify美股盘前涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3052983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "现货黄金突破5080美元/盎司，日内涨2.34%。",
           "url": "https://flash.jin10.com/detail/20260210004555093800",
           "source": "金十数据",
@@ -771,17 +830,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "现货白银日内上涨7% 纽约期银站上83美元",
@@ -976,11 +1024,12 @@
             6,
             11,
             13,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 18时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 19时47分]"
         },
         {
           "title": "特朗普：我犯了大错",
@@ -1039,7 +1088,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -1078,6 +1127,17 @@
           "time_info": "[06时32分 ~ 07时34分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时47分]"
+        },
+        {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
           "url": "https://www.cls.cn/detail/2284508",
           "source": "财联社热门",
@@ -1087,17 +1147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时01分 ~ 05时36分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时53分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -1118,7 +1167,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -1313,6 +1362,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
+          "url": "https://www.cls.cn/detail/2286051",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时47分]"
+        },
+        {
           "title": "中芯国际：2026年资本开支与2025年相比大致持平",
           "url": "https://wallstreetcn.com/livenews/3052916",
           "source": "华尔街见闻-快讯",
@@ -1335,17 +1396,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时57分 ~ 18时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪要求美政府退还部分已缴税款",
+          "url": "https://www.toutiao.com/trending/7605147482078678554/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
-          "title": "中芯国际：2025年第四季度净利润12.23亿元 同比增长23.2%",
-          "url": "https://www.cls.cn/detail/2286051",
-          "source": "财联社热门",
+          "title": "比亚迪起诉美国政府",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
           "ranks": [
-            12
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "19时47分"
         }
       ]
     },
@@ -1381,25 +1459,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时57分 ~ 18时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪要求美政府退还部分已缴税款",
-          "url": "https://www.toutiao.com/trending/7605147482078678554/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
+          "appearance_count": 6,
+          "time_info": "[15时57分 ~ 19时47分]"
         }
       ]
     }
