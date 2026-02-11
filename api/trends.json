@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:45:21.870078+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-02-11T19:42:11.953784+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 71,
+      "match_count": 88,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -92,6 +92,17 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
+          "title": "现货白银站上86美元/盎司，日内涨6.55%。",
+          "url": "https://flash.jin10.com/detail/20260211193000824800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "WTI 3月原油期货收报63.96美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3053225",
           "source": "华尔街见闻-快讯",
@@ -101,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "现货白银站上86美元/盎司，日内涨6.55%。",
+          "url": "https://wallstreetcn.com/livenews/3053711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "谷歌以320亿美元收购Wiz的交易获得欧盟反垄断无条件批准。",
@@ -120,9 +142,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "纽约期金日内大涨2.00%，现报5131.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260211192907005800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "纽约期金日内涨幅扩大至2%，现报5131.80美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "欧盟委员会声明：欧盟无条件批准谷歌公司的320亿美元网络安全交易。",
@@ -134,17 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "由软银支持的美国软件公司Icertis考虑以50亿美元价格出售。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3053679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "现货白银站上84美元/盎司，日内涨4.10%。",
@@ -164,7 +197,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -191,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时36分]"
+        },
+        {
+          "title": "由软银支持的美国软件公司Icertis考虑以50亿美元价格出售。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时42分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9140元，较周一夜盘收盘涨68点。成交量448.03亿美元。",
@@ -355,7 +400,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -377,7 +422,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -393,15 +438,37 @@
           "time_info": "00时05分"
         },
         {
+          "title": "美国健康保险公司Humana预计2026年调整后每股收益至少为9美元，市场预期为11.87美元。",
+          "url": "https://wallstreetcn.com/livenews/3053700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "玻利维亚寻求高达33亿美元的国际货币基金组织融资。",
           "url": "https://flash.jin10.com/detail/20260211182115357800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "花旗：将可口可乐(KO.N)目标价从85美元上调至87美元。",
+          "url": "https://flash.jin10.com/detail/20260211190835523800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "报道：Alphabet有望筹资320亿美元，AI军备竞赛进入白热化阶段",
@@ -454,7 +521,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -503,6 +570,17 @@
           "time_info": "15时53分"
         },
         {
+          "title": "福特汽车(F.N)：预计在2026年降低约10亿美元的关税成本。",
+          "url": "https://flash.jin10.com/detail/20260211190755586800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "周二（2月10日）纽约尾盘，美元兑日元跌1.01%，报154.30日元，日内交投区间为156.29-154.06日元。 欧元兑日元跌1.11%，报183.64日元；英镑兑日元跌1.31%，报210.649日元。",
           "url": "https://wallstreetcn.com/livenews/3053234",
           "source": "华尔街见闻-快讯",
@@ -514,6 +592,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "现货白银日内涨幅达6%，报85.66美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美元指数10日下跌",
           "url": "https://flash.jin10.com/detail/20260211041812167800",
           "source": "金十数据",
@@ -523,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "现货黄金突破5100美元/盎司关口，日内涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "菲律宾比索兑美元升至去年10月份来高点。",
@@ -553,7 +653,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -591,6 +691,17 @@
           "time_info": "15时53分"
         },
         {
+          "title": "伦铜日内涨幅达2%，现报13349.70美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3053685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的14.47亿美元。",
           "url": "https://flash.jin10.com/detail/20260211021657663800",
           "source": "金十数据",
@@ -600,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内涨幅扩大至0.50%，现报1.3712。",
+          "url": "https://flash.jin10.com/detail/20260211185606368800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
@@ -633,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅达0.50%，现报0.6072。",
+          "url": "https://flash.jin10.com/detail/20260211185515425800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
@@ -712,13 +845,24 @@
           "time_info": "15时53分"
         },
         {
+          "title": "现货白银日内涨超5%，站上85美元/盎司。 纽约银日内涨幅达5.5%，报84.83美元/盎司。 现货黄金日内涨幅达1%，报5074.35美元/盎司。 纽约金突破5100美元/盎司关口，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3053678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "现货钯金涨逾3%，至1761.79美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260211175019573800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -751,7 +895,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -762,7 +906,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -778,6 +922,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "现货白银日内暴涨6.00%，现报85.57美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260211184907197800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "万科2029年到期美元债势创1年最大涨幅",
           "url": "https://wallstreetcn.com/livenews/3053491",
           "source": "华尔街见闻-快讯",
@@ -789,6 +944,17 @@
           "time_info": "15时53分"
         },
         {
+          "title": "现货黄金站上5100美元",
+          "url": "https://flash.jin10.com/detail/20260211184445722800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "麦肯锡同意将旗下200亿美元投资业务控制权移交路博迈",
           "url": "https://wallstreetcn.com/livenews/3053162",
           "source": "华尔街见闻-快讯",
@@ -798,6 +964,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "纽约期银日内暴涨6.00%，现报85.23美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260211184429002800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "现货黄金向上触及5090美元/盎司，日内涨1.34%。",
+          "url": "https://flash.jin10.com/detail/20260211184418206800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
@@ -814,7 +1002,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -828,6 +1016,19 @@
           "time_info": "[09时56分 ~ 17时48分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 19时42分]"
+        },
+        {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
@@ -839,17 +1040,15 @@
           "time_info": "[00时04分 ~ 07时35分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时42分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -896,17 +1095,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时04分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
@@ -1027,6 +1215,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时27分 ~ 14时07分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时42分]"
         },
         {
           "title": "爱泼斯坦文件中特朗普出现超百万次",
@@ -1229,6 +1429,17 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
           "url": "https://flash.jin10.com/detail/20260211022808666800",
           "source": "金十数据",
@@ -1279,7 +1490,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1293,17 +1504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
@@ -1607,7 +1807,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "比亚迪起诉美国政府",
@@ -1662,6 +1862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "比亚迪宣布与曼城足球俱乐部达成深度战略合作，成为曼城足球俱乐部官方合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3053686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     },
