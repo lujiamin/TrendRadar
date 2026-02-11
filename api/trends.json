@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T12:28:11.359143+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-02-11T14:07:19.135062+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -388,7 +388,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -413,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "菲律宾比索兑美元升至去年10月份来高点。",
+          "url": "https://wallstreetcn.com/livenews/3053439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         },
         {
           "title": "人民币兑美元中间价创2023年5月11日以来新高",
@@ -498,7 +509,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -583,7 +594,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -604,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 14时07分]"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
@@ -643,6 +654,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 14时07分]"
+        },
+        {
           "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
           "url": "https://wallstreetcn.com/livenews/3053209",
           "source": "华尔街见闻-快讯",
@@ -656,6 +678,17 @@
           "time_info": "[03时04分 ~ 05时39分]"
         },
         {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 14时07分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
           "url": "https://wallstreetcn.com/livenews/3053222",
           "source": "华尔街见闻-快讯",
@@ -666,6 +699,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时39分]"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 14时07分]"
         },
         {
           "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
@@ -716,38 +761,16 @@
           "time_info": "[03时04分 ~ 04时39分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时28分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时28分]"
-        },
-        {
-          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
-          "url": "https://www.cls.cn/detail/2286509",
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
           "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时56分 ~ 12时28分]"
+          "time_info": "[12时27分 ~ 14时07分]"
         },
         {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
@@ -844,17 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
@@ -1005,6 +1017,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260211122756306800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
           "title": "加拿大总理卡尼：特朗普要求特使Hoekstra参与大桥磋商。",
           "url": "https://wallstreetcn.com/livenews/3053126",
           "source": "华尔街见闻-快讯",
@@ -1055,7 +1078,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1077,7 +1100,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1088,7 +1111,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1143,7 +1166,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -1175,19 +1198,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时38分 ~ 12时28分]"
-        },
-        {
-          "title": "中芯国际赵海军：HBM缺货将持续",
-          "url": "https://wallstreetcn.com/livenews/3053431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 10,
+          "time_info": "[05时38分 ~ 14时07分]"
         },
         {
           "title": "中芯国际赵海军：与AI、存储、中高端应用相关订单增加",
@@ -1201,26 +1213,40 @@
           "time_info": "09时56分"
         },
         {
+          "title": "中芯国际赵海军：HBM缺货将持续",
+          "url": "https://wallstreetcn.com/livenews/3053431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时07分]"
+        },
+        {
           "title": "中芯国际赵海军：中芯国际的存储器相关产品在涨价，BCD供不应求",
           "url": "https://wallstreetcn.com/livenews/3053430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时07分]"
         },
         {
           "title": "中芯国际赵海军：预计今年月产能增量折合12英寸晶圆约4万片",
           "url": "https://wallstreetcn.com/livenews/3053428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时07分]"
         },
         {
           "title": "恒指高开0.23%，报27246.18点；恒生科技指数涨0.21%。腾讯音乐涨超3%，商汤涨超2%，哔哩哔哩、蔚来、快手等涨超1%；中芯国际跌2.4%，此前公布财报。",
@@ -1326,6 +1352,18 @@
           "time_info": "[00时04分 ~ 05时39分]"
         },
         {
+          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3053420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 14时07分]"
+        },
+        {
           "title": "福特汽车全球销量首次落后于比亚迪",
           "url": "https://wallstreetcn.com/livenews/3053280",
           "source": "华尔街见闻-快讯",
@@ -1335,23 +1373,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
-          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3053420",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://flash.jin10.com/detail/20260211131557627800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "14时07分"
+        },
+        {
+          "title": "OpenAI创始人Altman：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://wallstreetcn.com/livenews/3053451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。",
@@ -1363,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "上海仪电与阿里巴巴集团签署战略合作协议，双方将在智算服务、政企市场、公共云业务等领域展开深入合作。",
+          "url": "https://wallstreetcn.com/livenews/3053445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
@@ -1402,28 +1479,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E8%83%BD%E5%90%A6%E6%88%90%E5%8A%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20260211093843055800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时07分]"
         }
       ]
     }
