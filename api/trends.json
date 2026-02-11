@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:42:11.953784+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2026-02-11T20:59:03.479061+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 97,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -98,7 +98,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -112,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
-        },
-        {
-          "title": "现货白银站上86美元/盎司，日内涨6.55%。",
-          "url": "https://wallstreetcn.com/livenews/3053711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "谷歌以320亿美元收购Wiz的交易获得欧盟反垄断无条件批准。",
@@ -153,18 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "纽约期金日内涨幅扩大至2%，现报5131.80美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3053710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -202,6 +180,29 @@
           "time_info": "18时45分"
         },
         {
+          "title": "房利美（Fannie Mae）第四季度净利润为35.3亿美元，市场预期为38亿美元。 第四季度净利息收入为72.7亿美元 第四季度净营收为73.3亿美元，同比增长0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "现货白银站上86美元/盎司，日内涨6.55%。",
+          "url": "https://wallstreetcn.com/livenews/3053711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时59分]"
+        },
+        {
           "title": "福特汽车四季度调整后每股收益（EPS）为0.13美元，分析师预期0.18美元。",
           "url": "https://wallstreetcn.com/livenews/3053245",
           "source": "华尔街见闻-快讯",
@@ -212,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时36分]"
+        },
+        {
+          "title": "纽约期金日内涨幅扩大至2%，现报5131.80美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时59分]"
         },
         {
           "title": "Advanced Energy四季度销售4.894亿美元，分析师预期4.739亿美元。 预计一季度营收4.80亿-5.20亿美元，分析师预期4.701亿美元。",
@@ -346,6 +359,17 @@
           "time_info": "[04时39分 ~ 05时39分]"
         },
         {
+          "title": "市场聚焦美国非农，美股指期货全线上扬，美元连跌四日，黄金突破5100美元大关，白银站上86美元",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
           "url": "https://wallstreetcn.com/livenews/3053261",
           "source": "华尔街见闻-快讯",
@@ -444,7 +468,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -466,7 +490,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -504,6 +528,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "卡夫亨氏：由于暂停分拆工作，2026年将不会产生3亿美元的协同效应损失，也不会产生重大额外一次性费用。",
+          "url": "https://flash.jin10.com/detail/20260211202248484800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "Prosus在2月2-6日当周按均价46.5532欧元回购股票295.1716万股，合计1.374亿欧元（折合1.621亿美元）。 Naspers同期按958.5039南非兰特回购122.6469万股，合计11.756亿南特（折合0.730亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3053131",
           "source": "华尔街见闻-快讯",
@@ -524,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "房利美第四季度净利润35亿美元。",
+          "url": "https://flash.jin10.com/detail/20260211202225062800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "网红券商Robinhood四季度净营收12.8亿美元，分析师预期13.5亿美元。",
@@ -576,7 +622,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -598,7 +644,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -620,9 +666,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3053732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "菲律宾比索兑美元升至去年10月份来高点。",
@@ -634,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "Healthcare Services第四季度每股收益0.44美元，上年同期0.16美元，市场预估0.22美元。 第四季度营收4.667亿美元，同比增长6.6%，市场预估4.674亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "人民币兑美元中间价创2023年5月11日以来新高",
@@ -697,7 +765,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -719,7 +787,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -746,6 +814,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "Shopify(SHOP.N)已批准一项多达20亿美元的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260211200916441800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "WTI 3月原油期货收跌0.62%，报63.96美元/桶。 布伦特4月原油期货收跌0.24美元，跌幅0.35%，报68.80美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3053225",
           "source": "华尔街见闻-快讯",
@@ -763,7 +842,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -851,7 +930,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -900,6 +979,17 @@
           "time_info": "18时45分"
         },
         {
+          "title": "布伦特原油突破70美元/桶，日内涨超1.8%，报70.02美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3053721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "现货黄金站上5070美元/盎司，日内涨0.94%。",
           "url": "https://flash.jin10.com/detail/20260211174647500800",
           "source": "金十数据",
@@ -909,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "Shopify(SHOP.N)第四季度收入36.7亿美元，市场预测35.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260211200231889800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美元/日元日内跌幅达1.0%，报154.3115。",
@@ -928,7 +1029,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -950,7 +1051,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -972,7 +1073,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -983,7 +1084,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1002,7 +1103,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -1025,8 +1126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[09时56分 ~ 20时59分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -1047,8 +1148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[18时45分 ~ 20时59分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -1205,6 +1306,18 @@
           "time_info": "[03时04分 ~ 04时39分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 20时59分]"
+        },
+        {
           "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
           "url": "https://www.cls.cn/detail/2286531",
           "source": "财联社热门",
@@ -1335,6 +1448,17 @@
           "time_info": "[04时39分 ~ 05时39分]"
         },
         {
+          "title": "释新闻｜特朗普威胁阻止一座美加跨境大桥开通，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582663",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
           "title": "美国总统特朗普：我们的就业数据非常好。",
           "url": "https://flash.jin10.com/detail/20260211054343619800",
           "source": "金十数据",
@@ -1429,17 +1553,6 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
-        },
-        {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
           "url": "https://flash.jin10.com/detail/20260211022808666800",
           "source": "金十数据",
@@ -1471,6 +1584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "墨西哥比索跌至日内低点，此前报道称特朗普考虑退出美墨加协定。",
+          "url": "https://wallstreetcn.com/livenews/3053734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -1594,6 +1718,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "墨西哥比索跌至日内低点，消息称特朗普据悉考虑退出美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20260211200850711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "约翰逊阻挠失败，美国众议院本周稍晚料推进针对特朗普关税的相关投票",
           "url": "https://wallstreetcn.com/livenews/3053410",
           "source": "华尔街见闻-快讯",
@@ -1603,6 +1738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
@@ -1870,7 +2016,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
