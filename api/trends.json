@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-02-13T00:54:19.732512+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-13T01:55:13.626563+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "深度推演美元霸权的续命逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "周四（2月12日），韩元兑美元最终涨0.50%，报1439.44韩元，亚太时段持续走高，北京时间14:00以来高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3054659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
         {
           "title": "现货黄金短线反弹逾70美元，现回升至4956美元/盎司，此前一度跳水至最低4878.37美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260213004334868800",
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "深度推演美元霸权的续命逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,22 +53,33 @@
           "time_info": "00时54分"
         },
         {
-          "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3054627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
           "source": "澎湃新闻",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3054627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,6 +108,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "布伦特原油日内跌幅达3.0%，报67.3美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3054649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
           "title": "现货黄金日内暴跌200美元，现报4883.59美元/盎司，跌幅3.94%。现货白银日内暴跌10%，现报75.78美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260213002909506800",
           "source": "金十数据",
@@ -105,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "WTI原油日内跌幅达3.0%，报62.69美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3054646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         },
         {
           "title": "现货黄金回落至4900美元下方，30分钟跌近200美元",
@@ -129,17 +174,6 @@
           "time_info": "00时54分"
         },
         {
-          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
           "title": "现货黄金短线跌势不止，现报4907美元/盎司，日内跌幅3.3%，现货白银日内重挫7.01美元，现报77.21美元/盎司，跌幅8.32%。纽约期银回落至77美元/盎司下方，日内跌8.32%。",
           "url": "https://flash.jin10.com/detail/20260213002324829800",
           "source": "金十数据",
@@ -149,6 +183,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "英国国防大臣希利：已承诺向乌克兰提供总额达350亿美元的军事援助。",
+          "url": "https://flash.jin10.com/detail/20260213012634329800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "美国能源部长Wright：特朗普政府已经销售超过10亿美元委内瑞拉石油。 预计还将销售50亿美元委内瑞拉石油。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3054638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "分析师：金价失守5000美元引发连锁抛售",
+          "url": "https://flash.jin10.com/detail/20260213012215160800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         },
         {
           "title": "现货黄金跌破4950美元/盎司，日内跌2.66%。",
@@ -176,7 +243,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -186,8 +253,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -197,8 +264,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -208,8 +275,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -219,19 +286,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时55分]"
         },
         {
-          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
-          "url": "https://wallstreetcn.com/livenews/3054633",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
+          "url": "https://flash.jin10.com/detail/20260213014349442800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时55分"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -243,6 +310,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
+          "url": "https://wallstreetcn.com/livenews/3054656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
+          "url": "https://wallstreetcn.com/livenews/3054633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
         },
         {
           "title": "据CNN：派拉蒙公司的埃里森上周会见了特朗普。埃里森与特朗普进行了两次内容广泛的谈话。",
@@ -289,6 +390,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "以色列总理内塔尼亚胡动身离开白宫之前宣称：美国总统特朗普可能会与伊朗达成不错的协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3054639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
           "title": "美媒：特朗普政府秘密向伊朗输送星链终端",
           "url": "https://flash.jin10.com/detail/20260213001015137800",
           "source": "金十数据",
@@ -298,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "据知情人士透露，派拉蒙天舞（Paramount SkyDance）的CEO David Ellison上周在白宫秘密会见了美国总统特朗普。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3054631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
@@ -310,11 +433,12 @@
           "url": "https://wallstreetcn.com/livenews/3054632",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时55分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
