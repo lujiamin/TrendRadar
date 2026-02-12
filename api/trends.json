@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T01:55:13.626563+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-13T02:57:25.664477+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -13,22 +13,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
         },
         {
-          "title": "周四（2月12日），韩元兑美元最终涨0.50%，报1439.44韩元，亚太时段持续走高，北京时间14:00以来高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3054659",
+          "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
+          "url": "https://flash.jin10.com/detail/20260213024705661800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "数据中心公司Mscale从PIMCO和Blue Owl等获得14亿美元芯片贷款",
+          "url": "https://wallstreetcn.com/livenews/3054683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "02时57分"
+        },
+        {
+          "title": "花旗：将Cloudflare(NET.N)目标价从260美元上调至265美元，维持买入评级。",
+          "url": "https://flash.jin10.com/detail/20260213024541821800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "现货黄金短线反弹逾70美元，现回升至4956美元/盎司，此前一度跳水至最低4878.37美元/盎司。",
@@ -53,6 +76,29 @@
           "time_info": "00时54分"
         },
         {
+          "title": "消息人士：康卡斯特(CMCSA.O)旗下Sky就以22亿美元收购ITV的谈判已放缓，原因是媒体行业格局正在发生变化。",
+          "url": "https://flash.jin10.com/detail/20260213023844281800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "周四（2月12日），韩元兑美元最终涨0.50%，报1439.44韩元，亚太时段持续走高，北京时间14:00以来高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3054659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时57分]"
+        },
+        {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
           "source": "澎湃新闻",
@@ -60,19 +106,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达3.0%，报67.3美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3054649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时57分]"
+        },
+        {
+          "title": "周四（2月12日），美联储隔夜逆回购协议（RRP）使用规模为28.44亿美元（交易对手10家），上个交易日报10.48亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
@@ -108,15 +178,37 @@
           "time_info": "00时54分"
         },
         {
-          "title": "布伦特原油日内跌幅达3.0%，报67.3美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3054649",
+          "title": "纽约银日内跌幅达11.0%，报74.69美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3054669",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "02时57分"
+        },
+        {
+          "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
+          "url": "https://flash.jin10.com/detail/20260213023254034800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "美国财政部发行250亿美元30年期国债，得标利率4.750%（1月13日为4.825%），投标倍数2.66（前次为2.42）。",
+          "url": "https://wallstreetcn.com/livenews/3054666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "现货黄金日内暴跌200美元，现报4883.59美元/盎司，跌幅3.94%。现货白银日内暴跌10%，现报75.78美元/盎司。",
@@ -147,9 +239,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "LME期铜收跌291美元，报12876美元/吨。 LME期铝收跌3美元，报3100美元/吨。 LME期锌收跌32美元，报3374美元/吨。 LME期铅收跌16美元，报1978美元/吨。 LME期镍收跌452美元，报17428美元/吨。 LME期锡收涨28美元，报49663美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3054664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "现货黄金回落至4900美元下方，30分钟跌近200美元",
@@ -191,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -202,7 +305,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -213,7 +316,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -243,7 +346,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -253,8 +356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -264,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -275,8 +378,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -286,8 +389,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时57分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -296,9 +399,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
+          "url": "https://flash.jin10.com/detail/20260213023947090800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -310,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
-          "url": "https://wallstreetcn.com/livenews/3054656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
@@ -335,15 +449,28 @@
           "time_info": "[00时54分 ~ 01时55分]"
         },
         {
+          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
+          "url": "https://wallstreetcn.com/livenews/3054656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时57分]"
+        },
+        {
           "title": "中方回应“特朗普将于4月初访华”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 02时57分]"
         },
         {
           "title": "据CNN：派拉蒙公司的埃里森上周会见了特朗普。埃里森与特朗普进行了两次内容广泛的谈话。",
@@ -355,6 +482,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国官员：特朗普将宣布，数个国家已承诺派遣数千名士兵加入维稳部队。",
+          "url": "https://flash.jin10.com/detail/20260213023327754800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "美国官员：特朗普将在和平委员会会议上就加沙国际维稳部队提供最新情况。",
+          "url": "https://flash.jin10.com/detail/20260213023307683800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉代总统罗德里格斯沟通得不错。",
@@ -396,9 +545,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美媒：特朗普政府秘密向伊朗输送星链终端",
@@ -418,7 +578,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -426,7 +586,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -450,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     }
