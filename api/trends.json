@@ -1,11 +1,822 @@
 {
-  "generated_at": "2026-02-12T20:57:24.368835+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-02-12T22:10:22.560252+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 70,
+      "titles": [
+        {
+          "title": "深度推演美元霸权的续命逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            23,
+            19,
+            24,
+            21,
+            14,
+            16,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 22时10分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时10分]"
+        },
+        {
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 14时02分]"
+        },
+        {
+          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时03分]"
+        },
+        {
+          "title": "现货金银周四高开，现分别报5093美元和84.62美元。",
+          "url": "https://flash.jin10.com/detail/20260212070048359800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "杰富瑞：将麦当劳(MCD.N)目标价从360美元上调至375美元。",
+          "url": "https://flash.jin10.com/detail/20260212133848939800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "摩根士丹利将AppLovin目标价从800美元下调至720美元，维持“增持”评级。",
+          "url": "https://wallstreetcn.com/livenews/3054478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "芝商所（CME）将季度股息从1.25美元上调至1.30美元。",
+          "url": "https://flash.jin10.com/detail/20260212203139297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "阿波罗推进打造私募信贷二级市场 去年交易100亿美元投资级私募贷款",
+          "url": "https://wallstreetcn.com/livenews/3054210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "美元兑主要货币回吐涨幅 强劲非农难改结构性疲软预期",
+          "url": "https://flash.jin10.com/detail/20260212203107705800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 22时10分]"
+        },
+        {
+          "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
+          "url": "https://wallstreetcn.com/livenews/3053937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时31分]"
+        },
+        {
+          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
+          "url": "https://wallstreetcn.com/livenews/3054184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 14时02分]"
+        },
+        {
+          "title": "大摩CEO年薪涨至4500万美元 华尔街大佬一齐步入“涨薪季”",
+          "url": "https://flash.jin10.com/detail/20260212055207285800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时28分]"
+        },
+        {
+          "title": "WTI 3月原油期货收涨0.67美元，涨幅1.05%，报64.63美元/桶。 布伦特4月原油期货收涨0.60美元，涨幅0.87%，报69.40美元/桶。 NYMEX 3月天然气期货收报3.1590美元/百万英热单位。 NYMEX 3月汽油期货收报1.9789美元/加仑，NYMEX 3月取暖油期货收报2.4404美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3053941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时31分]"
+        },
+        {
+          "title": "摩根士丹利将CEO Pick的薪酬从3400万美元提高至4500万美元。",
+          "url": "https://wallstreetcn.com/livenews/3053966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时26分]"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘，现货白银涨4.20%，报84.2080美元/盎司，亚太盘初以来持续走高，北京时间20:00刷新日高至86.3058美元。 COMEX白银期货涨4.42%，报83.935美元/盎司。 COMEX铜期货涨1.27%，报5.9885美元/磅。 现货铂金涨2.48%，现货钯金涨0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时28分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9016，较上一交易日官方收盘价涨99点，较上日夜盘收盘涨90点。",
+          "url": "https://wallstreetcn.com/livenews/3054371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时43分]"
+        },
+        {
+          "title": "Nova预计第一季度调整后每股收益为2.13至2.25美元，市场预期为2.11美元。 预计第一季度营收为2.22亿至2.32亿美元。 第四季度调整后每股收益为2.14美元，同比增长1.94美元，市场预期为2.09美元。 第四季度总营收为2.226亿美元，同比增长14%，市场预期为2.205亿美元。 第四季度调整后净利润为7220万美元，同比增长16%，市场预期为7190万美元。",
+          "url": "https://wallstreetcn.com/livenews/3054525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时10分]"
+        },
+        {
+          "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时26分]"
+        },
+        {
+          "title": "周三（2月11日），美联储隔夜逆回购协议（RRP）使用规模为10.48亿美元（交易对手6家），上个交易日报14.47亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时34分]"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 22时10分]"
+        },
+        {
+          "title": "Meta将270亿美元数据中心项目剥离出表，审计机构发出警示",
+          "url": "https://wallstreetcn.com/livenews/3053909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时55分]"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘，现货黄金涨1.06%，报5078.98美元/盎司，北京时间20:00刷新日高至5119.30美元，随后在美国非农就业报告发布时跳水至5020.28美元刷新日低，1月30日以来持续测试5000美元整数位心理关口。 COMEX黄金期货涨1.48%，报5105.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时28分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时34分]"
+        },
+        {
+          "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
+          "url": "https://wallstreetcn.com/livenews/3053907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时55分]"
+        },
+        {
+          "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
+          "url": "https://wallstreetcn.com/livenews/3053959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时26分]"
+        },
+        {
+          "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时34分]"
+        },
+        {
+          "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
+          "url": "https://flash.jin10.com/detail/20260212030333471800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时34分]"
+        },
+        {
+          "title": "美国财政部：美国1月净海关收入为277亿美元。2026财政年度至今赤字为6970亿美元（2025财政年度同期为8400亿美元赤字）。",
+          "url": "https://flash.jin10.com/detail/20260212030248098800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时34分]"
+        },
+        {
+          "title": "芝加哥小麦期货涨超1.6%，纽约可可期货跌向3800美元",
+          "url": "https://wallstreetcn.com/livenews/3053947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时26分]"
+        },
+        {
+          "title": "现货黄金短线走高约10美元，报5070美元/盎司，现货白银现跌2%。",
+          "url": "https://flash.jin10.com/detail/20260212213357759800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "菲利普斯66(PSX.N)宣布上调季度股息至每股1.27美元。",
+          "url": "https://flash.jin10.com/detail/20260212003054465800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
+          "url": "https://flash.jin10.com/detail/20260212115333742800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "据知情人士透露，新加坡财富基金GIC Pte.考虑出售在欧洲数据中心合资公司的持股。 该数据中心合资公司按xScale品牌运营。 GIC对其持股80%，若达成一份协议，对该公司的估值大约为20亿欧元（折合24亿美元）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://wallstreetcn.com/livenews/3054322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "需求前景和美元走软仍在支撑铜价上涨",
+          "url": "https://flash.jin10.com/detail/20260212113954561800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "数据公布后，现货黄金、美元指数DXY短线波动不大。",
+          "url": "https://flash.jin10.com/detail/20260212213038892800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
+          "url": "https://wallstreetcn.com/articles/3765518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "现货白银日内走低3.00%，现报81.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260212091511285800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9457，下调19点；上一交易日中间价6.9438，交易日16:30官方收盘价6.9115，上日夜盘报收6.9106。",
+          "url": "https://wallstreetcn.com/livenews/3054075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "交易员称，印度央行很可能在当地即期市场开盘前抛售了美元。",
+          "url": "https://flash.jin10.com/detail/20260212113623066800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "比尔·阿克曼管理的对冲基金潘兴广场对Meta持股20亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3053906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "美国应用材料公司支付2.525亿美元与美国商务部就相关调查达成和解",
+          "url": "https://flash.jin10.com/detail/20260212113604665800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "Meta斥资逾100亿美元，在美国印第安纳州建设数据中心",
+          "url": "https://wallstreetcn.com/livenews/3053904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "Nebius第四季度营收2.277亿美元，市场预期2.475亿美元。 第四季度调整后EBITDA1500万美元，市场预期2260万美元 第四季度调整后净亏损1.73亿美元，市场预期亏损为.515亿美元。 Nebius盘前一度跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3054513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美核聚变新贵融资4.5亿美元 瞄准2030年启动商业电站建设",
+          "url": "https://www.cls.cn/detail/2287635",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "LME期铜收涨58美元，报13166美元/吨。 LME期铝收涨10美元，报3103美元/吨。 LME期锌收涨12美元，报3406美元/吨。 LME期铅收涨18美元，报1993美元/吨。 LME期镍收涨390美元，报17880美元/吨。 LME期锡收涨352美元，报49635美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3053903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
+          "url": "https://flash.jin10.com/detail/20260212054012505800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅达3.00%，现报3.254美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260212185609803800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "房利美第四季度净收入57.6亿美元，同比下降8.9%，市场预期59亿美元。 第四季度净利息收入55.5亿美元，同比增长9.8%。 第四季度综合净利润27.8亿美元，同比下降13%。",
+          "url": "https://wallstreetcn.com/livenews/3054542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "周三（2月11日），韩元兑美元最终涨0.73%，刷新日高至1446.73韩元，非农数据发布后跳水至1459.49韩元刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3053897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "Link Data Services数据显示，加拿大Cold Lake重油较美国墨西哥湾沿岸的WTI原油的折扣幅度扩大至8.50美元/桶，创2023年12月8日以来最阔。",
+          "url": "https://wallstreetcn.com/livenews/3053945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "美元兑日元跌0.5%，现报152.48。",
+          "url": "https://wallstreetcn.com/livenews/3054157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212030002185800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "美元指数在非农日冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3053944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3053849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9095元，较周二纽约尾盘涨26点，日内整体交投于6.9195-6.9059元区间，美国非农就业报告出炉时刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3053987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的10.48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212021805056800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "埃克森美孚更新四年融资计划，拟增发34亿美元股票。 预计未来四年支出总额为413亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "Meta将在印第安纳州数据中心投资超过100亿美元",
+          "url": "https://flash.jin10.com/detail/20260212021624548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "房地美截至12月31日抵押贷款组合总额为3.7万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212210519567800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美元兑日元跌超1%，刷新日低至152.75。",
+          "url": "https://wallstreetcn.com/livenews/3053892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "房地美第四季度债务为3.20万亿美元，环比下降5.4%。",
+          "url": "https://flash.jin10.com/detail/20260212210404008800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "Meta将270亿美元数据中心项目剥离出表，审计机构发出警示",
+          "url": "https://flash.jin10.com/detail/20260212021058083800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "比尔·阿克曼重仓Meta 去年底新建仓规模达20亿美元",
+          "url": "https://flash.jin10.com/detail/20260212024200092800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：美国空军部授予公司一份价值8800万美元的固定价格任务订单。",
+          "url": "https://flash.jin10.com/detail/20260212210255371800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "刚果（布）：成功完成首笔国际公共债券发行，总额达7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212023802624800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "IEA月报：俄罗斯1月份石油和燃料出口收入增至111.1亿美元，高于12月份的109.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212170239707800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "俄罗斯至2月6日当周央行黄金和外汇储备 7975亿美元，前值8268亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212210004522800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -17,6 +828,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgYPXi4vBX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时10分]"
         },
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -34,17 +856,6 @@
           "time_info": "[02时57分 ~ 20时57分]"
         },
         {
-          "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgYPXi4vBX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时57分]"
-        },
-        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -52,11 +863,12 @@
             2,
             4,
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时10分]"
         },
         {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
@@ -71,6 +883,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时01分 ~ 19时37分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 22时10分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -98,20 +924,6 @@
           "time_info": "[15时48分 ~ 19时37分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 20时57分]"
-        },
-        {
           "title": "中方回应特朗普预计4月初访华",
           "url": "https://www.toutiao.com/trending/7605620935953956906/",
           "source": "今日头条",
@@ -133,22 +945,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 20时57分]"
-        },
-        {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 22时10分]"
         },
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -158,11 +960,23 @@
             11,
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 22时10分]"
+        },
+        {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 22时10分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -211,6 +1025,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 22时10分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -324,19 +1152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时57分]"
         },
         {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
@@ -554,6 +1369,17 @@
           "time_info": "[03时55分 ~ 04时34分]"
         },
         {
+          "title": "美国总统特朗普的贸易顾问纳瓦罗：美国总统特朗普希望摩根大通CEO戴蒙降低信用卡利率。",
+          "url": "https://wallstreetcn.com/livenews/3054553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
           "url": "https://wallstreetcn.com/livenews/3054430",
           "source": "华尔街见闻-快讯",
@@ -642,6 +1468,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "白宫贸易顾问纳瓦罗：美国总统特朗普希望摩根大通CEO戴蒙降低信用卡利率。",
+          "url": "https://flash.jin10.com/detail/20260212212648056800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "据AXIOS网站：特朗普与以色列总理内塔尼亚胡的会面已经开始。",
           "url": "https://flash.jin10.com/detail/20260212000731076800",
           "source": "金十数据",
@@ -681,7 +1518,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -714,7 +1551,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -798,727 +1635,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 62,
-      "titles": [
-        {
-          "title": "深度推演美元霸权的续命逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            23,
-            19,
-            24,
-            21,
-            14,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 20时57分]"
-        },
-        {
-          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
-          "url": "https://www.cls.cn/detail/2287778",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 14时02分]"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时57分]"
-        },
-        {
-          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "现货金银周四高开，现分别报5093美元和84.62美元。",
-          "url": "https://flash.jin10.com/detail/20260212070048359800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "杰富瑞：将麦当劳(MCD.N)目标价从360美元上调至375美元。",
-          "url": "https://flash.jin10.com/detail/20260212133848939800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "摩根士丹利将AppLovin目标价从800美元下调至720美元，维持“增持”评级。",
-          "url": "https://wallstreetcn.com/livenews/3054478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "芝商所（CME）将季度股息从1.25美元上调至1.30美元。",
-          "url": "https://flash.jin10.com/detail/20260212203139297800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "阿波罗推进打造私募信贷二级市场 去年交易100亿美元投资级私募贷款",
-          "url": "https://wallstreetcn.com/livenews/3054210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "Nova预计第一季度调整后每股收益为2.13至2.25美元，市场预期为2.11美元。 预计第一季度营收为2.22亿至2.32亿美元。 第四季度调整后每股收益为2.14美元，同比增长1.94美元，市场预期为2.09美元。 第四季度总营收为2.226亿美元，同比增长14%，市场预期为2.205亿美元。 第四季度调整后净利润为7220万美元，同比增长16%，市场预期为7190万美元。",
-          "url": "https://wallstreetcn.com/livenews/3054525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美元兑主要货币回吐涨幅 强劲非农难改结构性疲软预期",
-          "url": "https://flash.jin10.com/detail/20260212203107705800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
-          "url": "https://wallstreetcn.com/livenews/3053937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时31分]"
-        },
-        {
-          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
-          "url": "https://wallstreetcn.com/livenews/3054184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 14时02分]"
-        },
-        {
-          "title": "大摩CEO年薪涨至4500万美元 华尔街大佬一齐步入“涨薪季”",
-          "url": "https://flash.jin10.com/detail/20260212055207285800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
-          "title": "WTI 3月原油期货收涨0.67美元，涨幅1.05%，报64.63美元/桶。 布伦特4月原油期货收涨0.60美元，涨幅0.87%，报69.40美元/桶。 NYMEX 3月天然气期货收报3.1590美元/百万英热单位。 NYMEX 3月汽油期货收报1.9789美元/加仑，NYMEX 3月取暖油期货收报2.4404美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3053941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时31分]"
-        },
-        {
-          "title": "摩根士丹利将CEO Pick的薪酬从3400万美元提高至4500万美元。",
-          "url": "https://wallstreetcn.com/livenews/3053966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "周三（2月11日）纽约尾盘，现货白银涨4.20%，报84.2080美元/盎司，亚太盘初以来持续走高，北京时间20:00刷新日高至86.3058美元。 COMEX白银期货涨4.42%，报83.935美元/盎司。 COMEX铜期货涨1.27%，报5.9885美元/磅。 现货铂金涨2.48%，现货钯金涨0.61%。",
-          "url": "https://wallstreetcn.com/livenews/3053982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9016，较上一交易日官方收盘价涨99点，较上日夜盘收盘涨90点。",
-          "url": "https://wallstreetcn.com/livenews/3054371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时43分]"
-        },
-        {
-          "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时57分]"
-        },
-        {
-          "title": "周三（2月11日），美联储隔夜逆回购协议（RRP）使用规模为10.48亿美元（交易对手6家），上个交易日报14.47亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时34分]"
-        },
-        {
-          "title": "Meta将270亿美元数据中心项目剥离出表，审计机构发出警示",
-          "url": "https://wallstreetcn.com/livenews/3053909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时55分]"
-        },
-        {
-          "title": "周三（2月11日）纽约尾盘，现货黄金涨1.06%，报5078.98美元/盎司，北京时间20:00刷新日高至5119.30美元，随后在美国非农就业报告发布时跳水至5020.28美元刷新日低，1月30日以来持续测试5000美元整数位心理关口。 COMEX黄金期货涨1.48%，报5105.43美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3053978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时34分]"
-        },
-        {
-          "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
-          "url": "https://wallstreetcn.com/livenews/3053907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时55分]"
-        },
-        {
-          "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
-          "url": "https://wallstreetcn.com/livenews/3053959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时34分]"
-        },
-        {
-          "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
-          "url": "https://flash.jin10.com/detail/20260212030333471800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时34分]"
-        },
-        {
-          "title": "美国财政部：美国1月净海关收入为277亿美元。2026财政年度至今赤字为6970亿美元（2025财政年度同期为8400亿美元赤字）。",
-          "url": "https://flash.jin10.com/detail/20260212030248098800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时34分]"
-        },
-        {
-          "title": "芝加哥小麦期货涨超1.6%，纽约可可期货跌向3800美元",
-          "url": "https://wallstreetcn.com/livenews/3053947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 20时57分]"
-        },
-        {
-          "title": "菲利普斯66(PSX.N)宣布上调季度股息至每股1.27美元。",
-          "url": "https://flash.jin10.com/detail/20260212003054465800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
-          "url": "https://flash.jin10.com/detail/20260212115333742800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "据知情人士透露，新加坡财富基金GIC Pte.考虑出售在欧洲数据中心合资公司的持股。 该数据中心合资公司按xScale品牌运营。 GIC对其持股80%，若达成一份协议，对该公司的估值大约为20亿欧元（折合24亿美元）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3053864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://wallstreetcn.com/livenews/3054322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "需求前景和美元走软仍在支撑铜价上涨",
-          "url": "https://flash.jin10.com/detail/20260212113954561800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
-          "url": "https://wallstreetcn.com/articles/3765518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "现货白银日内走低3.00%，现报81.64美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260212091511285800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.9457，下调19点；上一交易日中间价6.9438，交易日16:30官方收盘价6.9115，上日夜盘报收6.9106。",
-          "url": "https://wallstreetcn.com/livenews/3054075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "交易员称，印度央行很可能在当地即期市场开盘前抛售了美元。",
-          "url": "https://flash.jin10.com/detail/20260212113623066800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "比尔·阿克曼管理的对冲基金潘兴广场对Meta持股20亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3053906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美国应用材料公司支付2.525亿美元与美国商务部就相关调查达成和解",
-          "url": "https://flash.jin10.com/detail/20260212113604665800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "Meta斥资逾100亿美元，在美国印第安纳州建设数据中心",
-          "url": "https://wallstreetcn.com/livenews/3053904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "Nebius第四季度营收2.277亿美元，市场预期2.475亿美元。 第四季度调整后EBITDA1500万美元，市场预期2260万美元 第四季度调整后净亏损1.73亿美元，市场预期亏损为.515亿美元。 Nebius盘前一度跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3054513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美核聚变新贵融资4.5亿美元 瞄准2030年启动商业电站建设",
-          "url": "https://www.cls.cn/detail/2287635",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "LME期铜收涨58美元，报13166美元/吨。 LME期铝收涨10美元，报3103美元/吨。 LME期锌收涨12美元，报3406美元/吨。 LME期铅收涨18美元，报1993美元/吨。 LME期镍收涨390美元，报17880美元/吨。 LME期锡收涨352美元，报49635美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3053903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
-          "url": "https://flash.jin10.com/detail/20260212054012505800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国天然气期货日内涨幅达3.00%，现报3.254美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260212185609803800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "周三（2月11日），韩元兑美元最终涨0.73%，刷新日高至1446.73韩元，非农数据发布后跳水至1459.49韩元刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3053897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "Link Data Services数据显示，加拿大Cold Lake重油较美国墨西哥湾沿岸的WTI原油的折扣幅度扩大至8.50美元/桶，创2023年12月8日以来最阔。",
-          "url": "https://wallstreetcn.com/livenews/3053945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美元兑日元跌0.5%，现报152.48。",
-          "url": "https://wallstreetcn.com/livenews/3054157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
-          "url": "https://flash.jin10.com/detail/20260212030002185800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "美元指数在非农日冲高回落",
-          "url": "https://wallstreetcn.com/livenews/3053944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3053849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "周三（2月11日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9095元，较周二纽约尾盘涨26点，日内整体交投于6.9195-6.9059元区间，美国非农就业报告出炉时刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3053987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的10.48亿美元。",
-          "url": "https://flash.jin10.com/detail/20260212021805056800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "Meta将在印第安纳州数据中心投资超过100亿美元",
-          "url": "https://flash.jin10.com/detail/20260212021624548800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美元兑日元跌超1%，刷新日低至152.75。",
-          "url": "https://wallstreetcn.com/livenews/3053892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "Meta将270亿美元数据中心项目剥离出表，审计机构发出警示",
-          "url": "https://flash.jin10.com/detail/20260212021058083800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "比尔·阿克曼重仓Meta 去年底新建仓规模达20亿美元",
-          "url": "https://flash.jin10.com/detail/20260212024200092800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "刚果（布）：成功完成首笔国际公共债券发行，总额达7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260212023802624800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "IEA月报：俄罗斯1月份石油和燃料出口收入增至111.1亿美元，高于12月份的109.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260212170239707800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比亚迪",
       "match_count": 4,
       "titles": [
@@ -1584,6 +1700,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中芯国际：存储器、BCD供不应求都在涨价",
+          "url": "https://wallstreetcn.com/livenews/3054535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     }
