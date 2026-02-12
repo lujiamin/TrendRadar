@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T06:28:35.450240+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-02-13T07:25:08.399442+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -39,11 +39,23 @@
             5,
             4,
             29,
-            24
+            24,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时25分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -57,26 +69,15 @@
           "time_info": "02时57分"
         },
         {
-          "title": "英伟达将租赁由38亿美元垃圾债券融资建设的数据中心",
-          "url": "https://flash.jin10.com/detail/20260213060904251800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "英伟达将租赁由38亿美元垃圾债融资建设的数据中心",
-          "url": "https://wallstreetcn.com/livenews/3054757",
+          "title": "现货黄金跌破4920美元/盎司关口，报4895.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3054763",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时25分"
         },
         {
           "title": "花旗：将Cloudflare(NET.N)目标价从260美元上调至265美元，维持买入评级。",
@@ -90,17 +91,6 @@
           "time_info": "02时57分"
         },
         {
-          "title": "紧随戴蒙之后 花旗CEO薪酬涨至4200万美元",
-          "url": "https://flash.jin10.com/detail/20260213060728731800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "现货黄金短线反弹逾70美元，现回升至4956美元/盎司，此前一度跳水至最低4878.37美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260213004334868800",
           "source": "金十数据",
@@ -112,15 +102,26 @@
           "time_info": "00时54分"
         },
         {
-          "title": "周四（2月12日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.8981元，较周三纽约尾盘涨114点，日内整体交投于6.9096-6.8912元区间。 日线图上，离岸人民币逼近2023年4月14日顶部6.8302元。",
-          "url": "https://wallstreetcn.com/livenews/3054755",
+          "title": "现货黄金低开30美元，失守4890美元/盎司，日内跌幅0.68%。现货白银日内跌超1.00%，现报74.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260213070111189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "淡水河谷四季度净运营收入110.6亿美元，分析师预期111.2亿美元。 四季度Pro Forma EBITDA为48.3亿美元，分析师预期47.8亿美元。 四季度调整后EBITDA为45.9亿美元。 四季度净亏损38.4亿美元，分析师预计净利润26.1亿美元。 四季度资本开支20.3亿美元。 全年销售384亿美元。 全年利润23.5亿美元，同比锐减62%。",
+          "url": "https://wallstreetcn.com/livenews/3054761",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时25分"
         },
         {
           "title": "据CNBC：与关税相关的美国海关担保资金缺口在2025年将达到创纪录的35亿美元。",
@@ -145,6 +146,18 @@
           "time_info": "02时57分"
         },
         {
+          "title": "英伟达将租赁由38亿美元垃圾债融资建设的数据中心",
+          "url": "https://wallstreetcn.com/livenews/3054757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
           "title": "数据中心公司Mscale从PIMCO和Blue Owl等获得14亿美元芯片贷款",
           "url": "https://wallstreetcn.com/livenews/3054683",
           "source": "华尔街见闻-快讯",
@@ -156,6 +169,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时31分]"
+        },
+        {
+          "title": "Draftkings预计2026年营收65亿-69亿美元，分析师预期73.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时25分]"
+        },
+        {
+          "title": "英伟达将租赁由38亿美元垃圾债券融资建设的数据中心",
+          "url": "https://flash.jin10.com/detail/20260213060904251800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "周四（2月12日），韩元兑美元最终涨0.50%，报1439.44韩元，亚太时段持续走高，北京时间14:00以来高位震荡。",
@@ -170,6 +208,31 @@
           "time_info": "[01时55分 ~ 02时57分]"
         },
         {
+          "title": "加密货币交易所Coinbase四季度总营收18亿美元，分析师预期18.3亿美元。 四季度交易收入9.83亿美元，分析师预期10.2亿美元。 四季度订阅与服务营收7.274亿美元，分析师预期7.483亿美元。 四季度调整后EBITDA为5.66亿美元，分析师预期6.57亿美元。 四季度调整后每股收益（EPS）为0.66美元，分析师预期0.86美元。 预计一季度订阅与服务营收5.50亿-630亿美元。 预计公司人头数目将较四季度略微增长。",
+          "url": "https://wallstreetcn.com/livenews/3054732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时25分]"
+        },
+        {
+          "title": "紧随戴蒙之后 花旗CEO薪酬涨至4200万美元",
+          "url": "https://flash.jin10.com/detail/20260213060728731800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
           "title": "周四（2月12日）纽约尾盘，ICE美元指数涨0.10%，报96.925点，日内交投区间为96.744-97.074点，整体呈现出三波V形走势。 彭博美元指数涨0.01%，报1181.99点，日内交投区间为1179.58-1183.49点。",
           "url": "https://wallstreetcn.com/livenews/3054709",
           "source": "华尔街见闻-快讯",
@@ -182,16 +245,16 @@
           "time_info": "[04时31分 ~ 05时29分]"
         },
         {
-          "title": "Draftkings预计2026年营收65亿-69亿美元，分析师预期73.2亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054736",
+          "title": "周四（2月12日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.8981元，较周三纽约尾盘涨114点，日内整体交投于6.9096-6.8912元区间。 日线图上，离岸人民币逼近2023年4月14日顶部6.8302元。",
+          "url": "https://wallstreetcn.com/livenews/3054755",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            17
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "Anthropic：年化收入现已达到140亿美元。",
@@ -218,18 +281,6 @@
           "time_info": "[05时29分 ~ 06时28分]"
         },
         {
-          "title": "加密货币交易所Coinbase四季度总营收18亿美元，分析师预期18.3亿美元。 四季度交易收入9.83亿美元，分析师预期10.2亿美元。 四季度订阅与服务营收7.274亿美元，分析师预期7.483亿美元。 四季度调整后EBITDA为5.66亿美元，分析师预期6.57亿美元。 四季度调整后每股收益（EPS）为0.66美元，分析师预期0.86美元。 预计一季度订阅与服务营收5.50亿-630亿美元。 预计公司人头数目将较四季度略微增长。",
-          "url": "https://wallstreetcn.com/livenews/3054732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
           "title": "伦交所集团-理柏（LSEG-Lipper）：最近一周，美国市政债券基金获得16亿美元资金流入。",
           "url": "https://wallstreetcn.com/livenews/3054701",
           "source": "华尔街见闻-快讯",
@@ -240,6 +291,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时31分]"
+        },
+        {
+          "title": "爱彼迎预计一季度营收25.9亿-26.3亿美元，分析师预期25.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时25分]"
         },
         {
           "title": "周四（2月12日），美联储隔夜逆回购协议（RRP）使用规模为28.44亿美元（交易对手10家），上个交易日报10.48亿美元。",
@@ -255,6 +319,32 @@
           "time_info": "[02时57分 ~ 04时31分]"
         },
         {
+          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时25分]"
+        },
+        {
+          "title": "应用材料第一财季净销售70.1亿美元，分析师预期68.6亿美元。 第一财季调整后每股收益（EPS）为2.38美元，分析师预期2.21美元。",
+          "url": "https://wallstreetcn.com/livenews/3054728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时25分]"
+        },
+        {
           "title": "Anthropic完成300亿美元融资 公司估值达3800亿美元",
           "url": "https://flash.jin10.com/detail/20260213031347065800",
           "source": "金十数据",
@@ -265,18 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时31分]"
-        },
-        {
-          "title": "爱彼迎预计一季度营收25.9亿-26.3亿美元，分析师预期25.4亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
         },
         {
           "title": "美国能源部：这些项目属于该部门总额5.25亿美元计划的一部分，旨在扩大并振兴美国的燃煤发电机组体系。",
@@ -291,28 +369,16 @@
           "time_info": "[03时49分 ~ 04时31分]"
         },
         {
-          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054729",
+          "title": "花旗集团上调CEO Fraser的年薪至4200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3054750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
-          "title": "应用材料第一财季净销售70.1亿美元，分析师预期68.6亿美元。 第一财季调整后每股收益（EPS）为2.38美元，分析师预期2.21美元。",
-          "url": "https://wallstreetcn.com/livenews/3054728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "350亿美元防空盾牌 欧洲盟国开启援乌“大年份”",
@@ -325,6 +391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "美国至2月13日当周外国央行持有美国国债 141.2亿美元，前值-40.02亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213053027097800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -399,6 +477,18 @@
           "time_info": "[03时49分 ~ 04时31分]"
         },
         {
+          "title": "美联储2月11日当周贴现窗贷款余额44.2亿美元，之前一周45.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
           "title": "芝加哥小麦期货涨超2.7%，纽约可可期货跌穿3700美元——较历史峰值回撤将近60%",
           "url": "https://wallstreetcn.com/livenews/3054720",
           "source": "华尔街见闻-快讯",
@@ -411,17 +501,6 @@
           "time_info": "[05时29分 ~ 06时28分]"
         },
         {
-          "title": "花旗集团上调CEO Fraser的年薪至4200万美元。",
-          "url": "https://wallstreetcn.com/livenews/3054750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "现货白银日内跌幅达10.0%，报75.59美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3054627",
           "source": "华尔街见闻-快讯",
@@ -431,17 +510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "美国至2月13日当周外国央行持有美国国债 141.2亿美元，前值-40.02亿美元。",
-          "url": "https://flash.jin10.com/detail/20260213053027097800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "布伦特原油日内跌幅达2.0%，报68.01美元/桶。 WTI原油日内跌幅达2.0%，报63.31美元/桶。",
@@ -475,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "美联储2月11日当周贴现窗贷款余额44.2亿美元，之前一周45.2亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "现货黄金日内暴跌200美元，现报4883.59美元/盎司，跌幅3.94%。现货白银日内暴跌10%，现报75.78美元/盎司。",
@@ -689,7 +746,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -699,8 +756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -710,8 +767,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -721,8 +778,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -733,8 +790,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -751,6 +808,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            25,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时57分 ~ 07时25分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -784,20 +856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 05时29分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -920,6 +978,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普希望美伊“一个月左右”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3054744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：必须与伊朗达成一份协议。 “只要我喜欢”，就会与伊朗对话。 如果伊朗不达成协议，对他们来说将是非常痛苦的。 与伊朗的协议最终取决于我。",
@@ -1087,17 +1157,6 @@
           "time_info": "02时57分"
         },
         {
-          "title": "特朗普希望美伊“一个月左右”达成协议",
-          "url": "https://wallstreetcn.com/livenews/3054744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "美国总统特朗普：与委内瑞拉代总统罗德里格斯沟通得不错。",
           "url": "https://wallstreetcn.com/livenews/3054624",
           "source": "华尔街见闻-快讯",
@@ -1107,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国白宫：煤炭让美国保持灯火通明。特朗普已经结束了激进左翼对煤炭行业的围剿，他正让煤炭行业以更强的姿态回归。",
+          "url": "https://flash.jin10.com/detail/20260213064914521800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉与美国的关系，用委婉的说法，可谓非同寻常。我们与罗德里格斯及其代表团合作非常顺利。石油已开始输送，多年未见的巨额资金即将为委内瑞拉人民带来巨大帮助。",
@@ -1214,6 +1284,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "Yelp与OpenAI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时25分]"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
           "url": "https://wallstreetcn.com/livenews/3054632",
           "source": "华尔街见闻-快讯",
@@ -1226,27 +1309,16 @@
           "time_info": "[00时54分 ~ 01时55分]"
         },
         {
-          "title": "Yelp与OpenAI构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3054731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
           "url": "https://flash.jin10.com/detail/20260213054809093800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -1292,11 +1364,12 @@
           "url": "https://wallstreetcn.com/livenews/3054754",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时25分]"
         }
       ]
     }
