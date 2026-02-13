@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T16:37:43.061833+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-02-13T17:39:48.350957+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 93,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 17时39分]"
         },
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -99,6 +99,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "知情人士：字节跳动拟超60亿美元出售沐瞳科技，最快有望本季度敲定",
+          "url": "https://flash.jin10.com/detail/20260213173237436800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "现货黄金跌破4920美元/盎司关口，报4895.06美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3054763",
           "source": "华尔街见闻-快讯",
@@ -116,7 +127,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -138,7 +149,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -368,6 +379,18 @@
           "time_info": "[12时17分 ~ 13时57分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 17时39分]"
+        },
+        {
           "title": "伦交所集团-理柏（LSEG-Lipper）：最近一周，美国市政债券基金获得16亿美元资金流入。",
           "url": "https://wallstreetcn.com/livenews/3054701",
           "source": "华尔街见闻-快讯",
@@ -417,18 +440,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时25分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时37分]"
         },
         {
           "title": "应用材料第一财季净销售70.1亿美元，分析师预期68.6亿美元。 第一财季调整后每股收益（EPS）为2.38美元，分析师预期2.21美元。",
@@ -621,6 +632,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "印尼Danantara主权财富基金负责人：我们将继续启动价值190亿美元的另外14个自然资源加工项目。",
+          "url": "https://flash.jin10.com/detail/20260213172414088800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "据路透社：消息人士称，字节跳动正就出售其游戏子公司上海沐瞳科技进行深入谈判，交易金额或达60亿至70亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213172346857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "现货白银日内涨超2.00%，现报76.78美元/盎司。",
@@ -992,9 +1025,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "中国四季度经常帐初值 2421亿美元，前值 1987亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美联储理事米兰：预计关税每年将带来近4000亿美元的收入。 预计潜在GDP增速将提升0.75个百分点。 政策调整和人工智能将拉动GDP增长。",
@@ -1044,7 +1088,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -1088,8 +1132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 17时39分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -1101,8 +1145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时51分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 17时39分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -1117,8 +1161,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 16时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 17时39分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -1129,8 +1173,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 17时39分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -1149,6 +1193,19 @@
           "time_info": "[01时54分 ~ 06时28分]"
         },
         {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 17时39分]"
+        },
+        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://www.douyin.com/hot/2398243",
           "source": "抖音",
@@ -1164,17 +1221,29 @@
           "time_info": "[02时57分 ~ 07时25分]"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
           "ranks": [
-            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时39分]"
+        },
+        {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
             10,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时17分 ~ 16时37分]"
+          "time_info": "[13时56分 ~ 17时39分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -1186,17 +1255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
@@ -1219,19 +1277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 16时37分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -1599,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美国参议院民主党成员Warren发函给证券交易委员会（SEC）主席Paul Atkins。 Warren质询SEC对总统特朗普2025年围绕代理顾问们签署的一项命令的执行情况。 Warren认为，特朗普的命令“似乎意在削弱股东们的权益，让管理层掌握更大的权力”。 Warren询问，SEC已经采取了哪些行动、或者打算如何执行特朗普的命令。",
