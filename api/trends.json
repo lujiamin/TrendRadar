@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:45:06.564972+08:00",
-  "total_titles_processed": 2021,
+  "generated_at": "2026-02-13T23:38:10.927227+08:00",
+  "total_titles_processed": 2113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 108,
+      "match_count": 112,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时51分 ~ 22时45分]"
+          "appearance_count": 18,
+          "time_info": "[09时51分 ~ 23时38分]"
         },
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时55分 ~ 22时45分]"
+          "appearance_count": 13,
+          "time_info": "[14时55分 ~ 23时38分]"
         },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -174,7 +174,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -218,7 +218,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -848,6 +848,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "麦当劳（MCD）一度涨约1%，刷新盘中历史高位至335.67美元，Argus Research Corp.将评级从持有上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3055263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "现货黄金日内暴跌200美元，现报4883.59美元/盎司，跌幅3.94%。现货白银日内暴跌10%，现报75.78美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260213002909506800",
           "source": "金十数据",
@@ -1057,6 +1068,17 @@
           "time_info": "18时35分"
         },
         {
+          "title": "图片社交平台Pinterest跌23%，创2020年4月份以来盘中新低。 该公司第四季度营收同比增长14%至13.2亿美元，低于预期；展望2026年首季，公司预计调整后EBITDA将介于1.66亿-1.86亿美元，低于市场预期的2.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美联储理事米兰：美国财政前景正在改善且经济增长表现强劲，这进一步巩固了美元的储备货币地位。",
           "url": "https://wallstreetcn.com/livenews/3054813",
           "source": "华尔街见闻-快讯",
@@ -1077,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "半导体设备制造商应用材料涨13%，创盘中历史新高。 该公司预计2026财年Q2营收约为76.5亿美元，上下浮动范围约5亿美元，超过预期。",
+          "url": "https://wallstreetcn.com/livenews/3055255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国能源部长Wright：特朗普政府已经销售超过10亿美元委内瑞拉石油。 预计还将销售50亿美元委内瑞拉石油。（NBC）",
@@ -1121,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "去年印度GDP达4.18万亿美元",
@@ -1258,7 +1302,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -1327,11 +1371,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时37分 ~ 22时45分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时38分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -1348,8 +1393,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 22时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时54分 ~ 23时38分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -1464,6 +1509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3055271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -1802,6 +1858,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美国官员：特朗普将宣布，数个国家已承诺派遣数千名士兵加入维稳部队。",
           "url": "https://flash.jin10.com/detail/20260213023327754800",
           "source": "金十数据",
@@ -1844,6 +1911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉代总统罗德里格斯沟通得不错。",
@@ -2091,7 +2169,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里巴巴美股盘前跌幅扩大至5%。",
@@ -2104,6 +2182,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时59分 ~ 22时45分]"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)、蔚来汽车(NIO.N)、百度(BIDU.O)股价有所回升，日内跌幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260213225251710800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
+          "title": "美股开盘，道指跌0.03%，标普500指数跌0.01%，纳指跌0.12%。Rivian(RIVN.O)大涨27%，公司预计2026年交付量将激增53%。部分中概股走低，阿里巴巴(BABA.N)跌3.6%，蔚来汽车(NIO.N)跌1.46%，百度(BIDU.O)跌4.5%。",
+          "url": "https://flash.jin10.com/detail/20260213223027809800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌1.1%。 阿里巴巴跌3.7%。 世纪互联跌8%，阿里巴巴跌3.7%，万国数据跌3.6%，百度跌3.6%，金山云跌3.4%，阿特斯太阳能跌3.4%，晶科能源跌2.9%，理想跌2.3%。 百胜中国涨2.3%，网易有道涨2.9%，嘉银科技涨3.7%，再鼎医药涨6.9%。",
+          "url": "https://wallstreetcn.com/livenews/3055250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         }
       ]
     },
