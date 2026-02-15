@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-02-16T06:19:36.116673+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-16T07:22:14.341656+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 9,
       "titles": [
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
           "url": "https://news.ifeng.com/c/8qlaP330gp4",
@@ -20,30 +44,6 @@
           "time_info": "[00时24分 ~ 03时22分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
           "url": "https://www.douyin.com/hot/2401829",
           "source": "抖音",
@@ -51,11 +51,12 @@
             25,
             24,
             5,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时29分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时29分 ~ 07时22分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -100,11 +101,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
         },
         {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
@@ -112,11 +114,77 @@
           "source": "金十数据",
           "ranks": [
             4,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
+        {
+          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
+          "url": "https://wallstreetcn.com/articles/3765748",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
+        {
+          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
+          "url": "https://wallstreetcn.com/livenews/3055629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时22分]"
+        },
+        {
+          "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260216042836136800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
         }
       ]
     },
@@ -133,19 +201,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
-          "url": "https://flash.jin10.com/detail/20260216054636166800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -153,11 +210,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
+          "url": "https://flash.jin10.com/detail/20260216054636166800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "time_info": "[06时19分 ~ 07时22分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -165,62 +235,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
-          "url": "https://wallstreetcn.com/livenews/3055629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
-          "url": "https://wallstreetcn.com/articles/3765748",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
-          "url": "https://flash.jin10.com/detail/20260216042836136800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
         }
       ]
     },
@@ -257,8 +277,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时22分]"
         }
       ]
     }
