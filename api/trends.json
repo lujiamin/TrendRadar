@@ -1,8 +1,185 @@
 {
-  "generated_at": "2026-02-16T09:47:53.822352+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-16T12:22:29.304993+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
+        },
+        {
+          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
+          "url": "https://wallstreetcn.com/livenews/3055629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时47分]"
+        },
+        {
+          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
+          "url": "https://wallstreetcn.com/articles/3765748",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
+        },
+        {
+          "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260216042836136800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "现货白银日内跌逾3%，至每盎司74.94美元。",
+          "url": "https://flash.jin10.com/detail/20260216114959319800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "现货黄金向下触及4980美元/盎司，日内跌1.31%。",
+          "url": "https://flash.jin10.com/detail/20260216114930401800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "纽约期金失守5000美元/盎司，日内跌幅0.95%。",
+          "url": "https://flash.jin10.com/detail/20260216114926966800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "现货黄金跌破5000美元关口，最低至4995.60美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "上汽集团与JSW集团在印度的合资企业JSW MG汽车公司计划投资3.3亿至4.4亿美元，投资旨在扩大工厂产量，并推出包括混合动力和电动车型在内的新车型。",
+          "url": "https://flash.jin10.com/detail/20260216113145882800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "现货金银跌幅收窄，现货黄金现报5025.15美元/盎司，日内跌约0.36%；现货白银现报76.56美元/盎司，日内跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3055644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260216110854337800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线小幅走高，站上153关口，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20260216081438765800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "现货黄金回落至4990美元/盎司下方，日内跌1.05%。",
+          "url": "https://flash.jin10.com/detail/20260216110321506800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "现货黄金短线下挫后快速反弹，一度逼近5000美元/盎司关口。",
+          "url": "https://flash.jin10.com/detail/20260216080546434800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 11,
@@ -130,9 +307,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时22分]"
         },
         {
           "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
@@ -141,107 +318,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时47分]"
-        },
-        {
-          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
-          "url": "https://wallstreetcn.com/livenews/3055629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时47分]"
-        },
-        {
-          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
-          "url": "https://wallstreetcn.com/articles/3765748",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时47分]"
-        },
-        {
-          "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时47分]"
-        },
-        {
-          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
-          "url": "https://flash.jin10.com/detail/20260216042836136800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时22分]"
-        },
-        {
-          "title": "现货金银跌幅收窄，现货黄金现报5025.15美元/盎司，日内跌约0.36%；现货白银现报76.56美元/盎司，日内跌1.14%。",
-          "url": "https://wallstreetcn.com/livenews/3055644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "美元兑日元USD/JPY短线小幅走高，站上153关口，日内涨0.20%。",
-          "url": "https://flash.jin10.com/detail/20260216081438765800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "现货黄金短线下挫后快速反弹，一度逼近5000美元/盎司关口。",
-          "url": "https://flash.jin10.com/detail/20260216080546434800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -249,7 +326,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -257,11 +334,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 12时22分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -300,6 +378,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -326,7 +415,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
