@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T18:44:23.518427+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-02-16T19:37:39.518576+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -95,6 +95,18 @@
           "time_info": "[17时48分 ~ 18时44分]"
         },
         {
+          "title": "美元兑日元日内涨幅达0.5%，现报153.47。",
+          "url": "https://wallstreetcn.com/livenews/3055710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时37分]"
+        },
+        {
           "title": "美银：美元的结构性贬值更可能源自欧洲",
           "url": "https://flash.jin10.com/detail/20260216154758612800",
           "source": "金十数据",
@@ -140,15 +152,37 @@
           "time_info": "12时22分"
         },
         {
-          "title": "美元兑日元日内涨幅达0.5%，现报153.47。",
-          "url": "https://wallstreetcn.com/livenews/3055710",
-          "source": "华尔街见闻-快讯",
+          "title": "印度1月石油进口额为133.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216191050312800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "印度1月黄金进口额为120.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216190751519800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时37分"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF站上0.77，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20260216190607735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "现货黄金延续跌势，跌破4970美元/盎司，日内跌1.53%。",
@@ -179,7 +213,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -206,6 +240,17 @@
           "time_info": "15时51分"
         },
         {
+          "title": "印度1月服务贸易顺差为243亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216185646675800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "受假期影响，今日亚洲多地休市，市场交易较为平淡；现货黄金盘中失守5000美元关口，白银价格亦跟随下跌，展望未来，本周市场将迎来美联储会议纪要及PCE通胀数据，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260216110854337800",
           "source": "金十数据",
@@ -215,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "印度1月商品贸易逆差为346.8亿美元，机构调查预期为260亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216185545121800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "美元兑日元USD/JPY短线小幅走高，站上153关口，日内涨0.20%。",
@@ -253,7 +309,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -347,6 +403,17 @@
           "time_info": "[15时51分 ~ 16时41分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
@@ -399,11 +466,23 @@
           "url": "https://wallstreetcn.com/livenews/3055714",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时37分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
+          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时37分"
         },
         {
           "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
@@ -415,6 +494,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
+          "url": "https://flash.jin10.com/detail/20260216185958619800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
+          "url": "https://flash.jin10.com/detail/20260216185813326800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
@@ -458,8 +559,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 19时37分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
