@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T07:22:14.341656+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-02-16T09:47:53.822352+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -120,12 +122,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "特朗普在全美推动核能部署 美军首次空运微型核反应堆",
+          "url": "https://flash.jin10.com/detail/20260216082549154800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -135,8 +159,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
+        },
+        {
+          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
+          "url": "https://wallstreetcn.com/livenews/3055629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
@@ -147,31 +184,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
-        },
-        {
-          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
-          "url": "https://wallstreetcn.com/livenews/3055629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3055637",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时47分]"
         },
         {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
@@ -185,6 +211,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "现货金银跌幅收窄，现货黄金现报5025.15美元/盎司，日内跌约0.36%；现货白银现报76.56美元/盎司，日内跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3055644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线小幅走高，站上153关口，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20260216081438765800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "现货黄金短线下挫后快速反弹，一度逼近5000美元/盎司关口。",
+          "url": "https://flash.jin10.com/detail/20260216080546434800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -201,8 +260,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -246,7 +305,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "市场监管总局约谈阿里巴巴、抖音、百度等 7 家平台企业，能治住大厂们「内卷式」竞争的老毛病吗？",
@@ -259,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时22分]"
+        },
+        {
+          "title": "港股开盘，恒指开跌0.25%，科指跌0.19%。新加入的恒指成分股宁德时代(03750.HK)涨超1%，阿里巴巴(09988.HK)跌1.8%。",
+          "url": "https://flash.jin10.com/detail/20260216092312833800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -274,11 +344,12 @@
             6,
             12,
             9,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
         }
       ]
     }
