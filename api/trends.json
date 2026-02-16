@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:04:12.794594+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-02-16T23:37:18.877894+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -214,6 +214,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260216224745069800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "现货黄金向下触及4980美元/盎司，日内跌1.31%。",
           "url": "https://flash.jin10.com/detail/20260216114930401800",
           "source": "金十数据",
@@ -234,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "WTI原油日内涨幅扩大至1.00%，现报63.44美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260216224019559800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.00%，现报67.76美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260216223527551800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "现货黄金延续跌势，跌破4970美元/盎司，日内跌1.53%。",
@@ -278,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "市场消息：德国集装箱航运公司赫伯罗特（Hapag-Lloyd）同意以35美元/股的价格现金收购以色列竞争对手ZIM。",
+          "url": "https://flash.jin10.com/detail/20260216221619400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "乌拉圭财长：我们计划今年筹集约60亿美元资金，其中大部分将通过发行债券的方式实现。",
@@ -623,8 +667,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 22时04分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 23时37分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
