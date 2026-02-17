@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T02:53:07.950262+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-02-18T03:44:30.662600+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 03时44分]"
+        },
+        {
+          "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
+          "url": "https://wallstreetcn.com/articles/3765798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 03时44分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -30,27 +42,15 @@
           "time_info": "01时53分"
         },
         {
-          "title": "周二（2月17日），美联储隔夜逆回购协议（RRP）使用规模为4.41亿美元（交易对手5家），上个交易日报3.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056088",
+          "title": "WTI 3月原油期货收报62.33美元/桶。 NYMEX 3月天然气期货收报3.0310美元/百万英热单位。 NYMEX 3月汽油期货收报1.9144美元/加仑，NYMEX 3月取暖油期货收报2.3906美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3056107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
-          "url": "https://wallstreetcn.com/articles/3765798",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 02时53分]"
+          "time_info": "03时44分"
         },
         {
           "title": "世界各国为什么都在准备去美元化？",
@@ -60,8 +60,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 03时44分]"
+        },
+        {
+          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3056104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "加拿大总理卡尼：加拿大未来十年将在国防领域投资（至少）数千亿美元。 策略是，（相比以往）更多的资金将朝着本土军工企业倾斜。",
@@ -75,6 +86,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时10分 ~ 01时53分]"
+        },
+        {
+          "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
+          "url": "https://wallstreetcn.com/livenews/3056072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时44分]"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -102,18 +126,6 @@
           "time_info": "[00时53分 ~ 01时53分]"
         },
         {
-          "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
-          "url": "https://wallstreetcn.com/livenews/3056072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时53分]"
-        },
-        {
           "title": "英镑兑美元GBP/USD跌破1.35，为1月23日以来首次，日内跌0.96%。",
           "url": "https://flash.jin10.com/detail/20260217234230153800",
           "source": "金十数据",
@@ -124,6 +136,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 00时53分]"
+        },
+        {
+          "title": "周二（2月17日），美联储隔夜逆回购协议（RRP）使用规模为4.41亿美元（交易对手5家），上个交易日报3.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时44分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
@@ -176,6 +200,18 @@
           "time_info": "[00时10分 ~ 00时53分]"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的4.41亿美元。",
+          "url": "https://flash.jin10.com/detail/20260218021637433800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时44分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
           "url": "https://wallstreetcn.com/livenews/3056066",
           "source": "华尔街见闻-快讯",
@@ -186,6 +222,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时53分]"
+        },
+        {
+          "title": "LME期铜收跌231美元，报12620美元/吨。 LME期铝收跌18美元，报3035美元/吨。 LME期锌收跌4美元，报3286美元/吨。 LME期铅收跌12美元，报1946美元/吨。 LME期镍收跌254美元，报16861美元/吨。 LME期锡收涨250美元，报45931美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3056081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时44分]"
         },
         {
           "title": "报道：为解决“除草安”除草剂面临的一系列官司，拜耳准备推出规模超100亿美元的和解方案",
@@ -248,26 +296,15 @@
           "time_info": "[00时10分 ~ 00时53分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的4.41亿美元。",
-          "url": "https://flash.jin10.com/detail/20260218021637433800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "LME期铜收跌231美元，报12620美元/吨。 LME期铝收跌18美元，报3035美元/吨。 LME期锌收跌4美元，报3286美元/吨。 LME期铅收跌12美元，报1946美元/吨。 LME期镍收跌254美元，报16861美元/吨。 LME期锡收涨250美元，报45931美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3056081",
+          "title": "巴克莱银行： “机器人十年”点燃万亿美元市场希望",
+          "url": "https://wallstreetcn.com/livenews/3056094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时44分"
         },
         {
           "title": "土耳其总统埃尔多安表示，土耳其和埃塞俄比亚的目标是实现10亿美元的贸易额。",
@@ -284,21 +321,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 02时53分]"
-        },
         {
           "title": "哈梅内伊回应特朗普威胁",
           "url": "https://news.ifeng.com/c/8qpTdmSckn9",
@@ -307,8 +331,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 03时44分]"
+        },
+        {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 03时44分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -318,8 +356,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 03时44分]"
+        },
+        {
+          "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
+          "url": "https://wallstreetcn.com/livenews/3056103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -369,6 +418,30 @@
           "time_info": "[00时10分 ~ 00时53分]"
         },
         {
+          "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260218021023992800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时44分]"
+        },
+        {
+          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
+          "url": "https://wallstreetcn.com/livenews/3056077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时44分]"
+        },
+        {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
           "url": "https://flash.jin10.com/detail/20260217231948785800",
           "source": "金十数据",
@@ -381,15 +454,26 @@
           "time_info": "[00时10分 ~ 00时53分]"
         },
         {
-          "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
-          "url": "https://flash.jin10.com/detail/20260218021023992800",
-          "source": "金十数据",
+          "title": "特朗普涉台最新表态，台当局和日本都慌了",
+          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
+          "source": "凤凰网",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -403,15 +487,26 @@
           "time_info": "01时53分"
         },
         {
-          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
-          "url": "https://wallstreetcn.com/livenews/3056077",
-          "source": "华尔街见闻-快讯",
+          "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
+          "url": "https://flash.jin10.com/detail/20260218023219855800",
+          "source": "金十数据",
           "ranks": [
-            13
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时44分"
+        },
+        {
+          "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
+          "url": "https://flash.jin10.com/detail/20260218022730380800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
