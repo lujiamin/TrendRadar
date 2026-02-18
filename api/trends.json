@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-02-19T03:45:31.658656+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-19T04:34:34.816373+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3056461",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
+        },
+        {
+          "title": "WTI原油期货涨幅扩大至5%，突破65美元。",
+          "url": "https://wallstreetcn.com/livenews/3056460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。",
@@ -30,15 +43,15 @@
           "time_info": "02时46分"
         },
         {
-          "title": "WTI原油期货涨幅扩大至5%，突破65美元。",
-          "url": "https://wallstreetcn.com/livenews/3056460",
+          "title": "美元指数涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3056464",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "04时34分"
         },
         {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
@@ -50,28 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260219030510080800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美元/日元日内涨幅达1.0%，报154.8365。",
-          "url": "https://wallstreetcn.com/livenews/3056459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
         },
         {
           "title": "WTI原油日内大涨4%，现报64.80美元/桶。布伦特原油涨3.87%，报69.44美元/桶。",
@@ -96,6 +87,18 @@
           "time_info": "02时46分"
         },
         {
+          "title": "美元/日元日内涨幅达1.0%，报154.8365。",
+          "url": "https://wallstreetcn.com/livenews/3056459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
+        },
+        {
           "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
           "url": "https://flash.jin10.com/detail/20260219004811620800",
           "source": "金十数据",
@@ -118,6 +121,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时46分]"
+        },
+        {
+          "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260219030510080800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
         },
         {
           "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
@@ -149,11 +164,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            23
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时34分]"
+        },
+        {
+          "title": "美国财政部拍卖160亿美元20年期国债，得标利率4.664%（1月21日为4.846%），投标倍数2.36（前次为2.86）。",
+          "url": "https://wallstreetcn.com/livenews/3056430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时34分]"
+        },
+        {
+          "title": "澳元/美元日内跌幅达0.5%，报0.7049。",
+          "url": "https://wallstreetcn.com/livenews/3056454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时45分]"
+          "time_info": "[03时45分 ~ 04时34分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -166,18 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时46分]"
-        },
-        {
-          "title": "美国财政部拍卖160亿美元20年期国债，得标利率4.664%（1月21日为4.846%），投标倍数2.36（前次为2.86）。",
-          "url": "https://wallstreetcn.com/livenews/3056430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时45分]"
         },
         {
           "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
@@ -228,15 +257,16 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "澳元/美元日内跌幅达0.5%，报0.7049。",
-          "url": "https://wallstreetcn.com/livenews/3056454",
+          "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。 超过20个国家将参与周四的加沙活动。",
+          "url": "https://wallstreetcn.com/livenews/3056441",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
         },
         {
           "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
@@ -261,15 +291,37 @@
           "time_info": "02时46分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。 超过20个国家将参与周四的加沙活动。",
-          "url": "https://wallstreetcn.com/livenews/3056441",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储会议纪要披露“汇率检查”引发美元贬值 系纽约联储为财政部代理询价",
+          "url": "https://flash.jin10.com/detail/20260219033410198800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "WTI原油日内大涨5%，现报65.42美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219034018938800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时45分"
+          "time_info": "04时34分"
+        },
+        {
+          "title": "布伦特原油站上70美元/桶，日内涨4.69%。",
+          "url": "https://flash.jin10.com/detail/20260219032202699800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美国IPO市场在72亿美元爆发后步入季节性低迷",
@@ -297,7 +349,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -316,11 +368,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时34分]"
         },
         {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
@@ -339,11 +392,36 @@
           "url": "https://wallstreetcn.com/livenews/3056449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
+          "url": "https://wallstreetcn.com/livenews/3056447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
+          "url": "https://wallstreetcn.com/livenews/3056445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 04时34分]"
         },
         {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
@@ -352,29 +430,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
-          "url": "https://wallstreetcn.com/livenews/3056447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
-          "url": "https://wallstreetcn.com/livenews/3056445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -385,7 +441,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -396,7 +452,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -407,7 +463,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -418,7 +474,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -440,7 +496,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -451,7 +507,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -462,7 +518,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -484,9 +540,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "泽连斯基称特朗普对乌施加不当压力",
+          "url": "https://www.toutiao.com/trending/7607761068718932009/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美国白宫：外交是美国总统特朗普的首选方案。",
@@ -495,7 +562,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         }
@@ -511,11 +578,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时34分]"
         }
       ]
     }
