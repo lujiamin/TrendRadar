@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T09:48:47.688832+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-02-19T12:16:42.152411+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -43,6 +43,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "现货白银站上78美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
           "url": "https://flash.jin10.com/detail/20260219021838411800",
           "source": "金十数据",
@@ -63,6 +74,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "现货白银向上触及78美元/盎司，日内涨1.10%。",
+          "url": "https://flash.jin10.com/detail/20260219115105987800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "离岸人民币兑美元一度跌破6.9关口。",
+          "url": "https://wallstreetcn.com/livenews/3056566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的8.56亿美元。",
@@ -173,6 +206,19 @@
           "time_info": "[02时46分 ~ 04时34分]"
         },
         {
+          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
+          "url": "https://wallstreetcn.com/articles/3765835",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 12时16分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -209,18 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时34分]"
-        },
-        {
-          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
-          "url": "https://wallstreetcn.com/articles/3765835",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时48分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -331,6 +365,18 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3056536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时16分]"
+        },
+        {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
           "url": "https://flash.jin10.com/detail/20260219000243239800",
           "source": "金十数据",
@@ -365,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "据新浪报价，离岸人民币兑美元跌破6.9关口，最低至6.8881。",
+          "url": "https://flash.jin10.com/detail/20260219114340010800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
@@ -455,17 +512,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3056536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "美联储会议纪要披露“汇率检查”引发美元贬值 系纽约联储为财政部代理询价",
           "url": "https://flash.jin10.com/detail/20260219033410198800",
           "source": "金十数据",
@@ -516,7 +562,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -543,13 +589,24 @@
           "time_info": "02时46分"
         },
         {
+          "title": "布伦特原油向上触及70美元/桶，日内涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20260219105707234800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "三星正在就HBM4的单价进行谈判，价格约为700美元。（韩国《朝鲜日报》）",
           "url": "https://wallstreetcn.com/livenews/3056525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -557,8 +614,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时16分]"
+        },
         {
           "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
           "url": "https://flash.jin10.com/detail/20260219091602708800",
@@ -566,7 +634,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -593,26 +661,26 @@
           "time_info": "00时58分"
         },
         {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
           "url": "https://news.ifeng.com/c/8qraTXTgXgI",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -676,6 +744,18 @@
           "time_info": "[03时45分 ~ 04时34分]"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时16分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
           "url": "https://wallstreetcn.com/livenews/3056445",
           "source": "华尔街见闻-快讯",
@@ -686,6 +766,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时34分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时16分]"
         },
         {
           "title": "美国总统特朗普：我们可以关照大西洋。",
@@ -712,13 +804,24 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "加州就终止能源中心资金起诉特朗普",
           "url": "https://flash.jin10.com/detail/20260219084435962800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -745,26 +848,15 @@
           "time_info": "05时31分"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
+          "title": "美法官推翻一项支持特朗普政府拘留移民政策的裁决",
+          "url": "https://flash.jin10.com/detail/20260219111448057800",
+          "source": "金十数据",
           "ranks": [
-            14
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时16分"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -938,7 +1030,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -971,7 +1063,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -979,7 +1071,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -1016,6 +1108,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
