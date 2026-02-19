@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:35:57.046451+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-02-19T20:55:41.598509+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 83,
+      "match_count": 90,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -81,15 +81,15 @@
           "time_info": "02时46分"
         },
         {
-          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056629",
+          "title": "欧元兑美元下跌0.1%至1.1772。",
+          "url": "https://wallstreetcn.com/livenews/3056640",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "20时55分"
         },
         {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
@@ -114,6 +114,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "欧洲央行Demarco：如果通胀持续低于2%，可能需要降息。 需要观察1月的低通胀是否是一次性的。 若欧元达到1.20至1.25美元，“也并非世界末日”。",
+          "url": "https://wallstreetcn.com/livenews/3056639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "WTI原油日内大涨4%，现报64.80美元/桶。布伦特原油涨3.87%，报69.44美元/桶。",
           "url": "https://flash.jin10.com/detail/20260219011350988800",
           "source": "金十数据",
@@ -134,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
@@ -239,6 +261,18 @@
           "time_info": "[01时53分 ~ 02时46分]"
         },
         {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时55分]"
+        },
+        {
           "title": "美元指数涨约0.6%",
           "url": "https://wallstreetcn.com/livenews/3056464",
           "source": "华尔街见闻-快讯",
@@ -249,6 +283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时31分]"
+        },
+        {
+          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时55分]"
         },
         {
           "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
@@ -556,17 +602,6 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
           "title": "据新浪报价，离岸人民币兑美元跌破6.9关口，最低至6.8881。",
           "url": "https://flash.jin10.com/detail/20260219114340010800",
           "source": "金十数据",
@@ -600,6 +635,17 @@
           "time_info": "17时40分"
         },
         {
+          "title": "欧洲央行德马尔科：如果欧元/美元升至1.20至1.25也并非世界末日。",
+          "url": "https://flash.jin10.com/detail/20260219202231093800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
           "url": "https://wallstreetcn.com/livenews/3056484",
           "source": "华尔街见闻-快讯",
@@ -609,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "英镑兑美元下跌0.2%至1.3470，创一个月低点。",
+          "url": "https://wallstreetcn.com/livenews/3056633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "“抛售美国”论暂不成立：去年海外投资者净买1.55万亿美元美长期金融资产",
@@ -705,7 +762,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -727,7 +784,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -842,6 +899,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "沃尔玛宣布新的300亿美元股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260219200150330800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "贝伦贝格：将礼来(LLY.N)目标价从950美元上调至1050美元。",
           "url": "https://flash.jin10.com/detail/20260219141830818800",
           "source": "金十数据",
@@ -895,6 +963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美元还能稳多久",
+          "url": "https://www.toutiao.com/trending/7608528052665978418/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "美国天然气期货日内跌幅达3.00%，现报2.940美元/百万英热。",
@@ -977,7 +1056,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -987,8 +1066,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 20时55分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -1055,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
+          "url": "https://flash.jin10.com/detail/20260219202807714800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -1198,7 +1288,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1297,7 +1387,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1558,6 +1648,17 @@
           "time_info": "[06时28分 ~ 07时25分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时55分]"
+        },
+        {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
@@ -1578,17 +1679,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         }
       ]
     },
