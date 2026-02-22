@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T20:39:08.226015+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-22T21:41:02.801673+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普的报复来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 21时41分]"
         },
         {
           "title": "特朗普新加征关税加码至15%",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 20时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 21时41分]"
         },
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -103,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 20时39分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 21时41分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -116,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 20时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 21时41分]"
         },
         {
           "title": "印尼总统：（被问及美国最高法院对特朗普关税的裁决）已准备好应对所有可能性；呼吁尊重美国国内政治。",
@@ -178,8 +178,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时28分 ~ 20时39分]"
+          "appearance_count": 20,
+          "time_info": "[02时28分 ~ 21时41分]"
+        },
+        {
+          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
+          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时41分]"
         },
         {
           "title": "伊朗外长驳斥特朗普涉伊朗骚乱伤亡人数言论",
@@ -307,17 +318,6 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
-          "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
-          "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时39分]"
-        },
-        {
           "title": "解读特朗普提高全球进口关税",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%AB%98%E5%85%A8%E7%90%83%E8%BF%9B%E5%8F%A3%E5%85%B3%E7%A8%8E",
           "source": "bilibili 热搜",
@@ -332,6 +332,22 @@
           "time_info": "[16时26分 ~ 19时18分]"
         },
         {
+          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
+          "url": "https://wallstreetcn.com/livenews/3057250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            9,
+            15,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 21时41分]"
+        },
+        {
           "title": "关税政策被判违法后，特朗普称将加征10%全球进口关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_32638044",
           "source": "澎湃新闻",
@@ -344,21 +360,6 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
-          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
-          "url": "https://wallstreetcn.com/livenews/3057250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时39分]"
-        },
-        {
           "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
           "url": "https://flash.jin10.com/detail/20260222171300975800",
           "source": "金十数据",
@@ -366,11 +367,23 @@
             2,
             3,
             10,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 20时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 21时41分]"
+        },
+        {
+          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
+          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "美媒：特朗普身边几人建议不要轰炸伊朗 参议员格雷厄姆持反对意见",
@@ -468,6 +481,20 @@
           "time_info": "[15时33分 ~ 18时20分]"
         },
         {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时41分]"
+        },
+        {
           "title": "巴西总统卢拉：我与美国总统特朗普会晤的议程是贸易、移民和投资。",
           "url": "https://flash.jin10.com/detail/20260222124152678800",
           "source": "金十数据",
@@ -511,6 +538,19 @@
           "time_info": "[09时47分 ~ 14时41分]"
         },
         {
+          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
+          "url": "https://wallstreetcn.com/livenews/3057262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时41分]"
+        },
+        {
           "title": "特朗普：“全球进口关税”从10%提高至15%",
           "url": "https://wallstreetcn.com/livenews/3057198",
           "source": "华尔街见闻-快讯",
@@ -523,41 +563,30 @@
           "time_info": "[07时20分 ~ 09时47分]"
         },
         {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时39分]"
-        },
-        {
-          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
-          "url": "https://wallstreetcn.com/livenews/3057262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时39分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-22）",
           "url": "https://flash.jin10.com/detail/20260222183803047800",
           "source": "金十数据",
           "ranks": [
             2,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时39分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时41分]"
+        },
+        {
+          "title": "马克龙请求特朗普解除对欧洲官员的制裁",
+          "url": "https://flash.jin10.com/detail/20260222181520271800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时41分]"
         },
         {
           "title": "美总统特朗普称将向格陵兰岛派遣“医院船”",
@@ -571,18 +600,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 13时48分]"
-        },
-        {
-          "title": "马克龙请求特朗普解除对欧洲官员的制裁",
-          "url": "https://flash.jin10.com/detail/20260222181520271800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "分析师评特朗普最新关税：朝令夕改，纯属“业余”",
@@ -655,6 +672,17 @@
           "time_info": "[13时48分 ~ 16时26分]"
         },
         {
+          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
+          "url": "https://www.cls.cn/detail/2292216",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 21时41分]"
+        },
+        {
           "title": "“对等关税”被美国高院驳回，特朗普还有什么招？",
           "url": "https://wallstreetcn.com/articles/3765911",
           "source": "华尔街见闻",
@@ -696,17 +724,6 @@
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
-        },
-        {
-          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
-          "url": "https://www.cls.cn/detail/2292216",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -784,7 +801,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -868,6 +885,18 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 21时41分]"
+        },
+        {
           "title": "美国伊利诺伊州州长向白宫寄账单，要求后者退还近87亿美元关税税款",
           "url": "https://wallstreetcn.com/livenews/3057228",
           "source": "华尔街见闻-快讯",
@@ -899,18 +928,6 @@
           "time_info": "[12时13分 ~ 16时26分]"
         },
         {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时39分]"
-        },
-        {
           "title": "美国伊利诺伊州州长向白宫寄账单 要求白宫退还近87亿美元关税税款",
           "url": "https://flash.jin10.com/detail/20260222102251569800",
           "source": "金十数据",
@@ -923,6 +940,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时13分 ~ 15时33分]"
+        },
+        {
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
+          "title": "美州长致函白宫：请退87亿美元税款",
+          "url": "https://www.toutiao.com/trending/7608996312876957747/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         }
       ]
     },
@@ -939,8 +978,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 20时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 21时41分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时33分 ~ 21时41分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -956,20 +1009,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时13分 ~ 18时20分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时33分 ~ 20时39分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
