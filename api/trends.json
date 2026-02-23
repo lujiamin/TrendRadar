@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T09:48:13.533972+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-02-23T12:21:39.340489+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时21分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时21分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时21分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -154,11 +154,23 @@
           "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
+        },
+        {
+          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
+          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
@@ -172,13 +184,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
+          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "韩国产业部长：芯片不受美国总统特朗普最新关税的影响。",
           "url": "https://flash.jin10.com/detail/20260223085113118800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -219,6 +242,30 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
+          "title": "男子持枪闯入特朗普住所被击毙",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
+        },
+        {
+          "title": "连锁反应来了 印度打脸特朗普",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
+        },
+        {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
           "url": "https://www.cls.cn/detail/2292216",
           "source": "财联社热门",
@@ -228,28 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时22分]"
-        },
-        {
-          "title": "连锁反应来了 印度打脸特朗普",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "男子持枪闯入特朗普住所被击毙",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
@@ -270,9 +295,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "商务部回应美裁定特朗普关税违法",
+          "url": "https://www.toutiao.com/trending/7609570732955959359/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
@@ -281,9 +317,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美国总统特朗普：我们赢得太多了，这不公平。",
+          "url": "https://flash.jin10.com/detail/20260223104454862800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "韩国产业部长：将在政府应对特朗普关税的举措中反映商界的意见。",
@@ -292,7 +339,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -314,7 +361,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -322,29 +369,31 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美州长向特朗普发账单，要求退回87亿美元关税",
           "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时21分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
           "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时21分]"
         },
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -356,8 +405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时29分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[02时29分 ~ 12时21分]"
         },
         {
           "title": "美元兑日元USD/JPY向下触及154，日内跌0.66%。",
@@ -366,7 +415,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -377,7 +426,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -388,7 +437,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -399,7 +448,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -410,9 +459,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "高盛：预期布伦特原油/WTI原油2027年均价为65/61美元，并因需求稳健、供应增速放缓，预计到2027年12月将回升至70/66美元。",
+          "url": "https://flash.jin10.com/detail/20260223100608521800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "现货黄金日内涨幅扩大至1.00%，现报5158.99美元/盎司。",
@@ -421,9 +481,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "高盛：将2026年第四季布伦特原油/WTI原油预测价格上调6美元至每桶60/56美元，因经合组织（OECD）库存下降。",
+          "url": "https://flash.jin10.com/detail/20260223100251141800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "现货黄金站上5150美元关口，油价走低",
@@ -432,7 +503,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -450,8 +521,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时21分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -464,6 +535,34 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生科技指数日内涨幅扩大至4%，美团涨超8%，中芯国际、京东涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3057340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3057331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     }
