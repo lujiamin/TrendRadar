@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T17:47:33.352924+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-02-24T18:43:58.771704+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -51,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "九识智能完成新一轮3亿美元融资",
-          "url": "https://wallstreetcn.com/livenews/3058032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
         },
         {
           "title": "纽约期金日内大涨3.00%，现报5233.40美元/盎司。",
@@ -157,6 +146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时52分]"
+        },
+        {
+          "title": "九识智能完成新一轮3亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3058032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时43分]"
         },
         {
           "title": "在岸人民币兑美元升穿6.89关口，创2023年5月初以来高位，日内涨逾100点。",
@@ -399,6 +400,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "香港证监会已于香港和英格兰及威尔斯取得全球性法庭命令，以冻结涉嫌参与内幕交易的一名香港交易所前职员及其姻亲高达430万港元（549,690美元）的资产。",
+          "url": "https://wallstreetcn.com/livenews/3058074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "美国众议院议长约翰逊：在最高法院作出裁决后，将由白宫决定是否退还1340亿美元关税。",
           "url": "https://flash.jin10.com/detail/20260224035845243800",
           "source": "金十数据",
@@ -595,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "大族激光：公司拟投资1.5亿美元在东南亚设立海外运营中心。",
+          "url": "https://wallstreetcn.com/livenews/3058055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "周一（2月23日）纽约尾盘，欧元兑美元涨0.05%，报1.1790，北京时间07:08曾开启一波快速上涨的行情。",
@@ -874,6 +897,19 @@
           "time_info": "[00时53分 ~ 12时15分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -900,6 +936,18 @@
           "time_info": "[09时51分 ~ 15时01分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
           "url": "https://news.ifeng.com/c/8qzr8hme4jH",
           "source": "凤凰网",
@@ -924,29 +972,6 @@
           "time_info": "[13时56分 ~ 17时47分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 17时47分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 17时47分]"
-        },
-        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
           "source": "凤凰网",
@@ -960,6 +985,33 @@
           "time_info": "[07时37分 ~ 12时15分]"
         },
         {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 18时43分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 18时43分]"
+        },
+        {
           "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
           "url": "https://wallstreetcn.com/livenews/3057571",
           "source": "华尔街见闻-快讯",
@@ -969,19 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 17时47分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
@@ -995,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时50分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 18时43分]"
         },
         {
           "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
@@ -1041,29 +1091,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 13时57分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 17时47分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 17时47分]"
         },
         {
           "title": "特朗普回应男子闯海湖庄园被击毙",
@@ -1114,6 +1141,17 @@
           "time_info": "[04时50分 ~ 05时52分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时43分]"
+        },
+        {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
           "url": "https://wallstreetcn.com/livenews/3057661",
           "source": "华尔街见闻-快讯",
@@ -1150,15 +1188,16 @@
           "time_info": "[13时57分 ~ 15时01分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 17时47分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时43分]"
         },
         {
           "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
@@ -1183,17 +1222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时50分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 17时47分]"
         },
         {
           "title": "加拿大安大略省长：特朗普四面楚歌",
