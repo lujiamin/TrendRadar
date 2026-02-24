@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-02-25T03:47:53.763889+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-02-25T04:30:48.698031+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
+          "url": "https://wallstreetcn.com/articles/3766076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时30分]"
+        },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
           "url": "https://wallstreetcn.com/livenews/3058315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时30分]"
+        },
+        {
+          "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3058319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
-          "url": "https://wallstreetcn.com/articles/3766076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时47分]"
+          "time_info": "04时30分"
         },
         {
           "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
@@ -36,29 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "据知情人士透露，VoltaGrid考虑IPO，希望获得超过100亿美元估值。 该公司已经接触黑石集团、贝莱德集团等私募。 在与甲骨文等公司合同的支撑之下，预计该公司EBITDA到2028年将达到11亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3058312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "WTI原油日内跌幅达1.0%，报65.6美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3058311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -81,11 +72,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            22
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时30分]"
+        },
+        {
+          "title": "据知情人士透露，VoltaGrid考虑IPO，希望获得超过100亿美元估值。 该公司已经接触黑石集团、贝莱德集团等私募。 在与甲骨文等公司合同的支撑之下，预计该公司EBITDA到2028年将达到11亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时47分]"
+          "time_info": "[03时47分 ~ 04时30分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.0%，报65.6美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3058311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时30分]"
         },
         {
           "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -93,11 +109,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时30分]"
+        },
+        {
+          "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
+          "url": "https://flash.jin10.com/detail/20260225025348041800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时47分]"
+          "time_info": "[03时47分 ~ 04时30分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时30分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的9.17亿美元。",
@@ -136,6 +177,17 @@
           "time_info": "[02时56分 ~ 03时47分]"
         },
         {
+          "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 布伦特4月原油期货收报70.77美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3058313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
           "title": "美国精神航空：公司与其有担保债权人就重组支持协议的关键条款达成原则性协议。预计于春末或夏初退出破产保护。预计公司债务及租赁负债将由申请破产前的74亿美元降至重整后约21亿美元。",
           "url": "https://flash.jin10.com/detail/20260225004840149800",
           "source": "金十数据",
@@ -147,26 +199,15 @@
           "time_info": "01时32分"
         },
         {
-          "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
-          "url": "https://flash.jin10.com/detail/20260225025348041800",
+          "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260225031708396800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3058304",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "04时30分"
         },
         {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
@@ -205,7 +246,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -215,8 +256,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时30分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -227,8 +268,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时30分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -238,8 +279,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时30分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -250,8 +291,43 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时30分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时47分]"
+          "time_info": "[01时31分 ~ 04时30分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
+          "url": "https://flash.jin10.com/detail/20260225041411754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
+          "url": "https://flash.jin10.com/detail/20260225041158111800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
@@ -274,18 +350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 03时47分]"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -323,6 +387,39 @@
           "time_info": "[02时56分 ~ 03时47分]"
         },
         {
+          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
+          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
+          "url": "https://flash.jin10.com/detail/20260225033140480800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
+          "url": "https://flash.jin10.com/detail/20260225032658019800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -356,6 +453,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
           "url": "https://flash.jin10.com/detail/20260225002755971800",
           "source": "金十数据",
@@ -365,6 +473,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         }
       ]
     }
