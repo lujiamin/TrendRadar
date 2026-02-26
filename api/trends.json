@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:37:26.601600+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-02-26T20:56:04.268760+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 77,
+      "match_count": 83,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -19,6 +19,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 09时44分]"
+        },
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 20时56分]"
         },
         {
           "title": "美国从陈志案获利150亿美元",
@@ -43,20 +58,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时39分 ~ 17时44分]"
-        },
-        {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 19时37分]"
         },
         {
           "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
@@ -144,24 +145,13 @@
           "time_info": "17时44分"
         },
         {
-          "title": "百济神州：2025年第四季度全球总收入达15亿美元，同比增长33%",
-          "url": "https://wallstreetcn.com/livenews/3059532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
           "title": "花旗：将英伟达(NVDA.O)目标价从270美元上调至300美元。",
           "url": "https://flash.jin10.com/detail/20260226191115576800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -262,6 +252,18 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "百济神州：2025年第四季度全球总收入达15亿美元，同比增长33%",
+          "url": "https://wallstreetcn.com/livenews/3059532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时56分]"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.8397，较上一交易日官方收盘价涨275点，较上日夜盘收盘涨195点。",
           "url": "https://wallstreetcn.com/livenews/3059436",
           "source": "华尔街见闻-快讯",
@@ -326,6 +328,18 @@
           "time_info": "[02时59分 ~ 04时31分]"
         },
         {
+          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时56分]"
+        },
+        {
           "title": "Zoom视频通讯预计2027财年营收50.7亿-50.8亿美元，分析师预期50.3亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059058",
           "source": "华尔街见闻-快讯",
@@ -336,6 +350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
+          "url": "https://www.cls.cn/detail/2296218",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "Snowflake预计一季度产品营收12.6亿-12.7亿美元，分析师预期12.6亿美元。",
@@ -488,6 +513,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "WTI原油向下触及64美元/桶，日内跌2.70%。",
+          "url": "https://flash.jin10.com/detail/20260226202600807800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "机构：2025年第四季DRAM产业营收为535.8亿美元，较上季度增加29.4%",
           "url": "https://wallstreetcn.com/livenews/3059319",
           "source": "华尔街见闻-快讯",
@@ -565,6 +601,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "现货白银日内跌幅达3.5%，报85.84美元/盎司。 纽约银日内跌幅达5.5%，报86.45美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "市场消息：俄罗斯可能会将预算规则下的石油价格下调至每桶45-50美元。",
           "url": "https://flash.jin10.com/detail/20260226000426495800",
           "source": "金十数据",
@@ -631,6 +678,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "韦德布什：将英伟达(NVDA.O)目标价从230美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260226201431408800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "韩国央行行长李昌镛：IT行业净出口将贡献今年GDP增幅约0.7个百分点。 本地投资者购买美元资产对韩元造成的下行压力正在减小。 已就国民年金公团发行美元债券的利弊进行分析，该基金是否发行外汇债券最终由政府决定。 现行前瞻指引体系能否维持或完善，将由新一届韩国央行货币政策委员会成员决定。",
           "url": "https://wallstreetcn.com/livenews/3059235",
           "source": "华尔街见闻-快讯",
@@ -640,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "据AXIOS网站：美国陆军斥资1.86亿美元采购“弹簧刀无人机”。",
+          "url": "https://flash.jin10.com/detail/20260226201412762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "韩国总统特使：与阿联酋签署价值逾350亿美元的国防工业合作谅解备忘录。",
@@ -684,17 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "消息人士：国际货币基金组织执行董事会将于周四审议针对乌克兰的81亿美元贷款协议。",
@@ -763,6 +821,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "现货白银向下触及86美元/盎司，日内跌3.68%。",
+          "url": "https://flash.jin10.com/detail/20260226200232055800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "英伟达(NVDA.O)2026财年Q4营收681亿美元，市场预期为656.84亿美元，上年同期为393.31亿美元。",
           "url": "https://flash.jin10.com/detail/20260226053132138800",
           "source": "金十数据",
@@ -802,7 +871,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -898,7 +967,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -968,8 +1037,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时55分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时55分 ~ 20时56分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -1011,6 +1080,30 @@
           "time_info": "[02时59分 ~ 04时31分]"
         },
         {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时56分]"
+        },
+        {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059016",
           "source": "华尔街见闻-快讯",
@@ -1036,16 +1129,15 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时37分]"
+          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
@@ -1102,17 +1194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
@@ -1274,11 +1355,12 @@
           "url": "https://www.cls.cn/detail/2296081",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 20时56分]"
         },
         {
           "title": "港股汽车股尾盘走低，小鹏汽车跌超5％，理想汽车跌超4％，比亚迪股份跌近3%。",
