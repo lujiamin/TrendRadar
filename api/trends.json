@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:41:32.908936+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2026-02-26T19:37:26.601600+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -43,6 +43,20 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时39分 ~ 17时44分]"
+        },
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 19时37分]"
         },
         {
           "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
@@ -86,19 +100,6 @@
           "time_info": "[02时59分 ~ 07时24分]"
         },
         {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 18时41分]"
-        },
-        {
           "title": "摩根士丹利将英伟达(NVDA.O)目标股价从250美元上调至260美元。加拿大皇家银行将英伟达目标股价从240美元上调至250美元。",
           "url": "https://flash.jin10.com/detail/20260226152923215800",
           "source": "金十数据",
@@ -121,17 +122,6 @@
           "time_info": "16时41分"
         },
         {
-          "title": "伯恩斯坦：将英伟达(NVDA.O)目标股价从275美元上调至300美元。",
-          "url": "https://flash.jin10.com/detail/20260226183027616800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "Raymond James将数据仓库巨头Snowflake的目标价从250美元下调至200美元。Piper Sandler将其目标价从285美元下调至230美元。",
           "url": "https://wallstreetcn.com/livenews/3059257",
           "source": "华尔街见闻-快讯",
@@ -152,6 +142,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "百济神州：2025年第四季度全球总收入达15亿美元，同比增长33%",
+          "url": "https://wallstreetcn.com/livenews/3059532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "花旗：将英伟达(NVDA.O)目标价从270美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260226191115576800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "摩根士丹利将英伟达目标价从250美元上调至260美元。",
@@ -212,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "伯恩斯坦：将英伟达(NVDA.O)目标股价从275美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260226183027616800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时37分]"
         },
         {
           "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
@@ -326,6 +350,18 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "WTI原油日内跌幅达1%，报64.72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3059504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时37分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059028",
           "source": "华尔街见闻-快讯",
@@ -428,17 +464,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
-        },
-        {
-          "title": "WTI原油日内跌幅达1%，报64.72美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3059504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "布伦特原油日内跌幅达1.00%，现报70.24美元/桶。",
@@ -601,7 +626,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -659,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "消息人士：国际货币基金组织执行董事会将于周四审议针对乌克兰的81亿美元贷款协议。",
@@ -760,6 +796,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "WTI原油日内跌幅达2.00%，现报64.33美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260226184311065800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "中国创新药“出海”势头强劲，年内海外授权总金额突破530亿美元",
           "url": "https://wallstreetcn.com/livenews/3059152",
           "source": "华尔街见闻-快讯",
@@ -851,7 +898,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -921,8 +968,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 19时37分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时37分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -951,18 +1011,6 @@
           "time_info": "[02时59分 ~ 04时31分]"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时41分]"
-        },
-        {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059016",
           "source": "华尔街见闻-快讯",
@@ -986,6 +1034,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时33分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时37分]"
         },
         {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
@@ -1044,6 +1104,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
           "url": "https://wallstreetcn.com/livenews/3058987",
           "source": "华尔街见闻-快讯",
@@ -1077,24 +1148,13 @@
           "time_info": "09时44分"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-26）",
           "url": "https://flash.jin10.com/detail/20260226180905801800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -1216,9 +1276,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时37分]"
         },
         {
           "title": "港股汽车股尾盘走低，小鹏汽车跌超5％，理想汽车跌超4％，比亚迪股份跌近3%。",
