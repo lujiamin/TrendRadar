@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T04:32:27.433715+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-02-27T05:28:53.626590+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         },
         {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
@@ -43,26 +44,15 @@
           "time_info": "01时55分"
         },
         {
-          "title": "周四（2月26日）纽约尾盘，美元兑日元跌0.14%，报156.14日元，日内交投区间为156.43-155.71日元。 欧元兑日元跌0.27%，英镑兑日元跌0.70%。",
-          "url": "https://wallstreetcn.com/livenews/3059748",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：英伟达在企业交易上投入了700亿美元，以刺激芯片需求。",
+          "url": "https://flash.jin10.com/detail/20260227052333671800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
-          "url": "https://wallstreetcn.com/livenews/3059747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "05时28分"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -73,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -85,8 +75,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
+        },
+        {
+          "title": "CoreWeave四季度营收15.7亿美元，分析师预期15.5亿美元。 四季度调整后EBITDA为8.98亿美元，分析师预期9.36亿美元；调整后EBITDA利润率57%，分析师预期60.5%。 四季度调整后运营利润0.88亿美元，分析师预期1.418亿美元。 四季度运营亏损0.89亿美元，分析师预期利润0.183亿美元。 四季度净亏损4.52亿美元，分析师预期亏损3.871亿美元。 四季度每股亏损0.89美元，分析师预期亏损0.72美元。",
+          "url": "https://wallstreetcn.com/livenews/3059769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
+          "url": "https://wallstreetcn.com/livenews/3059768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
@@ -100,6 +112,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时32分]"
+        },
+        {
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
+          "url": "https://wallstreetcn.com/livenews/3059740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时28分]"
         },
         {
           "title": "MP Materials将投资超过12.5亿美元到美国得州Northlake面积为120英亩的稀土园区。",
@@ -127,16 +152,28 @@
           "time_info": "[02时45分 ~ 04时32分]"
         },
         {
-          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
-          "url": "https://wallstreetcn.com/livenews/3059740",
+          "title": "周四（2月26日）纽约尾盘，美元兑日元跌0.14%，报156.14日元，日内交投区间为156.43-155.71日元。 欧元兑日元跌0.27%，英镑兑日元跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3059748",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时32分]"
+          "time_info": "[04时32分 ~ 05时28分]"
+        },
+        {
+          "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
+          "url": "https://wallstreetcn.com/livenews/3059747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时28分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的37.96亿美元。",
@@ -169,11 +206,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时32分]"
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时28分]"
         },
         {
           "title": "科技巨头2万亿美元豪赌AI",
@@ -186,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 03时41分]"
+        },
+        {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 布伦特4月原油期货收报70.75美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时28分]"
         },
         {
           "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
@@ -211,15 +261,48 @@
           "time_info": "02时45分"
         },
         {
-          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 布伦特4月原油期货收报70.75美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3059742",
-          "source": "华尔街见闻-快讯",
+          "title": "戴尔(DELL.N)预计2027财年Q1营收347亿-357亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227050801785800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时32分"
+          "time_info": "05时28分"
+        },
+        {
+          "title": "戴尔(DELL.N)预计2027财年营收为1380亿至1420亿美元，高于市场预期的1255.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227050747168800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "戴尔(DELL.N)将年度股息上调20%，将回购计划增加100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227050631554800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "戴尔(DELL.N)2026财年Q4营收333.8亿美元，市场预期316.05亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227050603340800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "新兴市场外汇指数回吐涨幅，哥伦比亚比索等跌幅突出，美元走高。",
@@ -261,7 +344,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -321,6 +404,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "墨西哥总统：我们接待了可口可乐(KO.N)全球执行董事Henrique Braun，他向我通报了该公司将在我国投资60亿美元的计划。",
+          "url": "https://flash.jin10.com/detail/20260227042850759800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "布伦特原油向上触及72美元/桶，日内涨1.78%。",
           "url": "https://flash.jin10.com/detail/20260226235714441800",
           "source": "金十数据",
@@ -335,7 +429,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -345,8 +439,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -356,11 +450,12 @@
             11,
             13,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -371,8 +466,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -418,11 +513,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时32分]"
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时28分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -481,6 +577,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3059757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "据知情人士透露，特朗普政府放宽对古巴新兴私营部门燃料运输的举措旨在使古巴在物资供应方面更加依赖美国，从而提升美国在推动政治和经济变革方面的筹码。",
           "url": "https://flash.jin10.com/detail/20260227021000525800",
           "source": "金十数据",
@@ -514,6 +621,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
+          "url": "https://flash.jin10.com/detail/20260227044702015800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "美媒：特朗普政府加紧制定策略 谋划保留关税收入",
           "url": "https://flash.jin10.com/detail/20260227010102008800",
           "source": "金十数据",
@@ -542,7 +660,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         }
@@ -577,6 +695,23 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，KWEB初步收跌2.4%，CQQQ跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3059763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比亚迪",
       "match_count": 1,
       "titles": [
@@ -589,8 +724,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时28分]"
         }
       ]
     }
