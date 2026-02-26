@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T09:44:17.877705+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-02-26T12:13:26.782030+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时13分]"
         },
         {
           "title": "离岸人民币兑美元升破 6.9 元关口创新高，驱动因素是什么？人民币升值后续空间还有多大？",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时59分 ~ 07时24分]"
+        },
+        {
+          "title": "Raymond James将数据仓库巨头Snowflake的目标价从250美元下调至200美元。Piper Sandler将其目标价从285美元下调至230美元。",
+          "url": "https://wallstreetcn.com/livenews/3059257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.42美元/桶。 布伦特4月原油期货收涨0.08美元，涨幅0.11%，报70.85美元/桶。 NYMEX 3月天然气期货收报2.9690美元/百万英热单位。 NYMEX 3月汽油期货收报1.9914美元/加仑，NYMEX 3月取暖油期货收报2.6740美元/加仑。",
@@ -184,6 +195,18 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时13分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059028",
           "source": "华尔街见闻-快讯",
@@ -243,6 +266,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
+          "url": "https://www.zhihu.com/question/2010275036578145903",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "布伦特原油日内跌幅达1.00%，现报70.24美元/桶。",
           "url": "https://flash.jin10.com/detail/20260226001056430800",
           "source": "金十数据",
@@ -252,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
-          "url": "https://www.cls.cn/detail/2295242",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
         },
         {
           "title": "英伟达(NVDA.O)：在2026财年期间，我们的资本支出总额为61亿美元。",
@@ -315,9 +338,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：IT行业净出口将贡献今年GDP增幅约0.7个百分点。 本地投资者购买美元资产对韩元造成的下行压力正在减小。 已就国民年金公团发行美元债券的利弊进行分析，该基金是否发行外汇债券最终由政府决定。 现行前瞻指引体系能否维持或完善，将由新一届韩国央行货币政策委员会成员决定。",
+          "url": "https://wallstreetcn.com/livenews/3059235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "现货白银日内涨幅达1.00%，现报90.15美元/盎司。",
@@ -326,7 +360,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -337,9 +371,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：当前外汇走势更多受全球因素驱动，而非国内因素，外汇市场企稳还为时过早。 韩元近期升值得益于出口商抛售美元。 外汇市场的供需格局正在发生变化。韩元需求有所改善。 对金融稳定的担忧将持续一段时间。 不能因为韩元近期对美元升值，就对外汇市场掉以轻心。 房地产风险尚未消除，市场稳定性仍未得到保障。",
+          "url": "https://wallstreetcn.com/livenews/3059231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "消息人士：国际货币基金组织执行董事会将于周四审议针对乌克兰的81亿美元贷款协议。",
@@ -359,7 +404,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -381,7 +426,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -425,7 +470,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -436,7 +481,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -472,12 +517,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "新台币兑美元上涨0.3%至31.245。",
+          "url": "https://wallstreetcn.com/livenews/3059208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -488,8 +544,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 12时13分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -520,9 +576,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时13分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -549,6 +605,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时31分]"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时13分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -594,9 +662,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "美国多州政府和企业：特朗普，退钱！",
+          "url": "https://news.ifeng.com/c/8r3Sel2aFh4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "消息人士称，至少有10名参与调查美国总统特朗普的机密文件案件的美国联邦调查局（FBI）特工被解雇。",
@@ -605,7 +684,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -621,15 +700,15 @@
           "time_info": "01时08分"
         },
         {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
+          "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
+          "url": "https://wallstreetcn.com/livenews/3059242",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时13分"
         },
         {
           "title": "特朗普试戴冬奥金牌不还",
@@ -638,7 +717,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
