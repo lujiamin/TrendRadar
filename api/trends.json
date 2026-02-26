@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:49:51.297484+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-02-26T16:41:30.835144+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 65,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -21,6 +21,17 @@
           "time_info": "[00时39分 ~ 09时44分]"
         },
         {
+          "title": "美国从陈志案获利150亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 16时41分]"
+        },
+        {
           "title": "字节跳动新估值，5500亿美元！",
           "url": "https://wallstreetcn.com/articles/3766156",
           "source": "华尔街见闻",
@@ -30,19 +41,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 15时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 16时41分]"
         },
         {
-          "title": "美国从陈志案获利150亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
+          "url": "https://www.zhihu.com/question/2010275036578145903",
+          "source": "知乎",
           "ranks": [
-            3
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时41分]"
         },
         {
           "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
@@ -73,28 +86,37 @@
           "time_info": "[02时59分 ~ 07时24分]"
         },
         {
-          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
-          "url": "https://www.zhihu.com/question/2010275036578145903",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时49分]"
-        },
-        {
           "title": "摩根士丹利将英伟达(NVDA.O)目标股价从250美元上调至260美元。加拿大皇家银行将英伟达目标股价从240美元上调至250美元。",
           "url": "https://flash.jin10.com/detail/20260226152923215800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.0%，报86.15美元/盎司；纽约银日内跌幅达5.0%，报86.82美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "现货白银回落至87美元/盎司下方，日内跌2.53%。",
+          "url": "https://flash.jin10.com/detail/20260226162715582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "Raymond James将数据仓库巨头Snowflake的目标价从250美元下调至200美元。Piper Sandler将其目标价从285美元下调至230美元。",
@@ -114,9 +136,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8397，较上一交易日官方收盘价涨275点，较上日夜盘收盘涨195点。",
+          "url": "https://wallstreetcn.com/livenews/3059436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.42美元/桶。 布伦特4月原油期货收涨0.08美元，涨幅0.11%，报70.85美元/桶。 NYMEX 3月天然气期货收报2.9690美元/百万英热单位。 NYMEX 3月汽油期货收报1.9914美元/加仑，NYMEX 3月取暖油期货收报2.6740美元/加仑。",
@@ -256,6 +289,17 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059028",
           "source": "华尔街见闻-快讯",
@@ -316,6 +360,17 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "现货白银日内跌幅达2.5%，报86.8美元/盎司；纽约银日内跌幅达4.5%，报87.45美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "英伟达(NVDA.O)：2026财年毛利率的下降受到了45亿美元费用的影响，该费用与H20芯片的过剩库存及采购履约义务相关。",
           "url": "https://flash.jin10.com/detail/20260226055010517800",
           "source": "金十数据",
@@ -333,7 +388,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -360,6 +415,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "中国台湾第四季度经常帐 699.3亿美元，前值458.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260226162111754800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "机构：2025年第四季DRAM产业营收为535.8亿美元，较上季度增加29.4%",
           "url": "https://wallstreetcn.com/livenews/3059319",
           "source": "华尔街见闻-快讯",
@@ -369,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
-        },
-        {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "英伟达(NVDA.O)：在2026财年期间，我们的资本支出总额为61亿美元。",
@@ -426,6 +481,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "汇丰银行：将英伟达(NVDA.O)目标价从310美元下调至295美元。",
+          "url": "https://flash.jin10.com/detail/20260226161800383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "市场消息：俄罗斯可能会将预算规则下的石油价格下调至每桶45-50美元。",
           "url": "https://flash.jin10.com/detail/20260226000426495800",
           "source": "金十数据",
@@ -435,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "数据显示，租用超大型油轮（VLCC）将中东原油运往亚洲的成本自2020年以来首次超过20万美元/天。",
+          "url": "https://flash.jin10.com/detail/20260226161749374800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "法院文件显示，部分草甘膦诉讼原告寻求推迟对拜耳拟议72.5亿美元和解协议的初步批准。",
@@ -468,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "韩国总统特使：与阿联酋签署价值逾350亿美元的国防工业合作谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260226161413762800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "现货白银日内涨幅达1.00%，现报90.15美元/盎司。",
@@ -580,6 +668,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "澳新银行：上调人民币兑美元年底预测至6.75（此前为6.85）。",
+          "url": "https://wallstreetcn.com/livenews/3059411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "中国创新药“出海”势头强劲，年内海外授权总金额突破530亿美元",
           "url": "https://wallstreetcn.com/livenews/3059152",
           "source": "华尔街见闻-快讯",
@@ -660,7 +759,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -705,8 +804,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 15时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 16时41分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -718,8 +817,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 15时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 16时41分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -729,8 +828,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 15时49分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 16时41分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -873,6 +972,28 @@
           "time_info": "09时44分"
         },
         {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "特朗普顾问希望以色列先动手打伊朗",
+          "url": "https://www.toutiao.com/trending/7610052654202437668/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
           "url": "https://flash.jin10.com/detail/20260226022519108800",
           "source": "金十数据",
@@ -997,7 +1118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
