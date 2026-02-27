@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:29:03.274570+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-02-27T20:47:06.412635+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 81,
+      "match_count": 86,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -153,7 +153,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -578,6 +578,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "WTI原油日内涨幅达2.5%，报66.85美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "韩元兑美元汇率下跌0.6%，至1440.31。",
           "url": "https://flash.jin10.com/detail/20260227151823759800",
           "source": "金十数据",
@@ -653,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "WTI原油突破67美元/桶，日内涨2.26%。",
+          "url": "https://flash.jin10.com/detail/20260227195852204800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "现货黄金突破5200美元/盎司，日内涨0.30%。",
@@ -831,6 +853,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "布伦特原油日内涨幅达2%，报72.26美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美联储2月25日当周贴现窗贷款余额44.8亿美元，之前一周47.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059775",
           "source": "华尔街见闻-快讯",
@@ -840,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "渤海租赁：Avolon通过其下属子公司向南方航空购买10架B787-8飞机及2台GEnx-1B70备用发动机资产，上述飞机及发动机资产市场价格约为5.32亿美元，实际购买价格根据产权交易所竞价结果确定。",
+          "url": "https://wallstreetcn.com/livenews/3060274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
@@ -908,6 +952,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "印度首席经济顾问：印度经济将在2026/27财年轻松突破4万亿美元大关。",
+          "url": "https://flash.jin10.com/detail/20260227194438381800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "墨西哥总统：我们接待了可口可乐(KO.N)全球执行董事Henrique Braun，他向我通报了该公司将在我国投资60亿美元的计划。",
           "url": "https://flash.jin10.com/detail/20260227042850759800",
           "source": "金十数据",
@@ -944,7 +999,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -969,11 +1024,12 @@
             15,
             19,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时42分 ~ 19时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 20时47分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -985,6 +1041,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 09时42分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 20时47分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            9,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 20时47分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -1001,33 +1085,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 07时25分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 19时29分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 19时29分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -1061,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
+          "url": "https://wallstreetcn.com/livenews/3060300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -1213,7 +1281,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
