@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T20:43:55.730706+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2026-03-03T21:57:26.518399+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 21时57分]"
         },
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -30,6 +30,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时57分]"
+        },
+        {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 21时57分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
@@ -52,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "现货金银周二高开，现分别报5334美元/盎司和89.64美元/盎司。",
@@ -162,18 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 20时43分]"
         },
         {
           "title": "布伦特原油自2024年7月以来首次触及每桶85美元，日内涨9%。",
@@ -397,7 +398,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -452,7 +453,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -754,6 +755,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "现货黄金跌破5100美元",
+          "url": "https://www.douyin.com/hot/2417992",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "WTI原油突破72美元/桶，日内涨1.32%。布伦特原油突破78美元/桶，日内涨0.99%。",
           "url": "https://flash.jin10.com/detail/20260303090326802800",
           "source": "金十数据",
@@ -796,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "黄金跌破5100美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "金价上涨 但受强势美元限制",
@@ -875,13 +898,24 @@
           "time_info": "19时29分"
         },
         {
+          "title": "旅游经济咨询公司预测，由于冲突因素，2026年中东地区的入境游客数量预计将同比下降11%至27%。中东冲突可能导致该地区2026年游客消费额减少340亿至560亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303212016801800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "塔吉特第四季度可比销售额下降2.5%，市场预期下降2.47%。 第四季度可比数字销售额增长1.9%，市场预期增长3.21%。 第四季度净销售额304.5亿美元。 第四季度营业收入13.8亿美元，市场预期13.5亿美元。 塔吉特美股盘前涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3062763",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -903,7 +937,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1032,8 +1066,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时11分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时11分 ~ 21时57分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -1044,8 +1078,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时45分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[13时45分 ~ 21时57分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -1053,11 +1087,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 21时57分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -1198,6 +1233,19 @@
           "time_info": "[00时38分 ~ 01时41分]"
         },
         {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 21时57分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -1233,16 +1281,16 @@
           "time_info": "[15时39分 ~ 19时29分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
           "ranks": [
-            8,
-            5
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 20时43分]"
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时57分]"
         },
         {
           "title": "美国会拟限制特朗普继续对伊动武",
@@ -1256,17 +1304,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 14时44分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "美国总统特朗普2日说，他认为没有必要对伊朗采取地面军事行动。（央视新闻）",
@@ -1435,6 +1472,17 @@
           "time_info": "[03时35分 ~ 04时33分]"
         },
         {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时57分]"
+        },
+        {
           "title": "特朗普：不排除派地面部队",
           "url": "https://news.ifeng.com/c/8rBa5Cg6WwD",
           "source": "凤凰网",
@@ -1600,17 +1648,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2011830146605274886",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "美国总统特朗普：我们对伊朗对阿拉伯国家的袭击感到惊讶。",
           "url": "https://flash.jin10.com/detail/20260302235308622800",
           "source": "金十数据",
@@ -1768,7 +1805,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -1781,8 +1818,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 21时57分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
@@ -1863,6 +1900,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "Altman承认：在舆论抵制下，OpenAI的美国国防协议“显得投机且草率”",
+          "url": "https://wallstreetcn.com/livenews/3062825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3062254",
           "source": "华尔街见闻-快讯",
@@ -1886,11 +1934,12 @@
           "ranks": [
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 21时57分]"
         },
         {
           "title": "比亚迪大唐官图公布",
