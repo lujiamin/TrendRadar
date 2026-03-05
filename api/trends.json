@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T22:50:45.611764+08:00",
-  "total_titles_processed": 2045,
+  "generated_at": "2026-03-05T23:46:38.277366+08:00",
+  "total_titles_processed": 2130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时44分 ~ 18时35分]"
+        },
+        {
+          "title": "澳元兑美元下跌1%，报0.7001。",
+          "url": "https://wallstreetcn.com/livenews/3064585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "分析师：美元走强或继续压制金价走势",
@@ -99,6 +110,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时46分]"
+        },
+        {
           "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260305050002239800",
           "source": "金十数据",
@@ -147,17 +169,6 @@
           "time_info": "[17时38分 ~ 18时35分]"
         },
         {
-          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
-          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时50分]"
-        },
-        {
           "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063816",
           "source": "华尔街见闻-快讯",
@@ -182,6 +193,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时28分]"
+        },
+        {
+          "title": "世界黄金协会：2月全球黄金ETF净流入53亿美元",
+          "url": "https://wallstreetcn.com/livenews/3064555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
         },
         {
           "title": "Crane Data数据显示，美国货币基金资产激增至创纪录的8.27万亿美元。",
@@ -288,15 +311,15 @@
           "time_info": "12时09分"
         },
         {
-          "title": "世界黄金协会：2月全球黄金ETF净流入53亿美元",
-          "url": "https://wallstreetcn.com/livenews/3064555",
+          "title": "WTI原油日内涨幅达5%，报78.43美元/桶。 布伦特原油涨超3%，报84.02美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3064579",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时46分"
         },
         {
           "title": "杰富瑞将Lumentum目标价从680美元上调至800美元。",
@@ -330,6 +353,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "WTI原油日内涨超3%，现报78.45美元/桶。布伦特原油涨1.64%，报82.83美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305231900961800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.5%，报5062.33美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "WTI原油日内涨超1.00%，现报76.93美元/桶。",
@@ -407,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
+        },
+        {
+          "title": "现货黄金短线走低60美元，跌破5060美元/盎司，日内跌1.59%。",
+          "url": "https://flash.jin10.com/detail/20260305231031098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
@@ -618,6 +674,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "铝业断供叠加能源冲击 美联储“唯一降息”预期推升美元走强",
+          "url": "https://flash.jin10.com/detail/20260305230235207800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "WTI原油站上78美元/桶，日内涨2.42%。 布伦特原油期货涨幅扩大至4%，报84.73美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3064244",
           "source": "华尔街见闻-快讯",
@@ -646,7 +713,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -679,7 +746,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -709,7 +776,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -736,6 +803,17 @@
           "time_info": "[00时38分 ~ 06时27分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
@@ -744,22 +822,12 @@
             4,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 22时50分]"
-        },
-        {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 22时50分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 23时46分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -860,8 +928,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 22时50分]"
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 23时46分]"
         },
         {
           "title": "伊朗高官让特朗普想想美以谁优先",
@@ -877,6 +945,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时45分 ~ 18时35分]"
+        },
+        {
+          "title": "特朗普称美国不会与西班牙协同合作，西班牙对北约持敌对态度。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3064584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
+          "url": "https://news.ifeng.com/c/8rFoSNRxgNC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
@@ -949,6 +1039,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
+          "url": "https://www.cls.cn/detail/2303813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
         },
         {
           "title": "白宫：向伊朗派美军地面部队目前还“不在计划内”，但不会排除特朗普的任何军事选项",
@@ -1029,17 +1131,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
-          "url": "https://www.cls.cn/detail/2303813",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "据Punchbowl：美国总统特朗普调查共和党人是否应该解雇美国国土安全部部长诺姆。",
           "url": "https://flash.jin10.com/detail/20260305181612479800",
           "source": "金十数据",
@@ -1112,7 +1203,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1161,6 +1252,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "特朗普：共和党人必须不惜一切代价全力推进《拯救美国法案》",
+          "url": "https://wallstreetcn.com/livenews/3064566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "市场消息：美国总统特朗普政府将就得州的无人机事件向关键参议员举行机密简报会。",
           "url": "https://flash.jin10.com/detail/20260305000916077800",
           "source": "金十数据",
@@ -1200,7 +1302,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1307,7 +1409,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
@@ -1345,11 +1447,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时50分]"
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 23时46分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -1360,8 +1463,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时46分]"
+        },
+        {
+          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012972722834073577",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时46分]"
+        },
+        {
+          "title": "比亚迪公布最新技术",
+          "url": "https://www.douyin.com/hot/2420236",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时46分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -1376,17 +1502,6 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
-          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012972722834073577",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时50分]"
-        },
-        {
           "title": "比亚迪闪充零下30度12分钟充饱",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E9%9B%B6%E4%B8%8B30%E5%BA%A612%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1399,18 +1514,6 @@
           "time_info": "[20时50分 ~ 21时59分]"
         },
         {
-          "title": "比亚迪公布最新技术",
-          "url": "https://www.douyin.com/hot/2420236",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时50分]"
-        },
-        {
           "title": "比亚迪全球首创闪充桩来了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1420,6 +1523,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时59分 ~ 22时50分]"
+        },
+        {
+          "title": "比亚迪发布“闪充中国”战略",
+          "url": "https://www.toutiao.com/trending/7613053143803232265/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
+        },
+        {
+          "title": "比亚迪大唐首发亮相",
+          "url": "https://www.toutiao.com/trending/7612903863330652166/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
@@ -1466,15 +1592,15 @@
           "time_info": "20时50分"
         },
         {
-          "title": "比亚迪发布“闪充中国”战略",
-          "url": "https://www.toutiao.com/trending/7613053143803232265/",
+          "title": "比亚迪第二代刀片电池首搭10款车型",
+          "url": "https://www.toutiao.com/trending/7613157678583644211/",
           "source": "今日头条",
           "ranks": [
-            25
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时46分"
         },
         {
           "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”",
@@ -1486,12 +1612,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
+        },
+        {
+          "title": "比亚迪今年年底前建成2万座闪充站",
+          "url": "https://www.toutiao.com/trending/7613522274024505398/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "据The Information：OpenAI正在缩减其ChatGPT结账功能的推广规模，这标志着其商业拓展策略出现突然转变。",
@@ -1572,6 +1709,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
+          "url": "https://flash.jin10.com/detail/20260305230503213800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "截至上月末，OpenAI年化收入已超过250亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3064152",
           "source": "华尔街见闻-快讯",
@@ -1629,7 +1777,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
