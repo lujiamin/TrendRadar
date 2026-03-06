@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:42:10.049482+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-03-06T14:41:41.440492+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时02分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[02时02分 ~ 14时41分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8rGUp5Pquod",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 14时41分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -71,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时41分]"
         },
         {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
@@ -83,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 14时41分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -96,6 +97,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 06时27分]"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 14时41分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -120,6 +133,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "印尼政府：总统普拉博沃已向当地伊斯兰团体保证，如果美国总统特朗普的“和平委员会”平台不能为巴勒斯坦人带来利益，他将退出该委员会。",
+          "url": "https://flash.jin10.com/detail/20260306141544711800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国总统特朗普：不打算动用战略石油储备。",
           "url": "https://flash.jin10.com/detail/20260306014823868800",
           "source": "金十数据",
@@ -131,16 +155,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时47分 ~ 13时42分]"
+          "time_info": "[09时46分 ~ 14时41分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -181,15 +204,18 @@
           "time_info": "[06时27分 ~ 07时47分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            17,
+            22,
+            8,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时42分]"
+          "time_info": "[12时06分 ~ 14时41分]"
         },
         {
           "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
@@ -206,16 +232,14 @@
         },
         {
           "title": "美国24州联合起诉特朗普政府",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            22,
-            8
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时42分]"
+          "time_info": "[13时41分 ~ 14时41分]"
         },
         {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
@@ -290,17 +314,6 @@
           "time_info": "[06时27分 ~ 07时47分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
           "url": "https://flash.jin10.com/detail/20260306014749134800",
           "source": "金十数据",
@@ -318,7 +331,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -378,6 +391,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
           "url": "https://flash.jin10.com/detail/20260306024210116800",
           "source": "金十数据",
@@ -406,7 +430,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -549,7 +573,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -626,7 +650,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -678,7 +702,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -688,8 +712,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 14时41分]"
         },
         {
           "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
@@ -697,11 +721,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 14时41分]"
         },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
@@ -1007,6 +1032,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "WTI原油日内涨幅达2.00%，现报80.52美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260306140511119800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产升至创纪录的7.82万亿美元。",
           "url": "https://flash.jin10.com/detail/20260306045118587800",
           "source": "金十数据",
@@ -1090,7 +1126,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -1167,7 +1203,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
@@ -1235,6 +1271,17 @@
           "time_info": "[02时02分 ~ 07时47分]"
         },
         {
+          "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
+          "url": "https://www.zhihu.com/question/2012986900298871194",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 14时41分]"
+        },
+        {
           "title": "比亚迪第二代刀片电池首搭10款车型",
           "url": "https://www.toutiao.com/trending/7613157678583644211/",
           "source": "今日头条",
@@ -1248,17 +1295,6 @@
           "time_info": "[02时02分 ~ 07时47分]"
         },
         {
-          "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
-          "url": "https://www.zhihu.com/question/2012986900298871194",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
           "title": "如何看待比亚迪9分钟快充“封神”",
           "url": "https://www.toutiao.com/trending/7613794895211269658/",
           "source": "今日头条",
@@ -1268,8 +1304,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 14时41分]"
         },
         {
           "title": "比亚迪王传福：第二代刀片电池9分钟“充饱”，到年底建成20000座闪充站",
@@ -1279,8 +1315,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时41分]"
         },
         {
           "title": "燃油时代落幕?比亚迪闪充炸场",
@@ -1288,11 +1324,23 @@
           "source": "贴吧",
           "ranks": [
             9,
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时41分]"
+        },
+        {
+          "title": "比亚迪发布会都说了啥",
+          "url": "https://www.toutiao.com/trending/7613606639488647206/",
+          "source": "今日头条",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时42分]"
+          "time_info": "[13时41分 ~ 14时41分]"
         },
         {
           "title": "比亚迪今年年底前建成2万座闪充站",
@@ -1306,17 +1354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 09时46分]"
-        },
-        {
-          "title": "比亚迪发布会都说了啥",
-          "url": "https://www.toutiao.com/trending/7613606639488647206/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "比亚迪海豹08正式亮相",
@@ -1335,6 +1372,19 @@
       "keyword_group": "openai",
       "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 14时41分]"
+        },
         {
           "title": "OpenAI发布GPT-5.4",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
@@ -1358,19 +1408,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时42分]"
-        },
-        {
           "title": "详解OpenAI新模型GPT-5.4",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
           "source": "bilibili 热搜",
@@ -1379,8 +1416,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时41分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -1435,7 +1472,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
