@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-06T07:47:46.074621+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-06T09:46:52.836661+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 09时46分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -52,6 +53,17 @@
           "time_info": "[02时02分 ~ 06时27分]"
         },
         {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
           "url": "https://flash.jin10.com/detail/20260306015308180800",
           "source": "金十数据",
@@ -69,9 +81,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "美国总统特朗普：不打算动用战略石油储备。",
@@ -184,6 +207,17 @@
           "time_info": "[06时27分 ~ 07时47分]"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时46分]"
+        },
+        {
           "title": "特朗普：即将采取进一步措施缓解油市压力",
           "url": "https://flash.jin10.com/detail/20260306061148335800",
           "source": "金十数据",
@@ -208,6 +242,17 @@
           "time_info": "[06时27分 ~ 07时47分]"
         },
         {
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
           "url": "https://flash.jin10.com/detail/20260306014749134800",
           "source": "金十数据",
@@ -219,15 +264,26 @@
           "time_info": "02时02分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "特朗普在白宫接见梅西",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%8E%A5%E8%A7%81%E6%A2%85%E8%A5%BF%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "09时46分"
         },
         {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
@@ -464,8 +520,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时46分]"
+        },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
           "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
@@ -476,17 +543,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时02分 ~ 07时47分]"
-        },
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
         },
         {
           "title": "市场消息：美国国防部需在2031年前额外投入120亿美元，以提升不断下滑的F-35战机战备率。",
@@ -506,7 +562,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -528,7 +584,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -580,6 +636,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时47分]"
+        },
+        {
+          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
+          "url": "https://wallstreetcn.com/articles/3766831",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时46分]"
         },
         {
           "title": "美国证券交易委员会（SEC）结束对加密货币亿万富翁孙宇晨的诉讼。SEC表示，Rainberry公司将在孙宇晨案中支付1000万美元罚款。",
@@ -641,6 +709,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时34分]"
+        },
+        {
+          "title": "恒科蒸发6000亿美元，市场在怕什么",
+          "url": "https://wallstreetcn.com/articles/3766775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时46分]"
         },
         {
           "title": "美国原油价格突破80美元/桶，为2025年1月以来首次。",
@@ -714,17 +794,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
-          "url": "https://wallstreetcn.com/articles/3766831",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
           "title": "WTI原油突破82美元/桶，日内涨7.67%。",
           "url": "https://flash.jin10.com/detail/20260306040334763800",
           "source": "金十数据",
@@ -734,17 +803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "恒科蒸发6000亿美元，市场在怕什么",
-          "url": "https://wallstreetcn.com/articles/3766775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
         },
         {
           "title": "定价文件显示，沙特将4月份对西北欧出口的阿拉伯轻质原油官方售价定为较伦敦布伦特期货结算价每桶升水2.85美元。",
@@ -813,6 +871,28 @@
           "time_info": "06时27分"
         },
         {
+          "title": "人民币兑美元中间价报6.9025，下调18点；上一交易日中间价6.9007，上一交易日16:30官方收盘价6.9003，上日夜盘报收6.9125。",
+          "url": "https://wallstreetcn.com/livenews/3064751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "布伦特原油期货下跌1.90美元，至83.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3064749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "消息人士：交易商目前以较布伦特原油每桶高4至5美元的溢价向印度市场出售俄罗斯乌拉尔原油，较伊朗冲突爆发前的大幅折扣已有明显回升。",
           "url": "https://flash.jin10.com/detail/20260306023110123800",
           "source": "金十数据",
@@ -822,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "伦锡日内涨超2.00%，现报50010.20美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260306091101135800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "地中海航运：自3月16日起至另行通知为止，自北欧（包括英国）至红海航线的货物附加费将收取每标准箱40美元、每冷藏箱60美元。",
@@ -848,93 +939,20 @@
       ]
     },
     {
-      "keyword_group": "比亚迪",
-      "match_count": 6,
+      "keyword_group": "openai",
+      "match_count": 7,
       "titles": [
         {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
-          "source": "百度热搜",
+          "title": "OpenAI发布GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
-        {
-          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012972722834073577",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时47分]"
-        },
-        {
-          "title": "比亚迪：第二代刀片电池9分钟充饱",
-          "url": "https://www.toutiao.com/trending/7613732953641717267/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            25,
-            24,
-            29,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时47分]"
-        },
-        {
-          "title": "比亚迪第二代刀片电池首搭10款车型",
-          "url": "https://www.toutiao.com/trending/7613157678583644211/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时47分]"
-        },
-        {
-          "title": "比亚迪大唐首发亮相",
-          "url": "https://www.toutiao.com/trending/7612903863330652166/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            6,
-            8,
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时47分]"
-        },
-        {
-          "title": "比亚迪今年年底前建成2万座闪充站",
-          "url": "https://www.toutiao.com/trending/7613522274024505398/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 07时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 4,
-      "titles": [
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
           "url": "https://flash.jin10.com/detail/20260306025523028800",
@@ -971,6 +989,17 @@
           "time_info": "[03时19分 ~ 04时34分]"
         },
         {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
           "url": "https://flash.jin10.com/detail/20260306024056758800",
           "source": "金十数据",
@@ -980,6 +1009,116 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "号称最强模型 OpenAI GPT-5.4发布",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012972722834073577",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 09时46分]"
+        },
+        {
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%EF%BC%9A%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A09%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 09时46分]"
+        },
+        {
+          "title": "比亚迪大唐首发亮相",
+          "url": "https://www.toutiao.com/trending/7612903863330652166/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            6,
+            8,
+            25,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 09时46分]"
+        },
+        {
+          "title": "比亚迪：第二代刀片电池9分钟充饱",
+          "url": "https://www.toutiao.com/trending/7613732953641717267/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            25,
+            24,
+            29,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 07时47分]"
+        },
+        {
+          "title": "比亚迪第二代刀片电池首搭10款车型",
+          "url": "https://www.toutiao.com/trending/7613157678583644211/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 07时47分]"
+        },
+        {
+          "title": "比亚迪今年年底前建成2万座闪充站",
+          "url": "https://www.toutiao.com/trending/7613522274024505398/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 09时46分]"
+        },
+        {
+          "title": "如何看待比亚迪9分钟快充“封神”",
+          "url": "https://www.toutiao.com/trending/7613794895211269658/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     }
