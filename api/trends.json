@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T20:53:11.819286+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-03-09T22:04:07.018722+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 20时53分]"
+          "appearance_count": 15,
+          "time_info": "[09时46分 ~ 22时04分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时41分 ~ 20时53分]"
+        },
+        {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "贝莱德 260 亿美元私募信贷基金启动赎回限制，透露出哪些信息？",
@@ -117,7 +128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -139,7 +150,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -345,7 +356,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -414,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "机构：中东冲突若持续，布油价格或升至135美元",
+          "url": "https://flash.jin10.com/detail/20260309214652314800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "MSCI亚太指数跌幅扩大至5%，此前油价飙升至每桶100美元以上。",
@@ -548,6 +570,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "伊朗警告油价或超200美元",
+          "url": "https://wallstreetcn.com/livenews/3066547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "预测网站Kalshi的交易员预计本月天然气价格将上涨4.50美元。",
           "url": "https://flash.jin10.com/detail/20260309111213220800",
           "source": "金十数据",
@@ -661,7 +694,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -688,8 +721,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 20时53分]"
+          "appearance_count": 15,
+          "time_info": "[09时46分 ~ 22时04分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -728,6 +761,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 05时19分]"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 22时04分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -781,15 +825,27 @@
           "time_info": "[00时22分 ~ 06时19分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 22时04分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 22时04分]"
         },
         {
           "title": "特朗普回应何时结束对伊朗战争",
@@ -870,29 +926,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 20时53分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 20时53分]"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -1025,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "据以色列N12新闻：特朗普总统的顾问和女婿贾里德·库什纳预计将于周二抵达以色列。",
