@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T06:24:23.920003+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-03-11T07:23:54.356024+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -27,11 +27,12 @@
             13,
             11,
             20,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时23分]"
         },
         {
           "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
@@ -45,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时23分]"
         },
         {
           "title": "美国国务院批准潜在军售，或以9.3亿美元的估计成本向瑞典出售M142高机动火箭炮系统及相关设备。",
@@ -71,15 +72,37 @@
           "time_info": "04时29分"
         },
         {
+          "title": "华泰证券：上调26年布伦特均价预测至78美元",
+          "url": "https://flash.jin10.com/detail/20260311071349877800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "华平投资支持的PDG将发行债券，为数据中心融资50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3067589",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "据知情人士透露，John Hegeman与红杉资本（Sequoia Capital）合伙人Ravi Gupta为新公司Ithaca Holdings寻求至少10亿美元融资。 Ithaca Holdings将成为一家控股公司，将设法收购至少一家上市公司、或一家私人公司（即非上市公司）。 John Hegeman曾长期就职于Meta Platforms，担任其首席营收官（CRO）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
@@ -104,6 +127,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
+          "url": "https://wallstreetcn.com/livenews/3067607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "甲骨文(ORCL.N)2026财年Q3软件业务营收61.2亿美元。",
           "url": "https://flash.jin10.com/detail/20260311040729990800",
           "source": "金十数据",
@@ -124,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "WTI原油周三高开，一度涨超1%，现报87.2美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260311060213103800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "据知情人士透露，Cliffwater Corporate Lending Fund（CCLFX.US）规模为330亿美元的私人信用基金将面临投资者赎回超过7%。（彭博）",
@@ -170,27 +193,17 @@
           "time_info": "01时43分"
         },
         {
-          "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3067584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "周二（3月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8790元，较周一纽约尾盘涨85点，日内整体交投于6.8967-6.8605元区间。",
           "url": "https://wallstreetcn.com/livenews/3067577",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时23分]"
         },
         {
           "title": "一家规模达330亿美元的信贷基金面临超7%的赎回",
@@ -205,6 +218,18 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
+          "title": "WTI原油周三高开，一度涨超1%，现报87.2美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311060213103800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "国际金融协会（IIF）：新兴市场投资组合在2月份迎来217亿美元资金流入，1月流入1005亿美元——罕见地出现开年靠前配置，2025年2月流入455亿美元。",
           "url": "https://wallstreetcn.com/livenews/3067490",
           "source": "华尔街见闻-快讯",
@@ -215,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时41分]"
+        },
+        {
+          "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3067584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "周二（3月10日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报3.32亿美元。",
@@ -275,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时26分]"
+        },
+        {
+          "title": "亚马逊计划通过债券发行融资近500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "亚马逊债券发行获得投资者大约1260亿美元认购。",
@@ -417,15 +466,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "亚马逊计划通过债券发行融资近500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3067579",
-          "source": "华尔街见闻-快讯",
+          "title": "美国优先炼油公司：根据新的能源协议，将采购并加工12亿桶美国轻质页岩油，价值1250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260311064019540800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时23分"
         },
         {
           "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
@@ -450,6 +499,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美国优先炼油公司：根据新签署的协议，将生产500亿加仑的炼制产品，价值1750亿美元。",
+          "url": "https://flash.jin10.com/detail/20260311063934123800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡的内阁拟将预算增加130亿美元，以资助军事行动。",
           "url": "https://flash.jin10.com/detail/20260311002013872800",
           "source": "金十数据",
@@ -467,9 +527,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "WTI原油盘初涨幅达2.00%，现报88.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311063807459800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%（2月10日为3.518%），投标倍数2.55（前次为2.62）。",
@@ -527,6 +598,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3067590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "EIA短期能源展望报告：将2026年柴油零售价格预测上调至每加仑4.12美元，比此前估计高20.1%。",
           "url": "https://flash.jin10.com/detail/20260311001619988800",
           "source": "金十数据",
@@ -538,13 +620,24 @@
           "time_info": "00时54分"
         },
         {
+          "title": "华平投资支持的PDG拟举债50亿美元扩建数据中心",
+          "url": "https://wallstreetcn.com/livenews/3067589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国总统特朗普：这是一项历史性的3000亿美元交易。",
           "url": "https://flash.jin10.com/detail/20260311052004491800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -717,8 +810,41 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时23分]"
+        },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -731,45 +857,12 @@
           "time_info": "[00时54分 ~ 06时24分]"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时24分]"
-        },
-        {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
           "url": "https://wallstreetcn.com/articles/3767083",
           "source": "华尔街见闻",
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -816,11 +909,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时23分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -858,6 +952,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "如何应对特朗普？收下这本“懂王交易手册”",
+          "url": "https://wallstreetcn.com/articles/3767103",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
           "url": "https://flash.jin10.com/detail/20260311024917958800",
           "source": "金十数据",
@@ -867,6 +972,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
+          "url": "https://wallstreetcn.com/livenews/3067598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国白宫：特朗普并未排除地面部队的选项。",
@@ -908,7 +1024,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -919,7 +1035,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -1035,11 +1151,12 @@
           "ranks": [
             29,
             22,
-            30
+            30,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时23分]"
         },
         {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
