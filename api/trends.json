@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T09:29:13.718234+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-03-10T12:05:59.148667+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 100,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -37,11 +37,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时05分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -63,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时05分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -86,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时05分]"
         },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -97,8 +98,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
+        },
+        {
+          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307815",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
+        },
+        {
+          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
+          "url": "https://wallstreetcn.com/articles/3767083",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
         },
         {
           "title": "美以伊战争｜特朗普说战争快结束了，革命卫队驳斥",
@@ -112,26 +136,17 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
-          "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307815",
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
           "source": "财联社热门",
           "ranks": [
-            2
+            8,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
-          "url": "https://wallstreetcn.com/articles/3767083",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时05分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -178,6 +193,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美以伊战争｜伊媒头版：特朗普，直视他们的眼睛！",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -217,9 +243,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
+          "url": "https://www.cls.cn/detail/2307862",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
         },
         {
           "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
@@ -242,18 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
-          "url": "https://www.cls.cn/detail/2307782",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时29分]"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -327,6 +353,42 @@
           "time_info": "[05时28分 ~ 07时23分]"
         },
         {
+          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
+          "url": "https://www.zhihu.com/question/2014356299022821037",
+          "source": "知乎",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
+        },
+        {
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
+        },
+        {
+          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
+          "url": "https://www.cls.cn/detail/2307809",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
+        },
+        {
           "title": "报道：特朗普正在权衡平抑油价飙涨的几种方案",
           "url": "https://wallstreetcn.com/livenews/3066742",
           "source": "华尔街见闻-快讯",
@@ -340,37 +402,28 @@
           "time_info": "[05时29分 ~ 07时23分]"
         },
         {
-          "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
-          "url": "https://www.cls.cn/detail/2307862",
-          "source": "财联社热门",
+          "title": "普京与特朗普通电话讨论伊朗局势",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E8%AE%A8%E8%AE%BA%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "百度热搜",
           "ranks": [
-            6
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
         },
         {
-          "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
-          "url": "https://www.zhihu.com/question/2014356299022821037",
-          "source": "知乎",
+          "title": "普京与特朗普通电话讨论伊朗局势",
+          "url": "https://www.toutiao.com/trending/7614555226485948458/",
+          "source": "今日头条",
           "ranks": [
-            6
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时05分]"
         },
         {
           "title": "美国总统特朗普：我们已经摧毁了伊朗大约80%的导弹基地。",
@@ -395,17 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
-          "url": "https://www.cls.cn/detail/2307809",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
         },
         {
           "title": "美国总统特朗普：（针对伊朗）我们已经赢了。但我们还没有赢得足够。我们决心彻底战胜这个恐怖政权。",
@@ -468,17 +510,6 @@
           "time_info": "[05时29分 ~ 06时24分]"
         },
         {
-          "title": "普京与特朗普通电话讨论伊朗局势",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E8%AE%A8%E8%AE%BA%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
           "title": "美国总统特朗普：我们在三天半内摧毁了46艘伊朗海军舰艇。",
           "url": "https://flash.jin10.com/detail/20260310050137662800",
           "source": "金十数据",
@@ -489,17 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时24分]"
-        },
-        {
-          "title": "普京与特朗普通电话讨论伊朗局势",
-          "url": "https://www.toutiao.com/trending/7614555226485948458/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
         },
         {
           "title": "美国总统特朗普：在彻底击败伊朗之前，我们绝不会停歇。",
@@ -659,7 +679,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -829,6 +849,17 @@
           "time_info": "03时38分"
         },
         {
+          "title": "特朗普宣称对伊战争“基本结束”、将暂免部分石油制裁、G7会后称暂不释放油储......市场风险情绪大逆转，油价经历疯狂24小时。当前美油多头持续占优，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260310113217669800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "特朗普称未到美军进入伊朗“保护”核材料的地步",
           "url": "https://wallstreetcn.com/livenews/3066624",
           "source": "华尔街见闻-快讯",
@@ -934,7 +965,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -1118,7 +1149,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
@@ -1190,7 +1221,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -1409,6 +1440,17 @@
           "time_info": "[05时29分 ~ 06时24分]"
         },
         {
+          "title": "美国首周打击行动花费约60亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%91%A8%E6%89%93%E5%87%BB%E8%A1%8C%E5%8A%A8%E8%8A%B1%E8%B4%B9%E7%BA%A660%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "布伦特原油日内涨幅收窄至4.00%，现报94.35美元/桶。",
           "url": "https://flash.jin10.com/detail/20260310020805486800",
           "source": "金十数据",
@@ -1448,7 +1490,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -1462,6 +1504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "美、布两油日内均涨超6%，重回90美元/桶上方。",
+          "url": "https://flash.jin10.com/detail/20260310114359978800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "WTI原油回落至89美元/桶下方，日内跌2.68%。",
@@ -1558,7 +1611,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -1629,6 +1682,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "中国2月份以美元计价出口同比增长39.6%，进口同比增长13.8%，贸易顺差909.8亿元美元。 中国2月份以人民币计价出口同比增长36.1%，进口同比增长10.9%，贸易顺差6375.5亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3066969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "布伦特原油跌破87美元/桶，日内跌4.11%。",
           "url": "https://flash.jin10.com/detail/20260310033357200800",
           "source": "金十数据",
@@ -1649,6 +1713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "中国1-2月贸易帐-美元计价 2136.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310111022837800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "现货白银日内涨幅扩大至3.00%，现报86.88美元/盎司。",
@@ -1744,6 +1819,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪蔚来回应闪充换电之争",
+          "url": "https://www.toutiao.com/trending/7615414850428079666/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "领汇e7将搭载比亚迪闪充技术",
+          "url": "https://www.toutiao.com/trending/7615267871435440191/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     },
