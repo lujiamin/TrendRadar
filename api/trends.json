@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:45:45.626995+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-03-11T15:41:07.518174+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 92,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -35,6 +35,18 @@
           "time_info": "[01时43分 ~ 13时45分]"
         },
         {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时41分]"
+        },
+        {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
           "url": "https://www.zhihu.com/question/2014656017116395259",
           "source": "知乎",
@@ -48,18 +60,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时23分]"
-        },
-        {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时45分]"
         },
         {
           "title": "美国国务院批准潜在军售，或以9.3亿美元的估计成本向瑞典出售M142高机动火箭炮系统及相关设备。",
@@ -93,6 +93,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "纽约期银向下触及87美元/盎司，日内跌2.90%。",
+          "url": "https://flash.jin10.com/detail/20260311153829213800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "华平投资支持的PDG将发行债券，为数据中心融资50亿美元。",
@@ -238,6 +249,30 @@
           "time_info": "01时43分"
         },
         {
+          "title": "SEMI中国：全球半导体2026年料攀万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 15时41分]"
+        },
+        {
           "title": "周二（3月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8790元，较周一纽约尾盘涨85点，日内整体交投于6.8967-6.8605元区间。",
           "url": "https://wallstreetcn.com/livenews/3067577",
           "source": "华尔街见闻-快讯",
@@ -297,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时45分]"
         },
         {
           "title": "周二（3月10日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报3.32亿美元。",
@@ -455,6 +478,17 @@
           "time_info": "[02时41分 ~ 03时35分]"
         },
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
+        },
+        {
           "title": "石油贸易商筹集70亿美元信贷以应对战争动荡",
           "url": "https://wallstreetcn.com/livenews/3067499",
           "source": "华尔街见闻-快讯",
@@ -507,7 +541,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -540,7 +574,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -606,7 +640,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -807,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD短线走高17点，现报1.1637。",
+          "url": "https://flash.jin10.com/detail/20260311151801664800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
@@ -1123,8 +1168,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时45分]"
+          "time_info": "[13时44分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 15时41分]"
         },
         {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
@@ -1138,28 +1207,29 @@
           "time_info": "[13时44分 ~ 14时45分]"
         },
         {
-          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
-          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时41分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时41分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -1184,29 +1254,16 @@
           "time_info": "01时43分"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时45分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时45分]"
+          "time_info": "[09时28分 ~ 15时41分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -1233,18 +1290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 14时45分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -1472,7 +1517,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪李云飞回应闪充伤电池",
@@ -1485,11 +1530,12 @@
             7,
             28,
             16,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时41分 ~ 14时45分]"
+          "appearance_count": 12,
+          "time_info": "[02时41分 ~ 15时41分]"
         },
         {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
@@ -1502,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时43分]"
+        },
+        {
+          "title": "比亚迪闪充能终结蔚来的换电模式吗",
+          "url": "https://www.toutiao.com/trending/7615467320462593590/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "比亚迪海外月销量首超国内",
