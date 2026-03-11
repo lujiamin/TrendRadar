@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T12:06:29.568699+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-03-11T13:45:04.595060+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 12时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 13时45分]"
         },
         {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
@@ -48,6 +48,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时23分]"
+        },
+        {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时45分]"
         },
         {
           "title": "美国国务院批准潜在军售，或以9.3亿美元的估计成本向瑞典出售M142高机动火箭炮系统及相关设备。",
@@ -125,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "现货白银失守87美元/盎司，日内跌幅1.53%。",
+          "url": "https://flash.jin10.com/detail/20260311133134569800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "WTI 4月原油期货收报83.45美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
@@ -226,18 +249,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时23分]"
-        },
-        {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
         },
         {
           "title": "一家规模达330亿美元的信贷基金面临超7%的赎回",
@@ -408,6 +419,17 @@
           "time_info": "[02时41分 ~ 03时35分]"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
           "title": "美国投资级公司债券市场迎来历史上最繁忙的一天，历史上最近一个最大单日销售额出现在2013年。 亚马逊发售370亿美元债券，对此功不可没。 与此同时，Honeywell Aerospace Inc.募资160亿美元，还有一笔与收购Air Lease Corp.相关的40亿美元债券交易。",
           "url": "https://wallstreetcn.com/livenews/3067564",
           "source": "华尔街见闻-快讯",
@@ -561,7 +583,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -687,6 +709,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://wallstreetcn.com/livenews/3067779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "美国总统特朗普：这是一项历史性的3000亿美元交易。",
           "url": "https://flash.jin10.com/detail/20260311052004491800",
           "source": "金十数据",
@@ -770,7 +803,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -808,6 +841,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "巴克莱：将甲骨文(ORCL.N)目标股价从230美元上调至240美元。",
+          "url": "https://flash.jin10.com/detail/20260311122756911800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3067489",
           "source": "华尔街见闻-快讯",
@@ -836,7 +880,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -913,7 +957,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -976,7 +1020,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -1036,6 +1080,19 @@
           "time_info": "[00时54分 ~ 06时24分]"
         },
         {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时45分]"
+        },
+        {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -1045,6 +1102,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时24分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -1058,16 +1137,16 @@
           "time_info": "01时43分"
         },
         {
-          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
-          "url": "https://www.cls.cn/detail/2309121",
-          "source": "财联社热门",
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时45分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -1083,6 +1162,17 @@
           "time_info": "[01时43分 ~ 03时35分]"
         },
         {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时45分]"
+        },
+        {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
           "url": "https://wallstreetcn.com/livenews/3067576",
           "source": "华尔街见闻-快讯",
@@ -1094,6 +1184,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时23分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时45分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -1108,17 +1210,6 @@
           "time_info": "[04时28分 ~ 05时26分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
-        },
-        {
           "title": "微软：美国法院应该临时性地阻止总统特朗普的五角大楼封杀Anthropic。",
           "url": "https://wallstreetcn.com/livenews/3067571",
           "source": "华尔街见闻-快讯",
@@ -1131,18 +1222,6 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
-        },
-        {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
           "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
@@ -1153,17 +1232,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 12时06分]"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
@@ -1378,11 +1446,12 @@
             22,
             30,
             7,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时41分 ~ 12时06分]"
+          "appearance_count": 9,
+          "time_info": "[02时41分 ~ 13时45分]"
         },
         {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
@@ -1433,7 +1502,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -1442,7 +1511,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1469,6 +1538,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时24分]"
+        },
+        {
+          "title": "OpenAI计划将AI视频生成工具Sora接入ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3067769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     }
