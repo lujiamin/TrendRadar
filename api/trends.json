@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T01:46:05.301504+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-12T02:49:01.724516+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "市场消息：一旦战斗结束，海湾石油出口恢复正常可能需要数月时间。如果伊朗或其代理人试图在特朗普宣布胜利后干扰航运路线，供应恢复的速度将进一步放缓。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
+          "url": "https://wallstreetcn.com/livenews/3068295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "市场消息：美国在中东的部分盟友私下担心特朗普政府对战争的经济后果考虑不足。",
@@ -69,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -78,22 +89,24 @@
           "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "特朗普说对伊行动即将结束",
@@ -101,22 +114,35 @@
           "source": "微博",
           "ranks": [
             12,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，伊方称转为“连环打击”、警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 02时49分]"
+        },
+        {
+          "title": "美官员称特朗普对伊朗反应有误判",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "time_info": "[02时48分 ~ 02时49分]"
         },
         {
           "title": "当被问及伊朗是否在霍尔木兹海峡布雷时，特朗普回答说：“我们不这么认为。”",
@@ -147,7 +173,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -202,7 +228,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -257,7 +283,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -268,7 +294,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -279,7 +305,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -290,7 +316,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -301,7 +327,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -312,7 +338,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -320,18 +346,18 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 26,
       "titles": [
         {
-          "title": "Raízen达成126亿美元债务庭外重组协议",
-          "url": "https://wallstreetcn.com/livenews/3068268",
-          "source": "华尔街见闻-快讯",
+          "title": "美国原油期货收报每桶87.25美元，上涨3.80美元，涨幅4.55%。",
+          "url": "https://flash.jin10.com/detail/20260312023148058800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时49分"
         },
         {
           "title": "市场消息：惠誉评级上调近期油气价格预期，2026年布伦特原油价格（均价）预期从63美元/桶上调至70美元/桶，WTI原油从58美元/桶上调至65美元/桶。",
@@ -340,31 +366,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
         {
-          "title": "周三（3月11日），美联储隔夜逆回购协议（RRP）使用规模为5.52亿美元（交易对手4家），上个交易日报2.78亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3068267",
+          "title": "WTI 4月原油期货收报87.25美元/桶。 中东Abu Dhabi Murban原油期货跌1.17%，报98.41美元/桶，北京时间21:45曾跌至95.09美元。 NYMEX 4月天然气期货收报3.2090美元/百万英热单位。 NYMEX 4月汽油期货收报2.7883美元/加仑，NYMEX 3月取暖油期货收报3.6788美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3068291",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时49分"
         },
         {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "曝美军方花900万美元买帝王蟹龙虾",
@@ -374,8 +401,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 02时49分]"
+        },
+        {
+          "title": "Raízen达成126亿美元债务庭外重组协议",
+          "url": "https://wallstreetcn.com/livenews/3068268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "time_info": "[01时46分 ~ 02时49分]"
+        },
+        {
+          "title": "周三（3月11日），美联储隔夜逆回购协议（RRP）使用规模为5.52亿美元（交易对手4家），上个交易日报2.78亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时49分]"
         },
         {
           "title": "布伦特原油日内涨幅达6.0%，报93.12美元/桶。 WTI原油突破87美元/桶关口，报87.02美元/桶。",
@@ -394,11 +445,45 @@
           "url": "https://wallstreetcn.com/livenews/3068261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时49分]"
+        },
+        {
+          "title": "Ripple按500亿美元估值启动股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3068286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国当前财年（10月1日以来）预算赤字已经突破1万亿美元，但低于去年同期水平。",
+          "url": "https://wallstreetcn.com/livenews/3068283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国汽油价格超过每加仑3.50美元",
+          "url": "https://flash.jin10.com/detail/20260312021359773800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.61%，暂报2633.29点，期内大部分时间持稳于2620点附近——低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.25%，报2831.50点，过半时间持稳于2800点一线。 MarketVector数字资产100指数跌0.88%，报14124.93点，过半时间交投于14000点下方。 目前，Solana涨0.56%，狗狗币跌1.84%，XRP持平。 比特币涨0.97%，暂报70695.99美元；以太坊涨1.69%，暂报2069.95美元。",
@@ -407,9 +492,86 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "美国2月政府预算 -3075.01亿美元，预期 -3100亿美元，前值 -946亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国对伊朗的首轮打击行动估计花费了40亿美元",
+          "url": "https://flash.jin10.com/detail/20260312021148536800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "LME期铜收跌98美元，报13042美元/吨。 LME期铝收涨51美元，报3457美元/吨。 LME期锌收跌36美元，报3309美元/吨。 LME期铅收跌8美元，报1936美元/吨。 LME期镍收涨205美元，报17693美元/吨。 LME期锡收跌792美元，报49647美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3068277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国司法部：雪佛龙公司同意就《清洁空气法》可再生燃料标准计划相关事宜支付100万美元民事罚款。",
+          "url": "https://flash.jin10.com/detail/20260312020506915800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "周三（3月11日），韩元兑美元最终跌0.71%，报1476.51韩元。",
+          "url": "https://wallstreetcn.com/livenews/3068274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国2月预算支出为6210亿美元，高于2025年2月的6030亿美元；收入为3130亿美元，高于2025年2月的2960亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020128527800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国2月份净海关收入265.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020053592800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "贸易商们表示：全球炼油厂因为溢价飙升而暂缓采购石油。 中东石油的溢价涨至40美元/桶。",
@@ -418,9 +580,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "美国2026财年迄今为止的赤字为1.004万亿美元，而2025财年同期赤字为1.147万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020024327800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国2月政府预算 -3080亿美元，预期-758.5亿美元，前值-946亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312020002413800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "布伦特原油突破91美元/桶，日内涨2.21%。",
