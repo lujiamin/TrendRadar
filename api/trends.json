@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T07:23:54.356024+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-03-11T09:28:55.678916+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 06时24分]"
+        },
+        {
+          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
+          "url": "https://www.zhihu.com/question/2012122338733290833",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 09时28分]"
         },
         {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
@@ -33,21 +48,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时23分]"
-        },
-        {
-          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
-          "url": "https://www.zhihu.com/question/2012122338733290833",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时23分]"
         },
         {
           "title": "美国国务院批准潜在军售，或以9.3亿美元的估计成本向瑞典出售M142高机动火箭炮系统及相关设备。",
@@ -78,7 +78,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -100,9 +100,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "新台币兑美元上涨0.3%至31.730。",
+          "url": "https://wallstreetcn.com/livenews/3067665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
@@ -133,7 +144,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -169,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "人民币兑美元中间价续创近三年新高",
+          "url": "https://wallstreetcn.com/livenews/3067662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "凯利蓝皮书：2月新车平均成交价为49,353美元，较去年同期上涨3.4%。",
@@ -422,6 +444,17 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "甲骨文(ORCL.N)2026财年Q3营收171.9亿美元，上年同期141.3亿美元，市场预期169.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260311040604299800",
           "source": "金十数据",
@@ -472,7 +505,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -505,9 +538,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "现货白银突破89美元/盎司，日内涨0.76%。",
+          "url": "https://flash.jin10.com/detail/20260311084804252800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "以色列总理内塔尼亚胡的内阁拟将预算增加130亿美元，以资助军事行动。",
@@ -538,7 +582,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -604,7 +648,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -626,7 +670,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -640,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "三星、SK将注销140亿美元库存股",
+          "url": "https://flash.jin10.com/detail/20260311082354739800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "WTI原油日内跌幅达13.0%，报82.43美元/桶。 布伦特原油日内跌幅达12.5%，报86.5美元/桶。",
@@ -664,6 +719,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "知名投资人阿克曼旗下潘兴广场寻求通过IPO募资至多100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
           "url": "https://wallstreetcn.com/livenews/3067537",
           "source": "华尔街见闻-快讯",
@@ -673,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "WTI原油回落至82美元/桶下方，日内跌5.20%。",
+          "url": "https://flash.jin10.com/detail/20260311081737472800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国3月EIA当年布伦特原油均价预期 78.84美元/千立方英尺，前值57.69美元/千立方英尺。",
@@ -697,6 +774,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "WTI原油回落至83美元/桶下方，日内跌4.04%。",
+          "url": "https://flash.jin10.com/detail/20260311081705872800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3067489",
           "source": "华尔街见闻-快讯",
@@ -706,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "维权投资者Starboard建仓3.5亿美元美国最大二手车零售商CarMax股份。 Starboard认为在即将上任的CEO Keith Barr的领导下，这家二手车零售商有望加速转型。Starboard希望借助自身在汽车交易市场的投资经验来提升CarMax的业绩。 Starboard认为，CarMax可以通过提升客户体验（包括提高车辆翻新效率）以及削减超3亿美元的管理运营开支来提升业绩。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
@@ -741,6 +840,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "WTI原油日内下跌3.00%，现报83.74美元/桶。报道称，IEA提议史上最大规模的战略石油储备释放，规模将超1.82亿桶。",
+          "url": "https://flash.jin10.com/detail/20260311081533138800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "加拿大次级贷款公司Goeasy Ltd.搁置派息计划，撤回业绩指引，称车辆金融业务贷款损失（至少）数亿美元。 该公司多伦多股价暴跌60%，债券价格也重挫。",
           "url": "https://wallstreetcn.com/livenews/3067467",
           "source": "华尔街见闻-快讯",
@@ -772,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "布伦特原油日内下跌1.00%，现报88.13美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311080825560800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "布伦特原油向下触及85美元/桶，日内跌1.44%。",
@@ -810,18 +931,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
           "url": "https://www.cls.cn/detail/2308807",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 09时28分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -941,6 +1063,17 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -952,15 +1085,48 @@
           "time_info": "03时35分"
         },
         {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
           "url": "https://wallstreetcn.com/articles/3767103",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
@@ -980,7 +1146,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1155,8 +1321,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 07时23分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 09时28分]"
         },
         {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
