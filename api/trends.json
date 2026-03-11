@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:31:59.049672+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-03-11T20:47:57.666670+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 106,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -63,6 +63,21 @@
           "time_info": "[01时43分 ~ 13时45分]"
         },
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 20时47分]"
+        },
+        {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
           "url": "https://www.zhihu.com/question/2014656017116395259",
           "source": "知乎",
@@ -76,20 +91,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时23分]"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 19时31分]"
         },
         {
           "title": "美国国务院批准潜在军售，或以9.3亿美元的估计成本向瑞典出售M142高机动火箭炮系统及相关设备。",
@@ -167,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美国2月CPI数据符合市场预期，美国国债保持稳定，美元指数波动不大，美国股指期货小幅走高。",
+          "url": "https://wallstreetcn.com/livenews/3068098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
@@ -564,6 +576,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "逸仙电商获1.2亿美元战略投资，创始人黄锦峰与信宸资本联合领投",
+          "url": "https://wallstreetcn.com/livenews/3068092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "WTI原油跌破80美元/桶，日内跌6.10%，完全抹去本周初的涨幅。",
           "url": "https://flash.jin10.com/detail/20260311010644996800",
           "source": "金十数据",
@@ -817,6 +840,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美元指数DXY短线走高十余点，现报99.09。欧元兑美元EUR/USD短线走低近20点，现报1.1591；英镑兑美元GBP/USD短线走低约20点，现报1.3415。",
+          "url": "https://flash.jin10.com/detail/20260311203606067800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "据知情人士透露，General Catalyst与投资者们洽谈融资大约100亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3067544",
           "source": "华尔街见闻-快讯",
@@ -944,7 +978,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -955,7 +989,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -969,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "Nebius盘前涨超8%。英伟达将向Nebius投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3068074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "WTI原油回落至82美元/桶下方，日内跌5.20%。",
@@ -1037,6 +1082,17 @@
           "time_info": "13时45分"
         },
         {
+          "title": "美元指数DXY、非美货币对在CPI数据公布后波动暂时不大。",
+          "url": "https://flash.jin10.com/detail/20260311203144677800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3067489",
           "source": "华尔街见闻-快讯",
@@ -1079,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "英伟达将向云服务商Nebius投资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3068071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
@@ -1145,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "CPI数据公布后，现货黄金短线上扬6美元后回落，现报5191美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260311203049079800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "澳元兑美元上涨0.75%至0.7174，创2022年年中以来最高水平。",
@@ -1262,8 +1340,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[12时06分 ~ 20时47分]"
         },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -1322,8 +1400,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时47分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -1332,11 +1410,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时47分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -1344,11 +1423,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时28分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 20时47分]"
         },
         {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
