@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:45:04.595060+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-03-11T14:45:45.626995+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时45分]"
         },
         {
           "title": "美国国务院批准潜在军售，或以9.3亿美元的估计成本向瑞典出售M142高机动火箭炮系统及相关设备。",
@@ -145,7 +145,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -299,6 +299,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时45分]"
+        },
+        {
           "title": "周二（3月10日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报3.32亿美元。",
           "url": "https://wallstreetcn.com/livenews/3067487",
           "source": "华尔街见闻-快讯",
@@ -419,17 +431,6 @@
           "time_info": "[02时41分 ~ 03时35分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
           "title": "美国投资级公司债券市场迎来历史上最繁忙的一天，历史上最近一个最大单日销售额出现在2013年。 亚马逊发售370亿美元债券，对此功不可没。 与此同时，Honeywell Aerospace Inc.募资160亿美元，还有一笔与收购Air Lease Corp.相关的40亿美元债券交易。",
           "url": "https://wallstreetcn.com/livenews/3067564",
           "source": "华尔街见闻-快讯",
@@ -500,6 +501,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "福布斯：特朗普身价一年增长14亿美元",
+          "url": "https://flash.jin10.com/detail/20260311142521428800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "WTI原油期货回落至81美元/桶下方，日内跌14.54%。",
           "url": "https://flash.jin10.com/detail/20260311010541609800",
           "source": "金十数据",
@@ -520,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "中东危机冲击泰国能源安全，燃油基金日亏3200万美元稳油价",
+          "url": "https://flash.jin10.com/detail/20260311142516737800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国优先炼油公司：根据新的能源协议，将采购并加工12亿桶美国轻质页岩油，价值1250亿美元。",
@@ -575,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "麦格理集团：将蔚来汽车(09866.HK)目标价由47.00港元上调至51.00港元；将蔚来汽车(NIO.N)目标价从6.10美元上调至6.50美元。",
+          "url": "https://flash.jin10.com/detail/20260311142509268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "EIA：伊朗战争扰乱供应 布油未来两个月将维持在95美元上方",
@@ -715,7 +749,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -847,7 +881,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1089,8 +1123,43 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时45分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时45分]"
+          "time_info": "[12时06分 ~ 14时45分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -1104,28 +1173,6 @@
           "time_info": "[05时26分 ~ 06时24分]"
         },
         {
-          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
-          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
           "url": "https://flash.jin10.com/detail/20260311011404351800",
           "source": "金十数据",
@@ -1137,16 +1184,29 @@
           "time_info": "01时43分"
         },
         {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时45分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时45分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -1162,17 +1222,6 @@
           "time_info": "[01时43分 ~ 03时35分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时45分]"
-        },
-        {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
           "url": "https://wallstreetcn.com/livenews/3067576",
           "source": "华尔街见闻-快讯",
@@ -1186,16 +1235,16 @@
           "time_info": "[05时26分 ~ 07时23分]"
         },
         {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 14时45分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -1220,18 +1269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时06分]"
         },
         {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
@@ -1447,11 +1484,12 @@
             30,
             7,
             28,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时41分 ~ 13时45分]"
+          "appearance_count": 10,
+          "time_info": "[02时41分 ~ 14时45分]"
         },
         {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
@@ -1546,7 +1584,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         }
