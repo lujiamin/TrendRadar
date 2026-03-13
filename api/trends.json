@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:31:53.869556+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-14T02:35:34.432811+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -15,30 +15,87 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
+        },
+        {
+          "title": "WTI原油日内涨超2.00%，现报98.29美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260314020644023800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "布伦特原油日内涨幅超过2.5%，报103.01美元/桶；WTI原油5分钟内上涨0.55美元/桶，报96.58美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3069969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内下跌1.00%，现报0.5795。",
+          "url": "https://flash.jin10.com/detail/20260314020419451800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "LME期铜收跌219美元，报12780美元/吨。 LME期铝收跌77美元，报3440美元/吨。 LME期锌收跌6美元，报3296美元/吨。 LME期铅收跌32美元，报1908美元/吨。 LME期镍收跌476美元，报17266美元/吨。 LME期锡收跌2329美元，报47059美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3069966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "市场消息：美国国务院提供最高1000万美元悬赏，以获取伊朗革命卫队高级领导人的可信信息。",
+          "url": "https://flash.jin10.com/detail/20260314015919718800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.27亿美元。",
           "url": "https://flash.jin10.com/detail/20260314011750496800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时35分]"
         },
         {
           "title": "周五（3月13日），美联储隔夜逆回购协议（RRP）使用规模为4.27亿美元（交易对手4家），上个交易日报1.37亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069960",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时35分]"
         },
         {
           "title": "中国向伊朗提供20万美元人道主义援助",
@@ -48,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -59,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "中方向伊朗遇难学生家长援助20万美元",
@@ -71,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
@@ -82,8 +139,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
+        },
+        {
+          "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
+          "url": "https://wallstreetcn.com/livenews/3069952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时35分]"
         },
         {
           "title": "LME锡期货跌幅达4.00%，现报47036.80美元/吨。",
@@ -109,17 +178,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
-          "url": "https://wallstreetcn.com/livenews/3069952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "现货白银日内跌5.00%，现报79.69美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260314000525807800",
           "source": "金十数据",
@@ -131,13 +189,24 @@
           "time_info": "00时35分"
         },
         {
+          "title": "巴西雷亚尔兑美元在即期交易中下跌逾1%。",
+          "url": "https://flash.jin10.com/detail/20260314015137380800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
           "title": "钻井数据公布后，WTI原油现报96.88美元/桶。",
           "url": "https://flash.jin10.com/detail/20260314010259376800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -200,7 +269,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -210,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -221,8 +290,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "据Politico：特朗普政府正在扩大孤立古巴的举措，向其他国家提供“激励措施”，以驱逐古巴医生。",
@@ -231,7 +300,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -243,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -254,8 +323,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
@@ -266,8 +335,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
         },
         {
           "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
@@ -277,8 +346,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
+          "url": "https://wallstreetcn.com/livenews/3069964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "白宫官员：美国总统特朗普此前已表示，美国正与古巴进行对话，古巴领导人应达成协议，而这完全可能实现。",
@@ -298,7 +378,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
