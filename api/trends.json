@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T12:09:07.294306+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-03-13T13:45:36.679487+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -41,11 +41,12 @@
             12,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时29分 ~ 12时09分]"
+          "appearance_count": 11,
+          "time_info": "[04时29分 ~ 13时45分]"
         },
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -55,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时45分]"
         },
         {
           "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
@@ -67,8 +68,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时45分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时09分]"
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -211,6 +212,18 @@
           "time_info": "[04时30分 ~ 05时29分]"
         },
         {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时45分]"
+        },
+        {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
           "url": "https://wallstreetcn.com/livenews/3069049",
           "source": "华尔街见闻-快讯",
@@ -247,17 +260,6 @@
           "time_info": "[02时47分 ~ 03时40分]"
         },
         {
-          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
-          "url": "https://wallstreetcn.com/articles/3767360",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时09分]"
-        },
-        {
           "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
           "url": "https://wallstreetcn.com/livenews/3069163",
           "source": "华尔街见闻-快讯",
@@ -269,6 +271,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时24分]"
+        },
+        {
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "周四（3月12日），韩元兑美元最终跌0.82%，报1488.60韩元，北京时间21:00过后加速下跌。",
@@ -329,17 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时24分]"
-        },
-        {
-          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
-          "url": "https://wallstreetcn.com/articles/3767353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -477,7 +479,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -504,6 +506,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "高盛：霍尔木兹海峡若持续中断两个月，对第四季度布伦特原油平均价格的预测将从每桶71美元上调至93美元。",
+          "url": "https://flash.jin10.com/detail/20260313131312423800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "人民币兑美元中间价报6.9007，较上日调低48点。前一交易日中间价报6.8959，在岸人民币16:30收盘价报6.8752，夜盘收报6.8833。",
           "url": "https://wallstreetcn.com/livenews/3069263",
           "source": "华尔街见闻-快讯",
@@ -513,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "高盛：预计布伦特原油价格在3月均价将超过每桶100美元，4月均价为85美元。 预计布伦特原油价格将在年底逐步回落至70美元附近。 假设全球战略石油储备将采取更大力度的政策应对，这将在短期内几乎将商业石油库存的损失减半。 如果霍尔木兹海峡出现两个月的中断，对第四季度布伦特原油均价的预测将从每桶71美元上调至93美元。",
+          "url": "https://wallstreetcn.com/livenews/3069382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "布伦特原油期货收报每桶100.46美元，上涨8.48美元，涨幅9.22%。布伦特原油期货结算价自2022年8月以来首次突破每桶100美元。",
@@ -543,7 +567,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -559,15 +583,37 @@
           "time_info": "05时29分"
         },
         {
+          "title": "高盛：预计布伦特原油价格将在今年晚些时候逐步回落至70美元/桶区间低位。",
+          "url": "https://flash.jin10.com/detail/20260313130852591800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "日本及其他亚太国家定于本周末公布与美国公司达成价值至少300亿美元的协议。这些交易将采取采购承诺及其他交易形式，涵盖煤炭、石油、液化天然气和核能等多个产品及行业。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3069332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "高盛：预计布伦特原油价格3月份平均将超过100美元/桶，4月份为85美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313130833649800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "交易员不再认为美联储2026年降息一次的概率为100%，油价上涨让投资者担忧通胀风险。 WTI原油日内涨幅达10.0%，报94.7美元/桶。",
@@ -625,6 +671,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "日元兑美元自2024年7月以来首次跌破159.45。",
+          "url": "https://wallstreetcn.com/livenews/3069372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "受中东局势紧张和油价逼近每桶100美元的提振，美国石油基金(USO)本月价格上涨超过40%，有望创下2018年以来的最高水平，周四收于116.60美元。",
           "url": "https://flash.jin10.com/detail/20260313013405950800",
           "source": "金十数据",
@@ -656,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "印度卢比兑美元跌破92.3575，触及纪录新低。",
+          "url": "https://flash.jin10.com/detail/20260313124350317800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "现货黄金向下触及5100美元/盎司，日内跌1.47%。",
@@ -697,7 +765,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -711,12 +779,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美元兑日元USD/JPY突破前高，创2024年7月以来新高，现报159.45。",
+          "url": "https://flash.jin10.com/detail/20260313123035551800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -761,11 +840,23 @@
           "ranks": [
             7,
             6,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 12时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时45分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -777,17 +868,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 04时30分]"
-        },
-        {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -826,6 +906,18 @@
           "time_info": "[07时23分 ~ 12时09分]"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时45分]"
+        },
+        {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
           "url": "https://wallstreetcn.com/livenews/3069118",
           "source": "华尔街见闻-快讯",
@@ -838,28 +930,17 @@
           "time_info": "[03时40分 ~ 04时30分]"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时09分]"
-        },
-        {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
           "url": "https://www.cls.cn/detail/2311436",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时45分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -898,6 +979,17 @@
           "time_info": "[05时29分 ~ 06时21分]"
         },
         {
+          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 13时45分]"
+        },
+        {
           "title": "伊朗称特朗普几条推文结束不了战争",
           "url": "https://flash.jin10.com/detail/20260313004520116800",
           "source": "金十数据",
@@ -907,6 +999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
@@ -986,17 +1089,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
           "title": "伊朗最高安全官员对特朗普表示：除非你承认错误并付出代价，否则我们不会放你走。",
           "url": "https://flash.jin10.com/detail/20260313002535367800",
           "source": "金十数据",
@@ -1052,6 +1144,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "美国总统特朗普：我们拥有无与伦比的火力、无限的弹药和充足的时间——看看今天伊朗会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260313124216025800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "当地时间3月12日，美国总统特朗普表示，他认为伊朗最高领袖穆杰塔巴·哈梅内伊可能“受伤但仍然活着”。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3069245",
           "source": "华尔街见闻-快讯",
@@ -1061,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普：伊朗的一切都在被摧毁",
+          "url": "https://flash.jin10.com/detail/20260313123158096800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "报道：特朗普政府拟暂停《琼斯法案》，从而实现平抑油价",
