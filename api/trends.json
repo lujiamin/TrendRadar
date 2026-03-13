@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T17:35:47.921511+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-03-13T18:32:06.178408+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -38,11 +38,12 @@
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时32分]"
         },
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -68,6 +69,18 @@
           "time_info": "[09时44分 ~ 16时35分]"
         },
         {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 18时32分]"
+        },
+        {
           "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
           "url": "https://www.cls.cn/detail/2311351",
           "source": "财联社热门",
@@ -83,16 +96,16 @@
           "time_info": "[04时29分 ~ 14时45分]"
         },
         {
-          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
-          "url": "https://wallstreetcn.com/articles/3767360",
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时32分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -104,18 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
-          "url": "https://wallstreetcn.com/articles/3767353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时35分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -327,6 +328,42 @@
           "time_info": "[02时47分 ~ 03时40分]"
         },
         {
+          "title": "中方向伊朗遇难学生家长援助20万美元",
+          "url": "https://www.toutiao.com/trending/7616641907589959178/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
+        },
+        {
+          "title": "中国向伊朗提供20万美元人道主义援助",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
+        },
+        {
+          "title": "中方向伊朗遇难学生家长援助20万美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%B4%E5%8A%A920%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
+        },
+        {
           "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
           "url": "https://wallstreetcn.com/livenews/3069163",
           "source": "华尔街见闻-快讯",
@@ -338,6 +375,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时24分]"
+        },
+        {
+          "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "周四（3月12日），韩元兑美元最终跌0.82%，报1488.60韩元，北京时间21:00过后加速下跌。",
@@ -494,6 +543,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时21分]"
+        },
+        {
+          "title": "五角大楼称伊朗战事一周烧110亿美元",
+          "url": "https://www.toutiao.com/trending/7615680508223094793/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "外交部：中国红十字会提供20万美元紧急人道主义援助 专门用于慰问和抚恤伊朗遇难学生家长。（新华社）",
@@ -683,28 +743,6 @@
           "time_info": "12时09分"
         },
         {
-          "title": "中方向伊朗遇难学生家长援助20万美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%B4%E5%8A%A920%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
           "title": "现货白银失守82美元/盎司，日内跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3069486",
           "source": "华尔街见闻-快讯",
@@ -780,17 +818,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
-        },
-        {
-          "title": "中方向伊朗遇难学生家长援助20万美元",
-          "url": "https://www.toutiao.com/trending/7616641907589959178/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "交易员不再认为美联储2026年降息一次的概率为100%，油价上涨让投资者担忧通胀风险。 WTI原油日内涨幅达10.0%，报94.7美元/桶。",
@@ -991,15 +1018,15 @@
           "time_info": "15时41分"
         },
         {
-          "title": "中国向伊朗提供20万美元人道主义援助",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B20%E4%B8%87%E7%BE%8E%E5%85%83%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
-          "source": "百度热搜",
+          "title": "周五，亚洲石脑油炼油利润相对于布伦特原油飙升至每吨368.15美元的新高。",
+          "url": "https://flash.jin10.com/detail/20260313175227802800",
+          "source": "金十数据",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "18时32分"
         },
         {
           "title": "市场消息：美国取暖油价格突破5美元/加仑。",
@@ -1027,7 +1054,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -1054,6 +1081,17 @@
           "time_info": "[00时02分 ~ 05时29分]"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时32分]"
+        },
+        {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
           "url": "https://wallstreetcn.com/articles/3767287",
           "source": "华尔街见闻",
@@ -1066,15 +1104,17 @@
           "time_info": "[00时02分 ~ 07时24分]"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 18时32分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -1092,17 +1132,18 @@
           "time_info": "[00时02分 ~ 14时45分]"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
           "ranks": [
+            9,
+            8,
             10,
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 18时32分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -1130,18 +1171,15 @@
           "time_info": "[04时29分 ~ 04时30分]"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            10,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 17时35分]"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -1161,9 +1199,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-13）",
+          "url": "https://flash.jin10.com/detail/20260313181800724800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -1184,7 +1233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -1261,6 +1310,17 @@
           "time_info": "[09时44分 ~ 13时45分]"
         },
         {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "伊朗称特朗普几条推文结束不了战争",
           "url": "https://flash.jin10.com/detail/20260313004520116800",
           "source": "金十数据",
@@ -1292,6 +1352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3069649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
@@ -1473,8 +1544,19 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "比亚迪携「车家互联」亮相 AWE 展，这项技术将给生活带来哪些颠覆性改变？",
+          "url": "https://www.zhihu.com/question/2015526319295853907",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
         {
           "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
           "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
@@ -1496,6 +1578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "比亚迪发行50亿元人民币270天期科创债",
+          "url": "https://wallstreetcn.com/livenews/3069641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
@@ -1525,11 +1618,12 @@
           "url": "https://www.cls.cn/detail/2312133",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
         }
       ]
     }
