@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T15:33:26.979844+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-03-14T16:31:38.659594+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时24分]"
+        },
+        {
+          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
+          "url": "https://wallstreetcn.com/articles/3767495",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 16时31分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -66,19 +79,6 @@
           "time_info": "[00时35分 ~ 04时30分]"
         },
         {
-          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
-          "url": "https://wallstreetcn.com/articles/3767495",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时33分]"
-        },
-        {
           "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
           "source": "澎湃新闻",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 16时31分]"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -115,8 +115,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -130,17 +143,26 @@
           "time_info": "[05时29分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
-          "source": "澎湃新闻",
+          "title": "美以伊战争丨美防长喊话特朗普盟友：赶紧买了CNN",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
+          "url": "https://www.cls.cn/detail/2312740",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时33分]"
+          "time_info": "[12时07分 ~ 16时31分]"
         },
         {
           "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
@@ -154,6 +176,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 16时31分]"
+        },
+        {
           "title": "据Politico：特朗普政府正在扩大孤立古巴的举措，向其他国家提供“激励措施”，以驱逐古巴医生。",
           "url": "https://flash.jin10.com/detail/20260314011638187800",
           "source": "金十数据",
@@ -163,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
-          "url": "https://www.cls.cn/detail/2312740",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
@@ -277,6 +299,20 @@
           "time_info": "[09时30分 ~ 13时42分]"
         },
         {
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://wallstreetcn.com/livenews/3070086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
           "url": "https://flash.jin10.com/detail/20260314040738808800",
           "source": "金十数据",
@@ -311,30 +347,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时30分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
-          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时33分]"
-        },
-        {
-          "title": "特朗普声称伊朗已被“彻底击败”",
-          "url": "https://wallstreetcn.com/livenews/3070086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
@@ -671,18 +683,6 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
-          "url": "https://wallstreetcn.com/articles/3767392",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时24分]"
-        },
-        {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
@@ -691,8 +691,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 16时31分]"
         },
         {
           "title": "美国悬赏千万美元征集穆杰塔巴等人信息",
@@ -703,8 +703,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 16时31分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时24分]"
         },
         {
           "title": "中国向伊朗提供20万美元人道主义援助",
@@ -737,8 +749,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
+          "url": "https://wallstreetcn.com/articles/3767517",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 16时31分]"
         },
         {
           "title": "伯克希尔·哈撒韦：沃伦·E·巴菲特2025年的总薪酬为389,488美元。",
@@ -774,18 +799,6 @@
           "time_info": "02时35分"
         },
         {
-          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
-          "url": "https://wallstreetcn.com/articles/3767517",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时33分]"
-        },
-        {
           "title": "市场消息：美国国务院提供最高1000万美元悬赏，以获取伊朗革命卫队高级领导人的可信信息。",
           "url": "https://flash.jin10.com/detail/20260314015919718800",
           "source": "金十数据",
@@ -795,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "委内瑞拉5亿美元石油1亿美元黄金，为何运向美国？",
+          "url": "https://news.ifeng.com/c/8rU9d6mOqfX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 16时31分]"
         },
         {
           "title": "布伦特原油日内涨幅超过2.5%，报103.01美元/桶；WTI原油5分钟内上涨0.55美元/桶，报96.58美元/桶。",
@@ -906,6 +930,17 @@
           "time_info": "[05时29分 ~ 07时24分]"
         },
         {
+          "title": "美国凭啥从委内瑞拉搬走1亿美元黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%87%AD%E5%95%A5%E4%BB%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%90%AC%E8%B5%B01%E4%BA%BF%E7%BE%8E%E5%85%83%E9%BB%84%E9%87%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时31分]"
+        },
+        {
           "title": "周五（3月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9065元，较周四纽约尾盘跌252点，日内整体交投于6.8778-6.9087元区间。",
           "url": "https://wallstreetcn.com/livenews/3070021",
           "source": "华尔街见闻-快讯",
@@ -930,17 +965,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 09时31分]"
-        },
-        {
-          "title": "委内瑞拉5亿美元石油1亿美元黄金，为何运向美国？",
-          "url": "https://news.ifeng.com/c/8rU9d6mOqfX",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时33分]"
         },
         {
           "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
@@ -1012,17 +1036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "美国凭啥从委内瑞拉搬走1亿美元黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%87%AD%E5%95%A5%E4%BB%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%90%AC%E8%B5%B01%E4%BA%BF%E7%BE%8E%E5%85%83%E9%BB%84%E9%87%91%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "纽元兑美元NZD/USD跌破0.58，日内跌0.91%。澳元兑美元AUD/USD失守0.70，日内跌幅1.07%。",
