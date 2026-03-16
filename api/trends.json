@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-17T06:28:50.814074+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-03-17T07:28:11.127946+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
-        {
-          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016900692145637068",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
-        },
         {
           "title": "特朗普会投入地面部队吗？",
           "url": "https://news.ifeng.com/c/8rXXAfLW18s",
@@ -27,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -49,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -72,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -83,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -92,11 +93,39 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            20,
+            18,
+            22,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 07时28分]"
         },
         {
           "title": "特朗普称他将“有幸拿下古巴”",
@@ -111,32 +140,6 @@
           "time_info": "[05时34分 ~ 06时28分]"
         },
         {
-          "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            20,
-            18,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 06时28分]"
-        },
-        {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
           "url": "https://flash.jin10.com/detail/20260317014030515800",
           "source": "金十数据",
@@ -146,17 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
-          "url": "https://wallstreetcn.com/livenews/3071191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "据NBC：特朗普每日都会收到结束伊朗冲突的方案选项。",
@@ -176,7 +168,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -191,6 +183,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时28分]"
+        },
+        {
+          "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
+          "url": "https://wallstreetcn.com/livenews/3071191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
         },
         {
           "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
@@ -293,7 +297,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -315,7 +319,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -430,6 +434,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "美国盟友集体回绝特朗普，拒为霍尔木兹海峡“火中取栗”",
+          "url": "https://flash.jin10.com/detail/20260317064507791800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
           "url": "https://wallstreetcn.com/livenews/3071059",
           "source": "华尔街见闻-快讯",
@@ -472,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普称将“接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260317063435876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "特朗普敦促鲍威尔召开美联储特别会议，要求“立即”降息",
@@ -529,6 +555,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "据《纽约时报》：美国总统特朗普政府表示将告知古巴，其总统必须下台。",
+          "url": "https://flash.jin10.com/detail/20260317063201728800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美国总统特朗普：很多油轮船主不想冒风险。",
           "url": "https://flash.jin10.com/detail/20260317010535305800",
           "source": "金十数据",
@@ -551,6 +588,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
+          "url": "https://flash.jin10.com/detail/20260317061813978800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美国总统特朗普：（谈英国首相斯塔默）我告诉他，我们不需要你的航母。",
           "url": "https://flash.jin10.com/detail/20260317043528007800",
           "source": "金十数据",
@@ -560,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
+          "url": "https://flash.jin10.com/detail/20260317061512622800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国总统特朗普宣称：我比几乎任何人都不希望发动战争。",
@@ -576,26 +635,27 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
-        },
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
           "url": "https://wallstreetcn.com/articles/3767638",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -609,8 +669,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 07时28分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -621,11 +681,12 @@
             14,
             15,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 07时28分]"
         },
         {
           "title": "WTI原油周二小幅高开，现报94.4美元/桶。",
@@ -634,7 +695,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -915,6 +976,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "WTI原油日内涨超1.00%，现报95.16美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260317064921474800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美元指数16日下跌",
           "url": "https://flash.jin10.com/detail/20260317044815242800",
           "source": "金十数据",
@@ -962,7 +1034,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -970,11 +1042,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
+        },
+        {
+          "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
+          "url": "https://flash.jin10.com/detail/20260317071109761800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
@@ -1002,8 +1086,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。",
