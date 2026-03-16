@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T09:58:42.654714+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-16T12:41:28.142811+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时41分]"
         },
         {
           "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
@@ -131,11 +131,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时41分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -150,6 +151,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 06时22分]"
+        },
+        {
+          "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
+          "url": "https://www.cls.cn/detail/2313562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美石油巨头警告特朗普政府：能源危机恐加剧",
@@ -194,9 +217,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "12时41分"
         },
         {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
@@ -221,13 +255,24 @@
           "time_info": "07时25分"
         },
         {
+          "title": "特朗普称正与他国商讨共同保障霍尔木兹海峡航行安全",
+          "url": "https://wallstreetcn.com/livenews/3070554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "特朗普威胁北约",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%8C%97%E7%BA%A6%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -235,7 +280,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "比特币短线从7.16万美元下方拉升至71990.88美元。",
@@ -276,6 +321,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "泰铢汇率下跌，跌至1美元兑32.505泰铢，为2025年11月24日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260316121140865800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "WTI原油开盘向上触及102美元/桶，日内涨2.74%。",
           "url": "https://flash.jin10.com/detail/20260316060039776800",
           "source": "金十数据",
@@ -314,13 +370,24 @@
           "time_info": "[01时24分 ~ 03时25分]"
         },
         {
+          "title": "菲律宾比索兑美元一度触及60.032的纪录新低，最新报59.841。",
+          "url": "https://flash.jin10.com/detail/20260316115959713800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "现货白银失守79美元",
           "url": "https://flash.jin10.com/detail/20260316091407586800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -331,9 +398,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "现货钯金日内涨幅达2.00%，现报1576.28美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260316113843934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "现货黄金周一低开近20美元，一度跌破5000美元/盎司；现货白银低开0.3美元，现报79.96美元/盎司。",
@@ -360,6 +438,34 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：阿里巴巴(09988.HK)据悉计划推出面向企业，基于千问模型的AI智能体。",
+          "url": "https://flash.jin10.com/detail/20260316120755439800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "阿里巴巴据悉计划推出面向企业，基于千问模型的AI智能体。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3070581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "可控核聚变",
       "match_count": 1,
       "titles": [
@@ -375,6 +481,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时23分 ~ 09时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3070573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     }
