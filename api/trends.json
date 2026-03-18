@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-19T01:58:33.554661+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-03-19T03:01:30.720455+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
+        },
         {
           "title": "迪拜原油价格攻破150美元",
           "url": "https://www.toutiao.com/trending/7618064062336876563/",
@@ -19,37 +30,15 @@
           "time_info": "[00时05分 ~ 01时58分]"
         },
         {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
-        },
-        {
-          "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3072607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
-          "url": "https://wallstreetcn.com/livenews/3072606",
+          "title": "欧元兑美元跌至1.1487，刷新日低，鲍威尔正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3072635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时01分"
         },
         {
           "title": "周三（3月18日），韩元兑美元最终跌0.87%，报1501.41韩元，北京时间19:20-21:17持续走低。",
@@ -58,9 +47,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3072607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时01分]"
+        },
+        {
+          "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
+          "url": "https://wallstreetcn.com/livenews/3072606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时01分]"
         },
         {
           "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
@@ -71,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "周三（3月18日），美联储隔夜逆回购协议（RRP）使用规模为6.98亿美元（交易对手6家），上个交易日报7.97亿美元。",
@@ -81,7 +94,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -92,9 +105,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "WTI 4月原油期货收涨0.11美元，涨幅0.11%，报96.32美元/桶。 布伦特5月原油期货收涨3.96美元，涨幅3.83%，报107.38美元/桶。 NYMEX 4月天然气期货收报3.0650美元/百万英热单位。 NYMEX 4月汽油期货收报3.0985美元/加仑，NYMEX 3月取暖油期货收报4.1978美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3072627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
           "title": "虎牙公司宣布新一轮5000万美元股票回购计划",
@@ -114,9 +138,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "两年期美债收益率短线下挫2个基点，至3.69%下方。现货黄金持稳于4900美元下方，美元指数维持0.2%的涨幅。美联储按兵不动，理事米兰要求降息。",
+          "url": "https://wallstreetcn.com/livenews/3072616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美元指数DXY在美联储决议日站上100，日内涨0.44%。",
+          "url": "https://flash.jin10.com/detail/20260319024745270800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "WTI原油期货朝着96美元回落。",
+          "url": "https://wallstreetcn.com/livenews/3072611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
@@ -132,8 +189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -143,19 +200,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
-          "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
-          "url": "https://wallstreetcn.com/livenews/3072608",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
+          "url": "https://www.zhihu.com/question/2017526267604385905",
+          "source": "知乎",
           "ranks": [
-            1
+            8,
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
@@ -164,21 +223,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
-          "url": "https://www.zhihu.com/question/2017526267604385905",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -188,8 +235,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
+        },
+        {
+          "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
+          "url": "https://wallstreetcn.com/livenews/3072608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 03时01分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -199,8 +258,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -210,8 +269,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -221,8 +280,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -233,8 +292,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时01分]"
         }
       ]
     }
