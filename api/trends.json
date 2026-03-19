@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-20T06:23:53.767096+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-03-20T07:26:31.987641+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
           "url": "https://www.cls.cn/detail/2318687",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
@@ -37,11 +38,12 @@
           "ranks": [
             7,
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
@@ -51,22 +53,24 @@
             14,
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 06时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 07时26分]"
         },
         {
           "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "伊朗外长回应美2000亿美元战争拨款",
@@ -81,17 +85,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 06时23分]"
-        },
-        {
-          "title": "WTI原油周五基本平开，现报95美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260320060121188800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         },
         {
           "title": "美国批准部分俄罗斯原油的交付与销售。 国际油价直线跳水，美油主力合约跌超3%，跌破93美元/桶。",
@@ -138,6 +131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
+        },
+        {
+          "title": "WTI原油周五基本平开，现报95美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260320060121188800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时26分]"
         },
         {
           "title": "周四（3月19日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.8782元，较周三纽约尾盘涨222点，日内整体交投于6.9076-6.8741元区间。",
@@ -193,11 +198,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "专家：若伊朗兑现打击海湾能源设施的威胁，油价将触及每桶120美元",
@@ -371,9 +377,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "据日经新闻：日本将提供最高11亿美元的债务担保，支持“绿色”钢铁厂。",
@@ -385,6 +402,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "报道：黑石830亿美元的BCRED基金正出售新的私人信贷CLO",
+          "url": "https://wallstreetcn.com/livenews/3073617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "英镑兑美元GBP/USD日内涨超1%，现报1.3390。",
@@ -404,7 +443,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -448,7 +487,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -486,6 +525,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
+          "url": "https://flash.jin10.com/detail/20260320061455278800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8873元，较周三夜盘收盘涨6点。成交量533.56亿美元。",
           "url": "https://wallstreetcn.com/livenews/3073534",
           "source": "华尔街见闻-快讯",
@@ -503,7 +553,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -569,7 +619,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -577,7 +627,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -587,8 +637,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -598,8 +648,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -609,8 +659,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -621,8 +671,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -630,11 +680,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -644,8 +695,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时23分]"
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时26分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -673,6 +724,19 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时26分]"
+        },
+        {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
           "url": "https://wallstreetcn.com/livenews/3073489",
           "source": "华尔街见闻-快讯",
@@ -695,18 +759,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时23分]"
         },
         {
           "title": "美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。 这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC）",
@@ -769,6 +821,17 @@
           "time_info": "[03时43分 ~ 04时32分]"
         },
         {
+          "title": "特朗普会晤高市早苗 要求日本就伊朗战事出力",
+          "url": "https://flash.jin10.com/detail/20260320064109049800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
           "title": "【内塔尼亚胡：以方将“暂停”空袭伊朗能源设施】以色列总理内塔尼亚胡19日在一场新闻发布会上回答媒体提问时称，是以色列“单独”空袭了伊朗天然气田，以方将“遵守”美国总统特朗普所提“暂停”后续空袭能源设施的要求。特朗普当天早些时候在白宫回答媒体提问时表示，他已经告知内塔尼亚胡不要攻击伊朗境内的能源设施。据伊朗媒体18日报道，伊朗南部布什尔省南帕尔斯和阿萨卢耶部分石油化工设施遭美国和以色列空袭。伊朗随后宣布打击沙特阿拉伯、卡塔尔等海湾国家与美国相关的石油设施。特朗普当天在社交媒体上发文，称美方对以色列袭击伊朗油气设施事先“毫不知情”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3073569",
           "source": "华尔街见闻-快讯",
@@ -786,7 +849,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -855,6 +918,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
+          "url": "https://flash.jin10.com/detail/20260320063632572800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
+          "url": "https://flash.jin10.com/detail/20260320063627057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3073607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
