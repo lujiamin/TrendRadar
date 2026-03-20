@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T15:43:10.472305+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-03-20T16:35:55.373096+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
@@ -48,6 +48,19 @@
           "time_info": "[01时55分 ~ 09时46分]"
         },
         {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 16时35分]"
+        },
+        {
           "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
           "url": "https://www.zhihu.com/question/2017913786695186154",
           "source": "知乎",
@@ -73,21 +86,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时49分]"
-        },
-        {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 15时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 16时35分]"
         },
         {
           "title": "伊朗外长回应美2000亿美元战争拨款",
@@ -113,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
-          "url": "https://wallstreetcn.com/livenews/3073900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "石油美元黄金到底是什么关系",
@@ -227,6 +216,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
+        },
+        {
+          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
+          "url": "https://wallstreetcn.com/livenews/3073900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时35分]"
         },
         {
           "title": "美国投资公司协会（ICI）：截至3月18日的一周，货币市场基金资产增加了386.8亿美元，达到了7.86万亿美元。",
@@ -600,6 +601,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "来自沙特的推演！若供应中断持续到4月下旬 油价将飙破180美元",
+          "url": "https://www.cls.cn/detail/2319144",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "现货黄金重返4700美元关口上方，日内涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/3073741",
           "source": "华尔街见闻-快讯",
@@ -867,7 +879,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -913,8 +925,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时31分 ~ 15时43分]"
+          "appearance_count": 12,
+          "time_info": "[05时31分 ~ 16时35分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时35分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -939,19 +962,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时35分]"
         },
         {
-          "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            6,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 15时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 16时35分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -965,17 +991,15 @@
           "time_info": "[02时54分 ~ 09时46分]"
         },
         {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时10分 ~ 16时35分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -989,17 +1013,6 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 15时43分]"
-        },
-        {
           "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
           "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
@@ -1007,8 +1020,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时35分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -1219,6 +1232,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国总统特朗普结束白宫新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260320001923349800",
           "source": "金十数据",
@@ -1288,7 +1312,7 @@
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -1363,7 +1387,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -1390,13 +1414,24 @@
           "time_info": "09时46分"
         },
         {
+          "title": "港股收盘，恒指收跌0.88%，科指收跌2.48%；宁德时代(03750.HK)、李宁(02331.HK)逆势涨超8%，吉利汽车(00175.HK)涨近6.5%；小米集团(01810.HK)跌超8.5%，阿里巴巴(09988.HK)跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260320160917851800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "恒生科技指数跌幅扩大至3%，小米集团跌超8%，创10月以来最大盘中跌幅，阿里巴巴跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3073863",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
