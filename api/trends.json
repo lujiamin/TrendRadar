@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T21:59:15.842650+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2026-03-20T22:43:49.713472+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 93,
+      "match_count": 107,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
@@ -121,9 +121,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "现货黄金向下触及4570美元/盎司，日内跌1.73%。",
+          "url": "https://flash.jin10.com/detail/20260320221841043800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "现货白银日内跌幅达5.0%，报69.04美元/盎司。 纽约银日内跌幅达3.0%，报69.08美元/盎司。 现货黄金日内跌幅达1.5%，报4579.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "石油美元黄金到底是什么关系",
@@ -157,7 +179,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -201,9 +223,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "现货白银跌破69美元/盎司，日内跌5.27%。现货钯金日内跌超2.00%，现报1416.75美元/盎司。现货黄金失守4580美元/盎司，日内跌幅1.51%。",
+          "url": "https://flash.jin10.com/detail/20260320221611886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "现货白银日内跌幅达1.5%，报71.67美元/盎司。",
@@ -383,6 +416,17 @@
           "time_info": "[14时48分 ~ 15时43分]"
         },
         {
+          "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
+          "url": "https://www.zhihu.com/question/2018323748374143404",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 22时43分]"
+        },
+        {
           "title": "专家：若伊朗兑现打击海湾能源设施的威胁，油价将触及每桶120美元",
           "url": "https://wallstreetcn.com/livenews/3073504",
           "source": "华尔街见闻-快讯",
@@ -455,15 +499,16 @@
           "time_info": "[02时54分 ~ 03时43分]"
         },
         {
-          "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
-          "url": "https://www.zhihu.com/question/2018323748374143404",
-          "source": "知乎",
+          "title": "LME铜向下跌破12000美元/吨，最新报11998.0美元/吨，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3074190",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "time_info": "[21时59分 ~ 22时43分]"
         },
         {
           "title": "美联储3月18日当周贴现窗贷款余额48.8亿美元，之前一周46.6亿美元。",
@@ -581,6 +626,17 @@
           "time_info": "14时49分"
         },
         {
+          "title": "现货黄金失守4590美元/盎司，日内跌幅1.30%。",
+          "url": "https://flash.jin10.com/detail/20260320221413088800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "全球央行警示通胀风险 美元应声下挫",
           "url": "https://flash.jin10.com/detail/20260320022338013800",
           "source": "金十数据",
@@ -658,6 +714,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报99.69。",
+          "url": "https://flash.jin10.com/detail/20260320221350166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "报道：黑石830亿美元的BCRED基金正出售新的私人信贷CLO",
           "url": "https://wallstreetcn.com/livenews/3073617",
           "source": "华尔街见闻-快讯",
@@ -667,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "墨西哥比索对美元跌幅扩大至逾1%。",
+          "url": "https://flash.jin10.com/detail/20260320221223220800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美元指数短线拉升，日内涨超0.4%，报99.605。",
@@ -680,17 +758,6 @@
           "time_info": "18时34分"
         },
         {
-          "title": "LME铜向下跌破12000美元/吨，最新报11998.0美元/吨，日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3074190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "英镑兑美元GBP/USD日内涨超1%，现报1.3390。",
           "url": "https://flash.jin10.com/detail/20260320012137274800",
           "source": "金十数据",
@@ -700,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "现货黄金失守4600美元/盎司，日内跌幅1.09%。",
+          "url": "https://flash.jin10.com/detail/20260320221219716800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "杰富瑞集团（Jefferies LLC）分析师Christopher Lafemina在给客户的报告中写道：目前，投资者的注意力集中在利润率上，以及金价下跌和能源/消耗品成本上升这‘双重打击’的潜在风险。 在冲突长期化的情境下，更高的利率预期和更强的美元可能会对黄金施加更多压力。",
@@ -722,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "美国10年期国债收益率升至4.33%，为自去年8月份以来的最高水平。 美国2至5年期国债收益率日内上涨至少10个基点。 意大利与德国10年期收益率差扩大至91个基点，为6月以来最大。 现货白银日内跌幅达3.0%，报70.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "小鹏汽车(09868.HK)：2025财政年度净亏损为人民币11.4亿元（1.6亿美元），相较而言，去年则为人民币57.9亿元。",
@@ -812,6 +901,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "现货黄金日内跌超1.00%，逼近4600美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260320220921026800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "沙特阿拉伯认为，若能源冲击持续至4月底，油价将飙升至180美元/桶。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3073663",
           "source": "华尔街见闻-快讯",
@@ -865,6 +965,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "现货白银日内大跌4.00%，现报69.90美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260320220845771800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "卡塔尔能源公司：伊朗袭击造成每年约200亿美元的收入损失",
@@ -961,7 +1072,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -986,6 +1097,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "现货黄金失守4610美元/盎司，日内跌幅0.90%。",
+          "url": "https://flash.jin10.com/detail/20260320220224490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "WTI原油期货价格涨幅扩大，突破100美元/桶。 据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。",
@@ -1065,6 +1187,28 @@
           "time_info": "12时10分"
         },
         {
+          "title": "美元兑日元USD/JPY站上159，日内涨0.82%。",
+          "url": "https://flash.jin10.com/detail/20260320215929851800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "伦铜日内跌幅达2.00%，现报11945.60美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260320215905307800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "布伦特原油突破107美元/桶，日内涨2.66%。",
           "url": "https://flash.jin10.com/detail/20260320175647275800",
           "source": "金十数据",
@@ -1074,12 +1218,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "现货白银失守70美元/盎司，日内跌幅3.89%。",
+          "url": "https://flash.jin10.com/detail/20260320215903591800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -1127,8 +1282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时31分 ~ 21时59分]"
+          "appearance_count": 20,
+          "time_info": "[05时31分 ~ 22时43分]"
         },
         {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
@@ -1250,15 +1405,16 @@
           "time_info": "18时34分"
         },
         {
-          "title": "特朗普：北约抱怨油价，却不愿在霍尔木兹海峡问题上提供帮助。",
-          "url": "https://wallstreetcn.com/livenews/3074200",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 22时43分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -1274,16 +1430,16 @@
           "time_info": "[02时54分 ~ 04时32分]"
         },
         {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时28分 ~ 21时59分]"
+          "time_info": "[20时49分 ~ 22时43分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：从来没有哪两位领导人能像我与特朗普这样步调一致。",
@@ -1298,6 +1454,18 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
+          "title": "特朗普：北约抱怨油价，却不愿在霍尔木兹海峡问题上提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3074200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时43分]"
+        },
+        {
           "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
           "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
           "source": "澎湃新闻",
@@ -1309,18 +1477,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时35分 ~ 18时34分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时59分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -1462,15 +1618,49 @@
           "time_info": "[03时43分 ~ 04时32分]"
         },
         {
+          "title": "特朗普呼吁美国国会采取行动，“立即”通过农业法案。",
+          "url": "https://wallstreetcn.com/livenews/3074182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普批北约“纸老虎”：不愿协助开海峡，转头怨高油价",
           "url": "https://flash.jin10.com/detail/20260320214852937800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "美国总统特朗普政府宣布与软银和俄亥俄州电力公司建立合作伙伴关系，软银计划在俄亥俄州建设一座由燃气电站供电的大型人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260320221407795800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "特朗普称北约是“纸老虎” 强调“美国会记住”相关国家表现",
+          "url": "https://wallstreetcn.com/livenews/3074209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普会晤高市早苗 要求日本就伊朗战事出力",
@@ -1512,7 +1702,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1523,7 +1713,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1545,18 +1735,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "特朗普呼吁美国国会采取行动，“立即”通过农业法案。",
-          "url": "https://wallstreetcn.com/livenews/3074182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1669,6 +1848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "特朗普肖像将登美建国250周年纪念币",
+          "url": "https://www.toutiao.com/trending/7619105580468158510/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普全程高能高市被晾一边",
@@ -1865,7 +2055,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
