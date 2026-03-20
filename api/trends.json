@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T12:10:59.247269+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-03-20T13:48:33.243896+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
@@ -96,7 +96,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -148,15 +148,17 @@
           "time_info": "09时46分"
         },
         {
-          "title": "印度卢比兑美元触及历史低点92.9138。",
-          "url": "https://wallstreetcn.com/livenews/3073756",
-          "source": "华尔街见闻-快讯",
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时48分]"
         },
         {
           "title": "英镑兑美元GBP/USD向上触及1.34，日内涨1.08%。",
@@ -176,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -217,19 +219,6 @@
           "time_info": "[06时23分 ~ 07时26分]"
         },
         {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时10分]"
-        },
-        {
           "title": "周四（3月19日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.8782元，较周三纽约尾盘涨222点，日内整体交投于6.9076-6.8741元区间。",
           "url": "https://wallstreetcn.com/livenews/3073574",
           "source": "华尔街见闻-快讯",
@@ -240,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
+          "title": "印度卢比兑美元触及历史低点92.9138。",
+          "url": "https://wallstreetcn.com/livenews/3073756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时48分]"
         },
         {
           "title": "周四（3月19日），美联储隔夜逆回购协议（RRP）使用规模为6.37亿美元（交易对手5家），上个交易日报6.98亿美元。",
@@ -460,7 +461,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -537,7 +538,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -573,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "印度卢比兑美元跌破93关口，再创新低，日内跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3073769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "WTI原油日内大跌4.00%，现报95.58美元/桶。布伦特原油向下触及104美元/桶，日内跌3.03%。",
@@ -636,7 +648,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -768,7 +780,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -776,7 +788,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -786,8 +798,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 13时48分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -834,8 +846,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 13时48分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -859,8 +871,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时31分 ~ 12时10分]"
+          "appearance_count": 7,
+          "time_info": "[05时31分 ~ 13时48分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -872,6 +884,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -887,6 +910,18 @@
           "time_info": "[02时54分 ~ 04时32分]"
         },
         {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时48分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：从来没有哪两位领导人能像我与特朗普这样步调一致。",
           "url": "https://flash.jin10.com/detail/20260320033936467800",
           "source": "金十数据",
@@ -899,16 +934,15 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时10分]"
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时48分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -1039,15 +1073,15 @@
           "time_info": "[03时43分 ~ 04时32分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "13时48分"
         },
         {
           "title": "特朗普会晤高市早苗 要求日本就伊朗战事出力",
@@ -1147,13 +1181,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "近90条帖子直播战争：特朗普的Truth Social正在指挥中东",
+          "url": "https://flash.jin10.com/detail/20260320123515383800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
+          "url": "https://flash.jin10.com/detail/20260320132247038800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3073790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
           "url": "https://wallstreetcn.com/livenews/3073553",
