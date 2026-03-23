@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-03-23T14:08:59.253649+08:00",
-  "total_titles_processed": 984,
-  "failed_sources": [],
+  "generated_at": "2026-03-23T16:02:09.705241+08:00",
+  "total_titles_processed": 1130,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 47,
       "titles": [
         {
           "title": "沙特预警4月油价或飙破180美元",
@@ -37,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -63,9 +65,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "高盛上调3-4月布油均价至110美元，警告高油价持续至2027年底！",
+          "url": "https://www.cls.cn/detail/2320813",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时02分]"
         },
         {
           "title": "美国财长贝森特：WTI原油价格之所以能保持在100美元以下，且未像俄乌冲突爆发初期那样出现大幅飙升，原因之一就在于目前市场上的供应十分充足。",
@@ -140,18 +154,6 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "高盛上调3-4月布油均价至110美元，警告高油价持续至2027年底！",
-          "url": "https://www.cls.cn/detail/2320813",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时08分]"
-        },
-        {
           "title": "美国财长贝森特宣称：（在放宽制裁方面）俄罗斯可能会从石油销售中获得最多20亿美元收入。",
           "url": "https://wallstreetcn.com/livenews/3074577",
           "source": "华尔街见闻-快讯",
@@ -223,6 +225,17 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
+          "title": "现货黄金跌破4200美元/盎司",
+          "url": "https://www.toutiao.com/trending/7620326319812775487/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时02分]"
+        },
+        {
           "title": "美元“刚需”激增，但流动性却卡在了中介环节",
           "url": "https://flash.jin10.com/detail/20260323115157696800",
           "source": "金十数据",
@@ -240,7 +253,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -251,7 +264,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -284,7 +297,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -295,7 +308,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -317,9 +330,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "伯克希尔将向保险公司“东京海上控股”投资18亿美元",
+          "url": "https://flash.jin10.com/detail/20260323153706638800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "现货白银日内涨超2.00%，现报69.21美元/盎司。",
@@ -331,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "布伦特原油现货价格向上触及110美元/桶，日内涨2.03%。",
+          "url": "https://flash.jin10.com/detail/20260323153612072800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "人民币兑美元中间价报6.9041，创3月16日来新低，下调143点；上一交易日中间价6.8898，上一交易日官方收盘价6.8817，上日夜盘报收6.9050。",
@@ -350,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -372,9 +407,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至2.00%，现报109.99美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260323153534944800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "WTI原油日内转跌，最新报98.25美元/桶。",
@@ -386,6 +432,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报101.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3074969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "现货黄金跌破4100美元/盎司，日内跌近9%。 纽约金日内跌幅达10.0%，报4147.4美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "现货白银日内跌幅达10.0%，报61.01美元/盎司。 纽约银日内跌幅达12.0%，报61.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "美国原油期货延续涨势，日内大涨逾3美元，至101.26美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260323152825718800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "布伦特原油日内涨逾2美元，现报109.83美元/桶，涨幅1.87%。",
+          "url": "https://flash.jin10.com/detail/20260323152804145800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "现货铂金日内跌逾3%，报每盎司1,857.35美元。",
@@ -419,12 +520,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "麦格理：将小鹏汽车评级由跑赢大市下调至中性评级。将小鹏汽车(XPEV.N)目标价由24美元下调至19美元。将小鹏汽车(09868.HK)目标价由93港元下调至73港元。",
+          "url": "https://flash.jin10.com/detail/20260323152506517800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "现货黄金日内跌幅达8.0%，报4136.87美元/盎司；现货白银日内跌幅达9.5%，报61.27美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -470,8 +593,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 16时02分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时02分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -508,18 +643,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 14时08分]"
-        },
-        {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时08分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -583,6 +706,51 @@
           "time_info": "[12时25分 ~ 14时08分]"
         },
         {
+          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
+          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时02分]"
+        },
+        {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
           "url": "https://wallstreetcn.com/livenews/3074621",
           "source": "华尔街见闻-快讯",
@@ -624,27 +792,16 @@
           "time_info": "[00时25分 ~ 03时22分]"
         },
         {
-          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
-          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
+          "title": "美议员要求特朗普政府官员国会作证",
+          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时08分]"
+          "time_info": "[12时25分 ~ 16时02分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -695,16 +852,16 @@
           "time_info": "[00时25分 ~ 04时21分]"
         },
         {
-          "title": "美议员要求特朗普政府官员国会作证",
-          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
-          "source": "凤凰网",
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时08分]"
+          "time_info": "[14时08分 ~ 16时02分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -730,6 +887,17 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
+          "title": "伊朗提出4项措施回应特朗普威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA4%E9%A1%B9%E6%8E%AA%E6%96%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普借电视短剧嘲讽英国首相",
           "url": "https://www.toutiao.com/trending/7619442004216283146/",
           "source": "今日头条",
@@ -750,17 +918,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
-        },
-        {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默今晚与美国总统特朗普进行了通话。",
@@ -791,7 +948,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -807,15 +964,37 @@
           "time_info": "07时23分"
         },
         {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时00分"
+        },
+        {
           "title": "特朗普重开霍尔木兹海峡的最后期限：两周！",
           "url": "https://flash.jin10.com/detail/20260323132833482800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "伊朗军方发言人用“特朗普的方式”回应特朗普",
+          "url": "https://wallstreetcn.com/livenews/3074960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
