@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T09:52:04.038302+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-03-23T12:26:17.694033+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时26分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -127,6 +127,18 @@
           "time_info": "[00时25分 ~ 07时23分]"
         },
         {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时26分]"
+        },
+        {
           "title": "伊朗提出4项措施回应特朗普威胁",
           "url": "https://www.toutiao.com/trending/7619720129802387475/",
           "source": "今日头条",
@@ -140,15 +152,15 @@
           "time_info": "[00时25分 ~ 07时23分]"
         },
         {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
+          "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -240,6 +252,29 @@
           "time_info": "[00时25分 ~ 04时21分]"
         },
         {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时26分]"
+        },
+        {
+          "title": "美议员要求特朗普政府官员国会作证",
+          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
           "url": "https://flash.jin10.com/detail/20260323042752009800",
           "source": "金十数据",
@@ -257,17 +292,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -307,6 +331,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国总统特朗普：以实力促和平，说得还算委婉了！！！",
+          "url": "https://flash.jin10.com/detail/20260323115125942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "48小时最后通牒：特朗普威胁“炸电厂”，伊朗回敬“完全封锁海峡”",
           "url": "https://flash.jin10.com/detail/20260323063950259800",
           "source": "金十数据",
@@ -321,7 +356,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "沙特预警4月油价或飙破180美元",
@@ -446,6 +481,17 @@
           "time_info": "[00时25分 ~ 02时31分]"
         },
         {
+          "title": "高盛上调3-4月布油均价至110美元，警告高油价持续至2027年底！",
+          "url": "https://www.cls.cn/detail/2320813",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
           "title": "美国财政部估计俄罗斯因石油制裁放宽带来20亿美元收入",
           "url": "https://flash.jin10.com/detail/20260323043635363800",
           "source": "金十数据",
@@ -493,6 +539,28 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
+          "title": "黄金跳水失守4340美元 白银大跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E5%A4%B1%E5%AE%884340%E7%BE%8E%E5%85%83+%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "美元“刚需”激增，但流动性却卡在了中介环节",
+          "url": "https://flash.jin10.com/detail/20260323115157696800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "现货黄金转为上涨0.8%，报4534.53美元/盎司；现货白银涨超2%，报69.41美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3074651",
           "source": "华尔街见闻-快讯",
@@ -502,6 +570,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "印度卢比兑美元跌至历史新低93.8350。 印度10年期国债收益率上行4个基点至6.78%。",
+          "url": "https://wallstreetcn.com/livenews/3074821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "万科2027年到期美元债势创3个月最大跌幅，该公司3.975%债券每1美元跌3.5美分，至38.7美分。",
+          "url": "https://wallstreetcn.com/livenews/3074813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "现货白银日内涨超2.00%，现报69.21美元/盎司。",
@@ -521,9 +611,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "大华银行：布伦特原油价格短期内有可能突破130美元",
+          "url": "https://flash.jin10.com/detail/20260323113829068800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "WTI原油日内转跌，最新报98.25美元/桶。",
@@ -543,9 +644,65 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "高盛将第二季度TTF天然气价格预测从63欧元/兆瓦时上调至72欧元/兆瓦时。 高盛将第二季度JKM天然气价格预测从23.35美元/百万英热上调至26.90美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3074786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "印度卢比开盘报93.83兑1美元，创历史新低，较前一交易日收盘下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260323113124942800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。",
+          "url": "https://wallstreetcn.com/livenews/3074809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月23日（周一）富时中国A50指数成分股：盘面几乎全线飘绿，多数个股跌逾4%，牧原股份重挫超8%；比亚迪逆势涨超5%",
+          "url": "https://flash.jin10.com/detail/20260323113452905800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     }
