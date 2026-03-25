@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-25T15:05:05.631292+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-03-25T16:43:57.739480+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 16时43分]"
+        },
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
           "url": "https://wallstreetcn.com/articles/3768213",
@@ -34,29 +47,18 @@
           "time_info": "[07时27分 ~ 15时05分]"
         },
         {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 15时05分]"
-        },
-        {
           "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
           "url": "https://www.cls.cn/detail/2323682",
           "source": "财联社热门",
           "ranks": [
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时05分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时43分]"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -145,8 +147,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时43分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -244,11 +246,12 @@
           "url": "https://www.cls.cn/detail/2323758",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时43分]"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -272,6 +275,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称已向伊朗提出和平方案，中方回应",
+          "url": "https://www.cls.cn/detail/2324238",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
@@ -349,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "路透社/益普索民调：在汽油价格飙升背景下，仅有四分之一的美国人认可特朗普应对生活成本问题的方式。",
@@ -450,6 +475,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "美国总统特朗普：这场战争已经赢了。",
           "url": "https://flash.jin10.com/detail/20260325024516794800",
           "source": "金十数据",
@@ -549,6 +585,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "特朗普称已向伊朗提出和平方案，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3076518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "【特朗普转发巴基斯坦总理倡议，支持巴方主办美伊会谈】3月24日，美国总统特朗普转发了巴基斯坦总理夏巴兹提出的倡议，支持由巴方主办美伊之间“有意义且具决定性”的会谈。（央视）",
           "url": "https://wallstreetcn.com/livenews/3076089",
           "source": "华尔街见闻-快讯",
@@ -585,7 +632,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
@@ -607,11 +654,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时43分]"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报71.77美元/盎司。",
@@ -625,15 +673,37 @@
           "time_info": "07时28分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8977，较上一交易日官方收盘价跌100点，较上日夜盘收盘跌61点。",
+          "url": "https://wallstreetcn.com/livenews/3076551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "英国数据公布后，英镑兑美元GBP/USD短线上涨十余点，现报1.3393。",
           "url": "https://flash.jin10.com/detail/20260325150313831800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "在岸人民币兑美元3月25日16:30收盘报6.8977，较上一交易日下跌100点。",
+          "url": "https://flash.jin10.com/detail/20260325163259866800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "周二（3月24日），美联储隔夜逆回购协议（RRP）使用规模为11.23亿美元（交易对手6家），上个交易日报8.57亿美元。",
@@ -931,6 +1001,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "印度卢比兑美元汇率创新低 资金在持续流出印度资产",
+          "url": "https://wallstreetcn.com/livenews/3076530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "市场消息：Arm预计新的芯片部门在五年内年销售额将达到150亿美元。",
           "url": "https://flash.jin10.com/detail/20260325040125610800",
           "source": "金十数据",
@@ -1155,8 +1236,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时43分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -1166,11 +1247,12 @@
             5,
             18,
             19,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时05分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时43分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -1181,8 +1263,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时05分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时43分]"
         },
         {
           "title": "OpenAI为何关停Sora",
@@ -1424,6 +1506,78 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "港股午后快速拉升恒生指数涨超1.3%，恒生科技指数涨超2%，科网股领涨大市，美团(03690.HK)涨超11.5%，阿里巴巴(09988.HK)涨超6%，京东(09618.HK)涨超5%；消息面上，经济日报评论员发布文章表示，外卖大战该结束了。",
+          "url": "https://flash.jin10.com/detail/20260325134255736800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "恒生科技指数午后涨幅扩大至2%，美团涨超10%，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "港股科网股午后探底回升，美团(03690.HK)涨超10%，京东(09618.HK)涨超3.5%，阿里巴巴(09988.HK)涨超3%，阿里健康(00241.HK)贝壳(02423.HK)、京东健康(06618.HK)等均涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260325133704336800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "港股科技股短线拉升，美团涨超8%，阿里巴巴、京东涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3076428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3076523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比亚迪",
       "match_count": 5,
       "titles": [
@@ -1481,56 +1635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "港股午后快速拉升恒生指数涨超1.3%，恒生科技指数涨超2%，科网股领涨大市，美团(03690.HK)涨超11.5%，阿里巴巴(09988.HK)涨超6%，京东(09618.HK)涨超5%；消息面上，经济日报评论员发布文章表示，外卖大战该结束了。",
-          "url": "https://flash.jin10.com/detail/20260325134255736800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "恒生科技指数午后涨幅扩大至2%，美团涨超10%，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3076433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "港股科网股午后探底回升，美团(03690.HK)涨超10%，京东(09618.HK)涨超3.5%，阿里巴巴(09988.HK)涨超3%，阿里健康(00241.HK)贝壳(02423.HK)、京东健康(06618.HK)等均涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260325133704336800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "港股科技股短线拉升，美团涨超8%，阿里巴巴、京东涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3076428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         }
       ]
     }
