@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T01:59:04.193758+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-03-27T03:08:53.431574+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华保持着沟通",
@@ -96,6 +96,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3077645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
           "url": "https://wallstreetcn.com/livenews/3077593",
           "source": "华尔街见闻-快讯",
@@ -106,6 +117,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时59分]"
+        },
+        {
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "特朗普：如果美伊达成“正确的协议”，霍尔木兹海峡将会开放",
@@ -128,20 +152,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
-        },
-        {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -152,19 +164,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
           "url": "https://www.zhihu.com/question/2020434705586102279",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -174,8 +187,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -186,8 +199,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "美国（特朗普政府）调查斯坦福大学医学院的行政政策。（纽约时报）",
@@ -196,7 +209,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -309,12 +322,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国（特朗普政府）调查斯坦福大学医学院的招生政策。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3077621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -324,8 +348,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "继续巩固全球市场第二！中芯国际2025全年销售超93亿美元 产能利用率增至93.5%",
@@ -336,8 +360,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "女子网络成瘾 平台被判赔600万美元",
@@ -348,8 +372,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
@@ -360,8 +384,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -371,8 +395,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时08分]"
+        },
+        {
+          "title": "WTI 5月原油期货收涨4.16美元，涨幅超过4.60%，报94.48美元/桶，整体持续走高。 中东Abu Dhabi Murban原油期货涨3.77%，报109.33美元/桶。 NYMEX 4月天然气期货收报2.9990美元/百万英热单位。 NYMEX 4月汽油期货收报3.1302美元/加仑，NYMEX 3月取暖油期货收报4.2734美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3077643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的8.85亿美元。",
@@ -381,7 +416,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -392,9 +427,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "现货白银日内跌超6.00%，现报66.87美元/盎司。纽约期银日内跌超8.00%，现报66.79美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260327022121942800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "周四（3月26日），韩元兑美元最终跌0.37%，报1507.74韩元。",
+          "url": "https://wallstreetcn.com/livenews/3077636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.255%，投标倍数2.43。",
@@ -403,7 +460,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -419,13 +476,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "LME期铜收跌174美元，报12147美元/吨。 LME期铝收涨27美元，报3270美元/吨。 LME期锌收涨2美元，报3082美元/吨。 LME期铅收跌20美元，报1892美元/吨。 LME期镍收跌91美元，报17253美元/吨。 LME期锡收跌693美元，报44125美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3077629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
           "title": "纽约金日内跌扩大至超过4.0%，最低跌至4394.90美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3077603",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -447,7 +515,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -458,9 +526,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "伊斯坦布尔Phoenix咨询公司创始人Iris Cibre表示，官员们已动用土耳其央行1350亿美元储备中的黄金进行销售和掉期安排，以满足流动性需求并稳定国内需求。 她估计总销售额为58.4吨，其中一半以上是通过海外的黄金换外汇掉期交易完成的。",
+          "url": "https://wallstreetcn.com/livenews/3077639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     },
@@ -474,11 +553,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            22
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         },
         {
           "title": "泰国总理从劳斯莱斯改开比亚迪",
@@ -503,11 +583,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时08分]"
         }
       ]
     }
