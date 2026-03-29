@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-03-30T05:28:24.934572+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-03-30T06:26:30.739043+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2020858530614305581",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            10,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
+        },
+        {
+          "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
+          "url": "https://wallstreetcn.com/livenews/3078733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时26分]"
+        },
+        {
+          "title": "现货黄金低开后走高，现报4506.22美元/盎司，日内上涨0.3%，稍早一度跌至4466.91美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美、布两油周一高开约1%，现分别报102.57美元/桶和107.15美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260330060109144800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "现货黄金周一开盘跌破4470美元/盎司，日内跌0.58%。现货白银回落至69美元/盎司下方，日内跌1.16%。",
+          "url": "https://flash.jin10.com/detail/20260330060041734800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "周一汇市盘初，美元兑瑞郎USD/CHF日内跌幅达0.5%，报0.7947、欧元兑美元EUR/USD跌0.1%、澳元兑美元AUD/USD跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20260330051427707800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时26分]"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 6,
@@ -15,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,30 +106,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
           "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -57,11 +139,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -73,50 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2020858530614305581",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            10,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时28分]"
-        },
-        {
-          "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
-          "url": "https://wallstreetcn.com/livenews/3078733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时28分]"
-        },
-        {
-          "title": "周一汇市盘初，美元兑瑞郎USD/CHF日内跌幅达0.5%，报0.7947、欧元兑美元EUR/USD跌0.1%、澳元兑美元AUD/USD跌0.17%。",
-          "url": "https://flash.jin10.com/detail/20260330051427707800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         }
       ]
     }
