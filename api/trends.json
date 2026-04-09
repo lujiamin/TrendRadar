@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T09:51:03.723527+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-04-09T12:31:50.667507+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -20,22 +20,23 @@
           "time_info": "[00时56分 ~ 09时51分]"
         },
         {
+          "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
+          "url": "https://news.ifeng.com/c/8sAEfxVEMqZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时31分]"
+        },
+        {
           "title": "特朗普提议与伊朗联合管理霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8sADQbyVMoK",
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 09时51分]"
-        },
-        {
-          "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
-          "url": "https://news.ifeng.com/c/8sAEfxVEMqZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -86,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时31分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -117,11 +118,23 @@
           "url": "https://www.zhihu.com/question/2025299647992709378",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时31分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时31分]"
         },
         {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
@@ -133,17 +146,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 05时38分]"
-        },
-        {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "法国总统马克龙：已告知伊朗总统佩泽希齐扬和美国总统特朗普，他们接受停火的决定是最佳选择。",
@@ -201,6 +203,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
+          "url": "https://news.ifeng.com/c/8sB098ZojvN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "美国法官阻止特朗普政府终止对5000多名埃塞俄比亚人的法律保护的请求。",
           "url": "https://flash.jin10.com/detail/20260409050230973800",
           "source": "金十数据",
@@ -211,6 +224,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 06时35分]"
+        },
+        {
+          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "以色列议员公开辱骂特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%85%AC%E5%BC%80%E8%BE%B1%E9%AA%82%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "白宫：特朗普认为北约未通过“考验”，将与吕特讨论“退群”",
@@ -230,9 +265,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
+          "url": "https://wallstreetcn.com/livenews/3084759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
@@ -244,8 +290,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时35分 ~ 09时51分]"
+          "appearance_count": 5,
+          "time_info": "[06时35分 ~ 12时31分]"
         },
         {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
@@ -258,6 +304,51 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时34分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时31分]"
+        },
+        {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时31分]"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时31分]"
         },
         {
           "title": "周三（4月8日），美股降息赢家指数涨4.42%，报90.26点。 “特朗普关税输家”指数涨4.03%，报101.50点；“特朗普金融指数”涨4.18%，报158.68点。 散户抱团概念股指数/迷因股（meme stock）指数涨8.80%，报125.83点。",
@@ -283,28 +374,6 @@
           "time_info": "[05时21分 ~ 05时38分]"
         },
         {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "美国众议院民主党高层暗示，对推动第25修正案罢免美国总统特朗普持开放态度。",
           "url": "https://flash.jin10.com/detail/20260409044928429800",
           "source": "金十数据",
@@ -314,28 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "美媒：特朗普考虑撤出部分北约盟国的美军",
@@ -393,6 +440,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "北约秘书长吕特没有回答特朗普是否曾表示要让美国退出北约的问题。",
           "url": "https://flash.jin10.com/detail/20260409065130568800",
           "source": "金十数据",
@@ -402,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://flash.jin10.com/detail/20260409115619215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "白宫新闻秘书莱维特：北约经受了考验，但他们失败了。美国总统特朗普期待与北约秘书长吕特进行坦诚对话。",
@@ -459,6 +528,28 @@
           "time_info": "07时34分"
         },
         {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普曾提出从霍尔木兹海峡征收费用。",
           "url": "https://flash.jin10.com/detail/20260409014613560800",
           "source": "金十数据",
@@ -468,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普：我们的军队正在休整 海峡必须开放",
+          "url": "https://flash.jin10.com/detail/20260409114729043800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "白宫新闻秘书莱维特：内塔尼亚胡支持特朗普；以色列是关键盟友。",
@@ -498,7 +600,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -523,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+          "url": "https://wallstreetcn.com/livenews/3084742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "【内塔尼亚胡：临时停火“并非战争的结束”】以色列总理内塔尼亚胡8日晚发表视频讲话称，美国总统特朗普与伊朗达成的临时停火是与以色列协调的结果。这“并非战争的结束”，而是以方所有既定目标实现过程中的一个阶段。（新华社）",
@@ -597,7 +710,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -682,8 +795,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "《哪吒2》票房离第3还有不到0.7亿美元",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A6%BB%E7%AC%AC3%E8%BF%98%E6%9C%89%E4%B8%8D%E5%88%B00.7%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "哈萨克斯坦国家银行：哈萨克斯坦3月份净黄金和外汇储备为650.83亿美元，环比下降8.8%。",
+          "url": "https://flash.jin10.com/detail/20260409120116547800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
         {
           "title": "周三（4月8日）纽约尾盘，ICE原糖期货跌2.19%，ICE白糖期货跌1.18%。 ICE阿拉比卡咖啡期货涨2.53%，咖啡“C”期货涨2.54%。罗布斯塔咖啡期货涨0.59%。 纽约可可期货涨4.92%，报3177美元/吨。伦敦可可期货涨2.92%。 芝加哥WCE双低油菜籽期货跌1.95%。 ICE棉花期货涨0.34%。",
           "url": "https://wallstreetcn.com/livenews/3084550",
@@ -770,7 +905,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -803,7 +938,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -841,6 +976,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "大涨超300点，人民币对美元即期汇率升至3年多新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32925603",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "WTI原油日内涨超1.00%，现报97.65美元/桶。",
           "url": "https://flash.jin10.com/detail/20260409062158734800",
           "source": "金十数据",
@@ -869,7 +1015,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -916,6 +1062,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
+          "url": "https://wallstreetcn.com/livenews/3084486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "吉利销量连续两个月超越比亚迪",
+          "url": "https://www.toutiao.com/trending/7626325823544364586/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时56分 ~ 07时34分]"
+        },
+        {
+          "title": "比亚迪与肯德基达成合作",
+          "url": "https://flash.jin10.com/detail/20260409092934860800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "比亚迪注册“比亚迪闪充”商标",
+          "url": "https://flash.jin10.com/detail/20260409112051421800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -981,7 +1179,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -992,48 +1190,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
-          "url": "https://wallstreetcn.com/livenews/3084486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "吉利销量连续两个月超越比亚迪",
-          "url": "https://www.toutiao.com/trending/7626325823544364586/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时56分 ~ 07时34分]"
-        },
-        {
-          "title": "比亚迪与肯德基达成合作",
-          "url": "https://flash.jin10.com/detail/20260409092934860800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
