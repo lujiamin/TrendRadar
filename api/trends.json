@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T05:33:15.998447+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-11T06:32:47.533321+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 06时32分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -153,9 +153,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3086118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
@@ -235,6 +246,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3086110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
           "url": "https://flash.jin10.com/detail/20260411020406517800",
           "source": "金十数据",
@@ -271,7 +293,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
@@ -408,6 +430,18 @@
           "time_info": "[03时40分 ~ 04时31分]"
         },
         {
+          "title": "周五（4月10日）纽约尾盘，现货黄金跌0.34%，报4750.39美元/盎司，本周累计上涨1.57%，4月6-7日在4650美元附近低位持稳，4月8日亚太盘初曾拉升至4856.81美元。 COMEX黄金期货跌0.95%，报4772.00美元/盎司，本周累涨2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3086098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时32分]"
+        },
+        {
           "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 布伦特6月原油期货收报95.20美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3086058",
           "source": "华尔街见闻-快讯",
@@ -432,17 +466,6 @@
           "time_info": "[01时44分 ~ 02时44分]"
         },
         {
-          "title": "周五（4月10日）纽约尾盘，现货黄金跌0.34%，报4750.39美元/盎司，本周累计上涨1.57%，4月6-7日在4650美元附近低位持稳，4月8日亚太盘初曾拉升至4856.81美元。 COMEX黄金期货跌0.95%，报4772.00美元/盎司，本周累涨2.02%。",
-          "url": "https://wallstreetcn.com/livenews/3086098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
           "title": "WTI原油跌破97美元/桶，日内跌1.04%。",
           "url": "https://flash.jin10.com/detail/20260411022108947800",
           "source": "金十数据",
@@ -465,13 +488,35 @@
           "time_info": "02时44分"
         },
         {
+          "title": "思科洽谈按至少2.5亿美元收购Astrix。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3086113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "纳斯达克网络安全ETF收跌3.71%，报60.74美元，本周累计下跌5.37%。 %，ETFMG网络安全ETF收跌4.85%，报71.17美元，本周累跌7.78%。",
+          "url": "https://wallstreetcn.com/livenews/3086128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3086088",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -482,9 +527,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8258元，较周四纽约尾盘涨23点，日内整体交投于6.8344-6.8213元区间。",
+          "url": "https://wallstreetcn.com/livenews/3086106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "美国3月政府预算 -1640亿美元，预期-1567亿美元，前值-3080亿美元。",
@@ -602,7 +658,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
