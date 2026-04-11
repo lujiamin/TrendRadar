@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T07:31:42.504190+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-04-11T09:52:38.915981+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时52分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时52分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -69,20 +69,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
         {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "09时52分"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -146,6 +168,53 @@
           "time_info": "[00时45分 ~ 01时44分]"
         },
         {
+          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3086135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时52分]"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时52分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时52分]"
+        },
+        {
+          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时52分]"
+        },
+        {
           "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
           "url": "https://wallstreetcn.com/livenews/3086110",
           "source": "华尔街见闻-快讯",
@@ -170,6 +239,17 @@
           "time_info": "[01时44分 ~ 02时44分]"
         },
         {
+          "title": "特朗普向欧洲下了最后通牒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E6%AC%A7%E6%B4%B2%E4%B8%8B%E4%BA%86%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
           "url": "https://flash.jin10.com/detail/20260411002832276800",
           "source": "金十数据",
@@ -181,26 +261,26 @@
           "time_info": "00时45分"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
+          "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
+          "url": "https://flash.jin10.com/detail/20260411090528957800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "09时52分"
         },
         {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "09时52分"
         },
         {
           "title": "美国总统特朗普：美国准备提振匈牙利经济。",
@@ -267,17 +347,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3086118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "据福克斯新闻：白宫官员表示，特朗普对与伊朗达成协议持乐观态度。",
@@ -349,7 +418,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
@@ -372,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "能源情报集团记者阿蒙娜•巴克尔：拥有财力和技术资源的海湾国家将会建设替代管道以绕过霍尔木兹海峡。这的确需要时间并且耗资数十亿美元，但如果没有沙特的东西方管道和阿联酋的富查伊拉，目前的出口将会完全停滞。",
+          "url": "https://flash.jin10.com/detail/20260411094043270800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
@@ -474,6 +554,19 @@
           "time_info": "[01时44分 ~ 03时40分]"
         },
         {
+          "title": "思科洽谈按至少2.5亿美元收购Astrix。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3086113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 09时52分]"
+        },
+        {
           "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
           "url": "https://wallstreetcn.com/livenews/3086063",
           "source": "华尔街见闻-快讯",
@@ -520,18 +613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时44分]"
-        },
-        {
-          "title": "思科洽谈按至少2.5亿美元收购Astrix。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3086113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时31分]"
         },
         {
           "title": "纳斯达克网络安全ETF收跌3.71%，报60.74美元，本周累计下跌5.37%。 %，ETFMG网络安全ETF收跌4.85%，报71.17美元，本周累跌7.78%。",
@@ -619,17 +700,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
           "source": "金十数据",
@@ -654,6 +724,18 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时52分]"
+        },
+        {
           "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
           "url": "https://flash.jin10.com/detail/20260411024613347800",
           "source": "金十数据",
@@ -663,6 +745,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国游客在墨西哥坐比亚迪发出赞叹",
+          "url": "https://www.toutiao.com/trending/7626765575343669290/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨6.5%，理想涨4.8%，阿特斯太阳能涨2.7%，京东涨2.2%，比亚迪涨2.1%，万国数据、金山云等涨超1%，拼多多跌0.4%。 ETF中，ASHR涨1.1%，CQQQ涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3086074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
+          "url": "https://www.zhihu.com/question/2025584159024838298",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.31%，报6806.82点，本周累计上涨0.83%，4月8日显著地跳空高开。 热门中概股里，蔚来初步收涨6.5%，理想涨4.8%，阿特斯太阳能涨2.7%，京东涨2.2%，比亚迪涨2.1%，万国数据、金山云等涨超1%，拼多多跌0.4%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨1.20%，本周累涨3.78%； XtrackersHarvest中证50（ASHS）收涨0.70%，本周累涨5.04%； 中国科技指数ETF（CQQQ）收涨0.46%，本周累涨5.49%； 中概互联网指数ETF（KWEB）收跌0.31%，本周累涨2.17%；",
+          "url": "https://wallstreetcn.com/livenews/3086074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     },
@@ -703,34 +835,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨6.5%，理想涨4.8%，阿特斯太阳能涨2.7%，京东涨2.2%，比亚迪涨2.1%，万国数据、金山云等涨超1%，拼多多跌0.4%。 ETF中，ASHR涨1.1%，CQQQ涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3086074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.31%，报6806.82点，本周累计上涨0.83%，4月8日显著地跳空高开。 热门中概股里，蔚来初步收涨6.5%，理想涨4.8%，阿特斯太阳能涨2.7%，京东涨2.2%，比亚迪涨2.1%，万国数据、金山云等涨超1%，拼多多跌0.4%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨1.20%，本周累涨3.78%； XtrackersHarvest中证50（ASHS）收涨0.70%，本周累涨5.04%； 中国科技指数ETF（CQQQ）收涨0.46%，本周累涨5.49%； 中概互联网指数ETF（KWEB）收跌0.31%，本周累涨2.17%；",
-          "url": "https://wallstreetcn.com/livenews/3086074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         }
       ]
     }
