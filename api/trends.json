@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T21:46:48.770565+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2026-04-14T23:11:05.761006+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 72,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 06时39分]"
+        },
+        {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
         },
         {
           "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
@@ -58,6 +69,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
+          "url": "https://wallstreetcn.com/articles/3769900",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 23时11分]"
         },
         {
           "title": "美联储古尔斯比：如果油价连续数月维持在每桶90美元，就会开始向其他价格传导。",
@@ -110,7 +133,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -159,6 +182,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "受伊朗协议乐观情绪推动，以色列新谢克尔兑美元涨1%，报3.00，为1995年10月以来最强水平。",
+          "url": "https://flash.jin10.com/detail/20260414224432071800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "周一（4月13日）纽约尾盘，ICE美元指数跌0.24%，刷新日低至98.364点，上周末美国与伊朗磋商结束后，周一亚太盘初跳空高开至99.183点附近，随后持续回落，北京时间20:00以来加速走低。 彭博美元指数跌0.19%，报1196.24点。 美元兑日元涨0.06%，报159.36日元，日内交投区间为159.86-159.29日元，整体呈现出宽顶n形走势。 欧元兑日元涨0.36%，英镑兑日元涨0.34%，双双低开高走。",
           "url": "https://wallstreetcn.com/livenews/3087131",
           "source": "华尔街见闻-快讯",
@@ -168,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "赞比亚损失2亿美元以应对美伊战争引发的燃油冲击",
+          "url": "https://wallstreetcn.com/livenews/3087834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "现货钯金涨3%，报1566.15美元。",
@@ -206,16 +251,15 @@
           "time_info": "[02时06分 ~ 04时03分]"
         },
         {
-          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
-          "url": "https://wallstreetcn.com/articles/3769900",
-          "source": "华尔街见闻",
+          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2343966",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时59分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时11分]"
         },
         {
           "title": "美以打击致伊朗损失2700亿美元",
@@ -467,17 +511,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2343966",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
           "title": "澳新银行：预计布伦特原油在2026年剩余时间内将维持在每桶90美元以上。",
           "url": "https://flash.jin10.com/detail/20260414065132238800",
           "source": "金十数据",
@@ -605,7 +638,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -652,6 +685,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "伦锡日内涨幅扩大至4.00%，现报50349.00美元/吨。沪锡主力合约涨近4%，现报391710元/吨。",
+          "url": "https://flash.jin10.com/detail/20260414223535823800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "据知情人士透露，FluidStack洽谈按180亿美元估值融资大约10亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3087819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "以色列谢克尔兑美元涨1.1%，报3谢克尔，创1995年10月以来新高，投资者对伊朗协议持乐观预期。",
+          "url": "https://wallstreetcn.com/livenews/3087818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "澳元兑美元AUD/USD突破0.71，为3月19日以来首次，日内涨0.39%。",
@@ -704,7 +770,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -718,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "LME期锡涨幅扩大至%，现报50349.00美元/吨。 沪锡主力合约涨近4%，现报391710元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3087815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "英镑兑美元GBP/USD向上触及1.35，为2月末以来首次，日内涨0.28%。",
@@ -786,6 +863,17 @@
           "time_info": "18时59分"
         },
         {
+          "title": "德意志银行全球外汇策略主管Saravelos：与伊朗战争相关的那些风险已经见顶，是时候卖出美元了。",
+          "url": "https://wallstreetcn.com/livenews/3087807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "巴西雷亚尔在即期交易中升至1美元兑4.99雷亚尔，为自2024年4月以来首次升破5.00大关。",
           "url": "https://flash.jin10.com/detail/20260414005239736800",
           "source": "金十数据",
@@ -808,6 +896,17 @@
           "time_info": "18时59分"
         },
         {
+          "title": "美元兑日元跌0.5%，报158.65。",
+          "url": "https://wallstreetcn.com/livenews/3087806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4788.85美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260414150245766800",
           "source": "金十数据",
@@ -822,7 +921,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -833,8 +932,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 23时11分]"
         },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -949,6 +1048,34 @@
           "time_info": "[00时59分 ~ 04时03分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17,
+            13,
+            7,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 23时11分]"
+        },
+        {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 23时11分]"
+        },
+        {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
           "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
           "source": "凤凰网",
@@ -958,21 +1085,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 07时39分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17,
-            13,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 21时46分]"
         },
         {
           "title": "中方回应特朗普重申将封锁伊朗港口",
@@ -990,16 +1102,15 @@
           "time_info": "[00时59分 ~ 07时39分]"
         },
         {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时19分 ~ 21时46分]"
+          "time_info": "[17时29分 ~ 23时11分]"
         },
         {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
@@ -1024,17 +1135,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 06时39分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 21时46分]"
         },
         {
           "title": "特朗普威胁向伊朗供武将加征关税，中方回应",
@@ -1090,7 +1190,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1350,6 +1450,17 @@
           "time_info": "17时30分"
         },
         {
+          "title": "巴西总统卢拉：不担心美国总统特朗普可能试图干预巴西选举。",
+          "url": "https://flash.jin10.com/detail/20260414224413755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "特朗普再次批教皇 拒绝就此前表态道歉",
           "url": "https://flash.jin10.com/detail/20260414011952450800",
           "source": "金十数据",
@@ -1370,6 +1481,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "印度总理莫迪：接到美国总统特朗普的电话，我们讨论了西亚的局势。",
+          "url": "https://flash.jin10.com/detail/20260414224207207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "特朗普再次呼吁英国开放北海石油钻探",
+          "url": "https://flash.jin10.com/detail/20260414224134330800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "最新公开文件显示，Anthropic PBC聘请了游说企业Ballard Partners，后者与美国总统特朗普存在关联。",
@@ -1403,6 +1536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "印度总理莫迪：接到美国总统特朗普的电话。 讨论了西亚局势。",
+          "url": "https://wallstreetcn.com/livenews/3087822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
@@ -1515,6 +1659,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "美国总统特朗普谈及英国与北海石油。 再次要求英国开放北海石油的钻探。 “英国拒绝开放北海石油开发。” 继续批评风电场。",
+          "url": "https://wallstreetcn.com/livenews/3087813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
@@ -1535,6 +1690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "印度总理莫迪与美国总统特朗普通电话。（PTI）",
+          "url": "https://wallstreetcn.com/livenews/3087805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1555,20 +1721,6 @@
           "time_info": "[00时59分 ~ 10时04分]"
         },
         {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 21时46分]"
-        },
-        {
           "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
           "source": "澎湃新闻",
@@ -1580,8 +1732,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 21时46分]"
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 23时11分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            8,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 23时11分]"
         },
         {
           "title": "官方通报深圳比亚迪车库起火",
@@ -1595,8 +1762,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 23时11分]"
+        },
+        {
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 23时11分]"
         },
         {
           "title": "比亚迪女高管年薪1013.5万打破天花板",
@@ -1626,19 +1806,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 07时39分]"
-        },
-        {
-          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 21时46分]"
         },
         {
           "title": "官方通报深圳比亚迪火灾",
