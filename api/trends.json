@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:59:19.191821+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-04-14T19:59:15.350111+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -33,6 +33,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时04分 ~ 17时30分]"
+        },
+        {
+          "title": "美以袭击已致伊朗损失2700亿美元",
+          "url": "https://www.toutiao.com/trending/7628206506252570148/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时59分]"
         },
         {
           "title": "据The Information：SpaceX的星链业务2025年营收增长50%，达到114亿美元。",
@@ -63,7 +77,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -85,7 +99,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -169,19 +183,6 @@
           "time_info": "[01时00分 ~ 02时06分]"
         },
         {
-          "title": "美以袭击已致伊朗损失2700亿美元",
-          "url": "https://www.toutiao.com/trending/7628206506252570148/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时59分]"
-        },
-        {
           "title": "纽元/美元日内涨幅达0.5%，报0.5863。",
           "url": "https://wallstreetcn.com/livenews/3087108",
           "source": "华尔街见闻-快讯",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时03分]"
+        },
+        {
+          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
+          "url": "https://wallstreetcn.com/articles/3769900",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 19时59分]"
         },
         {
           "title": "周一（4月13日），美联储隔夜逆回购协议（RRP）使用规模为2.27亿美元（交易对手4家），上个交易日报5.07亿美元。",
@@ -264,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时39分]"
+        },
+        {
+          "title": "美以打击致伊朗损失2700亿美元",
+          "url": "https://www.douyin.com/hot/2465908",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "现货黄金一度突破4750美元/盎司，日内涨0.02%。",
@@ -365,24 +388,13 @@
           "time_info": "02时06分"
         },
         {
-          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
-          "url": "https://wallstreetcn.com/articles/3769900",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
           "title": "强生(JNJ.N)预计2026年运营销售额为997亿至1007亿美元，高于此前预期的995亿至1005亿美元。",
           "url": "https://flash.jin10.com/detail/20260414182330468800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -393,7 +405,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -404,7 +416,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -481,7 +493,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -635,7 +647,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -706,13 +718,24 @@
           "time_info": "15时24分"
         },
         {
+          "title": "美国电动汽车制造商Lucid任命新首席执行官，沙特公共投资基金（PIF）和Uber承诺投资7.5亿美元。Lucid盘前大涨逾12%。",
+          "url": "https://wallstreetcn.com/livenews/3087669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "贝莱德(BLK.N)第一季度每股收益14.06美元。",
           "url": "https://flash.jin10.com/detail/20260414180253947800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -734,7 +757,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -753,7 +776,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -766,6 +789,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 07时39分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 19时59分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -845,18 +880,6 @@
           "time_info": "[00时59分 ~ 07时39分]"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 18时59分]"
-        },
-        {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
           "url": "https://wallstreetcn.com/articles/3769804",
           "source": "华尔街见闻",
@@ -906,6 +929,20 @@
           "time_info": "[00时59分 ~ 07时39分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 19时59分]"
+        },
+        {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
           "url": "https://www.cls.cn/detail/2342892",
           "source": "财联社热门",
@@ -916,6 +953,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时38分 ~ 15时24分]"
+        },
+        {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 19时59分]"
         },
         {
           "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
@@ -955,20 +1004,6 @@
           "time_info": "[04时02分 ~ 07时39分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 18时59分]"
-        },
-        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -986,7 +1021,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -1013,6 +1048,17 @@
           "time_info": "01时00分"
         },
         {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时59分]"
+        },
+        {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
           "url": "https://flash.jin10.com/detail/20260414071808772800",
           "source": "金十数据",
@@ -1033,18 +1079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 18时59分]"
         },
         {
           "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
@@ -1130,17 +1164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时59分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -1357,6 +1380,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "法国总统马克龙：我昨日分别同伊朗总统佩泽希齐扬和美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260414192650273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "美国总统特朗普：许多船只正驶往美国，从而装载石油。",
           "url": "https://wallstreetcn.com/livenews/3087093",
           "source": "华尔街见闻-快讯",
@@ -1472,8 +1506,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 18时59分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 19时59分]"
+        },
+        {
+          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 19时59分]"
         },
         {
           "title": "比亚迪女高管年薪1013.5万打破天花板",
@@ -1488,6 +1537,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 10时04分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪车库起火",
+          "url": "https://www.douyin.com/hot/2465381",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 19时59分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -1505,20 +1568,6 @@
           "time_info": "[00时59分 ~ 07时39分]"
         },
         {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 18时59分]"
-        },
-        {
           "title": "官方通报深圳比亚迪火灾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B7%B1%E5%9C%B3%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%81%AB%E7%81%BE%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1530,17 +1579,16 @@
           "time_info": "10时04分"
         },
         {
-          "title": "官方通报深圳比亚迪车库起火",
-          "url": "https://www.douyin.com/hot/2465381",
-          "source": "抖音",
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
           "ranks": [
-            13,
-            17,
-            18
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 18时59分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时59分]"
         },
         {
           "title": "深圳坪山比亚迪突发大火 消防通报",
@@ -1565,17 +1613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 06时39分]"
-        },
-        {
-          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时59分]"
         },
         {
           "title": "巴西将比亚迪移出所谓涉“奴役劳动”名单，外交部回应",
