@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T05:59:23.436717+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-04-16T06:44:18.722961+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "为什么奖金只有 1.38 万美元的菲尔兹奖地位那么崇高？",
@@ -39,11 +39,12 @@
             12,
             9,
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
@@ -52,11 +53,23 @@
           "ranks": [
             20,
             14,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
+        },
+        {
+          "title": "WTI原油周四小幅低开，现报91.33美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260416060057287800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "据英国金融时报：挪威2万亿美元主权财富基金“没有计划”减少美国资产。",
@@ -64,11 +77,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时44分]"
         },
         {
           "title": "美元指数15日下跌",
@@ -76,11 +90,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时44分]"
         },
         {
           "title": "北美科技软件股指数ETF收涨4.40%，报82.98美元。 纳斯达克网络安全ETF收涨2.76%，ETFMG网络安全ETF收涨3.36%。",
@@ -88,11 +103,72 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时44分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙卖出4000万美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3088786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时59分]"
+          "time_info": "[05时59分 ~ 06时44分]"
+        },
+        {
+          "title": "周三（4月15日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8181元，较周二纽约尾盘跌73点，日内整体交投于6.8086-6.8225元区间。",
+          "url": "https://wallstreetcn.com/livenews/3088785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时44分]"
+        },
+        {
+          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
+          "url": "https://flash.jin10.com/detail/20260416045257037800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时44分]"
+        },
+        {
+          "title": "现货黄金跌超1%，亚太早盘曾涨向4800美元",
+          "url": "https://wallstreetcn.com/livenews/3088783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时44分]"
+        },
+        {
+          "title": "托克与加蓬签署10亿美元石油预付款协议",
+          "url": "https://wallstreetcn.com/livenews/3088780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时44分]"
         },
         {
           "title": "美国2月外资净买入美国公债 20亿美元，前值499亿美元。",
@@ -131,50 +207,6 @@
           "time_info": "[05时01分 ~ 05时59分]"
         },
         {
-          "title": "摩根大通CEO戴蒙卖出4000万美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3088786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "周三（4月15日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8181元，较周二纽约尾盘跌73点，日内整体交投于6.8086-6.8225元区间。",
-          "url": "https://wallstreetcn.com/livenews/3088785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
-          "url": "https://flash.jin10.com/detail/20260416045257037800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "现货黄金跌超1%，亚太早盘曾涨向4800美元",
-          "url": "https://wallstreetcn.com/livenews/3088783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8188元，较周二夜盘收盘跌32点。成交量395.23亿美元。",
           "url": "https://wallstreetcn.com/livenews/3088740",
           "source": "华尔街见闻-快讯",
@@ -184,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "托克与加蓬签署10亿美元石油预付款协议",
-          "url": "https://wallstreetcn.com/livenews/3088780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
         },
         {
           "title": "摩根士丹利财报表现强劲后再度发债，摩根大通拟发债融资至少70亿美元",
@@ -376,19 +397,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
-        },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
@@ -397,19 +407,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -419,8 +442,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "特朗普拒向教宗道歉，美国民众：很失望",
@@ -430,8 +453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -441,8 +464,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -452,8 +475,45 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
+          "url": "https://www.cls.cn/detail/2345350",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
+        },
+        {
+          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
+          "url": "https://www.cls.cn/detail/2344964",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时44分]"
         },
         {
           "title": "【白宫否认已请求延长美伊停火，强调巴基斯坦为唯一斡旋方】4月15日，美国白宫新闻秘书卡罗琳·莱维特表示，美国尚未正式请求延长与伊朗的停火协议，相关报道“不属实”，当前双方仍在持续接触并推进谈判。 莱维特称，美国总统特朗普政府认为谈判“具有建设性”，对达成协议前景持乐观态度，同时强调所有决定以白宫正式发布为准。 她还指出，巴基斯坦在本轮谈判中发挥了关键斡旋作用，并称其为当前“唯一的调解方”。尽管多国表达协助意愿，但美方希望通过巴基斯坦渠道持续推进沟通与谈判。（央视）",
@@ -478,41 +538,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
-          "url": "https://www.cls.cn/detail/2345350",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
-          "url": "https://www.cls.cn/detail/2344964",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时59分]"
-        },
-        {
           "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088745",
           "source": "华尔街见闻-快讯",
@@ -523,6 +548,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时01分]"
+        },
+        {
+          "title": "【特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议】据美国方面15日消息，美国总统特朗普表示，美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议。特朗普在接受采访时称，当前达成协议的可能性“非常高”。根据安排，查尔斯三世及王后卡米拉将于4月27日至30日访问美国。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "美国总统特朗普将于周五在凤凰城讲话。",
+          "url": "https://wallstreetcn.com/livenews/3088799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
@@ -623,11 +670,12 @@
           "url": "https://flash.jin10.com/detail/20260416050117948800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时44分]"
         }
       ]
     }
