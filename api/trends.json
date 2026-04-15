@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-15T07:39:18.051690+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-04-15T10:02:00.616296+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2343966",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时02分]"
+        },
+        {
+          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
+          "url": "https://wallstreetcn.com/articles/3769900",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时02分]"
+        },
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
           "url": "https://wallstreetcn.com/articles/3769897",
@@ -19,37 +43,13 @@
           "time_info": "[01时01分 ~ 04时03分]"
         },
         {
-          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2343966",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
-          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
-          "url": "https://wallstreetcn.com/articles/3769900",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
           "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
           "url": "https://wallstreetcn.com/livenews/3088037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -251,6 +251,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "韩国央行行长提名人申铉松：3月份美元兑韩元的波动过大，尤其是受远期外汇市场驱动；需要密切监视外汇波动。",
+          "url": "https://wallstreetcn.com/livenews/3088095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
           "url": "https://flash.jin10.com/detail/20260415012703833800",
           "source": "金十数据",
@@ -361,6 +372,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "人民币兑美元中间价创2023年3月24日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3088069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "WTI原油日内跌幅达8.0%，报91.14美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3087924",
           "source": "华尔街见闻-快讯",
@@ -383,6 +405,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "现货白银突破80美元/盎司，为3月18日以来首次，日内涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3088067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "WTI原油日内下跌6%，现报92.17美元/桶。WTI原油期货日内重挫7%，现报92.11美元/桶。",
           "url": "https://flash.jin10.com/detail/20260415001553011800",
           "source": "金十数据",
@@ -392,12 +425,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "现货黄金站上4870美元/盎司，日内涨0.61%。",
+          "url": "https://flash.jin10.com/detail/20260415091740491800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报80.36美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260415091732588800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -445,6 +500,29 @@
           "time_info": "[01时01分 ~ 07时39分]"
         },
         {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 10时02分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -457,24 +535,35 @@
           "time_info": "[02时13分 ~ 07时39分]"
         },
         {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
           "url": "https://wallstreetcn.com/livenews/3088036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
-          "url": "https://www.cls.cn/detail/2344222",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -504,6 +593,28 @@
           "time_info": "[05时45分 ~ 07时39分]"
         },
         {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
           "url": "https://www.cls.cn/detail/2343501",
           "source": "财联社热门",
@@ -513,6 +624,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时13分]"
+        },
+        {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "摩根大通：特朗普所谓的“黑名单”说法毫无道理",
@@ -532,7 +654,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -543,7 +665,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -653,6 +775,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股开盘，恒指开涨1.14%，科指开涨2.26%。百度(09888.HK)涨近5%，阿里巴巴(09988.HK)涨4%。科技股领涨，影视股、锂电池板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260415092052639800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
