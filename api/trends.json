@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T13:26:57.199608+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-04-16T15:25:24.420926+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -292,6 +292,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "WTI原油站上92美元/桶，日内涨0.61%。",
+          "url": "https://flash.jin10.com/detail/20260416150558258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "美元兑日元USD/JPY短线走低20余点，现报158.77。",
           "url": "https://flash.jin10.com/detail/20260416002444957800",
           "source": "金十数据",
@@ -380,6 +391,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "台积电：预计2026年资本支出将接近520亿至560亿美元区间的上端。 预计2026年销售额（以美元计）将实现超过30%的增长。 预计第二季度营业利润率为56.5%-58.5%。 预计第二季度毛利率为65.5%-67.5%。",
+          "url": "https://wallstreetcn.com/livenews/3089056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "托克集团（Trafigura）宣布，已与加蓬共和国签署一项金额为10亿美元的预付款协议。根据协议，托克将向加蓬提供预付款，以换取未来七年内交付的原油。",
           "url": "https://flash.jin10.com/detail/20260416025838073800",
           "source": "金十数据",
@@ -424,6 +446,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "台积电预计第二季度销售额在390亿至402亿美元，市场预估381.1亿美元。 预计第二季度毛利率65.5％至67.5％，市场预估64.1％。",
+          "url": "https://wallstreetcn.com/livenews/3089051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "LME期铜收跌37美元，报13248美元/吨。 LME期铝收涨58美元，报3622美元/吨。 LME期锌收涨54美元，报3397美元/吨。 LME期铅收涨30美元，报1966美元/吨。 LME期镍收跌73美元，报18133美元/吨。 LME期锡收跌725美元，报49606美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3088682",
           "source": "华尔街见闻-快讯",
@@ -438,7 +471,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -448,8 +481,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 13时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 15时25分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 15时25分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -511,19 +558,6 @@
           "time_info": "[00时58分 ~ 07时38分]"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 13时26分]"
-        },
-        {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
           "url": "https://www.cls.cn/detail/2345350",
           "source": "财联社热门",
@@ -561,8 +595,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 15时25分]"
+        },
+        {
+          "title": "中美就特朗普访华保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3089095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -607,8 +652,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 15时25分]"
         },
         {
           "title": "【美国参议院投票否决旨在限制特朗普对伊战争权力的动议】4月15日，美国参议院多数议员对美国总统特朗普针对伊朗的军事行动表示支持。参议院以52票对47票，投票否决了一项由民主党主导的决议。该决议旨在阻止战争，直至敌对行动获得国会授权。（央视）",
@@ -621,6 +666,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时01分]"
+        },
+        {
+          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
+          "url": "https://www.cls.cn/detail/2345555",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普将于周五在凤凰城讲话。",
@@ -644,17 +701,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
-          "url": "https://www.cls.cn/detail/2345555",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
@@ -696,7 +742,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -740,7 +786,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -790,7 +836,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -801,7 +847,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
@@ -837,7 +883,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
