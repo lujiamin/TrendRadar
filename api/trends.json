@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T03:59:26.674804+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-04-21T04:51:49.359233+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时51分]"
+        },
+        {
+          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
+          "url": "https://wallstreetcn.com/articles/3770404",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时59分]"
+          "time_info": "[01时02分 ~ 04时51分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
-          "url": "https://wallstreetcn.com/articles/3770404",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时59分]"
         },
         {
           "title": "特朗普：没有压力达成伊朗协议 不会被外界催促",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3091324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
@@ -120,6 +131,30 @@
           "time_info": "[02时02分 ~ 03时59分]"
         },
         {
+          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://wallstreetcn.com/livenews/3091293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时51分]"
+        },
+        {
+          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
+          "url": "https://wallstreetcn.com/livenews/3091291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时51分]"
+        },
+        {
           "title": "美国总统特朗普：我们与伊朗达成的协议将远比伊朗核协议（JCPOA）更好。",
           "url": "https://flash.jin10.com/detail/20260421013653333800",
           "source": "金十数据",
@@ -131,26 +166,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
-          "url": "https://wallstreetcn.com/livenews/3091293",
+          "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3091322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
-          "url": "https://wallstreetcn.com/livenews/3091291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时51分"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -159,9 +183,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国白宫：特朗普签署与大规模能源及能源相关基础设施有关的决定。",
+          "url": "https://flash.jin10.com/detail/20260421042232218800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
@@ -170,9 +205,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国白宫：特朗普签署与国防生产法案相关的国内石油生产方面的文件；签署与天然气传输、加工、储存及液化天然气能力相关的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260421042130383800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260421041906950800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
@@ -181,7 +238,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -195,12 +252,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普威胁停火到期将开炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "报告显示未来十年重建加沙需714亿美元",
@@ -214,26 +282,37 @@
           "time_info": "01时02分"
         },
         {
-          "title": "周一（4月20日）纽约尾盘，ICE美元指数跌0.04%，报98.055点，日内交投区间为98.395-98.006点。 彭博美元指数跌0.10%，报1191.64点，日内交投区间为1196.40-1191.40点。 美元兑日元涨0.11%，报158.82日元，日内交投区间为158.46-159.20日元。",
-          "url": "https://wallstreetcn.com/livenews/3091304",
+          "title": "亚马逊(AMZN.O)：Anthropic将在AWS技术上投资超过1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260421044043115800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "Rystad Energy认为，在石油价格处于100美元/桶附近的情况下，南美洲将能够在2035年这段时期内额外释放石油210万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3091325",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时51分"
         },
         {
-          "title": "花旗：如果霍尔木兹海峡中断再持续一个月，油价将达到110美元",
-          "url": "https://wallstreetcn.com/livenews/3091302",
+          "title": "北美科技软件股指数ETF涨1.43%，报86.30美元。 纳斯达克网络安全ETF涨0.86%，ETFMG网络安全ETF涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3091323",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时51分"
         },
         {
           "title": "爱奇艺股价从46美元跌到1.4美元",
@@ -244,8 +323,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时51分]"
+        },
+        {
+          "title": "周一（4月20日）纽约尾盘，ICE美元指数跌0.04%，报98.055点，日内交投区间为98.395-98.006点。 彭博美元指数跌0.10%，报1191.64点，日内交投区间为1196.40-1191.40点。 美元兑日元涨0.11%，报158.82日元，日内交投区间为158.46-159.20日元。",
+          "url": "https://wallstreetcn.com/livenews/3091304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时51分]"
+        },
+        {
+          "title": "花旗：如果霍尔木兹海峡中断再持续一个月，油价将达到110美元",
+          "url": "https://wallstreetcn.com/livenews/3091302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时51分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8172元，较上周五夜盘收盘涨12点。成交量295.75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3091296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时51分]"
         },
         {
           "title": "周一（4月20日），美联储隔夜逆回购协议（RRP）使用规模为5.03亿美元（交易对手6家），上个交易日报1.37亿美元。",
@@ -257,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8172元，较上周五夜盘收盘涨12点。成交量295.75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3091296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         },
         {
           "title": "报告显示：未来十年重建加沙需714亿美元",
@@ -292,13 +396,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "亚马逊(AMZN.O)：将投资高达250亿美元于Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260421043308137800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
           "title": "WTI 5月原油期货收涨5.76美元，涨幅6.87%，报89.61美元/桶。 布伦特6月原油期货收涨5.10美元，涨幅5.64%，报95.48美元/桶。 中东Abu Dhabi Murban原油期货跌0.13%，报91.58美元/桶，北京时间16:28曾达到94.41美元。 NYMEX 5月天然气期货收报2.6890美元/百万英热单位。 NYMEX 5月汽油期货收报3.1168美元/加仑，NYMEX 5月取暖油期货收报3.5409美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3091290",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -320,7 +435,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
