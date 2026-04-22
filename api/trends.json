@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T01:58:01.779194+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-04-23T03:12:28.598876+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -16,19 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
-        },
-        {
-          "title": "据知情人士透露，Thoma Bravo即将达成协议，将软件公司Medallia移交给债权人。 Medallia的债务重组将导致Thoma Bravo数十亿美元的股权化为乌有。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3092778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
         },
         {
           "title": "市场消息：作为5亿美元援助计划的一部分，美国政府可能持有精神航空至多90%的股份。",
@@ -40,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美国财长：海湾和亚洲盟友已请求建立美元互换额度",
+          "url": "https://flash.jin10.com/detail/20260423024559040800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "WTI原油期货日内扩大至4%，现报93.26美元/桶。",
@@ -64,15 +64,16 @@
           "time_info": "00时08分"
         },
         {
-          "title": "英伟达参投Vast Data，后者估值达300亿美元",
-          "url": "https://wallstreetcn.com/livenews/3092776",
+          "title": "据知情人士透露，Thoma Bravo即将达成协议，将软件公司Medallia移交给债权人。 Medallia的债务重组将导致Thoma Bravo数十亿美元的股权化为乌有。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3092778",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
         },
         {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
@@ -83,8 +84,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
+        },
+        {
+          "title": "英伟达参投Vast Data，后者估值达300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3092776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -94,19 +107,55 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 03时12分]"
         },
         {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
           "url": "https://wallstreetcn.com/livenews/3092775",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "周三（4月22日），美联储隔夜逆回购协议（RRP）使用规模为5.38亿美元（交易对手16家），上个交易日报8.07亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.883%（3月17日为4.817%），投标倍数2.68（前次为2.76）。",
+          "url": "https://wallstreetcn.com/livenews/3092765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "WTI 5月原油期货收涨3.29美元，涨幅3.67%，报92.96美元/桶。 布伦特6月原油期货收涨3.43美元，涨幅3.48%，报101.91美元/桶。 中东Abu Dhabi Murban原油期货涨4.88%，报100.99美元/桶。 NYMEX 5月汽油期货收报3.3579美元/加仑，NYMEX 5月取暖油期货收报3.9379美元/加仑。 NYMEX 5月天然气期货收报2.7220美元/百万英热单位。",
+          "url": "https://wallstreetcn.com/livenews/3092795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时12分"
         },
         {
           "title": "WTI原油期货站上93美元/桶，日内涨3.71%。",
@@ -120,35 +169,13 @@
           "time_info": "00时08分"
         },
         {
-          "title": "周三（4月22日），美联储隔夜逆回购协议（RRP）使用规模为5.38亿美元（交易对手16家），上个交易日报8.07亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3092768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.883%（3月17日为4.817%），投标倍数2.68（前次为2.76）。",
-          "url": "https://wallstreetcn.com/livenews/3092765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的5.38亿美元。",
           "url": "https://flash.jin10.com/detail/20260423011819047800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -170,7 +197,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -181,7 +208,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -197,13 +224,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美媒称美国政府暂停向伊拉克运送美元",
+          "url": "https://www.toutiao.com/trending/7631532143143419942/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "欧莱雅CFO：如果油价保持在每桶90-100美元，预计额外成本为9000万至1亿欧元。",
           "url": "https://flash.jin10.com/detail/20260423010749642800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -225,7 +263,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -236,7 +274,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
@@ -244,7 +282,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -254,19 +292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -276,8 +303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -287,8 +314,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -296,6 +323,17 @@
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -313,15 +351,26 @@
           "time_info": "[00时08分 ~ 01时58分]"
         },
         {
-          "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
-          "url": "https://flash.jin10.com/detail/20260423014423775800",
+          "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：“在理智和常识问题上，你不能妥协！”",
+          "url": "https://flash.jin10.com/detail/20260423025533427800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时12分"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -335,15 +384,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
-          "url": "https://flash.jin10.com/detail/20260423014314020800",
+          "title": "据伊朗司法机构旗下网站Mizan News：伊朗否认特朗普关于停止处决女性囚犯的说法。",
+          "url": "https://flash.jin10.com/detail/20260423024809258800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "03时12分"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -354,8 +403,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
+          "url": "https://flash.jin10.com/detail/20260423014423775800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
+          "url": "https://flash.jin10.com/detail/20260423014314020800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
@@ -365,19 +438,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时12分]"
         },
         {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
@@ -397,7 +471,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -413,6 +487,39 @@
           "time_info": "00时08分"
         },
         {
+          "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3092789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "伊朗否认举行美伊新谈判，指特朗普“又说谎了”",
           "url": "https://wallstreetcn.com/livenews/3092734",
           "source": "华尔街见闻-快讯",
@@ -424,13 +531,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "以媒：特朗普设定对伊朗停火期限26日结束",
+          "url": "https://flash.jin10.com/detail/20260423021525008800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
           "url": "https://flash.jin10.com/detail/20260423011502024800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
@@ -438,18 +556,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
           "url": "https://wallstreetcn.com/livenews/3092779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
         },
         {
           "title": "OpenAI发布隐私过滤器模型以编辑个人数据",
@@ -461,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT中引入工作空间助手。",
+          "url": "https://flash.jin10.com/detail/20260423014529135800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     }
