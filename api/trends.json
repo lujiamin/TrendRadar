@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T04:50:06.408410+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-04-23T05:46:25.375244+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -25,11 +25,35 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时46分]"
+        },
+        {
+          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
+          "url": "https://www.cls.cn/detail/2352731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时50分]"
+          "time_info": "[01时57分 ~ 05时46分]"
+        },
+        {
+          "title": "周三（4月22日）纽约尾盘，欧元兑美元跌0.32%，英镑兑美元跌0.03%，美元兑瑞郎涨0.46%。 商品货币对中，澳元兑美元涨0.06%，纽元兑美元涨0.26%，美元兑加元涨0.05%。 瑞典克朗兑美元跌0.20%，挪威克朗兑美元涨0.52%，丹麦克朗兑美元跌0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3092857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "市场消息：作为5亿美元援助计划的一部分，美国政府可能持有精神航空至多90%的股份。",
@@ -76,28 +100,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美元/瑞郎日内涨幅达0.5%，报0.7848。",
-          "url": "https://wallstreetcn.com/livenews/3092840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 04时50分]"
-        },
-        {
           "title": "据知情人士透露，Thoma Bravo即将达成协议，将软件公司Medallia移交给债权人。 Medallia的债务重组将导致Thoma Bravo数十亿美元的股权化为乌有。（路透）",
           "url": "https://wallstreetcn.com/livenews/3092778",
           "source": "华尔街见闻-快讯",
@@ -120,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "美元/瑞郎日内涨幅达0.5%，报0.7848。",
+          "url": "https://wallstreetcn.com/livenews/3092840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
         },
         {
           "title": "美媒称美国政府暂停向伊拉克运送美元",
@@ -146,6 +160,42 @@
           "time_info": "[01时58分 ~ 03时12分]"
         },
         {
+          "title": "QuantumScape一季度调整后运营亏损7870万美元，分析师预期亏损8990万美元。 一季度每股亏损0.16美元，上年同期亏损0.21美元。",
+          "url": "https://wallstreetcn.com/livenews/3092838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "美国西南航空公司一季度运营收入72.5亿美元，分析师预期72.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
+          "url": "https://wallstreetcn.com/livenews/3092834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
           "title": "周三（4月22日），美联储隔夜逆回购协议（RRP）使用规模为5.38亿美元（交易对手16家），上个交易日报8.07亿美元。",
           "url": "https://wallstreetcn.com/livenews/3092768",
           "source": "华尔街见闻-快讯",
@@ -156,6 +206,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "IBM（国际商业机器公司）一季度营收159.2亿美元，分析师预期156.7亿美元。 一季度软件营收70.5亿美元，同比增长11%，分析师预期70.4亿美元。 一季度咨询营收52.7亿美元，分析师预期52.9亿美元。 一季度运营每股收益（EPS）为1.91美元，分析师预期1.81美元。 一季度自由现金流（FCF）为22.2亿美元，分析师预期21.7亿美元。 一季度业绩报告不含商业预定（企业订单）。 维持全年营收预期（按恒定汇率）在增超5%不变，分析师预计增长5.1%。 IBM美股盘后跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3092832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)第一季度调整后每股收益0.41美元。",
+          "url": "https://flash.jin10.com/detail/20260423040449197800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "拉姆研究/泛林集团第三财季营收58.4亿美元，分析师预期57.5亿美元。 第三财季调整后EPS为调整后每股收益（EPS）为1.47美元，分析师预期1.37美元。 预计第四财季营收62亿-70亿美元，分析师预期60.4亿美元。 预计第四财季调整后EPS为1.50-1.80美元，分析师预期1.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3092831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)第一季度资本支出为24.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423040446915800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
         },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.883%（3月17日为4.817%），投标倍数2.68（前次为2.76）。",
@@ -170,6 +268,42 @@
           "time_info": "[01时58分 ~ 03时12分]"
         },
         {
+          "title": "特斯拉一季度营收223.9亿美元，分析师预期221.9亿美元。 一季度调整后每股收益（EPS）为0.41美元，分析师预期0.34美元；一季度EPS为0.13美元，去年同期0.12美元。 一季度毛利润率21.1%，分析师预期17.7%。 特斯拉盘后涨3.85%。",
+          "url": "https://wallstreetcn.com/livenews/3092828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)2026年Q1营收223.87亿美元，上年同期193.35亿美元，市场预期227.92亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423040335549800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
+          "title": "德州仪器一季度营收48.3亿美元，分析师预期45.3亿美元。 预计二季度营收50亿-54亿美元，分析师预期48.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
+        },
+        {
           "title": "WTI 5月原油期货收涨3.29美元，涨幅3.67%，报92.96美元/桶。 布伦特6月原油期货收涨3.43美元，涨幅3.48%，报101.91美元/桶。 中东Abu Dhabi Murban原油期货涨4.88%，报100.99美元/桶。 NYMEX 5月汽油期货收报3.3579美元/加仑，NYMEX 5月取暖油期货收报3.9379美元/加仑。 NYMEX 5月天然气期货收报2.7220美元/百万英热单位。",
           "url": "https://wallstreetcn.com/livenews/3092795",
           "source": "华尔街见闻-快讯",
@@ -181,15 +315,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "QuantumScape一季度调整后运营亏损7870万美元，分析师预期亏损8990万美元。 一季度每股亏损0.16美元，上年同期亏损0.21美元。",
-          "url": "https://wallstreetcn.com/livenews/3092838",
+          "title": "周三（4月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8320元，较周二纽约尾盘跌34点，日内整体交投于6.8217-6.8331元区间。",
+          "url": "https://wallstreetcn.com/livenews/3092851",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时46分"
         },
         {
           "title": "WTI原油期货站上93美元/桶，日内涨3.71%。",
@@ -203,103 +337,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美国西南航空公司一季度运营收入72.5亿美元，分析师预期72.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3092835",
+          "title": "周三（4月22日）纽约尾盘，现货黄金涨0.41%，报4739.31美元/盎司，绝大部分时间处于上涨状态，北京时间06:50微跌至4715.72美元刷新日低，随后持续上扬，15:08刷新日高至4772.38美元，之后逐步回吐涨幅。 COMEX黄金期货涨0.76%，报4755.50美元/盎司，全天上涨，整体上也冲高回落。 现货白银涨1.26%，报77.6927美元/盎司，13:39涨至78.6770美元刷新日高，随后也逐步回吐涨幅。 COMEX白银期货涨1.54%，报78.230美元/盎司。 COMEX铜期货涨2.04%，报6.1955美元/磅。 现货铂金涨1.88%，现货钯金跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3092847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
-          "url": "https://wallstreetcn.com/livenews/3092834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "IBM（国际商业机器公司）一季度营收159.2亿美元，分析师预期156.7亿美元。 一季度软件营收70.5亿美元，同比增长11%，分析师预期70.4亿美元。 一季度咨询营收52.7亿美元，分析师预期52.9亿美元。 一季度运营每股收益（EPS）为1.91美元，分析师预期1.81美元。 一季度自由现金流（FCF）为22.2亿美元，分析师预期21.7亿美元。 一季度业绩报告不含商业预定（企业订单）。 维持全年营收预期（按恒定汇率）在增超5%不变，分析师预计增长5.1%。 IBM美股盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3092832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)第一季度调整后每股收益0.41美元。",
-          "url": "https://flash.jin10.com/detail/20260423040449197800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "拉姆研究/泛林集团第三财季营收58.4亿美元，分析师预期57.5亿美元。 第三财季调整后EPS为调整后每股收益（EPS）为1.47美元，分析师预期1.37美元。 预计第四财季营收62亿-70亿美元，分析师预期60.4亿美元。 预计第四财季调整后EPS为1.50-1.80美元，分析师预期1.45美元。",
-          "url": "https://wallstreetcn.com/livenews/3092831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)第一季度资本支出为24.93亿美元。",
-          "url": "https://flash.jin10.com/detail/20260423040446915800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "特斯拉一季度营收223.9亿美元，分析师预期221.9亿美元。 一季度调整后每股收益（EPS）为0.41美元，分析师预期0.34美元；一季度EPS为0.13美元，去年同期0.12美元。 一季度毛利润率21.1%，分析师预期17.7%。 特斯拉盘后涨3.85%。",
-          "url": "https://wallstreetcn.com/livenews/3092828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)2026年Q1营收223.87亿美元，上年同期193.35亿美元，市场预期227.92亿美元。",
-          "url": "https://flash.jin10.com/detail/20260423040335549800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "德州仪器一季度营收48.3亿美元，分析师预期45.3亿美元。 预计二季度营收50亿-54亿美元，分析师预期48.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3092827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时46分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的5.38亿美元。",
@@ -319,7 +365,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -363,7 +409,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -385,7 +431,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -429,7 +475,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -448,19 +494,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时50分]"
-        },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
           "url": "https://news.ifeng.com/c/8sX5InWbAM4",
@@ -469,8 +504,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时46分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -481,15 +516,27 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时46分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
           "url": "https://www.cls.cn/detail/2352682",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时46分]"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -507,6 +554,29 @@
           "time_info": "[00时08分 ~ 01时58分]"
         },
         {
+          "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时46分]"
+        },
+        {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
           "url": "https://news.ifeng.com/c/8sXS8jC94HP",
           "source": "凤凰网",
@@ -518,26 +588,16 @@
           "time_info": "[00时08分 ~ 01时58分]"
         },
         {
-          "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时46分]"
         },
         {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
@@ -562,16 +622,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
+          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "url": "https://wallstreetcn.com/livenews/3092859",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -596,15 +655,28 @@
           "time_info": "03时12分"
         },
         {
-          "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
-          "url": "https://wallstreetcn.com/livenews/3092842",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普、白宫均否认就停火延长设最后期限",
+          "url": "https://flash.jin10.com/detail/20260423052013555800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时46分"
+        },
+        {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 05时46分]"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -643,16 +715,16 @@
           "time_info": "[01时58分 ~ 03时12分]"
         },
         {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
+          "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
+          "url": "https://wallstreetcn.com/livenews/3092842",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 04时50分]"
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时46分]"
         },
         {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
@@ -710,6 +782,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
+          "url": "https://wallstreetcn.com/livenews/3092848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
           "title": "伊朗否认举行美伊新谈判，指特朗普“又说谎了”",
           "url": "https://wallstreetcn.com/livenews/3092734",
           "source": "华尔街见闻-快讯",
@@ -749,7 +832,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -760,7 +843,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -771,7 +854,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
