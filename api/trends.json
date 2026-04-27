@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-04-27T07:35:36.636724+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-27T10:15:11.117146+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
-          "url": "https://wallstreetcn.com/articles/3770905",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
-        },
         {
           "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056733",
           "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
+        },
+        {
+          "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
+          "url": "https://wallstreetcn.com/articles/3770905",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -93,11 +93,12 @@
           "ranks": [
             10,
             6,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -115,11 +116,12 @@
           "url": "https://wallstreetcn.com/articles/3770913",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
         },
         {
           "title": "枪击发生时特朗普旁的华裔女记者是谁",
@@ -138,40 +140,17 @@
           "time_info": "[00时37分 ~ 07时35分]"
         },
         {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
-        },
-        {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
-        },
-        {
-          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
-          "source": "澎湃新闻",
-          "ranks": [
             15,
-            16,
-            17
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
         },
         {
           "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
@@ -180,11 +159,38 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
+        },
+        {
+          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
         },
         {
           "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
@@ -192,11 +198,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
         },
         {
           "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
@@ -204,11 +211,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 10时15分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -224,6 +232,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普夫人反应迅速",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26,
+            21,
+            10,
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时43分 ~ 10时15分]"
+        },
+        {
+          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
+          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -268,19 +303,37 @@
           "time_info": "[00时37分 ~ 06时34分]"
         },
         {
-          "title": "特朗普夫人反应迅速",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "枪案现场特朗普撤离时有人趁乱偷酒",
+          "url": "https://www.toutiao.com/trending/7632891671742906422/",
+          "source": "今日头条",
           "ranks": [
-            27,
-            26,
-            21,
-            10,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时43分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "特朗普：枪击案嫌疑人留下字条",
+          "url": "https://news.ifeng.com/c/8seILG9U4yn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "特朗普回顾：一度不愿离开晚宴现场",
+          "url": "https://news.ifeng.com/c/8serCYd3qiN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
@@ -345,7 +398,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -441,6 +494,39 @@
           "time_info": "[00时37分 ~ 02时44分]"
         },
         {
+          "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
+          "url": "https://www.cls.cn/detail/2356165",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "牛弹琴：晚宴枪击瞄准的不只是特朗普",
+          "url": "https://www.toutiao.com/trending/7633235405055200818/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
+          "url": "https://www.cls.cn/detail/2356161",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
           "title": "特朗普称伊朗可主动联系美国",
           "url": "https://flash.jin10.com/detail/20260426234714547800",
           "source": "金十数据",
@@ -451,6 +537,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时35分]"
+        },
+        {
+          "title": "特朗普2年不到遭遇3次枪击事件",
+          "url": "https://www.toutiao.com/trending/7633236117625507369/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "美国总统特朗普：伊朗的领导层非常奇怪，有时你根本摸不清谈判对手究竟是谁。",
@@ -513,13 +610,24 @@
           "time_info": "[00时37分 ~ 01时35分]"
         },
         {
+          "title": "视频丨特朗普通报白宫记协晚宴安全事件调查细节，公布枪手强闯安检视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057030",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
           "title": "枪击现场安保行动缓慢？特朗普：是我想看看发生了什么",
           "url": "https://flash.jin10.com/detail/20260427063049726800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -544,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普将于周一召开关于伊朗问题的战情室会议。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3094612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "美国总统特朗普：英国称将在战争结束后派遣舰艇，这并不好。",
@@ -637,7 +756,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "白宫晚宴枪手系酒店住客？曾捐款哈里斯25美元，FBI正搜家",
@@ -725,13 +844,24 @@
           "time_info": "[06时34分 ~ 07时35分]"
         },
         {
+          "title": "约基奇被罚款5万美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A6%E5%9F%BA%E5%A5%87%E8%A2%AB%E7%BD%9A%E6%AC%BE5%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
           "title": "因中东地区原油产量下降，高盛将2026年第四季度布伦特原油价格预期上调至每桶90美元，将WTI原油价格预期上调至每桶83美元。",
           "url": "https://flash.jin10.com/detail/20260427064429659800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -742,15 +872,70 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "花旗：资金流动可能会持续受到干扰直到6月底，这可能推动布伦特原油价格升至每桶150美元。",
+          "url": "https://flash.jin10.com/detail/20260427094652774800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "花旗：将对2026年第二季度、第三季度和第四季度布伦特原油均价的基准情景预测分别上调至每桶110美元、95美元和80美元。",
+          "url": "https://flash.jin10.com/detail/20260427094625530800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年3月24日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3094615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "高盛将第四季度布伦特油价预期上调至每桶90美元，因“霍尔木兹冲击”。 高盛表示，中东局势动荡引发了“极端”水平的库存消耗。 高盛预测受战争影响，本季度石油供应缺口将达960万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3094611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "美国廉航公司向特朗普政府寻求25亿美元救助方案",
+          "url": "https://flash.jin10.com/detail/20260427093326137800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "比亚迪能越野的MPV来了",
@@ -764,6 +949,73 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 05时34分]"
+        },
+        {
+          "title": "港股新能源车企股回升，比亚迪股份(01211.HK)涨近5%，奇瑞汽车(09973.HK)涨超3%，长城汽车(02333.HK)、蔚来-SW(09866.HK)、小鹏集团(09868.HK)、零跑汽车(09863.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260427095912492800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "比亚迪AH股齐涨，A股涨超4%，H股涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260427095513339800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生科技指数日内涨超1%，中芯国际涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3094639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "香港恒生指数开盘持平，报25976.97点；恒生科技指数涨0.56%。中芯国际涨超4%，百度涨超3%，华虹半导体涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3094619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股科网股局部走强，百度(09888.HK)涨超5%，阿里巴巴(09988.HK)涨超1%，贝壳(02423.HK)、BOSS直聘(02076.HK)、网易-S(09999.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260427094754929800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     }
