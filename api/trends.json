@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T05:53:13.654780+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-04-28T06:46:33.470402+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
@@ -19,15 +19,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "CBO：美关税调整可能会在十年内使赤字增加1.1万亿美元",
-          "url": "https://flash.jin10.com/detail/20260428043717053800",
+          "title": "美国交通部长达菲：国会必须介入，为低成本航空公司提供25亿美元的援助。",
+          "url": "https://flash.jin10.com/detail/20260428054921696800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时46分"
         },
         {
           "title": "英伟达涨超2%，刷新盘中历史高位至212.6美元，盘中市值5.17万亿美元。",
@@ -41,27 +41,54 @@
           "time_info": "01时18分"
         },
         {
-          "title": "周一（4月27日）纽约尾盘，欧元兑美元持平，报1.1722，悉尼盘初报价跳水至1.1688，随后持续回升，20:18刷新日高至1.1755，随后持续回吐涨幅。 英镑兑美元持平，报1.3538，美元兑瑞郎涨0.04%，报0.7851。 商品货币对中，澳元兑美元涨0.49%，纽元兑美元涨0.45%，双双守住涨幅；美元兑加元跌0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3095240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "美国国会预算办公室主任：关税政策调整或使赤字增加1.1万亿美元",
           "url": "https://wallstreetcn.com/livenews/3095226",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
+        },
+        {
+          "title": "CBO：美关税调整可能会在十年内使赤字增加1.1万亿美元",
+          "url": "https://flash.jin10.com/detail/20260428043717053800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "time_info": "[05时53分 ~ 06时46分]"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，欧元兑美元持平，报1.1722，悉尼盘初报价跳水至1.1688，随后持续回升，20:18刷新日高至1.1755，随后持续回吐涨幅。 英镑兑美元持平，报1.3538，美元兑瑞郎涨0.04%，报0.7851。 商品货币对中，澳元兑美元涨0.49%，纽元兑美元涨0.45%，双双守住涨幅；美元兑加元跌0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3095240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时46分]"
+        },
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20260428034651678800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
         },
         {
           "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
@@ -76,6 +103,18 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
+          "title": "周一（4月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8262元，较上周五纽约尾盘涨84点，日内整体交投于6.8386-6.8193元区间。",
+          "url": "https://wallstreetcn.com/livenews/3095237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时46分]"
+        },
+        {
           "title": "铿腾电子一季度营收14.7亿美元，分析师预期14.6亿美元。 一季度调整后每股收益（EPS）为1.96美元，分析师预期1.89美元。 预计全年营收61.3亿-62.3亿美元，公司原本预计59亿-60亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095218",
           "source": "华尔街见闻-快讯",
@@ -88,16 +127,28 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20260428034651678800",
-          "source": "金十数据",
+          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3095233",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            20
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "time_info": "[05时53分 ~ 06时46分]"
+        },
+        {
+          "title": "Nucor（纽柯钢铁）一季度净销售95亿美元，分析师预期88.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3095231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时46分]"
         },
         {
           "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
@@ -123,6 +174,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "纽约银日内涨幅达0.5%，报76.01美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3095254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
           "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
           "url": "https://wallstreetcn.com/livenews/3095146",
           "source": "华尔街见闻-快讯",
@@ -132,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "周一（4月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8262元，较上周五纽约尾盘涨84点，日内整体交投于6.8386-6.8193元区间。",
-          "url": "https://wallstreetcn.com/livenews/3095237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "英特尔发行65亿美元债券，获得投资者500亿美元认购。",
@@ -167,26 +218,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3095233",
+          "title": "美国航空公司出售11.4亿美元债券，为32架飞机融资。",
+          "url": "https://wallstreetcn.com/livenews/3095247",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "Nucor（纽柯钢铁）一季度净销售95亿美元，分析师预期88.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3095231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时46分"
         },
         {
           "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
@@ -269,7 +309,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -279,8 +319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -290,8 +330,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
@@ -301,8 +341,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时46分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -313,8 +353,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
+          "url": "https://flash.jin10.com/detail/20260428062503291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "特朗普支持为移民和海关执法局改名 ICE变“NICE”",
@@ -339,16 +390,28 @@
           "time_info": "01时18分"
         },
         {
+          "title": "报道：特朗普对伊朗的霍尔木兹海峡方案持怀疑态度",
+          "url": "https://wallstreetcn.com/livenews/3095255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
           "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3095228",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -358,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时46分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
@@ -367,11 +430,23 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时46分]"
+        },
+        {
+          "title": "特朗普取消更多风能租赁项目以刺激油气投资",
+          "url": "https://flash.jin10.com/detail/20260428052935112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -476,7 +551,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -484,11 +559,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时46分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         }
       ]
     },
@@ -504,8 +591,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时46分]"
         }
       ]
     }
