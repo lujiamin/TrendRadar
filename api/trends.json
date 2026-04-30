@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-05-01T01:16:38.489672+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-01T03:13:14.813464+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 30,
       "titles": [
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
           "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "美国总统特朗普签署联邦合同相关命令。",
+          "url": "https://flash.jin10.com/detail/20260501025944555800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
         },
         {
           "title": "美国众议院投票，批准对国土安全部（DHS）预算拨款的主要条款，草案将移交给总统特朗普（签字为法律）。",
@@ -28,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普的助手表示，特朗普将签署授权跨境管道的许可证。",
+          "url": "https://flash.jin10.com/detail/20260501025910710800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -52,6 +87,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "市场消息：美国总统特朗普正式启动“特朗普IRA”计划，为数百万美国人开设低成本的个人退休账户（IRA）。",
+          "url": "https://flash.jin10.com/detail/20260501025832770800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗渴望达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3097677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
           "url": "https://flash.jin10.com/detail/20260501005757572800",
           "source": "金十数据",
@@ -63,26 +120,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3097647",
+          "title": "特朗普60天战争权限将于5月1日到期",
+          "url": "https://wallstreetcn.com/livenews/3097676",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
-          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
         },
         {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
@@ -96,6 +142,18 @@
           "time_info": "01时16分"
         },
         {
+          "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3097647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
           "url": "https://wallstreetcn.com/articles/3771344",
           "source": "华尔街见闻",
@@ -103,8 +161,85 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "还是不解气，特朗普又炮轰默茨",
+          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普举行新闻发布会时吹嘘大选以来股市的上涨。",
+          "url": "https://flash.jin10.com/detail/20260501025252974800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普取消部分威士忌关税",
+          "url": "https://flash.jin10.com/detail/20260501024648995800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普决定取消某些威士忌关税",
+          "url": "https://wallstreetcn.com/livenews/3097672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国烈酒公司百富门（Brown-Forman）股价上涨2%，特朗普表示将取消部分与威士忌相关的关税。",
+          "url": "https://flash.jin10.com/detail/20260501024429251800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国联邦通信管理局（FCC）：我们针对迪士尼采取的（提前数年审查新闻）许可行动并没有得到总统特朗普的授意。",
@@ -118,15 +253,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
+          "url": "https://wallstreetcn.com/livenews/3097669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：我将取消与苏格兰和肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制。",
+          "url": "https://flash.jin10.com/detail/20260501023140297800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普：我提名妮可·B·萨菲尔博士（NICOLE B. SAPHIER）出任美国下一任卫生局长。",
@@ -140,15 +286,37 @@
           "time_info": "01时16分"
         },
         {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
+          "title": "特朗普变卦：转而提名妮科尔·萨菲尔担任卫生局局长",
+          "url": "https://wallstreetcn.com/livenews/3097666",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260501021036394800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普称参选美国总统的人应接受认知能力测试",
+          "url": "https://flash.jin10.com/detail/20260501020938040800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国总统特朗普：美国卫生局长提名人凯西将继续为美国的卫生事业而战。",
@@ -160,12 +328,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普宣布他正在考虑减少驻德国的美国军队，这一消息让美国国防部感到震惊。",
+          "url": "https://flash.jin10.com/detail/20260501015754327800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 22,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -175,8 +354,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
+          "url": "https://www.zhihu.com/question/2032585303555138489",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.626万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
         },
         {
           "title": "现货钯金日内涨幅扩大至4.00%，现报1527.85美元/盎司。",
@@ -190,15 +391,59 @@
           "time_info": "01时16分"
         },
         {
-          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
-          "url": "https://www.zhihu.com/question/2032585303555138489",
-          "source": "知乎",
+          "title": "英镑/美元日内涨幅达1.0%，报1.3608。",
+          "url": "https://wallstreetcn.com/livenews/3097678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：拜登执政期间，平均401K养老金每年仅增加875美元，而去年为24000美元。",
+          "url": "https://flash.jin10.com/detail/20260501025314461800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8310元，较周三夜盘收盘涨120点。成交量410.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD突破0.72，日内涨1.18%。英镑兑美元GBP/USD向上触及1.36，为2月17日以来首次，日内涨0.92%。",
+          "url": "https://flash.jin10.com/detail/20260501025124626800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "Meta的美元债发行获得大约960亿美元投资者认购。",
@@ -212,15 +457,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
+          "title": "WTI 6月原油期货收报105.07美元/桶，4月份累涨超12.78%。 布伦特6月原油期货收报114.01美元/桶，4月份累涨超9.56%，4月30日亚太午盘曾达到126.41美元。 中东Abu Dhabi Murban原油期货报109.61美元/桶，4月份累涨2.62%。 NYMEX 6月天然气期货收报2.7670美元/百万英热单位。 NYMEX 5月汽油期货收报3.7715美元/加仑，NYMEX 5月取暖油期货收报4.1384美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3097671",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时13分"
         },
         {
           "title": "Meta拟发巨额债券，欲募资多达250亿美元",
@@ -234,6 +479,50 @@
           "time_info": "01时16分"
         },
         {
+          "title": "纽元兑美元NZD/USD站上0.59，日内涨1.22%。",
+          "url": "https://flash.jin10.com/detail/20260501022345504800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美元兑加元USD/CAD失守1.36，日内跌幅0.61%。",
+          "url": "https://flash.jin10.com/detail/20260501022344087800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "SpaceX投资者137 Ventures持股超1%，价值突破100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "GasBuddy的实时数据显示，全美平均油价达到每加仑4.35美元，并且今天还将继续上涨。",
+          "url": "https://flash.jin10.com/detail/20260501021849324800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "墨西哥石油公司Pemex一季度净亏损459.9亿墨西哥比索，上年同期亏损433.3亿比索。 一季度末，公司对供应商们的债务规模为207.63亿美元。",
           "url": "https://wallstreetcn.com/livenews/3097628",
           "source": "华尔街见闻-快讯",
@@ -245,6 +534,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "WTI原油5分钟内下跌1.33美元/桶，报103.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
           "url": "https://wallstreetcn.com/livenews/3097626",
           "source": "华尔街见闻-快讯",
@@ -254,6 +554,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "周四（4月30日），美联储隔夜逆回购协议（RRP）使用规模为82.61亿美元（交易对手12家），上个交易日报6.43亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
+          "url": "https://wallstreetcn.com/livenews/3097652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报2.727美元/百万英热。",
@@ -270,7 +592,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -284,6 +606,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
+          "url": "https://wallstreetcn.com/livenews/3097661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
           "url": "https://www.zhihu.com/question/2032183066840360184",
           "source": "知乎",
@@ -293,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
