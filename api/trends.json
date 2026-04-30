@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:12:22.763275+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-04-30T23:05:13.341354+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 20时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 23时05分]"
         },
         {
           "title": "道达尔能源10亿美元规模风电场租赁协议遭到美国民主党的调查。",
@@ -59,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -92,9 +92,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 23时05分]"
         },
         {
           "title": "福特汽车一季度调整后每股收益（EPS）为0.66美元，分析师预期0.19美元。 预计全年调整后EBIT为85亿-105亿美元，公司原本预计80亿-100亿美元。",
@@ -133,18 +146,6 @@
           "time_info": "[01时23分 ~ 03时17分]"
         },
         {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 20时12分]"
-        },
-        {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时24分]"
+        },
+        {
+          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
+          "url": "https://www.zhihu.com/question/2032585303555138489",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "科磊第三财季营收34.2亿美元，预期33.7亿美元。",
@@ -303,6 +315,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "美元指数DXY日内跌幅扩大至0.8%。非美货币走高，澳元兑美元AUD/USD日内涨超1.00%，现报0.7187。美元兑加元USD/CAD日内跌超0.50%，现报1.3615。",
+          "url": "https://flash.jin10.com/detail/20260430225606796800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "WTI原油站上109美元/桶，日内涨7.50%。",
           "url": "https://flash.jin10.com/detail/20260430010336006800",
           "source": "金十数据",
@@ -331,7 +354,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -378,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅扩大至1.00%，现报0.5887。",
+          "url": "https://flash.jin10.com/detail/20260430225152227800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "周三（4月29日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8474元，较周二纽约尾盘跌72点，日内整体交投于6.8313-6.8493元区间，美联储宣布按兵不动、鲍威尔新闻发布会结束后继续走低，逼近4月8日底部6.8563元。",
@@ -485,7 +519,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -529,7 +563,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -573,9 +607,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "英镑兑美元涨0.57%，报1.3550。",
+          "url": "https://wallstreetcn.com/livenews/3097580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美国企图没收在海上扣押的、与伊朗相关的油轮。财长贝森特认为，油价将在伊朗冲突结束后下跌。WTI原油跌破108美元/桶关口，目前报107.99美元/桶。",
@@ -617,7 +662,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -765,6 +810,17 @@
           "time_info": "16时13分"
         },
         {
+          "title": "美元/瑞郎日内跌幅达1.0%，报0.783。 欧元兑瑞郎跌超0.82%，至0.9155。",
+          "url": "https://wallstreetcn.com/livenews/3097571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "微软(MSFT.O)第四财季营收预期为867亿美元至878亿美元，市场预估为875亿美元。",
           "url": "https://flash.jin10.com/detail/20260430060013466800",
           "source": "金十数据",
@@ -823,7 +879,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
@@ -838,6 +894,18 @@
           "time_info": "[07时02分 ~ 20时12分]"
         },
         {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 23时05分]"
+        },
+        {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
           "url": "https://news.ifeng.com/c/8siqYiXyeAp",
           "source": "凤凰网",
@@ -849,15 +917,20 @@
           "time_info": "[01时23分 ~ 10时31分]"
         },
         {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
-          "source": "凤凰网",
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
           "ranks": [
+            11,
+            9,
+            7,
+            5,
+            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 20时12分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 23时05分]"
         },
         {
           "title": "特朗普放话：伊朗不求饶，海峡不解封",
@@ -932,21 +1005,6 @@
           "time_info": "[13时54分 ~ 18时51分]"
         },
         {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 20时12分]"
-        },
-        {
           "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
           "source": "澎湃新闻",
@@ -971,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 10时31分]"
+        },
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
@@ -1087,6 +1156,31 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 23时05分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 23时05分]"
+        },
+        {
           "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3096964",
           "source": "华尔街见闻-快讯",
@@ -1097,18 +1191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 20时12分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -1135,16 +1217,15 @@
           "time_info": "[01时23分 ~ 07时02分]"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
+          "title": "特朗普特工的手枪瞄准镜疑似中国制造",
+          "url": "https://www.toutiao.com/trending/7634381061883134015/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 20时12分]"
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
@@ -1157,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 13时54分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "特朗普称赞的战列舰什么样",
@@ -1198,7 +1290,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1509,6 +1601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（在被问及汽油价格时）特朗普击败了欧佩克。",
+          "url": "https://flash.jin10.com/detail/20260430223234554800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     },
@@ -1684,7 +1787,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         }
