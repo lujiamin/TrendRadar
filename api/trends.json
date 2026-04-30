@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T03:13:14.813464+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-01T04:56:12.279838+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -28,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -38,7 +50,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -54,15 +66,37 @@
           "time_info": "01时16分"
         },
         {
+          "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
+          "url": "https://wallstreetcn.com/livenews/3097712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
           "title": "美国总统特朗普的助手表示，特朗普将签署授权跨境管道的许可证。",
           "url": "https://flash.jin10.com/detail/20260501025910710800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
+          "url": "https://flash.jin10.com/detail/20260501042353967800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -93,7 +127,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -104,7 +138,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -126,7 +160,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -142,6 +176,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
+        },
+        {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
           "url": "https://wallstreetcn.com/livenews/3097647",
           "source": "华尔街见闻-快讯",
@@ -154,39 +210,6 @@
           "time_info": "[01时16分 ~ 03时13分]"
         },
         {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -194,8 +217,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 04时56分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时12分 ~ 03时13分]"
+          "time_info": "[04时55分 ~ 04时56分]"
         },
         {
           "title": "市场消息：美国总统特朗普举行新闻发布会时吹嘘大选以来股市的上涨。",
@@ -204,9 +238,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。",
+          "url": "https://wallstreetcn.com/livenews/3097705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "特朗普取消部分威士忌关税",
@@ -215,7 +260,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -226,7 +271,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -237,7 +282,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -259,7 +304,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -270,7 +315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -292,9 +337,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：AI将创造大量就业机会。",
+          "url": "https://wallstreetcn.com/livenews/3097697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
@@ -303,7 +359,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -314,7 +370,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -336,48 +392,72 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
+          "url": "https://wallstreetcn.com/livenews/3097682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "不满欧洲盟友，特朗普暗示考虑在西班牙和意大利削减驻军",
+          "url": "https://wallstreetcn.com/livenews/3097681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 34,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
           "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
           "url": "https://www.zhihu.com/question/2032585303555138489",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
         },
         {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.626万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097680",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果(AAPL.O)2026财年Q2 营收1111.8亿美元，去年同期953.59亿美元，市场预期1096.58亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501043031664800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时56分"
         },
         {
           "title": "现货钯金日内涨幅扩大至4.00%，现报1527.85美元/盎司。",
@@ -391,15 +471,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "英镑/美元日内涨幅达1.0%，报1.3608。",
-          "url": "https://wallstreetcn.com/livenews/3097678",
+          "title": "苹果公司董事会批准高达1000亿美元的股票回购计划，并提高派息。",
+          "url": "https://wallstreetcn.com/livenews/3097710",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时13分"
+          "time_info": "04时56分"
+        },
+        {
+          "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3097708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "美国总统特朗普：拜登执政期间，平均401K养老金每年仅增加875美元，而去年为24000美元。",
@@ -408,7 +499,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -420,8 +511,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时56分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.626万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时56分]"
+        },
+        {
+          "title": "英镑/美元日内涨幅达1.0%，报1.3608。",
+          "url": "https://wallstreetcn.com/livenews/3097678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时56分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8310元，较周三夜盘收盘涨120点。成交量410.55亿美元。",
@@ -430,7 +545,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -441,7 +556,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -463,9 +578,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
+          "url": "https://wallstreetcn.com/livenews/3097702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "Rivian(RIVN.O)第一季度营收为13.8亿美元，预期为13.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501040312406800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "Reddit一季度营收6.634亿美元，分析师预期6.093亿美元。 一季度净利润2.04亿美元，分析师预期1.174亿美元。 一季度ARPU为5.23美元，分析师预期4.87美元。 一季度日活用户数1.268亿，分析师预期1.2627亿。",
+          "url": "https://wallstreetcn.com/livenews/3097701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "西部数据第三财季净营收33.4亿美元，同比增长45%，分析师预期32.3亿美元。 第三财季GAAP毛利润率50.2%，非GAAP毛利率50.5%。 预计第四财季营收将同比增长36%-44%。 预计第四财季运营开支3.85亿-3.95亿美元，预计调整后毛利润率51%-52%。 西部数据（WDC）美股盘后跌超6.44%。",
+          "url": "https://wallstreetcn.com/livenews/3097700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "Meta拟发巨额债券，欲募资多达250亿美元",
@@ -479,13 +638,35 @@
           "time_info": "01时16分"
         },
         {
+          "title": "第一太阳能一季度净销售10.4亿美元，分析师预期104亿美元。 维持全年净销售预期在49亿-52亿美元不变，分析师预期51亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "安进一季度营收86.2亿美元，分析师预期85.7亿美元。 预计全年营收371亿-385亿美元，公司原本预计370亿-384亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
           "title": "纽元兑美元NZD/USD站上0.59，日内涨1.22%。",
           "url": "https://flash.jin10.com/detail/20260501022345504800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -496,9 +677,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：月最低工资将上调至240美元。",
+          "url": "https://flash.jin10.com/detail/20260501035316765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "SpaceX投资者137 Ventures持股超1%，价值突破100亿美元",
@@ -507,7 +699,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -518,7 +710,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -540,9 +732,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国官员称伊朗战争耗资接近500亿美元，较一天前说法“翻倍”",
+          "url": "https://wallstreetcn.com/livenews/3097688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -562,9 +765,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美元指数周四跌约0.9%，4月份累跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3097685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
@@ -573,7 +787,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -612,7 +826,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -634,9 +848,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指涨0.89%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260501040155496800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         }
       ]
     }
