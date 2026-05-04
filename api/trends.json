@@ -1,11 +1,606 @@
 {
-  "generated_at": "2026-05-04T19:02:40.355520+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-05-04T21:48:12.722253+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 52,
+      "titles": [
+        {
+          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771492",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "解说员王涛称央视认为 FIFA 世界杯版权 3 亿美元新标价离谱，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033970481439749297",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时40分]"
+        },
+        {
+          "title": "澳新银行：预计2026年布伦特原油价格将超过90美元/桶，2027年为80-85美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504100415172800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "阿根廷矿业协会CAEM：阿根廷预计2026年矿产出口将同比增长49%，达到90亿美元。",
+          "url": "https://flash.jin10.com/detail/20260504213336392800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
+          "url": "https://wallstreetcn.com/livenews/3098312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "WTI原油较日内高位回落约2美元，现报106.16美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504183707051800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "现货黄金日内跌2.00%，现报4526.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
+          "url": "https://flash.jin10.com/detail/20260504070408438800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "游戏驿站（GameStop）首席执行官Cohen 称提议以560亿美元收购eBay。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "现货钯金下跌4%至每盎司1,462.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3098466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "GameStop向eBay发出价值560亿美元的现金加股票收购要约后，eBay股价创下历史新高，最新上涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20260504213258684800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达5.0%，报113.59美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "美元兑日元跌超0.2%，刷新日低至156.70日元下方。",
+          "url": "https://wallstreetcn.com/livenews/3098319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时40分]"
+        },
+        {
+          "title": "WTI原油跌幅收窄至1.8%，最新报102美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504062103802800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时40分]"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时00分 ~ 19时02分]"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 19时02分]"
+        },
+        {
+          "title": "着眼经济转型，阿联酋石油巨头布局550亿美元项目",
+          "url": "https://wallstreetcn.com/livenews/3098306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时40分]"
+        },
+        {
+          "title": "持仓逼近200亿美元！“稳定币老大”Tether“放缓”囤金，一季度还是买了6吨",
+          "url": "https://wallstreetcn.com/articles/3771502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
+          "title": "周一开盘，现货黄金高开10美元，报4624.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504060229322800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时40分]"
+        },
+        {
+          "title": "WTI原油周一低开2.7%，最新报101.02美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504060152818800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时40分]"
+        },
+        {
+          "title": "现货黄金日内跌2.00%，现报4526.19美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504182257251800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "WTI原油日内涨6.00%，现报108.28美元/桶。此前有报道称伊朗袭击美国军舰。",
+          "url": "https://flash.jin10.com/detail/20260504182237097800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "Cerebras寻求通过IPO筹集最高35亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达2.0%，报110.37美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3098462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3098460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "WTI原油站上108美元/桶，日内涨5.73%。",
+          "url": "https://flash.jin10.com/detail/20260504181649954800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "布伦特原油向上触及112美元/桶，日内涨4.14%。现货白银日内大跌4.00%，现报72.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504181410485800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "Anthropic宣布与华尔街巨头成立价值15亿美元的合资企业",
+          "url": "https://flash.jin10.com/detail/20260504212850494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "亚行将为亚太地区两项新倡议提供700亿美元支持",
+          "url": "https://flash.jin10.com/detail/20260503232056925800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报103.01美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "WTI原油日内涨幅收窄至约1.2%，现报103.19美元/桶，几乎回吐伊朗宣称击中美军舰以来的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3098486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
+          "url": "https://wallstreetcn.com/livenews/3098454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "美元/日元回升至156.50左右，稍早一度快速跳水至155.71。",
+          "url": "https://wallstreetcn.com/livenews/3098386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达2.00%，现报105.40美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504132014901800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
+          "url": "https://wallstreetcn.com/livenews/3098343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美元兑日元短线快速跳水，跌破156关口，10分钟内下跌100多点，日内跌幅扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3098384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "布伦特原油站上111美元/桶，日内涨3.20%。",
+          "url": "https://flash.jin10.com/detail/20260504181010635800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "Jefferies将Meta目标股价从1000美元下调至825美元，将Alphabet目标价从400美元上调至445美元。",
+          "url": "https://wallstreetcn.com/livenews/3098383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3098425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD失守1.17，日内跌幅0.17%。",
+          "url": "https://flash.jin10.com/detail/20260504180816794800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "游戏驿站（GameStop）：提议以每股125美元的价格收购eBay，收购方式为现金加股票。",
+          "url": "https://wallstreetcn.com/livenews/3098341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "黑石数字基础设施寻求通过IPO募资17.5亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "现货钯金日内跌超4.00%，现报1467.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504180655819800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "现货黄金回落至4550美元/盎司下方，日内跌1.52%。",
+          "url": "https://flash.jin10.com/detail/20260504180546928800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "Fervo Energy寻求通过IPO筹集最高13.3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260504160516358800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "布伦特原油突破109美元/桶，日内涨1.35%。",
+          "url": "https://flash.jin10.com/detail/20260504160455430800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "比特币一度升破8万美元 触及逾三个月高位",
+          "url": "https://wallstreetcn.com/livenews/3098416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "马来西亚国家石油公司：将四月份马来西亚原油官方售价定为每桶127.65美元。",
+          "url": "https://flash.jin10.com/detail/20260504125122765800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "WTI原油向上触及105美元/桶，日内涨2.79%。WTI原油期货日内上涨2.00美元，现报103.94美元/桶，涨幅1.96%。",
+          "url": "https://flash.jin10.com/detail/20260504160415589800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -59,6 +654,18 @@
           "time_info": "[00时43分 ~ 07时40分]"
         },
         {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时00分 ~ 21时48分]"
+        },
+        {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
           "url": "https://www.cls.cn/detail/2362040",
           "source": "财联社热门",
@@ -85,6 +692,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时43分 ~ 07时40分]"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 21时48分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -137,15 +759,16 @@
           "time_info": "[00时43分 ~ 07时40分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
           "source": "凤凰网",
           "ranks": [
-            2
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时00分 ~ 21时48分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -157,20 +780,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 05时37分]"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 19时02分]"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -185,16 +794,39 @@
           "time_info": "[10时27分 ~ 19时02分]"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            6
+            12,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 21时48分]"
+        },
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
+        },
+        {
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
@@ -228,7 +860,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -242,19 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 19时02分]"
         },
         {
           "title": "特朗普称伊朗的“新提议”不可接受",
@@ -525,7 +1144,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -605,535 +1224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 46,
-      "titles": [
-        {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
         },
         {
-          "title": "解说员王涛称央视认为 FIFA 世界杯版权 3 亿美元新标价离谱，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033970481439749297",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
-        },
-        {
-          "title": "澳新银行：预计2026年布伦特原油价格将超过90美元/桶，2027年为80-85美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260504100415172800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
-          "url": "https://wallstreetcn.com/livenews/3098312",
+          "title": "美媒：特朗普对伊朗问题僵局感到“厌倦”，他想要达成协议",
+          "url": "https://wallstreetcn.com/livenews/3098472",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "WTI原油较日内高位回落约2美元，现报106.16美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260504183707051800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "现货黄金日内跌2.00%，现报4526.19美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
-          "url": "https://flash.jin10.com/detail/20260504070408438800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "游戏驿站（GameStop）首席执行官Cohen 称提议以560亿美元收购eBay。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3098323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "现货钯金下跌4%至每盎司1,462.50美元。",
-          "url": "https://wallstreetcn.com/livenews/3098466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达5.0%，报113.59美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "美元兑日元跌超0.2%，刷新日低至156.70日元下方。",
-          "url": "https://wallstreetcn.com/livenews/3098319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时40分]"
-        },
-        {
-          "title": "WTI原油跌幅收窄至1.8%，最新报102美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260504062103802800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时40分]"
-        },
-        {
-          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 19时02分]"
-        },
-        {
-          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 19时02分]"
-        },
-        {
-          "title": "着眼经济转型，阿联酋石油巨头布局550亿美元项目",
-          "url": "https://wallstreetcn.com/livenews/3098306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时38分 ~ 07时40分]"
-        },
-        {
-          "title": "持仓逼近200亿美元！“稳定币老大”Tether“放缓”囤金，一季度还是买了6吨",
-          "url": "https://wallstreetcn.com/articles/3771502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
-        },
-        {
-          "title": "周一开盘，现货黄金高开10美元，报4624.39美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504060229322800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时40分]"
-        },
-        {
-          "title": "WTI原油周一低开2.7%，最新报101.02美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260504060152818800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时40分]"
-        },
-        {
-          "title": "现货黄金日内跌2.00%，现报4526.19美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504182257251800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "WTI原油日内涨6.00%，现报108.28美元/桶。此前有报道称伊朗袭击美国军舰。",
-          "url": "https://flash.jin10.com/detail/20260504182237097800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "Cerebras寻求通过IPO筹集最高35亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达2.0%，报110.37美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
-          "url": "https://wallstreetcn.com/livenews/3098462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "现货白银回落至74美元/盎司下方，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3098460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "WTI原油站上108美元/桶，日内涨5.73%。",
-          "url": "https://flash.jin10.com/detail/20260504181649954800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "布伦特原油向上触及112美元/桶，日内涨4.14%。现货白银日内大跌4.00%，现报72.71美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504181410485800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "亚行将为亚太地区两项新倡议提供700亿美元支持",
-          "url": "https://flash.jin10.com/detail/20260503232056925800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.0%，报103.01美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
-          "url": "https://wallstreetcn.com/livenews/3098454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "美元/日元回升至156.50左右，稍早一度快速跳水至155.71。",
-          "url": "https://wallstreetcn.com/livenews/3098386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达2.00%，现报105.40美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260504132014901800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
-          "url": "https://wallstreetcn.com/livenews/3098343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美元兑日元短线快速跳水，跌破156关口，10分钟内下跌100多点，日内跌幅扩大至0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3098384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "布伦特原油站上111美元/桶，日内涨3.20%。",
-          "url": "https://flash.jin10.com/detail/20260504181010635800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "Jefferies将Meta目标股价从1000美元下调至825美元，将Alphabet目标价从400美元上调至445美元。",
-          "url": "https://wallstreetcn.com/livenews/3098383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3098425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "欧元兑美元EUR/USD失守1.17，日内跌幅0.17%。",
-          "url": "https://flash.jin10.com/detail/20260504180816794800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "游戏驿站（GameStop）：提议以每股125美元的价格收购eBay，收购方式为现金加股票。",
-          "url": "https://wallstreetcn.com/livenews/3098341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "现货钯金日内跌超4.00%，现报1467.25美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504180655819800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "现货黄金回落至4550美元/盎司下方，日内跌1.52%。",
-          "url": "https://flash.jin10.com/detail/20260504180546928800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504160516358800",
-          "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "布伦特原油突破109美元/桶，日内涨1.35%。",
-          "url": "https://flash.jin10.com/detail/20260504160455430800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "比特币一度升破8万美元 触及逾三个月高位",
-          "url": "https://wallstreetcn.com/livenews/3098416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "马来西亚国家石油公司：将四月份马来西亚原油官方售价定为每桶127.65美元。",
-          "url": "https://flash.jin10.com/detail/20260504125122765800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "WTI原油向上触及105美元/桶，日内涨2.79%。WTI原油期货日内上涨2.00美元，现报103.94美元/桶，涨幅1.96%。",
-          "url": "https://flash.jin10.com/detail/20260504160415589800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "21时48分"
         }
       ]
     },
@@ -1167,6 +1268,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI与私募巨头敲定100亿美元合资协议",
+          "url": "https://wallstreetcn.com/livenews/3098487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
