@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:40:13.416723+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-04T10:27:46.865119+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
@@ -38,11 +38,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -63,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -92,19 +94,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 10时27分]"
         },
         {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
@@ -145,6 +148,17 @@
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
           "url": "https://wallstreetcn.com/livenews/3098301",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -164,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -408,15 +422,37 @@
           "time_info": "[01时43分 ~ 02时53分]"
         },
         {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
@@ -436,7 +472,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -455,7 +491,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
@@ -487,6 +523,17 @@
           "time_info": "[00时43分 ~ 07时40分]"
         },
         {
+          "title": "澳新银行：预计2026年布伦特原油价格将超过90美元/桶，2027年为80-85美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260504100415172800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
@@ -504,7 +551,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -515,7 +562,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -602,12 +649,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
+          "url": "https://wallstreetcn.com/livenews/3098343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "游戏驿站（GameStop）：提议以每股125美元的价格收购eBay，收购方式为现金加股票。",
+          "url": "https://wallstreetcn.com/livenews/3098341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪大唐EV实车到店",
@@ -624,6 +693,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 06时36分]"
+        },
+        {
+          "title": "港股苹果概念股震荡走高，丘钛科技(01478.HK)涨超8%，高伟电子(01415.HK)涨超6%，舜宇光学科技(02382.HK)涨超4%，瑞声科技(02018.HK)、蓝思科技(06613.HK)涨超3%，比亚迪电子(00285.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260504095528146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股芯片股盘初集体上扬，中芯国际涨超5%",
+          "url": "https://flash.jin10.com/detail/20260504093753342800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
