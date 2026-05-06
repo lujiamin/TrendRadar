@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T01:48:14.692383+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-07T03:31:24.187568+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
+          "url": "https://flash.jin10.com/detail/20260507030743676800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普：美伊“很有可能”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3099538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -25,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -36,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -48,30 +70,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
         },
         {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
+          "url": "https://flash.jin10.com/detail/20260507030535215800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -80,9 +115,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已同意不拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260507030426078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们希望所有伊朗人都能活着。",
+          "url": "https://flash.jin10.com/detail/20260507030406347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
+          "url": "https://flash.jin10.com/detail/20260507030331856800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
@@ -91,9 +159,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚与埃克森美孚董事长会面。",
+          "url": "https://flash.jin10.com/detail/20260507030326615800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们无法从伊朗那里得到我们想要的，我们就不得不采取进一步行动。",
+          "url": "https://flash.jin10.com/detail/20260507030316370800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：过去24小时与伊朗的谈判非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260507030114049800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成一份协议。",
@@ -102,7 +203,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -113,9 +214,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普在白宫预告UFC赛事，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260507025912909800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）正在与真心想达成协议的人打交道。",
@@ -124,7 +236,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -135,7 +247,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -146,9 +258,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "据福克斯新闻，美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。 标普500指数目前涨超1.2%，道指涨572点、涨幅1.1%，纳指涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3099521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们想达成协议。",
@@ -157,16 +280,60 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "报道称，巴西总统卢拉将在周四会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260507024458637800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
+          "url": "https://wallstreetcn.com/livenews/3099515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
+          "url": "https://wallstreetcn.com/livenews/3099511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
+          "url": "https://flash.jin10.com/detail/20260507031148642800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的16.33亿美元。",
           "url": "https://flash.jin10.com/detail/20260507011701714800",
@@ -174,20 +341,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
         {
-          "title": "周三（5月6日），美联储隔夜逆回购协议（RRP）使用规模为16.33亿美元（交易对手7家），上个交易日报11.22亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3099508",
+          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
+          "url": "https://wallstreetcn.com/livenews/3099539",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时31分"
         },
         {
           "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
@@ -197,8 +364,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
+        },
+        {
+          "title": "周三（5月6日），美联储隔夜逆回购协议（RRP）使用规模为16.33亿美元（交易对手7家），上个交易日报11.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3099508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "time_info": "[01时48分 ~ 03时31分]"
         },
         {
           "title": "世界杯中国赞助商投入超5亿美元",
@@ -208,19 +387,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
         },
         {
           "title": "Kimi估值冲破200亿美元",
           "url": "https://www.toutiao.com/trending/7636609753482756142/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
         },
         {
           "title": "LME期铜涨2%，连续第三个交易日走高，报13390.50美元/吨，一度刷新4月23日以来高位至13462美元。 LME期铝跌1.8%，报3524.50美元/吨。 LME期锌涨1.1%，报3409美元/吨。 LME期铅涨0.2%，报1975.50美元/吨。 LME期镍跌2.1%，报19235美元/吨，一度涨至20000美元、创2024年5月份以来最高位。 LME期锡涨8.9%，报54125美元/吨。",
@@ -229,9 +409,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普：即使石油价格涨到200美元，也值得",
+          "url": "https://wallstreetcn.com/livenews/3099535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "亚航首席执行官托尼·费尔南德斯：订购150架空客飞机，合同金额达190亿美元。",
+          "url": "https://flash.jin10.com/detail/20260507030105844800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "布伦特原油7月期货结算价为每桶101.27美元，下跌8.60美元，跌幅7.83%。",
+          "url": "https://flash.jin10.com/detail/20260507025604323800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "名不见经传的塞尔维亚团体出价23.5亿美元，竞购俄资石油公司NIS过半股份",
@@ -240,16 +453,71 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
+          "url": "https://wallstreetcn.com/livenews/3099520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "阿根廷：预计十年内锂和铜出口额将达327亿美元",
+          "url": "https://wallstreetcn.com/livenews/3099519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "优步（Uber）维持超过7%的涨幅，该公司预计二季度总体预定可能会达到562.5亿-577.5亿美元，那将突破分析师们的预期。",
+          "url": "https://wallstreetcn.com/livenews/3099517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "WTI原油期货6月合约结算价为95.08美元/桶，下跌7.19美元，跌幅7.03%。",
+          "url": "https://flash.jin10.com/detail/20260507023407883800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
+          "url": "https://flash.jin10.com/detail/20260507030831224800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
@@ -258,15 +526,37 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 03时31分]"
+        },
+        {
+          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
+          "url": "https://wallstreetcn.com/livenews/3099536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "比亚迪员工告别免费充电",
+          "url": "https://www.toutiao.com/trending/7635692932594466852/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
         {
           "title": "比亚迪员工告别免费充电",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
