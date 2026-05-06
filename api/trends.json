@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:44:48.996065+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-05-06T10:26:27.032448+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "WTI原油6月期货合约下跌2.70美元，跌破100美元关口，此前特朗普宣布暂停“自由计划”行动。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "现货黄金向上触及4630美元/盎司，日内涨1.62%。",
+          "url": "https://flash.jin10.com/detail/20260506100833851800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。",
@@ -145,6 +156,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "现货白银上涨近3%，至每盎司75.01美元。",
+          "url": "https://wallstreetcn.com/livenews/3099047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "市场消息：美国国务院批准向乌克兰潜在销售联合直接攻击弹药增程型及相关设备，金额为3.736亿美元。",
           "url": "https://flash.jin10.com/detail/20260506021849250800",
           "source": "金十数据",
@@ -173,9 +195,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "我们在开发 VR 独立游戏，快三年了，累计年底投入 45 万美元，内容是打丧尸，类似亚利桑那阳光，还能坚持吗？",
+          "url": "https://www.zhihu.com/question/2033300815583122067",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "美元指数5日上涨",
@@ -255,6 +288,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "人民币兑美元中间价报6.8562，创2023年3月24日以来新高，上调66点；上一交易日中间价6.8628，上一交易日官方收盘价6.8335，上日夜盘报收6.8310。",
+          "url": "https://wallstreetcn.com/livenews/3099028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "AMD(AMD.O)预计第二季度营收为112亿美元，而市场预期为105.16亿美元。",
           "url": "https://flash.jin10.com/detail/20260506042127642800",
           "source": "金十数据",
@@ -332,6 +376,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "澳元/美元、纽元/美元日内均涨超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3099019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "美国芝加哥BondBloxx投资管理公司合伙人兼高级投资策略师JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。 自3月初以来，这确实是一次大幅波动，因此我们目前处于更高的水平。看起来，如果布伦特原油价格继续按照每天3-5美元的速度上涨，利率可能会上升，但这也开始使固定收益资产更具吸引力，特别是在收益率曲线的中段。",
           "url": "https://wallstreetcn.com/livenews/3098911",
           "source": "华尔街见闻-快讯",
@@ -346,8 +401,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 10时26分]"
+        },
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
           "url": "https://wallstreetcn.com/articles/3771561",
@@ -366,22 +432,34 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 10时26分]"
         },
         {
-          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
-          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
           "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 10时26分]"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 10时26分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -393,28 +471,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
-          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时44分]"
-        },
-        {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时44分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -434,7 +490,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -445,7 +501,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -504,9 +560,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普：与伊朗方面取得进展，“自由计划”将在短期内暂停",
@@ -515,7 +582,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -526,7 +593,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -573,12 +640,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普放话让伊朗二选一",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -690,6 +768,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "港股半导体股盘中持续上攻，澜起科技(06809.HK)涨超18%，兆易创新(03986.HK)涨超14%，中芯国际(00981.HK)、华虹半导体(01347.HK)均涨超10%，豪威集团(00501.HK)、晶门半导体(02878.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506100513109800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "科创50指数涨超7%，海光信息、寒武纪、澜起科技、佰维存储、中芯国际、华虹公司、中微公司等权重股均大幅走强。",
+          "url": "https://wallstreetcn.com/livenews/3099054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "港股恒生科技指数盘中涨超1%，恒生指数涨0.37%，芯片及存储股强势领涨，华虹半导体(01347.HK)涨超8.5%，中芯国际(00981.HK)涨近8%，联想集团(00992.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260506095106061800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "恒指高开0.51%，报26029.65点；恒生科技指数涨0.85%。华虹半导体、中芯国际涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3099030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     }
