@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-13T07:56:42.123251+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-05-13T10:41:40.937034+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时56分]"
-        },
         {
           "title": "特朗普访华",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
@@ -28,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 10时41分]"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 10时41分]"
         },
         {
           "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
@@ -92,6 +93,18 @@
           "time_info": "[01时06分 ~ 07时56分]"
         },
         {
+          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
+          "url": "https://www.cls.cn/detail/2369623",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时41分]"
+        },
+        {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
           "url": "https://wallstreetcn.com/articles/3772030",
           "source": "华尔街见闻",
@@ -105,26 +118,81 @@
           "time_info": "[03时44分 ~ 07时56分]"
         },
         {
+          "title": "鲁比奥赫格塞思随特朗普访华",
+          "url": "https://www.toutiao.com/trending/7638913910263644223/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普启程访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普启程访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普访华,黄仁勋被踢出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354222&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E8%B8%A2%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "特朗普启程赴华",
           "url": "https://www.toutiao.com/trending/7638727600944287268/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
         {
-          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
-          "url": "https://www.cls.cn/detail/2369623",
-          "source": "财联社热门",
+          "title": "伊朗设谈判门槛，特朗普称“不着急”",
+          "url": "https://news.ifeng.com/c/8t5HGdbHooZ",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "10时41分"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -132,11 +200,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 10时41分]"
         },
         {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
@@ -156,7 +225,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -167,7 +236,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -211,7 +280,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -233,9 +302,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
@@ -271,6 +362,39 @@
           "time_info": "05时15分"
         },
         {
+          "title": "库克、马斯克等人进入陪同特朗普访华名单，黄仁勋未在列，如何看待这份名单？",
+          "url": "https://www.zhihu.com/question/2037484197183321093",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "美国 16 位商业巨头与特朗普一同访华，为什么是他们？他们背后分别代表哪些产业和商业利益？",
+          "url": "https://www.zhihu.com/question/2037795685987083413",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普：阻止伊朗拥核高于美国人的经济痛苦——“连一点点都没有考虑”",
+          "url": "https://flash.jin10.com/detail/20260513101705151800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "据《纽约时报》：最新评估显示，伊朗对其沿霍尔木兹海峡33处导弹阵地中的30处仍保有作战使用能力，这表明伊朗军事实力远比特朗普所声称的强大得多。",
           "url": "https://flash.jin10.com/detail/20260513053813546800",
           "source": "金十数据",
@@ -280,6 +404,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "英伟达股价美股夜盘涨超2%。此前白宫证实英伟达CEO黄仁勋将随同特朗普访华。",
+          "url": "https://wallstreetcn.com/livenews/3102620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "白宫证实英伟达CEO黄仁勋将随同特朗普访华。 黄仁勋在阿拉斯加登上空军一号前往中国。",
+          "url": "https://wallstreetcn.com/livenews/3102616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "美国总统特朗普：当假新闻媒体称伊朗在军事上对美国表现良好时，这几乎等同于叛国，因为这种说法完全错误，甚至荒谬。伊朗海军原本拥有159艘舰船，现在每一艘都已经沉入海底。他们已经没有海军，空军也已不存在，所有技术能力都被摧毁，他们的“领导人”也不复存在，这个国家如今已陷入经济灾难。",
@@ -329,7 +475,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -504,7 +650,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -515,7 +661,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -540,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "Anthropic据悉寻求300亿美元融资 投前估值超9000亿美元",
+          "url": "https://www.cls.cn/detail/2369594",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "EIA短期能源展望报告：如果霍尔木兹海峡关闭至6月底，原油价格将比当前假设5月底重新开放的预测高出20美元/桶。",
@@ -586,6 +743,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "印尼盾兑美元汇率跌至历史低点17,530。",
+          "url": "https://flash.jin10.com/detail/20260513100853648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "新一轮融资：Anthropic洽谈按9000亿美元估值融资300亿美元",
           "url": "https://wallstreetcn.com/livenews/3102518",
           "source": "华尔街见闻-快讯",
@@ -595,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "现货黄金向下触及4700美元/盎司，日内跌0.32%。",
+          "url": "https://flash.jin10.com/detail/20260513100837446800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "据知情人士透露， Anthropic正与投资者进行初步洽谈，计划筹集至少300亿美元的新资金，这可能成为该公司迄今为止规模最大的一轮融资。 Anthropic正以超过9000亿美元的估值筹集新一轮资金。",
@@ -662,9 +841,48 @@
       ]
     },
     {
-      "keyword_group": "比亚迪",
-      "match_count": 1,
+      "keyword_group": "中芯国际",
+      "match_count": 2,
       "titles": [
+        {
+          "title": "恒生科技指数日内跌1%，华虹半导体跌超6%，中芯国际跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3102642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "港股人工智能股部分下跌，美图(01357.HK)跌超5%，群核科技(00068.HK)、中芯国际(00981.HK)跌超4%，阅文集团(00772.HK)、快手(01024.HK)、百度(09888.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260513100742929800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股汽车股多数下跌，吉利汽车(00175.HK)跌近5%，比亚迪股份(01211.HK)跌超3%，奇瑞汽车(09973.HK)、赛力斯(09927.HK)、长城汽车(02333.HK)、小鹏集团(09868.HK)跟跌。",
+          "url": "https://flash.jin10.com/detail/20260513101523633800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
         {
           "title": "比亚迪4月销量创阶段新高",
           "url": "https://www.toutiao.com/trending/7638816849750310962/",
@@ -672,7 +890,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
