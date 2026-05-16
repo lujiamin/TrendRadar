@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T13:50:33.612956+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-05-16T15:58:28.940347+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -100,6 +100,21 @@
           "time_info": "[00时02分 ~ 07时53分]"
         },
         {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时58分]"
+        },
+        {
           "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
           "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
           "source": "澎湃新闻",
@@ -123,25 +138,12 @@
             4,
             5,
             6,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时50分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时58分]"
         },
         {
           "title": "特朗普：待惯了的话 可能都舍不得走",
@@ -232,8 +234,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 13时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时58分]"
         },
         {
           "title": "特朗普：热情期待在华盛顿接待习主席",
@@ -277,11 +279,23 @@
           "url": "https://news.ifeng.com/c/8tALgMrD7Pg",
           "source": "凤凰网",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普在空军一号受访，释放大量信号",
+          "url": "https://news.ifeng.com/c/8tAtho08BXE",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时58分"
         },
         {
           "title": "周五（5月15日），美股降息赢家指数跌2.60%，报85.09点——呈现出长尾L形走势，本周累计下跌5.86%，整体持续下挫。 “特朗普关税输家”指数跌1.81%，报97.59点，本周累跌5.35%。 “特朗普金融指数”跌0.81%，报158.12点，本周累跌1.64%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.32%，报12.96点，本周累跌7.14%。",
@@ -295,17 +309,6 @@
           "time_info": "07时53分"
         },
         {
-          "title": "特朗普松口：可接受伊朗暂停核计划20年",
-          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
           "url": "https://wallstreetcn.com/livenews/3104664",
           "source": "华尔街见闻-快讯",
@@ -316,6 +319,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普松口：可接受伊朗暂停核计划20年",
+          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普称赞股市。",
@@ -342,6 +357,19 @@
           "time_info": "[06时52分 ~ 07时53分]"
         },
         {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 15时58分]"
+        },
+        {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
           "url": "https://flash.jin10.com/detail/20260516033957346800",
           "source": "金十数据",
@@ -354,18 +382,6 @@
           "time_info": "[04时14分 ~ 07时53分]"
         },
         {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 10时31分]"
-        },
-        {
           "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
           "url": "https://www.zhihu.com/question/2038603109828486376",
           "source": "知乎",
@@ -373,8 +389,33 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普抵达美国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普：“伊斯兰国”二号头目被消灭",
+          "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普：伊朗没有底牌。",
@@ -425,8 +466,8 @@
           "time_info": "[06时52分 ~ 07时53分]"
         },
         {
-          "title": "特朗普抵达美国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%88%90%E5%8A%9F+%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9",
           "source": "百度热搜",
           "ranks": [
             19,
@@ -434,7 +475,19 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时58分]"
         },
         {
           "title": "特朗普说随访美国商人是自己想来的",
@@ -458,6 +511,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普称随访美国商人是自己想来的",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时58分]"
         },
         {
           "title": "外交部发言人就美国总统特朗普访华情况答记者问",
@@ -494,26 +559,15 @@
           "time_info": "[06时51分 ~ 06时52分]"
         },
         {
-          "title": "特朗普：“伊斯兰国”二号头目被消灭",
-          "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
-          "source": "凤凰网",
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年",
@@ -522,9 +576,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
+          "url": "https://wallstreetcn.com/livenews/3104753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普儿媳妇发布打卡长城照",
@@ -533,7 +598,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -544,31 +609,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
         {
-          "title": "特朗普称随访美国商人是自己想来的",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
-          "source": "百度热搜",
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时58分"
         },
         {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%88%90%E5%8A%9F+%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9",
-          "source": "百度热搜",
+          "title": "特朗普结束访华，大赞中南海景致：若待得惯都不想走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182927",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普说“伊斯兰国”二号头目被“清除”",
@@ -577,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -610,7 +675,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -640,7 +705,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "王毅介绍中美元首会晤情况和共识",
@@ -708,11 +773,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时18分 ~ 13时50分]"
+          "appearance_count": 11,
+          "time_info": "[02时18分 ~ 15时58分]"
         },
         {
           "title": "中美元首会晤情况和共识",
@@ -742,6 +808,18 @@
           "time_info": "[00时02分 ~ 10时31分]"
         },
         {
+          "title": "王毅向媒体介绍中美元首会晤情况和共识，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038752352610538209",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 15时58分]"
+        },
+        {
           "title": "6000万美元！相关人士：央视感谢全国网友支持",
           "url": "https://news.ifeng.com/c/8t9OSxjL6Nf",
           "source": "凤凰网",
@@ -751,18 +829,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时53分]"
-        },
-        {
-          "title": "王毅向媒体介绍中美元首会晤情况和共识，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038752352610538209",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 13时50分]"
         },
         {
           "title": "央视6000万美元拿下世界杯版权",
@@ -837,6 +903,42 @@
           "time_info": "[00时02分 ~ 02时18分]"
         },
         {
+          "title": "王毅向媒体介绍中美元首会晤情况和共识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33184208",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时58分]"
+        },
+        {
+          "title": "国际人士：中美元首会晤为世界带来稳定性和确定性",
+          "url": "https://wallstreetcn.com/livenews/3104766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "中美元首会晤，这些细节值得关注",
+          "url": "https://www.cls.cn/detail/2373062",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时58分]"
+        },
+        {
           "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
           "url": "https://flash.jin10.com/detail/20260516095113788800",
           "source": "金十数据",
@@ -848,6 +950,19 @@
           "time_info": "10时31分"
         },
         {
+          "title": "中美元首互动相处近9小时",
+          "url": "https://www.toutiao.com/trending/7639674799572274729/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 15时58分]"
+        },
+        {
           "title": "本届世界杯版权费为6000万美元",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%E8%B4%B9%E4%B8%BA6000%E4%B8%87%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -857,42 +972,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "中美元首互动相处近9小时",
-          "url": "https://www.toutiao.com/trending/7639674799572274729/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 10时31分]"
-        },
-        {
-          "title": "中美元首会晤，这些细节值得关注",
-          "url": "https://www.cls.cn/detail/2373062",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时50分]"
-        },
-        {
-          "title": "王毅向媒体介绍中美元首会晤情况和共识",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33184208",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时50分]"
         },
         {
           "title": "中美元首互动相处近9小时",
@@ -908,6 +987,31 @@
           "time_info": "[02时18分 ~ 06时52分]"
         },
         {
+          "title": "时隔4年重启慈善午餐拍卖 巴菲特、库里合力砍下900万美元善款",
+          "url": "https://www.cls.cn/detail/2373011",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时58分]"
+        },
+        {
+          "title": "43小时全回顾｜中美元首北京会晤为共同构建建设性战略稳定关系迈出坚实一步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182596",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时58分]"
+        },
+        {
           "title": "周五（5月15日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8139元，较周四纽约尾盘跌273点，日内整体交投于6.7857-6.8165元区间，全天持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3104637",
           "source": "华尔街见闻-快讯",
@@ -918,18 +1022,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时52分]"
-        },
-        {
-          "title": "时隔4年重启慈善午餐拍卖 巴菲特、库里合力砍下900万美元善款",
-          "url": "https://www.cls.cn/detail/2373011",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时50分]"
         },
         {
           "title": "纽约期金重挫3%，逼近4500美元",
@@ -944,16 +1036,28 @@
           "time_info": "[05时56分 ~ 06时52分]"
         },
         {
-          "title": "43小时全回顾｜中美元首北京会晤为共同构建建设性战略稳定关系迈出坚实一步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182596",
-          "source": "澎湃新闻",
+          "title": "郑丽文回应中美元首会晤",
+          "url": "https://www.toutiao.com/trending/7639251243563302953/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 15时58分]"
+        },
+        {
+          "title": "900万美元！巴菲特+库里夫妇慈善午餐落槌，所得款项将支持两家基金会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182031",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时58分]"
         },
         {
           "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
@@ -998,17 +1102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "郑丽文回应中美元首会晤",
-          "url": "https://www.toutiao.com/trending/7639251243563302953/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "美国能源部长赖特：美国每月从委内瑞拉的石油出口中收取约20-30亿美元，并将这些收入转用于委内瑞拉政府的支出。",
@@ -1061,7 +1154,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1110,6 +1203,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "台媒：中美元首会晤涉台表述划红线",
+          "url": "https://www.toutiao.com/trending/7639482967932534835/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "本周，韩元兑美元累计下跌2.47%，周五（5月15日）报1497.63韩元，整体持续走低。",
           "url": "https://wallstreetcn.com/livenews/3104594",
           "source": "华尔街见闻-快讯",
@@ -1130,17 +1234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "900万美元！巴菲特+库里夫妇慈善午餐落槌，所得款项将支持两家基金会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182031",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "阿根廷石油公司YPF为250亿美元石油项目寻求Rigi审批。",
@@ -1226,7 +1319,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
@@ -1334,9 +1427,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时58分]"
         }
       ]
     }
