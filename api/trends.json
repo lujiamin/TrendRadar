@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-05-18T05:51:39.474244+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-05-18T06:50:02.757566+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时50分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时50分]"
+        },
         {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
@@ -21,43 +48,6 @@
           "time_info": "[00时53分 ~ 05时51分]"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时51分]"
-        },
-        {
-          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
-          "url": "https://wallstreetcn.com/livenews/3104904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时51分]"
-        },
-        {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
           "url": "https://flash.jin10.com/detail/20260518011814397800",
           "source": "金十数据",
@@ -69,15 +59,27 @@
           "time_info": "01时55分"
         },
         {
-          "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
-          "url": "https://flash.jin10.com/detail/20260518041826426800",
-          "source": "金十数据",
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时51分"
+          "time_info": "06时50分"
+        },
+        {
+          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
+          "url": "https://wallstreetcn.com/livenews/3104904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时50分]"
         },
         {
           "title": "特朗普的格陵兰岛特使抵达当地首府努克",
@@ -105,15 +107,41 @@
           "time_info": "[00时54分 ~ 01时55分]"
         },
         {
+          "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
+          "url": "https://flash.jin10.com/detail/20260518041826426800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
+          "url": "https://www.zhihu.com/question/2038636185115779503",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 06时50分]"
+        },
+        {
           "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
           "url": "https://wallstreetcn.com/livenews/3104905",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时50分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
@@ -126,18 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时43分]"
-        },
-        {
-          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
-          "url": "https://www.zhihu.com/question/2038636185115779503",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时51分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
@@ -172,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://flash.jin10.com/detail/20260518055636442800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
@@ -243,7 +270,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "27年前捐5000美元植树的美国人找到了",
@@ -254,11 +281,12 @@
             7,
             6,
             24,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时50分]"
         },
         {
           "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
@@ -273,16 +301,50 @@
           "time_info": "[00时53分 ~ 05时51分]"
         },
         {
+          "title": "现货黄金站上4550美元/盎司，日内涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260518060522768800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
           "url": "https://www.zhihu.com/question/2038657177729102743",
           "source": "知乎",
           "ranks": [
             13,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时50分]"
+        },
+        {
+          "title": "WTI原油周一高开1.2%，现报106.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260518060158836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 06时50分]"
         }
       ]
     }
