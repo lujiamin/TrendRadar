@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:49:20.922092+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-05-18T14:53:56.609608+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -55,9 +55,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时53分]"
         },
         {
           "title": "特朗普涉台“四不”示警“台独”",
@@ -66,9 +66,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时53分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时53分]"
         },
         {
           "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
@@ -82,15 +94,15 @@
           "time_info": "07时55分"
         },
         {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时53分"
         },
         {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
@@ -250,13 +262,24 @@
           "time_info": "06时50分"
         },
         {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
           "url": "https://www.zhihu.com/question/2038948707844846917",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -289,7 +312,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -352,7 +375,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "27年前捐5000美元植树的美国人找到了",
@@ -398,6 +421,30 @@
           "time_info": "[00时53分 ~ 07时55分]"
         },
         {
+          "title": "微观察·中美元首北京会晤丨历史性的一页，要用历史的长镜头去端详",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192111",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时49分 ~ 14时53分]"
+        },
+        {
           "title": "现货黄金站上4550美元/盎司，日内涨0.26%。",
           "url": "https://flash.jin10.com/detail/20260518060522768800",
           "source": "金十数据",
@@ -422,27 +469,27 @@
           "time_info": "[06时50分 ~ 07时55分]"
         },
         {
-          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 10时49分]"
-        },
-        {
           "title": "中俄贸易连续三年突破 2000 亿美元，此次普京访华可能给中俄贸易带来哪些新机遇？会利好哪些产业？",
           "url": "https://www.zhihu.com/question/2039040286517454238",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时53分]"
+        },
+        {
+          "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
+          "url": "https://wallstreetcn.com/articles/3772467",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时53分"
         },
         {
           "title": "SK海力士已在无锡投资超230亿美元",
@@ -456,6 +503,28 @@
           "time_info": "07时55分"
         },
         {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.049美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260518143215592800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
@@ -465,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "汇丰：将英国石油目标价从620便士下调至605便士。将埃克森美孚目标价从158美元上调至168美元。将雪佛龙目标价从217美元上调至221美元。将埃尼集团目标价从22欧元上调至23.5欧元。",
+          "url": "https://flash.jin10.com/detail/20260518142409037800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "现货白银日内涨幅达1.00%，现报76.67美元/盎司。",
@@ -484,9 +564,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "贾跃亭又拿到7000万美元投资",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%8F%88%E6%8B%BF%E5%88%B07000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "卡塔尔将6月海洋原油官方售价定为阿曼/迪拜均价升水10.50美元/桶；陆地原油官方售价定为阿曼/迪拜均价升水11美元/桶。",
@@ -495,7 +586,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -512,7 +603,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
