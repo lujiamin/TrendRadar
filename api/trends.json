@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T06:56:28.241212+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-05-19T08:03:12.573595+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
         },
         {
           "title": "特朗普敲打“台独” 日本被美撤梯子",
@@ -48,11 +48,51 @@
           "ranks": [
             5,
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            6,
+            9,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
         },
         {
           "title": "特朗普：取消原定于明天的对伊军事打击",
@@ -102,20 +142,6 @@
           "time_info": "[01时56分 ~ 06时56分]"
         },
         {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
-        },
-        {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
           "url": "https://www.toutiao.com/trending/7641079190293430308/",
           "source": "今日头条",
@@ -130,17 +156,28 @@
           "time_info": "[01时56分 ~ 06时56分]"
         },
         {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
           "ranks": [
             13,
-            11,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
+          "url": "https://flash.jin10.com/detail/20260519060254100800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时03分]"
         },
         {
           "title": "特朗普：将推迟攻击伊朗",
@@ -153,6 +190,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 05时07分]"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
+          "url": "https://wallstreetcn.com/livenews/3105634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时03分]"
+        },
+        {
+          "title": "美国总统特朗普：没有一艘船只突破我们（在霍尔木兹海峡）的封锁线。",
+          "url": "https://wallstreetcn.com/livenews/3105630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时03分]"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -177,15 +249,15 @@
           "time_info": "03时41分"
         },
         {
-          "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
-          "url": "https://flash.jin10.com/detail/20260519060254100800",
+          "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
+          "url": "https://flash.jin10.com/detail/20260519072301836800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "08时03分"
         },
         {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
@@ -221,24 +293,13 @@
           "time_info": "03时41分"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260519054721286800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -249,7 +310,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -271,20 +332,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
         {
-          "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
-          "url": "https://wallstreetcn.com/livenews/3105634",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：应海湾国家请求，取消原定周二对伊朗的打击",
+          "url": "https://flash.jin10.com/detail/20260519064859874800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "08时03分"
         },
         {
           "title": "美国白宫发言人凯莉：（就伊朗问题）特朗普随时可以选择所有选项。",
@@ -304,7 +365,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -315,18 +376,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普：没有一艘船只突破我们（在霍尔木兹海峡）的封锁线。",
-          "url": "https://wallstreetcn.com/livenews/3105630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -337,7 +387,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -359,7 +409,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -370,7 +420,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -381,7 +431,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -392,7 +442,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -403,7 +453,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -414,9 +464,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普处方药网站新增数百种仿制药",
+          "url": "https://flash.jin10.com/detail/20260519063650048800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "特朗普称“不考虑向德黑兰作出任何让步”",
@@ -436,7 +497,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -447,7 +508,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -469,7 +530,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -480,7 +541,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -499,7 +560,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "微观察·中美元首北京会晤丨历史性的一页，要用历史的长镜头去端详",
@@ -509,19 +570,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
         },
         {
           "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
           "url": "https://wallstreetcn.com/articles/3772467",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
+        },
+        {
+          "title": "探秘美国1美元房子长什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E7%BE%8E%E5%9B%BD1%E7%BE%8E%E5%85%83%E6%88%BF%E5%AD%90%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时03分]"
         },
         {
           "title": "周一（5月18日），美联储隔夜逆回购协议（RRP）使用规模为71.93亿美元（交易对手21家），上个交易日报6.47亿美元。",
@@ -533,18 +607,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "探秘美国1美元房子长什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E7%BE%8E%E5%9B%BD1%E7%BE%8E%E5%85%83%E6%88%BF%E5%AD%90%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时56分]"
         },
         {
           "title": "美元指数重新跌超0.3%",
@@ -559,6 +621,18 @@
           "time_info": "[03时41分 ~ 05时07分]"
         },
         {
+          "title": "WTI原油周二低开，现报105.87美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260519060126839800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时03分]"
+        },
+        {
           "title": "周一（5月18日）纽约尾盘，ICE原糖期货跌0.61%，ICE白糖期货跌0.50%。 ICE阿拉比卡咖啡期货跌0.50%，咖啡“C”期货跌0.15%。罗布斯塔咖啡期货跌1.96%。 纽约可可期货跌5.85%，报3768美元/吨。伦敦可可期货跌6.05%。 ICE棉花期货涨4.26%。",
           "url": "https://wallstreetcn.com/livenews/3105572",
           "source": "华尔街见闻-快讯",
@@ -571,17 +645,6 @@
           "time_info": "[03时41分 ~ 05时07分]"
         },
         {
-          "title": "WTI原油周二低开，现报105.87美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260519060126839800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "美国国务院批准可向印度出售M777A2超轻型榴弹炮，预计总成本为2.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260519030025345800",
           "source": "金十数据",
@@ -591,6 +654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报78.46美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260519070221750800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "LME期铜收涨32美元，报13588美元/吨。 LME期铝收涨6美元，报3569美元/吨。 LME期锌收跌10美元，报3524美元/吨。 LME期铅收涨4美元，报1982美元/吨。 LME期镍收涨70美元，报18567美元/吨。 LME期锡收涨216美元，报52563美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -709,7 +783,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -720,7 +794,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -742,7 +816,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
@@ -750,7 +824,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
@@ -762,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "马斯克对OpenAI诉讼被驳回",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
           "title": "法官驳回埃隆·马斯克对OpenAI及其CEO奥尔特曼的诉讼",
@@ -781,7 +866,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -803,6 +888,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "王力宏回应用代言费买比亚迪股票",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时03分]"
+        },
+        {
           "title": "如何看待才神道直播拆解比亚迪闪充电池组？",
           "url": "https://www.zhihu.com/question/2039014779122136217",
           "source": "知乎",
@@ -814,20 +913,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 05时07分]"
-        },
-        {
-          "title": "王力宏回应用代言费买比亚迪股票",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            24,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时56分]"
         }
       ]
     },
