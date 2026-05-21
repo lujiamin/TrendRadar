@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-21T18:37:03.532580+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-05-21T22:11:11.115887+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 22时11分]"
+        },
         {
           "title": "WTI 6月原油期货收跌5.89美元，跌幅5.66%，报98.26美元/桶。 中东Abu Dhabi Murban原油期货跌4.52%，报102.50美元/桶。 NYMEX 6月天然气期货收报3.0040美元/百万英热单位。 NYMEX 6月汽油期货收报3.4874美元/加仑，NYMEX 6月取暖油期货收报3.9471美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3106890",
@@ -30,15 +42,15 @@
           "time_info": "14时50分"
         },
         {
-          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
-          "url": "https://wallstreetcn.com/articles/3772763",
-          "source": "华尔街见闻",
+          "title": "Arm(ARM.O)涨超10%，市值首破3000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521220554951800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 18时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "马斯克冲击全球首位万亿美元富翁",
@@ -58,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -135,6 +147,17 @@
           "time_info": "[05时48分 ~ 07时08分]"
         },
         {
+          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
+          "url": "https://www.cls.cn/detail/2378228",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
           "title": "马斯克离全球首位万亿美元富翁又近了一步",
           "url": "https://www.cls.cn/detail/2377533",
           "source": "财联社热门",
@@ -163,7 +186,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -234,13 +257,46 @@
           "time_info": "05时48分"
         },
         {
+          "title": "现货黄金短线上扬近30美元，报4520.58美元/盎司；现货白银短线上涨1美元，报75.62美元/盎司。消息面上，伊朗高官驳斥浓缩铀留境报道。",
+          "url": "https://flash.jin10.com/detail/20260521215604445800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "Arm控股市值首破3000亿美元，孙正义与软银数年内已暴赚超过2,200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3107473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美、布两油短线下挫超1美元，现分别报104.50美元/桶和104.02美元/桶。消息面上，伊朗高官驳斥浓缩铀留境报道。",
+          "url": "https://flash.jin10.com/detail/20260521215441316800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "Benchmark：将英伟达公司目标价从250美元上调至335美元。",
           "url": "https://flash.jin10.com/detail/20260521181605191800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -251,7 +307,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -262,7 +318,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -300,6 +356,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "年薪10万美元的行政助理渐被AI取代 咨询与会计巨头纷纷裁减支持岗位",
+          "url": "https://wallstreetcn.com/livenews/3107467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "AMD将在中国台湾投资100亿美元以拓展战略合作伙伴关系。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3107185",
           "source": "华尔街见闻-快讯",
@@ -328,7 +395,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -361,7 +428,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -397,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "WTI原油日内涨幅达4.0%，报102.21美元/桶；布伦特原油日内涨幅达3.5%，报108.82美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3107462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "特朗普政府将提供另外2亿美元，以在明年启动改造后的纽约宾州车站。",
@@ -438,7 +516,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -520,6 +598,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "布伦特原油日内涨幅达3%，报108.26美元/桶。 WTI原油日内涨幅达3.5%，报101.81美元/桶。 现货黄金日内跌幅达1%，报4497.83美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3107456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "SpaceX：根据期权协议，Cursor公司有权获得15亿美元的终止费；根据算力协议，有权获得85亿美元的递延服务费。",
           "url": "https://flash.jin10.com/detail/20260521045446353800",
           "source": "金十数据",
@@ -556,7 +645,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普回应中俄元首会晤",
@@ -571,6 +660,18 @@
           "time_info": "[10时49分 ~ 18时37分]"
         },
         {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 22时11分]"
+        },
+        {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
           "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
           "source": "凤凰网",
@@ -580,6 +681,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 07时08分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时11分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时11分]"
+        },
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时11分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -593,18 +727,6 @@
           "time_info": "[00时52分 ~ 07时08分]"
         },
         {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 18时37分]"
-        },
-        {
           "title": "特朗普，“退了一万亿”",
           "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
@@ -616,48 +738,28 @@
           "time_info": "[10时49分 ~ 14时50分]"
         },
         {
-          "title": "中方回应特朗普称将与赖清德对话",
-          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
-          "source": "凤凰网",
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "中方回应特朗普称将与赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7642244493529321014/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时11分]"
         },
         {
           "title": "外交部回应“特朗普将与赖清德交谈”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
-          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时11分]"
         },
         {
           "title": "特朗普回应中俄元首会晤：我觉得很好",
@@ -728,17 +830,6 @@
           "time_info": "[10时49分 ~ 10时50分]"
         },
         {
-          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
-          "url": "https://www.cls.cn/detail/2377710",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
           "title": "特朗普特使强行访问格陵兰后称：美国是时候重新上岛了",
           "url": "https://news.ifeng.com/c/8tJB4De0lqd",
           "source": "凤凰网",
@@ -748,6 +839,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时36分 ~ 18时37分]"
+        },
+        {
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
           "title": "特朗普称卸任后不排除去竞选以总理",
@@ -772,6 +874,17 @@
           "time_info": "[10时49分 ~ 10时50分]"
         },
         {
+          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
           "title": "特朗普继续口头威胁伊朗",
           "url": "https://wallstreetcn.com/livenews/3106851",
           "source": "华尔街见闻-快讯",
@@ -781,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "特朗普儿媳强烈推荐打卡长城",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E6%89%93%E5%8D%A1%E9%95%BF%E5%9F%8E%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：就破冰船问题感谢芬兰。 短期内将形成55艘破冰船的（船队）规模。",
@@ -1094,8 +1218,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
           "url": "https://flash.jin10.com/detail/20260521030904258800",
@@ -1210,7 +1345,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "自媒体黑比亚迪被罚200W",
@@ -1220,11 +1355,12 @@
             10,
             13,
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 22时11分]"
         },
         {
           "title": "正考虑收购玛莎拉蒂？比亚迪回应",
@@ -1234,8 +1370,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时11分]"
+        },
+        {
+          "title": "比亚迪加速商讨进入F1赛事。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3107478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "正考虑收购玛莎拉蒂？比亚迪回应：不属实",
@@ -1244,7 +1391,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
