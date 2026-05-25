@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-25T07:57:00.411167+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-05-25T10:59:03.955321+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 10时59分]"
+        },
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
           "url": "https://wallstreetcn.com/articles/3772980",
@@ -24,18 +36,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时57分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -163,6 +163,17 @@
           "time_info": "[00时04分 ~ 03时11分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
           "url": "https://flash.jin10.com/detail/20260525010916654800",
           "source": "金十数据",
@@ -233,6 +244,17 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
+          "title": "特朗普的伊朗算盘遇到新对手：美债！若收益率不跌，美国人一年多付数百亿利息",
+          "url": "https://flash.jin10.com/detail/20260525103922806800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
           "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
@@ -291,7 +313,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -299,11 +321,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 10时59分]"
         },
         {
           "title": "现货白银持续走高，日内大涨4%，现报78.48美元/盎司。",
@@ -312,7 +335,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -383,7 +406,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -394,9 +417,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "分析师：伊朗协议进展可能引发美元仓位大幅逆转",
+          "url": "https://flash.jin10.com/detail/20260525103809610800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.5878。",
@@ -405,9 +439,48 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8318，上调55点；上一交易日中间价6.8373，上一交易日官方收盘价6.7947，上日夜盘报收6.7978。",
+          "url": "https://wallstreetcn.com/livenews/3108600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "泰铢兑美元升至32.400，为5月15日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260525101355777800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "半导体芯片股集体走强，新洁能涨停，东芯股份、晶丰明源、帝奥微、芯朋微涨超10%，寒武纪、中芯国际拉升涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3108620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     }
