@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T19:50:24.515591+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-05-25T22:45:13.727034+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -67,6 +67,17 @@
           "time_info": "[00时04分 ~ 07时57分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时45分]"
+        },
+        {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
           "url": "https://wallstreetcn.com/livenews/3108525",
           "source": "华尔街见闻-快讯",
@@ -80,6 +91,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时04分 ~ 06时54分]"
+        },
+        {
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时45分]"
         },
         {
           "title": "特朗普一季度做了3711笔证券交易",
@@ -124,15 +146,15 @@
           "time_info": "[00时04分 ~ 06时54分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
+          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成。",
+          "url": "https://wallstreetcn.com/livenews/3108939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "22时45分"
         },
         {
           "title": "“史诗狂怒”变“史诗尴尬”，专家质疑特朗普对伊战事成果",
@@ -144,17 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
-        },
-        {
-          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
-          "url": "https://v.ifeng.com/c/8tPourOxMbK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -360,9 +371,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "美国正边缘化以色列：内塔尼亚胡私下坦言无力干预特朗普决策",
+          "url": "https://flash.jin10.com/detail/20260525213109463800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "特朗普：已通知代表不要急于达成协议 时间在我们这边",
@@ -376,13 +398,24 @@
           "time_info": "00时04分"
         },
         {
+          "title": "特朗普要求中东多国与以色列建交",
+          "url": "https://wallstreetcn.com/livenews/3108912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "特朗普：与伊朗的协议要伟大且有意义 否则不会有任何协议",
           "url": "https://wallstreetcn.com/livenews/3108827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -390,7 +423,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -413,9 +446,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时45分]"
         },
         {
           "title": "现货白银持续走高，日内大涨4%，现报78.48美元/盎司。",
@@ -427,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "中东和平曙光压低油价与美元，金价走高",
+          "url": "https://flash.jin10.com/detail/20260525221031558800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "美元指数DXY跌破99，日内跌0.33%。",
@@ -506,7 +550,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -572,7 +616,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -605,7 +649,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -620,11 +664,12 @@
           "url": "https://wallstreetcn.com/articles/3773021",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时45分]"
         },
         {
           "title": "中芯国际20cm涨停",
@@ -633,7 +678,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
