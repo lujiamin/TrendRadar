@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T18:59:31.244277+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-05-27T22:28:37.445370+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
@@ -31,8 +31,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 22时28分]"
+        },
+        {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 22时28分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -64,20 +76,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
         {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
-          "source": "华尔街见闻",
+          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
+          "url": "https://www.zhihu.com/question/2042901886798403259",
+          "source": "知乎",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "22时28分"
         },
         {
           "title": "现货黄金向下触及4500美元/盎司，日内跌0.16%。",
@@ -220,7 +232,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -374,7 +386,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -388,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "现货黄金日内跌幅达2%，报4416.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "现货白银日内跌幅达1%，现报76.15美元/盎司。",
@@ -415,7 +438,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -449,11 +472,23 @@
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 18时59分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 22时28分]"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -541,7 +576,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -601,6 +636,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "美国总统特朗普：俄罗斯在最新袭击中向乌克兰发射了两枚榛树中程弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260527215807698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "特朗普：内阁会议将由戴维营改至白宫举行",
           "url": "https://flash.jin10.com/detail/20260527052759583800",
           "source": "金十数据",
@@ -621,6 +667,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "美国总统特朗普：目前通过“乌克兰优先需求清单”（PURL）计划的导弹交付速度已然落后。",
+          "url": "https://flash.jin10.com/detail/20260527215755251800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰几乎完全依赖美国拦截俄罗斯弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260527215731352800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普将27日内阁会议地点改回白宫",
