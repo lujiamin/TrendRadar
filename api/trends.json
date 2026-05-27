@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T01:56:16.238160+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T04:08:27.519210+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
-          "url": "https://wallstreetcn.com/livenews/3110214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时08分]"
         },
         {
           "title": "特朗普：可能会与国会商讨暂停征收汽油税一事",
@@ -36,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -47,9 +36,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
+          "url": "https://wallstreetcn.com/livenews/3110214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时08分]"
+        },
+        {
+          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
+          "url": "https://wallstreetcn.com/livenews/3110209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时08分]"
         },
         {
           "title": "美国总统特朗普：伊朗已经发生政权更迭，因为该国现处于新领导层的治理之下。",
@@ -58,9 +71,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普称伊朗误判形势，认为他会忌惮战争的政治后果",
+          "url": "https://flash.jin10.com/detail/20260528032334984800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们并不是为了政权而来。",
@@ -69,20 +93,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
         {
-          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
-          "url": "https://wallstreetcn.com/livenews/3110209",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：如果阿曼在海峡问题上站在伊朗一边，将“炸掉”阿曼",
+          "url": "https://flash.jin10.com/detail/20260528030457684800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "04时08分"
         },
         {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
@@ -91,7 +115,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -102,7 +126,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -113,7 +137,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -124,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -135,7 +159,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -146,7 +170,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -157,7 +181,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -168,7 +192,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -179,7 +203,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -190,7 +214,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -201,7 +225,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -212,7 +236,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -223,7 +247,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -234,7 +258,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -245,7 +269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -256,7 +280,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -267,7 +291,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -278,7 +302,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -289,7 +313,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -300,9 +324,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "据华尔街日报：特朗普儿童账户应用程序定于周四上线。",
+          "url": "https://flash.jin10.com/detail/20260528021613630800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "美国总统特朗普：没有在讨论放松对伊朗的制裁。",
@@ -311,7 +346,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -322,7 +357,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -333,7 +368,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -344,7 +379,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -352,7 +387,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
@@ -362,8 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时08分]"
         },
         {
           "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
@@ -373,30 +408,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时08分]"
+        },
+        {
+          "title": "周三（5月27日）纽约尾盘，ICE美元指数涨0.02%，报99.193点，日内交投区间为98.969-99.260点。 彭博美元指数涨0.08%，报1202.20点，日内交投区间为1199.97-1203.03点。 美元兑日元涨0.14%，报159.53日元，日内交投区间为159.18-159.58日元，整体持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3110235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
           "url": "https://www.zhihu.com/question/2042901886798403259",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时08分]"
         },
         {
           "title": "周三（5月27日），韩元兑美元最终涨0.53%，报1499.98韩元。",
           "url": "https://wallstreetcn.com/livenews/3110213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时08分]"
         },
         {
           "title": "资金疯狂涌入 这只存储ETF刷新最快破百亿美元规模纪录",
@@ -406,8 +454,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时08分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的18.53亿美元。",
@@ -416,7 +464,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -427,9 +475,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
+          "url": "https://wallstreetcn.com/livenews/3110231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.182%（5月11日），投标倍数2.34。",
@@ -438,9 +497,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7793元，较周二夜盘收盘涨74点。成交量403.47亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶94.29美元，下跌5.29美元，跌幅5.31%。",
+          "url": "https://flash.jin10.com/detail/20260528024144188800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌5.21美元，跌幅5.55%，报88.68美元/桶。 布伦特7月原油期货收跌5.29美元，跌幅5.31%，报94.29美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报91.48美元/桶。 NYMEX 6月天然气期货收报3.04美元/百万英热单位。 NYMEX 6月汽油期货收报3.1337美元/加仑，NYMEX 6月取暖油期货收报3.5975美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3110223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
@@ -449,7 +541,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -460,7 +552,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -471,9 +563,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
+          "url": "https://wallstreetcn.com/livenews/3110220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶88.68美元，下跌5.21美元，跌幅5.55%。",
+          "url": "https://flash.jin10.com/detail/20260528023115072800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "芯片股跨越万亿美元大关，推动新兴市场股指创历史新高",
@@ -482,9 +596,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "沙特将向也门（政府）提供价值1.5亿美元的石油衍生品。",
+          "url": "https://wallstreetcn.com/livenews/3110216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     },
@@ -499,7 +624,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
