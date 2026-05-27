@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T15:02:34.601560+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-05-27T18:59:31.244277+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
@@ -19,19 +19,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 18时59分]"
         },
         {
           "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
           "url": "https://wallstreetcn.com/articles/3773173",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 18时59分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -55,6 +56,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1%，报4461.2美元/盎司。 纽约金日内跌幅达1%，报4484.9美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "现货黄金向下触及4500美元/盎司，日内跌0.16%。",
@@ -191,6 +214,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "市场消息：三星向越南申请环境许可证以建设新工厂，公司计划在越南投资建设一座价值15亿美元的存储芯片测试工厂，预计三星新的内存芯片测试工厂将于2027年11月开始运营。",
           "url": "https://flash.jin10.com/detail/20260527101714041800",
           "source": "金十数据",
@@ -241,7 +275,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -252,7 +286,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -334,6 +368,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "【Q1全球DRAM市占排名：三星继续领跑 长鑫存储份额升至7.7%】据CFM闪存市场数据显示，三星一季度DRAM销售收入达382.14亿美元，环比增长98.4%，市场份额为40.5%，进一步拉大和其他供应商的份额差距，排名第一；SK海力士一季度DRAM销售收入达279.25亿美元，因其HBM供应占比较多，总收入环比增长62.1%低于其他供应商，市场份额为29.6%，排名第二；美光一季度（2025年12月-2026年2月）DRAM销售收入达187.68亿美元，环比增长73.6%，市场份额19.9%，排名第三；长鑫存储一季度DRAM销售收入达73.09亿美元，环比增长115.1%，市场份额进一步提升至7.7%，排名第四。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3110001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "周二（5月26日），美联储隔夜逆回购协议（RRP）使用规模为17.87亿美元（交易对手6），上个交易日报9.65亿美元。",
           "url": "https://wallstreetcn.com/livenews/3109592",
           "source": "华尔街见闻-快讯",
@@ -351,7 +396,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -370,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -381,11 +426,12 @@
             17,
             16,
             11,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 18时59分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -395,8 +441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 18时59分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
@@ -405,9 +451,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 18时59分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -487,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-27）",
+          "url": "https://flash.jin10.com/detail/20260527181651222800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "美国贸易代表格里尔：美国与加拿大存在贸易争端，该国对特朗普的关税采取了报复措施。",
