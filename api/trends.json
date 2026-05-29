@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T14:51:42.550551+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-05-29T18:42:00.686669+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 05时05分]"
+        },
+        {
+          "title": "瑞银集团：将戴尔(DELL.N)目标价从243美元上调至440美元。",
+          "url": "https://flash.jin10.com/detail/20260529183307089800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "周四（5月28日），韩元兑美元最终涨0.43%，报1493.48韩元。",
@@ -130,8 +141,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 18时42分]"
         },
         {
           "title": "最高105亿美元！信达生物、辉瑞达成多模式合作 创新药出海迎来新路径？",
@@ -140,9 +151,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "新诺威：控股子公司收到与阿斯利康签署的战略合作与授权协议4.2亿美元首付款。",
+          "url": "https://wallstreetcn.com/livenews/3111367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
@@ -250,7 +272,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -448,7 +470,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -473,12 +495,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "布伦特原油跌破91美元/桶，日内跌约1.85%，报90.97美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3111326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -521,22 +554,24 @@
           "url": "https://www.zhihu.com/question/2043426122491286329",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 18时42分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 18时42分]"
         },
         {
           "title": "比亚迪发布中国首款4nm智驾芯片",
@@ -552,6 +587,18 @@
           "time_info": "[02时32分 ~ 10时44分]"
         },
         {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 18时42分]"
+        },
+        {
           "title": "比亚迪宋Ultra DM-i上市",
           "url": "https://www.toutiao.com/trending/7644428314313211913/",
           "source": "今日头条",
@@ -564,15 +611,15 @@
           "time_info": "[02时32分 ~ 05时05分]"
         },
         {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
+          "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
+          "url": "https://www.zhihu.com/question/2043421622929974247",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时51分]"
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "恒指高开0.62%，报25161.52点；恒生科技指数涨1.05%。联想集团涨近15%，舜宇光学科技、百度、腾讯音乐、比亚迪电子、比亚迪股份涨超2%。",
@@ -592,7 +639,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -603,7 +650,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -611,19 +658,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时11分]"
-        },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
@@ -634,8 +670,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时32分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[02时32分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 07时11分]"
         },
         {
           "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
@@ -682,6 +729,18 @@
           "time_info": "[02时32分 ~ 07时11分]"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 18时42分]"
+        },
+        {
           "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3110932",
           "source": "华尔街见闻-快讯",
@@ -693,15 +752,15 @@
           "time_info": "05时05分"
         },
         {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-29）",
+          "url": "https://flash.jin10.com/detail/20260529182703657800",
+          "source": "金十数据",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时42分"
         },
         {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
@@ -728,6 +787,34 @@
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
+          "title": "OpenAI启动生物防御计划",
+          "url": "https://flash.jin10.com/detail/20260529181828076800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际",
       "match_count": 2,
       "titles": [
@@ -749,7 +836,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
