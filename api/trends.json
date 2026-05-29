@@ -1,869 +1,172 @@
 {
-  "generated_at": "2026-05-29T21:56:01.111965+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-05-30T01:32:03.096478+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 5,
       "titles": [
         {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时05分]"
-        },
-        {
-          "title": "瑞银集团：将戴尔(DELL.N)目标价从243美元上调至440美元。",
-          "url": "https://flash.jin10.com/detail/20260529183307089800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "周四（5月28日），韩元兑美元最终涨0.43%，报1493.48韩元。",
-          "url": "https://wallstreetcn.com/livenews/3110891",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.31%，暂报2691.30点，上周五结束交易以来（7*24）累计下跌3.53%，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨1.61%，报2917.71点，期内累跌4.91%，5月24-27日持稳于3050点附近（高位窄幅震荡）。 MarketVector数字资产100指数涨0.92%，报14608.72点，期内累跌3.75%。 最近连续七天迄今，Solana累跌2.58%，狗狗币累跌3.56%，XRP累跌1.15%。 比特币目前涨0.57%，暂报73890.88美元，最近七天累跌2.64%；以太坊涨1.33%，暂报2038.128美元，最近七天累跌1.74%。",
+          "url": "https://wallstreetcn.com/livenews/3111567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "01时32分"
         },
         {
-          "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
-          "url": "https://wallstreetcn.com/livenews/3110939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "印尼盾兑美元下跌0.3%，至历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3111071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
-          "url": "https://www.zhihu.com/question/2043314967013581849",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时11分]"
-        },
-        {
-          "title": "Anthropic在H轮融资按9650亿美元估值募集650亿美元，含之前承诺的投资。 Altimeter Capital领投。 美光科技、三星、SK海力士加入本轮投资。 公司算力已经显著扩张。",
-          "url": "https://wallstreetcn.com/livenews/3110889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
-          "url": "https://wallstreetcn.com/livenews/3110888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "戴尔科技：一季度订单积压513亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3110936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.cls.cn/detail/2384760",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 14时51分]"
-        },
-        {
-          "title": "Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时42分]"
-        },
-        {
-          "title": "最高105亿美元！信达生物、辉瑞达成多模式合作 创新药出海迎来新路径？",
-          "url": "https://www.cls.cn/detail/2384856",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "新诺威：控股子公司收到与阿斯利康签署的战略合作与授权协议4.2亿美元首付款。",
-          "url": "https://wallstreetcn.com/livenews/3111367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3110933",
+          "title": "LME期铜收跌66美元，报13636美元/吨。 LME期铝收涨7美元，报3666美元/吨。 LME期锌收跌11美元，报3540美元/吨。 LME期铅收跌2美元，报2016美元/吨。 LME期镍收跌39美元，报19062美元/吨。 LME期锡收涨339美元，报55418美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3111566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "01时32分"
         },
         {
-          "title": "Anthropic：本月初我们的年化收入超过了470亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529021303339800",
+          "title": "智利国家铜业公司（Codelco）一季度铜产量27.2万吨。 一季度营收50.3亿美元，EBITDA为21.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3111563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美、布两油短线小幅走低0.6美元。",
+          "url": "https://flash.jin10.com/detail/20260530003347814800",
           "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "【城堡证券第一季度交易收入4.3亿美元创历史新高】城堡证券（Citadel Securities）第一季度创下了 4.3 亿美元的交易收入新高，这主要得益于市场波动。 该公司的交易收入同比去年同期增长了 28%，净利润同样录得增长，增长近 10% 至 1.9 亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3111556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "Anthropic在H轮融资中筹得650亿美元，投后估值达9650亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529021231819800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司在本季度结束时，人工智能订单积压创纪录达到513亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529043950413800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "Gap一季度净销售35亿美元，分析师预期35.2亿美元。 预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。 预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。 盖普（GPS）美股盘后跌9.8。",
-          "url": "https://wallstreetcn.com/livenews/3110930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "伦敦金失守4400美元，银行积存金限制未“松绑”",
-          "url": "https://wallstreetcn.com/livenews/3110971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "周四（5月28日），美联储隔夜逆回购协议（RRP）使用规模为11.63亿美元（交易对手7家），上个交易日报18.53亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3110881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "开市客第三财季总营收705.3亿美元，分析师预期696.2亿美元。 第三财季每股收益（EPS）为4.93美元，分析师预期4.91美元。",
-          "url": "https://wallstreetcn.com/livenews/3110929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "美国4月核心PCE物价指数年率升至3.3%，为2023年11月以来最高水平，美联储6月按兵不动已成定局；现货黄金昨日跌破4400美元关口后回升，当前多头占比高达93%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
-          "url": "https://flash.jin10.com/detail/20260529103346129800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "“两倍海力士”登顶全球第一，单票杠杆ETF规模一个半月翻倍突破600亿美元",
-          "url": "https://flash.jin10.com/detail/20260529143959307800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "美国至5月22日当周外国央行持有美国国债 128.29亿美元，前值-202.38亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529043046265800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "信达生物港股一度涨逾10%，创近一年来最大盘中涨幅。此前公司与辉瑞签署一项价值高达105亿美元的全球协议，用于开发抗癌药物。",
-          "url": "https://wallstreetcn.com/livenews/3111046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3110924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.290%（4月28日为4.175%），投标倍数2.52（前次为2.51）。",
-          "url": "https://wallstreetcn.com/livenews/3110874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.63亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529012049272800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
-          "url": "https://wallstreetcn.com/livenews/3110921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
-          "url": "https://wallstreetcn.com/livenews/3110872",
+          "title": "【伊朗知情人士：特朗普言论“真假参半”】据伊朗法尔斯通讯社29日报道，伊朗知情人士驳斥了美国总统特朗普关于可能与伊朗达成协议的言论，称其“真假参半”，试图描绘一场捏造的胜利。“几乎所有人都已清楚，这些说法缺乏可信度。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3111555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "Okta一季度调整后每股收益（EPS）为0.91美元，分析师预期0.85美元。 预计全年营收31.9亿-32.1亿美元，公司原本预计31.7亿-31.9亿美元。 预计全年调整后EPS为3.79-3.87美元，公司原本预计3.74-3.82美元。 预计二季度营收7.90亿-7.94亿美元，分析师预期7.915亿美元。 预计二季度调整后EPS为0.95-0.97美元，分析师预期0.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3110920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "Anthropic：推出Claude Opus 4.8，收费为10美元/100万tokens。 对常规使用Opus 4.7的收费维持现状不变。",
-          "url": "https://wallstreetcn.com/livenews/3110870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "SpaceX据称将IPO估值目标下调到至少1.8万亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3111037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "戴尔(DELL.N)预计2027财年Q2营收440亿-450亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529041125676800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "戴尔(DELL.N)2027财年Q1营收438.4亿美元，上年同期233.78亿美元，市场预期354.08亿美元。",
-          "url": "https://flash.jin10.com/detail/20260529041010880800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "美国国务院：美国政府计划承诺出资1350万美元支持肯尼亚的埃博拉防范工作。",
-          "url": "https://flash.jin10.com/detail/20260529053030699800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "印尼盾兑美元下跌0.5%，至17860，触及历史新低。",
-          "url": "https://flash.jin10.com/detail/20260529102359350800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "路透调查显示，俄罗斯卢布兑美元汇率在12个月内预计将为83.85（上次调查为89）。",
-          "url": "https://flash.jin10.com/detail/20260529213221388800",
-          "source": "金十数据",
-          "ranks": [
-            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "01时32分"
         },
         {
-          "title": "周四（5月28日）纽约尾盘，彭博谷物分类指数涨0.46%，报31.6386点。 CBOT玉米期货涨0.83%，CBOT小麦期货涨0.24%。 CBOT大豆期货涨0.89%，刷新日高至11.96美元/蒲式耳，豆粕期货涨0.97%，豆油期货涨1.86%。",
-          "url": "https://wallstreetcn.com/livenews/3110911",
+          "title": "伊朗消息人士表示，美国总统特朗普关于伊朗高度浓缩铀库存的说法不属实。德黑兰与华盛顿之间可能的谅解备忘录不涉及任何与核相关的问题。",
+          "url": "https://flash.jin10.com/detail/20260530002931356800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "特朗普称对伊朗的海上封锁“即将被解除”",
+          "url": "https://wallstreetcn.com/livenews/3111549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "01时32分"
         },
         {
-          "title": "人民币兑美元中间价创2023年2月14日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3111029",
+          "title": "据伊朗媒体：伊朗消息人士否认了美国总统特朗普的最新评论。 与美国的协议在伊朗的批准阶段已接近尾声，但尚未做出最终决定。 谅解备忘录（MoU）包括在黎巴嫩停火。",
+          "url": "https://wallstreetcn.com/livenews/3111547",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "纽约期金日内涨1％，现报4526.58美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3110863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "联发科：着眼于2026年从AI芯片业务获得20亿美元营收，2027年获得至多120亿美元营收。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3111169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "美国4月商品贸易帐 -824亿美元，预期 -872亿美元，前值 -879亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3111450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.toutiao.com/trending/7645082951465569834/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "美元指数跌0.2%",
-          "url": "https://wallstreetcn.com/livenews/3110907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "布伦特原油跌破91美元/桶，日内跌约1.85%，报90.97美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3111326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
-          "url": "https://www.cls.cn/detail/2384655",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.toutiao.com/trending/7644918296260677126/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时11分]"
-        },
-        {
-          "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2043356307420177358",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
         {
           "title": "比亚迪智驾出事全额赔付",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
           "source": "贴吧",
           "ranks": [
-            3,
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 21时56分]"
-        },
-        {
-          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
-          "url": "https://www.zhihu.com/question/2043426122491286329",
-          "source": "知乎",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时42分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时42分]"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
           "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
           "url": "https://www.zhihu.com/question/2043421622929974247",
           "source": "知乎",
           "ranks": [
-            9,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时56分]"
-        },
-        {
-          "title": "比亚迪宋Ultra DM-i上市",
-          "url": "https://www.toutiao.com/trending/7644428314313211913/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时05分]"
-        },
-        {
-          "title": "恒指高开0.62%，报25161.52点；恒生科技指数涨1.05%。联想集团涨近15%，舜宇光学科技、百度、腾讯音乐、比亚迪电子、比亚迪股份涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3111031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "比亚迪发布超级智能体“迪迪虾”",
-          "url": "https://www.toutiao.com/trending/7644927610967212074/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "比亚迪发布超级智能体“迪迪虾”",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9C%E8%BF%AA%E8%BF%AA%E8%99%BE%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时32分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时11分]"
-        },
-        {
-          "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
-          "url": "https://wallstreetcn.com/livenews/3110890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "【美财长：美伊能否达成协议取决于“总统想要怎么做”】美国财政部长贝森特28日在白宫记者会上表示，美国与伊朗能否达成潜在的协议取决于美总统特朗普是否支持该协议。 据美国媒体当天早些时候援引美官员的话报道，美伊谈判代表已就谅解备忘录条款基本达成一致，有待特朗普最终批准。贝森特在记者会上没有直接回答多次相关提问，而是称“双方团队一直在进行往来磋商”，并强调“一切都取决于总统想要怎么做”。 贝森特说，特朗普有几条明确的“红线”，即伊朗必须交出其高浓缩铀、伊朗不能发展核武器，以及霍尔木兹海峡必须保持开放。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3110937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时11分]"
-        },
-        {
-          "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3110932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-29）",
-          "url": "https://flash.jin10.com/detail/20260529182703657800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
-          "url": "https://flash.jin10.com/detail/20260529042337161800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3110862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时56分]"
-        },
-        {
-          "title": "OpenAI启动生物防御计划",
-          "url": "https://flash.jin10.com/detail/20260529181828076800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股半导体产业链集体调整，华大九天跌超10%，龙图光罩、士兰微、国芯科技、明微电子、中芯国际等多股跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3111069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "科创50指数午后跌幅扩大至5%，芯联集成跌近10%，中芯国际跌近9%。",
-          "url": "https://wallstreetcn.com/livenews/3111170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
