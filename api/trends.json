@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:44:50.141772+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-05-29T14:51:42.550551+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -59,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -114,11 +114,35 @@
           "url": "https://www.cls.cn/detail/2384760",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时51分]"
+        },
+        {
+          "title": "Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时51分]"
+        },
+        {
+          "title": "最高105亿美元！信达生物、辉瑞达成多模式合作 创新药出海迎来新路径？",
+          "url": "https://www.cls.cn/detail/2384856",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "14时51分"
         },
         {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
@@ -215,9 +239,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "“两倍海力士”登顶全球第一，单票杠杆ETF规模一个半月翻倍突破600亿美元",
+          "url": "https://flash.jin10.com/detail/20260529143959307800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "美国至5月22日当周外国央行持有美国国债 128.29亿美元，前值-202.38亿美元。",
@@ -237,7 +272,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -262,17 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.63亿美元。",
@@ -336,7 +360,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -380,7 +404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -402,7 +426,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -418,13 +442,24 @@
           "time_info": "02时33分"
         },
         {
+          "title": "联发科：着眼于2026年从AI芯片业务获得20亿美元营收，2027年获得至多120亿美元营收。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "Anthropic官宣估值升至9650亿美元",
           "url": "https://www.toutiao.com/trending/7645082951465569834/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -442,8 +477,141 @@
       ]
     },
     {
+      "keyword_group": "比亚迪",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
+          "url": "https://www.cls.cn/detail/2384655",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 10时44分]"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.toutiao.com/trending/7644918296260677126/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 07时11分]"
+        },
+        {
+          "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2043356307420177358",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 10时44分]"
+        },
+        {
+          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
+          "url": "https://www.zhihu.com/question/2043426122491286329",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时51分]"
+        },
+        {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 10时44分]"
+        },
+        {
+          "title": "比亚迪宋Ultra DM-i上市",
+          "url": "https://www.toutiao.com/trending/7644428314313211913/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时05分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 14时51分]"
+        },
+        {
+          "title": "恒指高开0.62%，报25161.52点；恒生科技指数涨1.05%。联想集团涨近15%，舜宇光学科技、百度、腾讯音乐、比亚迪电子、比亚迪股份涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3111031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "比亚迪发布超级智能体“迪迪虾”",
+          "url": "https://www.toutiao.com/trending/7644927610967212074/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "比亚迪发布超级智能体“迪迪虾”",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9C%E8%BF%AA%E8%BF%AA%E8%99%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -466,8 +634,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 14时51分]"
         },
         {
           "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
@@ -525,6 +693,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
           "url": "https://flash.jin10.com/detail/20260529042337161800",
           "source": "金十数据",
@@ -549,108 +728,8 @@
       ]
     },
     {
-      "keyword_group": "比亚迪",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
-          "url": "https://www.cls.cn/detail/2384655",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.toutiao.com/trending/7644918296260677126/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时11分]"
-        },
-        {
-          "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2043356307420177358",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
-          "url": "https://www.zhihu.com/question/2043426122491286329",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时44分]"
-        },
-        {
-          "title": "比亚迪宋Ultra DM-i上市",
-          "url": "https://www.toutiao.com/trending/7644428314313211913/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时05分]"
-        },
-        {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "恒指高开0.62%，报25161.52点；恒生科技指数涨1.05%。联想集团涨近15%，舜宇光学科技、百度、腾讯音乐、比亚迪电子、比亚迪股份涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3111031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中芯国际",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股半导体产业链集体调整，华大九天跌超10%，龙图光罩、士兰微、国芯科技、明微电子、中芯国际等多股跌超6%。",
@@ -659,9 +738,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "科创50指数午后跌幅扩大至5%，芯联集成跌近10%，中芯国际跌近9%。",
+          "url": "https://wallstreetcn.com/livenews/3111170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     }
