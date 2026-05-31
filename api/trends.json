@@ -1,412 +1,84 @@
 {
-  "generated_at": "2026-05-31T22:29:03.515465+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-01T00:03:29.843024+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
           "url": "https://wallstreetcn.com/articles/3773514",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时41分 ~ 22时29分]"
-        },
-        {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 11时56分]"
-        },
-        {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时02分]"
-        },
-        {
-          "title": "复刻特朗普访华同款官方机位",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E5%88%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%90%8C%E6%AC%BE%E5%AE%98%E6%96%B9%E6%9C%BA%E4%BD%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12,
-            16,
-            20,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
-          "url": "https://flash.jin10.com/detail/20260531103926927800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "美国总统特朗普：我们也将继续推进与叙利亚和伊拉克政府的战略合作，因此我们与他们的关系将持续加深！",
-          "url": "https://flash.jin10.com/detail/20260531221123279800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "美国总统特朗普：我很高兴地宣布，美国驻土耳其大使Tom Barrack在工作中表现出色，他将被任命为叙利亚和伊拉克事务的特别总统特使。",
-          "url": "https://flash.jin10.com/detail/20260531221054605800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "00时03分"
         },
         {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
           "url": "https://wallstreetcn.com/livenews/3111962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "00时03分"
         },
         {
-          "title": "特朗普要求修改特使谈成的伊朗协议，美国封杀霍尔木兹“买路钱”",
-          "url": "https://flash.jin10.com/detail/20260531145730531800",
+          "title": "美国总统特朗普：白宫舞厅屋顶的无人机港口可能将成为世界上最先进的设施！它将长期保障我国首都华盛顿特区的安全。",
+          "url": "https://flash.jin10.com/detail/20260531234137549800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "00时03分"
         },
         {
-          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
-          "url": "https://wallstreetcn.com/livenews/3111873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 18时11分]"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
-          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 15时42分]"
-        },
-        {
-          "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
-          "url": "https://flash.jin10.com/detail/20260531003720339800",
+          "title": "美媒：特朗普对拟议协议的修改导致美伊谈判延长一周",
+          "url": "https://flash.jin10.com/detail/20260531225247736800",
           "source": "金十数据",
           "ranks": [
-            2,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时02分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         },
         {
-          "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
-          "url": "https://flash.jin10.com/detail/20260531001517348800",
+          "title": "美国总统特朗普：我们也将继续推进与叙利亚和伊拉克政府的战略合作，因此我们与他们的关系将持续加深！",
+          "url": "https://flash.jin10.com/detail/20260531221123279800",
           "source": "金十数据",
           "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时02分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
-          "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 11时56分]"
-        },
-        {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 18时11分]"
-        },
-        {
-          "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
-          "url": "https://wallstreetcn.com/livenews/3111814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时05分]"
-        },
-        {
-          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
-          "url": "https://wallstreetcn.com/livenews/3111801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时05分]"
-        },
-        {
-          "title": "被从肯尼迪中心“除名”，特朗普表示“震惊”",
-          "url": "https://news.ifeng.com/c/8tZOqPALlfE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
-        },
-        {
-          "title": "30年前的“摧毁飞机谋杀案”，特朗普给翻出来了",
-          "url": "https://news.ifeng.com/c/8tZclGoODbk",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
-          "url": "https://flash.jin10.com/detail/20260531191112757800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时08分"
+          "time_info": "00时03分"
         },
         {
-          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
-          "url": "https://flash.jin10.com/detail/20260531123650502800",
+          "title": "美国总统特朗普：我很高兴地宣布，美国驻土耳其大使Tom Barrack在工作中表现出色，他将被任命为叙利亚和伊拉克事务的特别总统特使。",
+          "url": "https://flash.jin10.com/detail/20260531221054605800",
           "source": "金十数据",
           "ranks": [
-            15
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
-          "url": "https://flash.jin10.com/detail/20260531123639729800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国总统特朗普：与其他美国总统不同，他们从未接受过批准的高难度认知测试，我的得分是30分满分，被认为是“极高智力”。",
-          "url": "https://flash.jin10.com/detail/20260531123628014800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
-          "url": "https://flash.jin10.com/detail/20260531123548870800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美媒：特朗普对美伊协议的修改建议涉及核材料获取与霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260531092405852800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "多名艺人辞演 特朗普要当国庆开场秀主角",
-          "url": "https://flash.jin10.com/detail/20260531165738443800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "time_info": "00时03分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
-          "url": "https://www.zhihu.com/question/2043976799139492397",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            5,
-            4,
-            3,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 15时42分]"
-        },
-        {
-          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 18时11分]"
-        },
-        {
-          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
-          "url": "https://wallstreetcn.com/articles/3773482",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "中美元首会晤后，台海发生四个变化，说明了什么？",
-          "url": "https://news.ifeng.com/c/8tZePmggRkn",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 20时08分]"
-        },
         {
           "title": "新西兰财长阴阳美防长：我们沙发底下可没藏几十亿美元",
           "url": "https://news.ifeng.com/c/8tZt6kKXSqT",
@@ -415,103 +87,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         },
         {
-          "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
-          "url": "https://www.cls.cn/detail/2386184",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "中美元首会晤后台海发生四个变化",
-          "url": "https://www.toutiao.com/trending/7645920269186220041/",
+          "title": "特朗普肖像上250美元钞票有哪些难题",
+          "url": "https://www.toutiao.com/trending/7646031446183792154/",
           "source": "今日头条",
           "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 22时29分]"
-        },
-        {
-          "title": "ASML会成为下一个万亿美元市值企业吗",
-          "url": "https://www.toutiao.com/trending/7646008057087921670/",
-          "source": "今日头条",
-          "ranks": [
-            29,
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时08分 ~ 22时29分]"
-        },
-        {
-          "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
-          "url": "https://flash.jin10.com/detail/20260531012608857800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时05分]"
-        },
-        {
-          "title": "万亿美元大市场！又一赛道火了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%B8%82%E5%9C%BA%EF%BC%81%E5%8F%88%E4%B8%80%E8%B5%9B%E9%81%93%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪智驾出事全额赔付",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            22,
-            26,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 22时29分]"
-        },
-        {
-          "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
-          "url": "https://www.zhihu.com/question/2043430360453842107",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时05分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     },
@@ -520,15 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
-          "url": "https://wallstreetcn.com/livenews/3111808",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时05分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     }
