@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T08:29:06.757438+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-06-03T14:02:29.989332+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "夏威夷野鸡泛滥数量或超几十万只，政府诱捕一只要花超 100 美元，为啥会这样？有没有好的解决办法？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 08时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 14时02分]"
         },
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -83,7 +84,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -105,7 +106,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -123,6 +124,31 @@
           "time_info": "[04时40分 ~ 08时29分]"
         },
         {
+          "title": "晨星将SpaceX估值定为7800亿美元 不到其IPO目标的一半",
+          "url": "https://www.cls.cn/detail/2388843",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 14时02分]"
+        },
+        {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 14时02分]"
+        },
+        {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -132,29 +158,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 04时41分]"
-        },
-        {
-          "title": "晨星将SpaceX估值定为7800亿美元 不到其IPO目标的一半",
-          "url": "https://www.cls.cn/detail/2388843",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时59分]"
-        },
-        {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 08时29分]"
         },
         {
           "title": "黄金替代美元成官方储备第一大资产",
@@ -201,6 +204,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "1.75万亿美元估值，5%的股票发行，低于0.75%的承销费率--SpaceX IPO或周三披露价格区间",
+          "url": "https://wallstreetcn.com/articles/3773700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "NBA球星斯蒂芬·库里与李宁的协议价值超过4亿美元。（ESPN）",
           "url": "https://wallstreetcn.com/livenews/3113259",
           "source": "华尔街见闻-快讯",
@@ -212,13 +226,24 @@
           "time_info": "04时41分"
         },
         {
+          "title": "报道：DeepSeek据悉在首轮融资中预计筹资约70亿美元，估值最高可达590亿美元",
+          "url": "https://wallstreetcn.com/livenews/3113520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "比特币跌盘中至两个月低点66,123.36美元，最新报66,620.10 美元。 以太坊盘中跌至三个月低点1,837.93美元，最新报1,855.37美元。",
           "url": "https://wallstreetcn.com/livenews/3113359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -317,7 +342,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -328,7 +353,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -350,7 +375,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -405,7 +430,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时29分"
         },
@@ -446,7 +471,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -459,6 +484,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 08时29分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 14时02分]"
         },
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -493,18 +531,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时28分 ~ 08时29分]"
-        },
-        {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 08时29分]"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -551,6 +577,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
@@ -558,8 +595,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时28分 ~ 08时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 14时02分]"
         },
         {
           "title": "特朗普被曝同以总理通话爆粗口",
@@ -573,6 +610,17 @@
           "time_info": "[08时28分 ~ 08时29分]"
         },
         {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
           "url": "https://flash.jin10.com/detail/20260603060218736800",
           "source": "金十数据",
@@ -582,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "美股散户热议：该跟黄仁勋还是特朗普",
+          "url": "https://www.toutiao.com/trending/7646982770446569014/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
@@ -609,8 +668,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3113311",
@@ -644,11 +714,12 @@
           "url": "https://www.zhihu.com/question/2044859839910827099",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时28分 ~ 08时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 14时02分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，腾讯初步收涨9.3%，美团涨6.4%，理想涨6.1%，阿里涨4.3%，比亚迪涨4.2%，百度涨3.4%，日月光半导体涨2.7%，网易涨1.3%，拼多多涨1%。",
