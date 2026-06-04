@@ -1,11 +1,426 @@
 {
-  "generated_at": "2026-06-05T03:59:30.736897+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-06-05T05:43:24.137109+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
+          "url": "https://wallstreetcn.com/livenews/3114648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
+          "url": "https://flash.jin10.com/detail/20260605034812419800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
+          "url": "https://flash.jin10.com/detail/20260605045725566800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时59分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时43分]"
+        },
+        {
+          "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260605033536358800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
+          "url": "https://flash.jin10.com/detail/20260605033413210800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://flash.jin10.com/detail/20260605044910796800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
+          "url": "https://wallstreetcn.com/livenews/3114560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
+          "url": "https://flash.jin10.com/detail/20260605044557857800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：风能表现不佳。",
+          "url": "https://flash.jin10.com/detail/20260605033206043800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
+          "url": "https://flash.jin10.com/detail/20260605044520253800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260605033201797800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://wallstreetcn.com/livenews/3114633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：承诺将采取历史性行动以降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260605033055518800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
+          "url": "https://flash.jin10.com/detail/20260605043740083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260605033009382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://flash.jin10.com/detail/20260605043607203800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们将处理好古巴问题。",
+          "url": "https://flash.jin10.com/detail/20260605043346752800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://wallstreetcn.com/livenews/3114630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
+          "url": "https://flash.jin10.com/detail/20260605043321294800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
+          "url": "https://wallstreetcn.com/livenews/3114629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
+          "url": "https://flash.jin10.com/detail/20260605012011254800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普：在处理完伊朗后，我们会处理古巴。",
+          "url": "https://flash.jin10.com/detail/20260605043312889800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普宣称：制裁古巴并不是要加速其崩溃。",
+          "url": "https://wallstreetcn.com/livenews/3114628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普就煤炭问题发表声明。",
+          "url": "https://flash.jin10.com/detail/20260605032432338800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：（关于古巴）我们只希望他们能成为一个管理良好的国家。",
+          "url": "https://flash.jin10.com/detail/20260605043128993800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "特朗普：Pulte不会成为正式的国家情报总监",
+          "url": "https://wallstreetcn.com/livenews/3114627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
+          "url": "https://wallstreetcn.com/livenews/3114626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们将与印度达成贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260605043111038800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：无论是在军事上还是在纸面上，我们都会赢。",
+          "url": "https://flash.jin10.com/detail/20260605042828948800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）你们终会知道协议的内容。主要部分是海峡将立即开放。",
+          "url": "https://flash.jin10.com/detail/20260605042804963800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：任何接近伊朗核设施的人，我们都会采取相应行动应对。",
+          "url": "https://flash.jin10.com/detail/20260605042731966800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：不需要欧洲在霍尔木兹海峡问题上提供帮助。 不需要欧洲其他国家在霍尔木兹问题上提供帮助。 我们已经杀害几乎所有的伊朗领导人。 伊朗没有海军，也没有空军。 如果伊朗打死美军，将迅速重启战争。 （黎巴嫩）真主党联系了我们。",
+          "url": "https://wallstreetcn.com/livenews/3114619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -15,8 +430,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时43分]"
         },
         {
           "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
@@ -36,7 +451,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -49,8 +464,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时43分]"
+        },
+        {
+          "title": "周四（6月4日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7769元，较周三纽约尾盘涨34点，日内整体交投于6.7803-6.7701元区间。",
+          "url": "https://wallstreetcn.com/livenews/3114641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
@@ -70,7 +496,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -81,9 +507,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至6月3日的一周内，货币市场基金总资产增加了1092.5亿美元，达到7.89万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605044825280800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7742元，较周三夜盘收盘涨51点。成交量507.88亿美元。",
@@ -92,7 +529,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -103,7 +540,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -114,7 +551,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -147,9 +584,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "美国至5月29日当周外国央行持有美国国债 -326.86亿美元，前值128.29亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605043126644800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "报道：数据中心零部件生产商Xnrgy考虑按100亿美元出售",
@@ -169,171 +617,42 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
-          "url": "https://flash.jin10.com/detail/20260605034812419800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "03时59分"
         },
         {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
+          "title": "美国投资公司协会（ICI）：美国货币市场资产7.894万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3114618",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "Lulumemon预计全年净营收110亿-111.5亿美元，公司原本预计113.5亿-115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "DocuSign预计二季度营收8.65亿-8.69亿美元，分析师预期8.66亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时59分]"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时59分]"
-        },
-        {
-          "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
-          "url": "https://flash.jin10.com/detail/20260605033536358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
-          "url": "https://flash.jin10.com/detail/20260605033413210800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
-          "url": "https://wallstreetcn.com/livenews/3114560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美国总统特朗普：风能表现不佳。",
-          "url": "https://flash.jin10.com/detail/20260605033206043800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
-          "url": "https://flash.jin10.com/detail/20260605033201797800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：承诺将采取历史性行动以降低能源价格。",
-          "url": "https://flash.jin10.com/detail/20260605033055518800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
-          "url": "https://flash.jin10.com/detail/20260605033009382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
-          "url": "https://flash.jin10.com/detail/20260605012011254800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美国总统特朗普就煤炭问题发表声明。",
-          "url": "https://flash.jin10.com/detail/20260605032432338800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "05时43分"
         }
       ]
     },
@@ -348,7 +667,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
