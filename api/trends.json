@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T01:42:21.112221+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-05T03:59:30.736897+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时59分]"
         },
         {
           "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
@@ -30,6 +30,29 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国总统特朗普宣称：对众多煤炭工厂投资7亿美元。 正采取历史性行动来降低能源价格。",
+          "url": "https://wallstreetcn.com/livenews/3114600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33305986",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时59分]"
+        },
+        {
           "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114561",
           "source": "华尔街见闻-快讯",
@@ -41,15 +64,59 @@
           "time_info": "01时42分"
         },
         {
-          "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33305986",
-          "source": "澎湃新闻",
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：6月3日当周，美国杠杆贷款基金获得7.555亿美元资金流入，为连续第九周出现资金流入。",
+          "url": "https://wallstreetcn.com/livenews/3114592",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "穆迪评级表示，Alphabet公司840亿美元的股权融资对信用评级是正面因素。",
+          "url": "https://flash.jin10.com/detail/20260605033309479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7742元，较周三夜盘收盘涨51点。成交量507.88亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：将向煤炭行业投资7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605033129969800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.98美元，跌幅3.10%，报93.04美元/桶。 布伦特8月原油期货收跌2.78美元，跌幅2.84报95.03美元/桶。 NYMEX 7月天然气期货收报3.3360美元/百万英热单位。 NYMEX 7月汽油期货收报3.0383美元/加仑，NYMEX 7月取暖油期货收报3.6738美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3114585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
@@ -74,6 +141,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "阿根廷经济部长Luis Caputo：阿根廷批准RIGI投资方案中的两个项目，价值大约15.1亿美元。 San Matias天然气管道涉及13亿美元投资，将从Neuquen向Rio Negro输送2700万立方米/日的天然气。 Posco在Sal de Oro Lithium项目的第二阶段涉及0.2亿美元投资。",
+          "url": "https://wallstreetcn.com/livenews/3114581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
           "title": "报道：数据中心零部件生产商Xnrgy考虑按100亿美元出售",
           "url": "https://wallstreetcn.com/livenews/3114546",
           "source": "华尔街见闻-快讯",
@@ -83,24 +161,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "高盛：预计SpaceX到2028年的资本开支将达3600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3114574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
@@ -111,6 +189,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
+          "url": "https://flash.jin10.com/detail/20260605034812419800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时59分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时59分]"
+        },
+        {
+          "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260605033536358800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
+          "url": "https://flash.jin10.com/detail/20260605033413210800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
@@ -124,15 +259,59 @@
           "time_info": "01时42分"
         },
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：风能表现不佳。",
+          "url": "https://flash.jin10.com/detail/20260605033206043800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260605033201797800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：承诺将采取历史性行动以降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260605033055518800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
+          "url": "https://flash.jin10.com/detail/20260605033009382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
@@ -144,6 +323,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普就煤炭问题发表声明。",
+          "url": "https://flash.jin10.com/detail/20260605032432338800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪王朝首款D级旗舰轿车征名",
+          "url": "https://www.toutiao.com/trending/7647003976520974378/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     }
