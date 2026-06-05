@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T19:23:29.411757+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-06-05T22:38:27.606762+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -123,6 +123,18 @@
           "time_info": "[10时54分 ~ 15时05分]"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 22时38分]"
+        },
+        {
           "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
           "url": "https://flash.jin10.com/detail/20260605033536358800",
           "source": "金十数据",
@@ -231,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
@@ -558,7 +559,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -566,7 +567,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 46,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -580,13 +581,24 @@
           "time_info": "[01时42分 ~ 05时43分]"
         },
         {
+          "title": "强非农引爆加息预期，黄金暴跌逾100美元！沃什首秀即“打脸”？",
+          "url": "https://flash.jin10.com/detail/20260605221235333800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "英国政府预计国内油价在2028年之前可能维持在每桶100美元左右",
           "url": "https://flash.jin10.com/detail/20260605191601414800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -611,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "现货白银日内跌幅达6.0%，报69.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
@@ -638,6 +661,28 @@
           "time_info": "[05时43分 ~ 07时05分]"
         },
         {
+          "title": "WTI原油日内跌幅达2.5%，报90.71美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3115194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "据悉SpaceX锁定IPO发行价为135美元",
           "url": "https://flash.jin10.com/detail/20260605062623003800",
           "source": "金十数据",
@@ -647,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "现货白银日内重挫6%，现报69.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260605220203759800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
@@ -669,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "现货白银日内跌幅达5.0%，报70.09美元/盎司。 纽约银日内跌幅达5.0%，报70.25美元/盎司。 现货黄金跌超2%，日内跌超100美元，报4373.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "穆迪评级表示，Alphabet公司840亿美元的股权融资对信用评级是正面因素。",
@@ -721,9 +788,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "现货铂金跌超3%，报1,840.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260605220104062800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国政府将为煤电和煤炭项目提供数亿美元资金支持",
@@ -803,6 +881,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "现货白银失守70美元/盎司 现货黄金日内跌超100美元",
+          "url": "https://flash.jin10.com/detail/20260605215959251800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "阿根廷经济部长Luis Caputo：阿根廷批准RIGI投资方案中的两个项目，价值大约15.1亿美元。 San Matias天然气管道涉及13亿美元投资，将从Neuquen向Rio Negro输送2700万立方米/日的天然气。 Posco在Sal de Oro Lithium项目的第二阶段涉及0.2亿美元投资。",
           "url": "https://wallstreetcn.com/livenews/3114581",
           "source": "华尔街见闻-快讯",
@@ -814,6 +903,39 @@
           "time_info": "03时59分"
         },
         {
+          "title": "伦敦金属交易所（LME） 三个月期锡下跌5%，报53,000美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260605215836130800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "伦铜日内跌幅达2.00%，现报13620.30美元/吨。沪金主力合约日内下跌2.00%，现报958.50元/克。",
+          "url": "https://flash.jin10.com/detail/20260605215827834800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "纽约金日内跌幅达2.0%，报4414.4美元/盎司。 纽约银日内跌幅达4.5%，报70.58美元/盎司；现货白银日内跌幅达4.5%，报70.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "美国至5月29日当周外国央行持有美国国债 -326.86亿美元，前值128.29亿美元。",
           "url": "https://flash.jin10.com/detail/20260605043126644800",
           "source": "金十数据",
@@ -823,6 +945,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美股盘初，房利美股价上涨10%，房地美上涨9.7%。此前美国总统特朗普表示，两房的价值可能有1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "现货黄金跌破4400美元/盎司，报4399.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，跌破4430美元/盎司，报4429.57美元/盎司。",
@@ -875,7 +1019,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -886,7 +1030,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -947,9 +1091,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 22时38分]"
         },
         {
           "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
@@ -969,7 +1113,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -988,8 +1132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 22时38分]"
         },
         {
           "title": "比亚迪王朝首款D级旗舰轿车征名",
