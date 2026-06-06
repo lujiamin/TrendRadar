@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T21:21:46.436166+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-06-06T23:10:43.285878+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 23时10分]"
         },
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 21时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 23时10分]"
         },
         {
           "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 21时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 23时10分]"
         },
         {
           "title": "据华盛顿邮报：据知情人士透露，一位名叫戴维·J·拉什的美国中央情报局（CIA）前高官，涉嫌伪造了一个高度机密的情报项目，并以此为幌子，将数百万美元资金转移供个人使用，他的家中被搜出价值逾4000万美元的金条。",
@@ -126,16 +126,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "新西兰航空CEO：计划在2027财年以约150美元/桶的价格采购新加坡航空燃油。",
+          "url": "https://flash.jin10.com/detail/20260606215535029800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
           "url": "https://wallstreetcn.com/livenews/3115452",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 23时10分]"
         },
         {
           "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
@@ -162,6 +174,18 @@
           "time_info": "[05时22分 ~ 07时03分]"
         },
         {
+          "title": "马桶干翻价值130亿美元的航母",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%A1%B6%E5%B9%B2%E7%BF%BB%E4%BB%B7%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时10分]"
+        },
+        {
           "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
@@ -185,6 +209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 07时03分]"
+        },
+        {
+          "title": "派拉蒙天舞公司已做好准备在必要时剥离部分儿童电视网络资产，以期促使欧盟批准其对华纳兄弟探索公司价值1100亿美元的收购案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3115453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 23时10分]"
         },
         {
           "title": "美股一夜蒸发超万亿美元市值",
@@ -308,17 +344,6 @@
           "time_info": "17时22分"
         },
         {
-          "title": "马桶干翻价值130亿美元的航母",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%A1%B6%E5%B9%B2%E7%BF%BB%E4%BB%B7%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%88%AA%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
           "url": "https://wallstreetcn.com/livenews/3115258",
           "source": "华尔街见闻-快讯",
@@ -361,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "派拉蒙天舞公司已做好准备在必要时剥离部分儿童电视网络资产，以期促使欧盟批准其对华纳兄弟探索公司价值1100亿美元的收购案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3115453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
@@ -586,7 +600,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -597,8 +611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 21时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 23时10分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -657,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
@@ -839,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
@@ -1105,6 +1141,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国总统特朗普：如果情报主管Pulte裁员，我并不会介意。",
           "url": "https://wallstreetcn.com/livenews/3115286",
           "source": "华尔街见闻-快讯",
@@ -1165,8 +1212,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 23时10分]"
         }
       ]
     },
@@ -1184,11 +1231,12 @@
             12,
             13,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 21时21分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 23时10分]"
         },
         {
           "title": "比亚迪布局人形机器人，但“代号‘尧舜禹’”“年内自用2万台”等消息不实",
