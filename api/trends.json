@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T19:57:17.150526+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-06-09T22:43:14.903493+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -251,6 +251,17 @@
           "time_info": "[06时23分 ~ 08时02分]"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普提名托德·布兰奇出任美司法部长",
           "url": "https://wallstreetcn.com/livenews/3116329",
           "source": "华尔街见闻-快讯",
@@ -263,6 +274,17 @@
           "time_info": "[04时08分 ~ 06时23分]"
         },
         {
+          "title": "特朗普现身NBA赛场各方反应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%ABNBA%E8%B5%9B%E5%9C%BA%E5%90%84%E6%96%B9%E5%8F%8D%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普提名前私人律师，任司法部长",
           "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
           "source": "凤凰网",
@@ -272,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "特朗普看NBA总决赛睡着了",
@@ -478,7 +489,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -497,7 +508,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -517,7 +528,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -658,6 +669,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "现货黄金在升至日内高点快速下挫，现报4332美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260609220143746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "周一（6月8日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7847元，较上周五纽约尾盘涨60点，日内整体交投于6.7924-6.7804元区间。",
           "url": "https://wallstreetcn.com/livenews/3116355",
           "source": "华尔街见闻-快讯",
@@ -763,7 +785,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -823,6 +845,50 @@
           "time_info": "01时49分"
         },
         {
+          "title": "阿斯麦股价上涨4.5%，总市值首破7000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3116880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "现货黄金短线上扬约20美元，最新报4346美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260609214857455800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "WTI原油日内跌幅达4.0%，报87.54美元/桶；布伦特原油日内跌幅达3.5%，报90.86美元/桶。据报道，白宫官员称：关于防止伊朗拥有核武器的协议的会谈取得积极成果。",
+          "url": "https://wallstreetcn.com/livenews/3116879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "布伦特原油日内跌幅扩大至3.00%，现报90.62美元/桶；WTI原油现跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20260609214738302800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "中国台湾5月贸易帐 179.1亿美元，预期152亿美元，前值143.5亿美元。",
           "url": "https://flash.jin10.com/detail/20260609160018194800",
           "source": "金十数据",
@@ -843,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "WTI原油日内跌幅达3.5%，报88.07美元/桶。 布伦特原油日内跌幅达3.0%，报91.39美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3116876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "晶泰控股：拟回购不超1亿美元的公司股份",
@@ -903,7 +980,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -914,8 +991,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 19时57分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 22时43分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -1028,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "Perplexity CEO：无论Anthropic或OpenAI上市进展如何，公司均计划2028年IPO",
+          "url": "https://wallstreetcn.com/livenews/3116874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -1044,19 +1132,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 22时43分]"
         },
         {
           "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
           "url": "https://www.cls.cn/detail/2394752",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时43分]"
         },
         {
           "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
@@ -1118,8 +1207,19 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "王传福称5年后比亚迪规模全球第一",
+          "url": "https://www.toutiao.com/trending/7649338218843737642/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
         {
           "title": "王传福：5年后比亚迪将做到全球第一",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B0%86%E5%81%9A%E5%88%B0%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
@@ -1132,13 +1232,46 @@
           "time_info": "[19时56分 ~ 19时57分]"
         },
         {
+          "title": "王传福：5年后比亚迪规模全球第一",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
+          "url": "https://www.cls.cn/detail/2395116",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "比亚迪：被列入中国军工企业名单不会影响本集团正常开展业务",
           "url": "https://flash.jin10.com/detail/20260609193610063800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
