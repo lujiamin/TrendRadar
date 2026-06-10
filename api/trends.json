@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T08:08:34.133980+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-06-10T13:13:45.703382+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "大摩：美联储将维持利率不变，美元将走弱",
@@ -50,6 +50,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "世纪IPO炸场！报道：SpaceX认购规模狂飙至2500亿美元，近四倍超额认购",
+          "url": "https://wallstreetcn.com/articles/3774260",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "华尔街抢疯了！SpaceX已获4倍超额认购 认购需求高达2500亿美元",
+          "url": "https://www.cls.cn/detail/2395457",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国众议院通过约700亿美元的移民执法拨款法案",
@@ -104,7 +126,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -170,7 +192,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -181,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -214,7 +236,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -280,7 +302,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -431,7 +453,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -440,9 +462,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时13分]"
         },
         {
           "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
@@ -462,7 +484,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -478,6 +500,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "特朗普称可能参与重建伊朗，但要拿走一半石油",
           "url": "https://flash.jin10.com/detail/20260610033721122800",
           "source": "金十数据",
@@ -489,23 +522,35 @@
           "time_info": "04时02分"
         },
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
+          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 08时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
           "url": "https://news.ifeng.com/c/8tooQUA09O3",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -529,11 +574,24 @@
           "url": "https://www.toutiao.com/trending/7649536140243897906/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时13分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时13分]"
         },
         {
           "title": "参与重建伊朗？特朗普：可以，但石油得分美国一半",
@@ -542,20 +600,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "13时13分"
         },
         {
           "title": "据ABC新闻报道，特朗普在接受该媒体采访时表示：“美国对伊朗做出回应非常重要。他们击落了一架直升机，我们正在予以回应。这是对他们昨晚对我们直升机所做之事的回应，我相信回应应该会非常强硬、非常有力。”",
@@ -608,7 +666,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -619,7 +677,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
@@ -627,7 +685,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
@@ -635,11 +693,23 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 08时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 13时13分]"
+        },
+        {
+          "title": "股民哽咽询问比亚迪业务和股价前景，王传福直言当前股价未反映真实潜力，希望股东保持耐心，市场在担心什么？",
+          "url": "https://www.zhihu.com/question/2047740526892520486",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "王传福称5年后比亚迪规模全球第一",
@@ -647,11 +717,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 08时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 13时13分]"
         },
         {
           "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
@@ -690,8 +761,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 08时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 13时13分]"
         },
         {
           "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
@@ -699,11 +770,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 08时08分]"
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 13时13分]"
         }
       ]
     },
