@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-11T16:40:45.145161+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-06-11T20:40:43.332527+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
-        {
-          "title": "美贸易法院：特朗普，快退钱！",
-          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 11时26分]"
-        },
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
           "url": "https://wallstreetcn.com/articles/3774340",
@@ -30,8 +18,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 20时40分]"
+        },
+        {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 11时26分]"
         },
         {
           "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
@@ -169,6 +169,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "特朗普：今晚将重创伊朗",
+          "url": "https://wallstreetcn.com/livenews/3118189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "报道：特朗普重返白宫后四处动武，在全球发动打击已逾万次",
           "url": "https://wallstreetcn.com/livenews/3117620",
           "source": "华尔街见闻-快讯",
@@ -191,13 +202,24 @@
           "time_info": "05时55分"
         },
         {
+          "title": "特朗普称美国将对伊朗实施“猛烈打击”",
+          "url": "https://wallstreetcn.com/livenews/3118188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美退役将军：特朗普公开声明或泄露谈判底牌，将筹码拱手让给伊朗",
           "url": "https://flash.jin10.com/detail/20260611161815745800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -280,6 +302,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的情况看起来不像委内瑞拉行动那样顺利。",
           "url": "https://flash.jin10.com/detail/20260611000708885800",
           "source": "金十数据",
@@ -333,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "特朗普：美国今晚将对伊朗采取强硬措施",
+          "url": "https://wallstreetcn.com/livenews/3118177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：（关于国家情报总监提名）我们正在面试五位候选人。",
@@ -536,8 +580,32 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3774364",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 20时40分]"
+        },
+        {
+          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
+          "url": "https://www.zhihu.com/question/2048187195110993970",
+          "source": "知乎",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 20时40分]"
+        },
         {
           "title": "美元在美国CPI通胀数据发布日大致持平",
           "url": "https://wallstreetcn.com/livenews/3117675",
@@ -561,6 +629,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美元指数触及日内高点，此前特朗普表示，美国将于11日晚对伊朗进行重创。",
+          "url": "https://wallstreetcn.com/livenews/3118194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "花旗：金价可能跌到3500美元",
           "url": "https://www.toutiao.com/trending/7649366995154944043/",
           "source": "今日头条",
@@ -581,7 +660,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -614,33 +693,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
-        },
-        {
-          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3774364",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 16时40分]"
-        },
-        {
-          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
-          "url": "https://www.zhihu.com/question/2048187195110993970",
-          "source": "知乎",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 16时40分]"
         },
         {
           "title": "美国总统特朗普：重申房利美和房地美的估值可能达到1万亿美元。",
@@ -688,6 +743,17 @@
           "time_info": "[03时31分 ~ 05时55分]"
         },
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 20时40分]"
+        },
+        {
           "title": "现货黄金日内跌超1.00%，现报4029.28美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260611071359098800",
           "source": "金十数据",
@@ -721,6 +787,17 @@
           "time_info": "03时32分"
         },
         {
+          "title": "美元指数DXY短线波动不大，最新报100.11。",
+          "url": "https://flash.jin10.com/detail/20260611203102907800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "现货黄金失守4100美元/盎司，创2025年11月以来新低，日内跌3.77%。",
           "url": "https://wallstreetcn.com/livenews/3117668",
           "source": "华尔街见闻-快讯",
@@ -730,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
-        },
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "特朗普签署了一项规模700亿美元的法案，为美国移民与海关执法局（ICE）及边境巡逻队提供资金。",
@@ -793,7 +859,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -820,6 +886,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "欧洲央行决议后，欧元兑美元汇率基本持平于1.1535。",
+          "url": "https://wallstreetcn.com/livenews/3118176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "WTI原油日内涨幅扩大至1.00%，现报93.68美元/桶。",
           "url": "https://flash.jin10.com/detail/20260611065345471800",
           "source": "金十数据",
@@ -837,7 +914,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -870,7 +947,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -936,7 +1013,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -961,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "泄露超3千万用户数据，韩国电商酷澎被罚4亿美元",
+          "url": "https://wallstreetcn.com/livenews/3118157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -975,7 +1063,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1050,7 +1138,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -1067,7 +1155,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
