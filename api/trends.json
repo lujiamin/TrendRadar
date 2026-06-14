@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T13:28:49.879569+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-06-14T17:26:01.228885+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -19,16 +19,30 @@
           "time_info": "[01时18分 ~ 13时28分]"
         },
         {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 17时26分]"
+        },
+        {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
           "url": "https://wallstreetcn.com/livenews/3119171",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 17时26分]"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -53,6 +67,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 13时28分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
@@ -80,18 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 08时14分]"
-        },
-        {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 13时28分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -140,6 +154,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时18分]"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时26分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -202,6 +228,18 @@
           "time_info": "[01时18分 ~ 03时18分]"
         },
         {
+          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
+          "url": "https://wallstreetcn.com/livenews/3119179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 17时26分]"
+        },
+        {
           "title": "美国总统特朗普就伊朗问题表示：协议计划于明天签署。协议签署后，霍尔木兹海峡将立即对所有人开放。",
           "url": "https://flash.jin10.com/detail/20260614004739584800",
           "source": "金十数据",
@@ -214,37 +252,15 @@
           "time_info": "[01时18分 ~ 03时18分]"
         },
         {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
           "ranks": [
-            7
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
-          "url": "https://wallstreetcn.com/livenews/3119179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
@@ -297,7 +313,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -316,7 +332,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -324,11 +340,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 17时26分]"
         },
         {
           "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
@@ -337,11 +354,12 @@
           "ranks": [
             6,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 17时26分]"
         },
         {
           "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
@@ -393,6 +411,18 @@
           "time_info": "[01时18分 ~ 03时18分]"
         },
         {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 17时26分]"
+        },
+        {
           "title": "SpaceX亏损达413亿美元",
           "url": "https://s.weibo.com/weibo?q=%23SpaceX%E4%BA%8F%E6%8D%9F%E8%BE%BE413%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -406,16 +436,15 @@
           "time_info": "[01时18分 ~ 08时14分]"
         },
         {
-          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
-          "url": "https://wallstreetcn.com/articles/3774579",
-          "source": "华尔街见闻",
+          "title": "记者实测最贵世界杯 1瓶水5.25美元",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF+1%E7%93%B6%E6%B0%B45.25%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            6
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时14分 ~ 13时28分]"
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "高盛与大摩预计将分别从SpaceX IPO中获得约1亿美元承销费用",
@@ -424,7 +453,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
@@ -456,9 +485,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时26分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -467,9 +496,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里合伙人周靖人被曝刚任首席科学家 6 天拟离职，阿里巴巴称消息不实，具体什么情况？",
+          "url": "https://www.zhihu.com/question/2049059459964613573",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "阿里巴巴回应“周靖人离职”：谣言",
+          "url": "https://wallstreetcn.com/livenews/3119196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     }
