@@ -1,11 +1,204 @@
 {
-  "generated_at": "2026-06-16T03:43:15.847967+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-16T06:15:22.865036+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "周一（6月15日）纽约尾盘，ICE美元指数跌0.10%，刷新日高至99.663点，亚太盘初跳空低开，日内主要交投于99.500点附近、北京时间13:14刷新日低至99.384点，20:00以来持续收复失地。 彭博美元指数跌0.11%，刷新日高至1205.87点，日内交投区间为1202.91-1205.87点。",
+          "url": "https://wallstreetcn.com/livenews/3119848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20260616031900342800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "SEC文件显示：英伟达(NVDA.O)申请最高达250亿美元的七部分票据发行。",
+          "url": "https://flash.jin10.com/detail/20260616053052231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
+        },
+        {
+          "title": "伊方披露谅解备忘录草案内容，包括美豁免石油制裁、提供 3000 亿美元助伊朗重建等，怎样解读这一草案？",
+          "url": "https://www.zhihu.com/question/2049795490623874487",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7568元，较上周五夜盘收盘涨73点。成交量257.21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "周一（6月15日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7593元，较上周五纽约尾盘涨43点，日内整体交投于6.7637-6.7556元区间。",
+          "url": "https://wallstreetcn.com/livenews/3119878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
+          "url": "https://wallstreetcn.com/livenews/3119877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "英伟达债券发行额增至250亿美元 认购额高达850亿美元",
+          "url": "https://flash.jin10.com/detail/20260616022707376800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3119872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "英伟达五年来首次发行投资级债券，认购额高达850亿美元",
+          "url": "https://wallstreetcn.com/livenews/3119827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "花旗：上调未来0-3个月黄金价格预期至4500美元/盎司，预计白银价格将为70美元。",
+          "url": "https://wallstreetcn.com/livenews/3119828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "周一（6月15日），韩元兑美元最终涨0.18%，报1514.55韩元。",
+          "url": "https://wallstreetcn.com/livenews/3119826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "SpaceX涨幅超15%，报186美元，盘中市值超2.4万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "周一（6月15日），美联储隔夜逆回购协议（RRP）使用规模为5.81亿美元（交易对手8家），上个交易日报4.54亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "SpaceX美股IPO第二天收涨19.60%，报192.50美元，市值增长4120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -15,8 +208,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -26,8 +219,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
         },
         {
           "title": "特朗普：将允许伊朗进行低水平铀浓缩",
@@ -37,8 +230,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
         },
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -48,8 +241,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
         },
         {
           "title": "一名要求匿名的七国集团（G7）官员表示，成员国在如何应对伊朗局势问题上存在严重分歧。几乎没有人预期此次峰会会发表联合公报，在特朗普时代，这几乎是不可能完成的任务。（彭博）",
@@ -58,7 +251,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -70,8 +263,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时15分]"
         },
         {
           "title": "谁为特朗普白宫格斗赛买单",
@@ -91,7 +284,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -102,7 +295,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -113,7 +306,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -124,9 +317,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美加州州长称特朗普指示司法部对其展开调查",
+          "url": "https://wallstreetcn.com/livenews/3119871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国加州州长纽森：美国总统特朗普已指示司法部对我进行调查。",
@@ -135,7 +339,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -146,134 +350,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "周一（6月15日）纽约尾盘，ICE美元指数跌0.10%，刷新日高至99.663点，亚太盘初跳空低开，日内主要交投于99.500点附近、北京时间13:14刷新日低至99.384点，20:00以来持续收复失地。 彭博美元指数跌0.11%，刷新日高至1205.87点，日内交投区间为1202.91-1205.87点。",
-          "url": "https://wallstreetcn.com/livenews/3119848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20260616031900342800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
-          "url": "https://wallstreetcn.com/articles/3774700",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        },
-        {
-          "title": "伊方披露谅解备忘录草案内容，包括美豁免石油制裁、提供 3000 亿美元助伊朗重建等，怎样解读这一草案？",
-          "url": "https://www.zhihu.com/question/2049795490623874487",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7568元，较上周五夜盘收盘涨73点。成交量257.21亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "英伟达债券发行额增至250亿美元 认购额高达850亿美元",
-          "url": "https://flash.jin10.com/detail/20260616022707376800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "英伟达五年来首次发行投资级债券，认购额高达850亿美元",
-          "url": "https://wallstreetcn.com/livenews/3119827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "花旗：上调未来0-3个月黄金价格预期至4500美元/盎司，预计白银价格将为70美元。",
-          "url": "https://wallstreetcn.com/livenews/3119828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "周一（6月15日），韩元兑美元最终涨0.18%，报1514.55韩元。",
-          "url": "https://wallstreetcn.com/livenews/3119826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "SpaceX涨幅超15%，报186美元，盘中市值超2.4万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "周一（6月15日），美联储隔夜逆回购协议（RRP）使用规模为5.81亿美元（交易对手8家），上个交易日报4.54亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
