@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-20T16:47:41.641382+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-06-20T19:13:05.741378+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 19时13分]"
+        },
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=2&Refer=top",
@@ -20,6 +33,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时13分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -86,18 +110,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 13时08分]"
-        },
-        {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 16时47分]"
         },
         {
           "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
@@ -173,15 +185,15 @@
           "time_info": "[03时42分 ~ 08时05分]"
         },
         {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "19时13分"
         },
         {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
@@ -210,15 +222,15 @@
           "time_info": "[06时51分 ~ 13时08分]"
         },
         {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "19时13分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -233,6 +245,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时42分 ~ 08时05分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时13分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -363,6 +387,19 @@
           "time_info": "[05时05分 ~ 08时05分]"
         },
         {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
           "url": "https://flash.jin10.com/detail/20260620034905170800",
           "source": "金十数据",
@@ -420,6 +457,28 @@
           "time_info": "[05时05分 ~ 08时05分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3122151",
           "source": "华尔街见闻-快讯",
@@ -444,16 +503,15 @@
           "time_info": "[03时42分 ~ 05时05分]"
         },
         {
-          "title": "因特朗普言论 意大利副总理取消访美",
-          "url": "https://wallstreetcn.com/livenews/3122210",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 16时47分]"
+          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "特朗普言论“冒犯了整个意大利”，意外长取消访美",
@@ -462,7 +520,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -506,7 +564,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -605,6 +663,17 @@
           "time_info": "[01时15分 ~ 06时51分]"
         },
         {
+          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
+          "url": "https://wallstreetcn.com/articles/3775108",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时13分]"
+        },
+        {
           "title": "2026 年，美元潮汐怎么玩不动了？",
           "url": "https://www.zhihu.com/question/2050766119007524198",
           "source": "知乎",
@@ -617,6 +686,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时42分 ~ 08时05分]"
+        },
+        {
+          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
+          "url": "https://wallstreetcn.com/articles/3775100",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 19时13分]"
         },
         {
           "title": "周五（6月19日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7838元，较周四纽约尾盘跌54点，日内整体交投于6.7759-6.7980元区间。 本周，离岸人民币累计下挫大约200点，跌幅0.3%。",
@@ -645,17 +726,6 @@
           "time_info": "[01时15分 ~ 13时08分]"
         },
         {
-          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
-          "url": "https://wallstreetcn.com/articles/3775108",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
           "url": "https://www.zhihu.com/question/2051265976675604351",
           "source": "知乎",
@@ -681,18 +751,6 @@
           "time_info": "[01时15分 ~ 05时05分]"
         },
         {
-          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
-          "url": "https://wallstreetcn.com/articles/3775100",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 16时47分]"
-        },
-        {
           "title": "消息人士称，阿布扎比技术投资公司MGX正考虑以数十亿美元收购数据中心运营商DayOne。",
           "url": "https://flash.jin10.com/detail/20260620024848847800",
           "source": "金十数据",
@@ -715,6 +773,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时42分 ~ 08时05分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时13分]"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -780,6 +850,19 @@
           "time_info": "[05时05分 ~ 08时05分]"
         },
         {
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 19时13分]"
+        },
+        {
           "title": "越南前女首富爱马仕包拍出44万美元",
           "url": "https://www.toutiao.com/trending/7652907945642135082/",
           "source": "今日头条",
@@ -806,6 +889,18 @@
           "time_info": "[05时05分 ~ 08时05分]"
         },
         {
+          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
+          "url": "https://flash.jin10.com/detail/20260620160437580800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 19时13分]"
+        },
+        {
           "title": "沃什放鹰，美元“转折点”来了？",
           "url": "https://wallstreetcn.com/articles/3775084",
           "source": "华尔街见闻",
@@ -830,29 +925,6 @@
           "time_info": "[01时15分 ~ 03时42分]"
         },
         {
-          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
-          "url": "https://wallstreetcn.com/livenews/3122209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 16时47分]"
-        },
-        {
-          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
-          "url": "https://flash.jin10.com/detail/20260620160437580800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "布伦特8月原油期货收报80.57美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3122166",
           "source": "华尔街见闻-快讯",
@@ -862,17 +934,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
         },
         {
           "title": "ICE 7月汽油期货结算价为每吨905.00美元。",
@@ -937,7 +998,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
