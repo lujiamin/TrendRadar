@@ -1,522 +1,127 @@
 {
-  "generated_at": "2026-06-23T21:42:05.370487+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-06-24T00:25:32.790755+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 8,
       "titles": [
         {
-          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
-          "url": "https://wallstreetcn.com/articles/3775217",
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
+          "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 21时42分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "现货钯金跌逾3%至每盎司1,224.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3123235",
+          "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
+          "url": "https://wallstreetcn.com/livenews/3123570",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "00时25分"
         },
         {
-          "title": "委内瑞拉央行：2026年第一季度石油出口收入升至54.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260623025055363800",
-          "source": "金十数据",
+          "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
+          "url": "https://wallstreetcn.com/livenews/3123569",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "丹斯克银行：预计2026年剩余时间内布伦特原油均价将为每桶80美元",
-          "url": "https://flash.jin10.com/detail/20260623070127027800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶77.90美元，下跌2.67美元，跌幅3.31%。",
-          "url": "https://flash.jin10.com/detail/20260623024826926800",
-          "source": "金十数据",
+          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
+          "url": "https://wallstreetcn.com/articles/3775217",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "花旗：将摩根士丹利(MS.N)目标价从194美元上调至220美元。",
-          "url": "https://flash.jin10.com/detail/20260623181432321800",
+          "title": "市场消息：SpaceX(SPCX.O)高评级债券发行获得890亿美元认购。",
+          "url": "https://flash.jin10.com/detail/20260624001420799800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7773元，较上周四夜盘收盘跌45点。成交量632.89亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3122995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "GSMA预计2030年移动技术对中国经济贡献达2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3123367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美股盘初：纳指跌2.4%，费城半导体指数跌超7%，美光科技跌约11%，SpaceX市值跌破2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3123486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "花旗：将美国银行(BAC.N)目标价从62美元上调至66美元。",
-          "url": "https://flash.jin10.com/detail/20260623181421519800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
-          "url": "https://www.cls.cn/detail/2406089",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 14时46分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
           "url": "https://www.zhihu.com/question/2052610103719760554",
           "source": "知乎",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 21时42分]"
-        },
-        {
-          "title": "周一（6月22日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7781元，较上周五纽约尾盘涨57点，日内整体交投于6.7863-6.7730元区间。",
-          "url": "https://wallstreetcn.com/livenews/3123037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时23分]"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 14时46分]"
-        },
-        {
-          "title": "如何看待 Steam Machine 定价 1049 美元起？",
-          "url": "https://www.zhihu.com/question/2052643077081321839",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 14时46分]"
-        },
-        {
-          "title": "周一（6月22日）纽约尾盘，彭博谷物分类指数跌0.89%，报29.4731点。 CBOT玉米期货跌1.13%，CBOT小麦期货跌1.14%。 CBOT大豆期货跌0.11%，报11.4150美元/蒲式耳，豆粕期货涨0.13%，豆油期货涨1.57%。",
-          "url": "https://wallstreetcn.com/livenews/3122992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "历史性逆转！美国数十年来首允伊朗以美元卖油",
-          "url": "https://flash.jin10.com/detail/20260623064916486800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌1.78美元，跌幅2.32%，报74.82美元/桶。 布伦特7月原油期货收跌2.67美元，跌幅3.31%，报77.90美元/桶。 NYMEX 7月天然气期货收报3.2530美元/百万英热单位。 NYMEX 7月汽油期货收报2.9870美元/加仑，NYMEX 7月取暖油期货收报3.0931美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3122990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "加拿大央行：美元的吸引力可能使失衡状况持续存在。 美国贸易逆差由大量外国资本流入弥补。",
-          "url": "https://wallstreetcn.com/livenews/3123482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "花旗：将高盛(GS.N)目标价从930美元上调至1100美元。",
-          "url": "https://flash.jin10.com/detail/20260623181219004800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶74.82美元，下跌1.78美元，跌幅2.32%。",
-          "url": "https://flash.jin10.com/detail/20260623023124474800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "现货黄金涨约0.9%，亚太早盘一度突破4220美元",
-          "url": "https://wallstreetcn.com/livenews/3123033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "澳元兑美元下跌1%，至日内低点0.6931。",
-          "url": "https://wallstreetcn.com/livenews/3123479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "市场消息：高盛股票业务交易额将突破50亿美元，向新纪录迈进。",
-          "url": "https://flash.jin10.com/detail/20260623210633788800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
-          "url": "https://wallstreetcn.com/livenews/3122986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "WTI原油向上触及75美元/桶，日内涨0.44%。",
-          "url": "https://flash.jin10.com/detail/20260623063504213800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "尽管波斯湾的石油流动性持续恢复，巴克莱仍维持2026年布伦特原油价格预测为每桶100美元。",
-          "url": "https://flash.jin10.com/detail/20260623062825174800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "Meta Platforms(META.O)与EssilorLuxottica联名推出多款新眼镜款式，售价299美元起。",
-          "url": "https://flash.jin10.com/detail/20260623210321285800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "周一（6月22日）纽约尾盘，欧元兑美元跌0.41%，英镑兑美元涨0.10%，美元兑瑞郎涨0.26%。 商品货币对中，澳元兑美元跌0.20%，纽元兑美元跌0.51%，美元兑加元涨0.07%。 瑞典克朗兑美元跌0.46%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌0.45%。 波兰兹罗提兑美元跌0.72%，美元兑匈牙利福林涨0.53%。 印度卢比兑美元（收）跌0.37%，土耳其里拉兑美元跌0.04%，南非兰特兑美元涨0.24%，墨西哥比索兑美元跌0.20%，巴西雷亚尔兑美元涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3123027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国驻菲律宾大使馆：美国政府已向菲律宾军方移交四架海洋航空“海神”自主水面无人艇，交易价值1300万美元。",
-          "url": "https://flash.jin10.com/detail/20260623101801591800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美元指数22日上涨",
-          "url": "https://flash.jin10.com/detail/20260623044110227800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "GSMA预计2030年移动技术对中国经济贡献达2万亿美元",
-          "url": "https://flash.jin10.com/detail/20260623180322535800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "WTI原油跌幅扩大至1%，现报73.05美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3123211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "商品货币纽元兑美元日内跌幅达0.5%，报0.5711；澳元兑美元跌穿0.7关口。",
-          "url": "https://wallstreetcn.com/livenews/3122978",
-          "source": "华尔街见闻-快讯",
+          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "周一（6月22日），韩元兑美元最终跌0.40%，报1536.86韩元，日内绝大部分时间持稳于该水平附近。",
-          "url": "https://wallstreetcn.com/livenews/3122976",
+          "title": "Prosus于6月15-19日按均价39.1859欧元回购股票229.1242万股，合计将近0.898亿欧元（折合约1.037亿美元）。 Naspers同期按均价847.1266南非兰特回购79.0310万股，合计约6.695亿兰特（折合约0.411亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3123549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "现货黄金回落至4150美元/盎司下方，日内跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260623101207182800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "伊朗称在卢比奥海湾之行前120亿美元将解冻",
-          "url": "https://wallstreetcn.com/livenews/3123332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "周一（6月22日），美联储隔夜逆回购协议（RRP）使用规模为39.25亿美元（交易对手4家），上个交易日报2.51亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3122972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "甲骨文(ORCL.N)提交招股说明书补充文件，公司为200亿美元股权发行交易增设销售代理。",
-          "url": "https://flash.jin10.com/detail/20260623205758698800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
-          "url": "https://wallstreetcn.com/livenews/3123047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8171，下调21点；上一交易日中间价6.8150，上一交易日官方收盘价6.7763，上日夜盘报收6.7773。",
-          "url": "https://wallstreetcn.com/livenews/3123098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "现货白银日内跌4%，现报62.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3123197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "SpaceX收跌16%，市值蒸发4000亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3123012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
+          "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
+          "url": "https://flash.jin10.com/detail/20260624001541670800",
+          "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
           "ranks": [
-            16,
-            15,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 21时42分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -526,348 +131,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 21时42分]"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 10时45分]"
-        },
-        {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普政府将石油钻探保证金削减95%",
-          "url": "https://flash.jin10.com/detail/20260623024152529800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
-          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
-          "url": "https://www.cls.cn/detail/2406197",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美国白宫发言人：美国总统特朗普不会批准不符合美国国家安全利益的协议。",
-          "url": "https://flash.jin10.com/detail/20260623102249025800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "特朗普称伊朗将同意接受武器核查",
-          "url": "https://flash.jin10.com/detail/20260623044828361800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "特朗普签署两项行政令，推动2028年部署用于科学研究的量子计算机",
-          "url": "https://wallstreetcn.com/livenews/3123029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
-          "url": "https://flash.jin10.com/detail/20260623022102004800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
-          "url": "https://flash.jin10.com/detail/20260623044248643800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国总统特朗普召见多家军火制造商，寻求提高武器产量。 洛克希德-马丁公司、RTX、波音、L3Harris、Northrop Grumman、霍尼韦尔等料将会见特朗普。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3122980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
-          "url": "https://flash.jin10.com/detail/20260623061805327800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
-          "url": "https://wallstreetcn.com/livenews/3123021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。",
-          "url": "https://flash.jin10.com/detail/20260623020035987800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-23）",
-          "url": "https://flash.jin10.com/detail/20260623180118451800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "特朗普政府考虑在美国弗吉尼亚州附近海底开采关键矿产",
-          "url": "https://wallstreetcn.com/livenews/3122973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普签署量子领域行政令。",
-          "url": "https://flash.jin10.com/detail/20260623043421047800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
-          "url": "https://wallstreetcn.com/livenews/3122971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：油价大幅下跌。",
-          "url": "https://wallstreetcn.com/livenews/3123017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国法官阻止特朗普政府使用改版后的移民数据库进行选民登记核查。",
-          "url": "https://flash.jin10.com/detail/20260623014137013800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
-          "url": "https://wallstreetcn.com/livenews/3123016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
-          "url": "https://wallstreetcn.com/livenews/3122969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普称伊朗将同意接受重大武器核查",
-          "url": "https://wallstreetcn.com/livenews/3122966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 14时46分]"
-        },
-        {
-          "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
-          "url": "https://flash.jin10.com/detail/20260623043807971800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
-          "url": "https://flash.jin10.com/detail/20260623043203412800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比亚迪大唐手握15万辆订单",
-          "url": "https://www.toutiao.com/trending/7653415611460714534/",
+          "title": "特朗普提前宣布斯塔默辞职有何意味",
+          "url": "https://www.toutiao.com/trending/7654527066271911478/",
           "source": "今日头条",
           "ranks": [
-            17
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
-          "url": "https://wallstreetcn.com/livenews/3123011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中芯国际",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股芯片股部分反弹，芯智控股(02166.HK)涨超20%，国民技术(02701.HK)涨超17%，天数智芯(09903.HK)、中芯国际(00981.HK)涨近5%。",
-          "url": "https://flash.jin10.com/detail/20260623103300750800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "00时25分"
         }
       ]
     }
