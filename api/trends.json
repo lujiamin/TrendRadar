@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-23T10:45:38.038047+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-06-23T14:46:28.506747+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
+          "url": "https://wallstreetcn.com/articles/3775217",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 14时46分]"
+        },
+        {
+          "title": "现货钯金跌逾3%至每盎司1,224.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3123235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
         {
           "title": "委内瑞拉央行：2026年第一季度石油出口收入升至54.9亿美元。",
           "url": "https://flash.jin10.com/detail/20260623025055363800",
@@ -52,17 +75,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
-          "url": "https://wallstreetcn.com/articles/3775217",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
           "url": "https://www.cls.cn/detail/2406089",
           "source": "财联社热门",
@@ -70,11 +82,12 @@
             12,
             11,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 10时45分]"
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 14时46分]"
         },
         {
           "title": "周一（6月22日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7781元，较上周五纽约尾盘涨57点，日内整体交投于6.7863-6.7730元区间。",
@@ -87,6 +100,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时23分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 14时46分]"
+        },
+        {
+          "title": "如何看待 Steam Machine 定价 1049 美元起？",
+          "url": "https://www.zhihu.com/question/2052643077081321839",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 14时46分]"
         },
         {
           "title": "周一（6月22日）纽约尾盘，彭博谷物分类指数跌0.89%，报29.4731点。 CBOT玉米期货跌1.13%，CBOT小麦期货跌1.14%。 CBOT大豆期货跌0.11%，报11.4150美元/蒲式耳，豆粕期货涨0.13%，豆油期货涨1.57%。",
@@ -122,15 +159,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
+          "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
+          "url": "https://www.zhihu.com/question/2052610103719760554",
+          "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "14时46分"
         },
         {
           "title": "美国原油期货结算价为每桶74.82美元，下跌1.78美元，跌幅2.32%。",
@@ -205,7 +242,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -221,6 +258,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "WTI原油跌幅扩大至1%，现报73.05美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3123211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "商品货币纽元兑美元日内跌幅达0.5%，报0.5711；澳元兑美元跌穿0.7关口。",
           "url": "https://wallstreetcn.com/livenews/3122978",
           "source": "华尔街见闻-快讯",
@@ -230,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "如何看待 Steam Machine 定价 1049 美元起？",
-          "url": "https://www.zhihu.com/question/2052643077081321839",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "周一（6月22日），韩元兑美元最终跌0.40%，报1536.86韩元，日内绝大部分时间持稳于该水平附近。",
@@ -260,7 +297,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -293,9 +330,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "现货白银日内跌4%，现报62.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3123197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "SpaceX收跌16%，市值蒸发4000亿美元。",
@@ -312,7 +360,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -361,13 +409,24 @@
           "time_info": "03时22分"
         },
         {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -378,7 +437,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -414,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
@@ -569,11 +639,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 14时46分]"
         },
         {
           "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
@@ -600,26 +671,20 @@
       ]
     },
     {
-      "keyword_group": "中芯国际",
-      "match_count": 1,
+      "keyword_group": "比亚迪",
+      "match_count": 2,
       "titles": [
         {
-          "title": "港股芯片股部分反弹，芯智控股(02166.HK)涨超20%，国民技术(02701.HK)涨超17%，天数智芯(09903.HK)、中芯国际(00981.HK)涨近5%。",
-          "url": "https://flash.jin10.com/detail/20260623103300750800",
-          "source": "金十数据",
+          "title": "比亚迪大唐手握15万辆订单",
+          "url": "https://www.toutiao.com/trending/7653415611460714534/",
+          "source": "今日头条",
           "ranks": [
-            5
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 1,
-      "titles": [
+          "time_info": "14时46分"
+        },
         {
           "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
           "url": "https://wallstreetcn.com/livenews/3123011",
@@ -630,6 +695,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股芯片股部分反弹，芯智控股(02166.HK)涨超20%，国民技术(02701.HK)涨超17%，天数智芯(09903.HK)、中芯国际(00981.HK)涨近5%。",
+          "url": "https://flash.jin10.com/detail/20260623103300750800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     }
