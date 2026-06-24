@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T18:19:09.299868+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-06-24T21:16:36.814465+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 21时16分]"
+        },
         {
           "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
           "url": "https://wallstreetcn.com/articles/3775217",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 05时29分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 18时19分]"
         },
         {
           "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
@@ -96,6 +96,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "贝森特：伊朗解冻资金将采购美国产品，石油销售需重新以美元计价",
+          "url": "https://flash.jin10.com/detail/20260624211051118800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
           "url": "https://wallstreetcn.com/livenews/3123569",
           "source": "华尔街见闻-快讯",
@@ -127,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货白银失守60美元，布油跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "新台币兑美元下跌0.5%至31.784。",
@@ -242,8 +264,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 21时16分]"
         },
         {
           "title": "美国证交会文件：SpaceX(SPCX.O)宣布250亿美元首次债券发行定价；将以五个批次发行2031-2056年到期的高级票据。",
@@ -291,6 +313,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "现货黄金跌破4000美元/盎司关口，加息忧虑升温",
+          "url": "https://wallstreetcn.com/livenews/3124058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "市场消息：SpaceX(SPCX.O)高评级债券发行获得890亿美元认购。",
           "url": "https://flash.jin10.com/detail/20260624001420799800",
           "source": "金十数据",
@@ -300,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "Meta与微软领跑 带动数据中心租赁承诺突破8500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "周二（6月23日），韩元兑美元最终涨0.20%，报1533.80韩元。",
@@ -313,6 +357,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "现货白银日内跌幅达4.5%，报58.74美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "现货白银日内涨幅达1.00%，现报62.15美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260624140804368800",
           "source": "金十数据",
@@ -322,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "美国一季度经常帐 -2268亿美元，预期 -2106亿美元，前值 -1907亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "SpaceX有望从美国高评级债券市场募集250亿美元，认购需求显示市场心态谨慎",
@@ -357,13 +423,35 @@
           "time_info": "03时08分"
         },
         {
+          "title": "布伦特原油日内跌幅达3.0%，报74.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "WTI原油回落至71美元/桶下方，日内跌3.62%；布伦特原油向下触及74美元/桶，日内跌3.57%。",
+          "url": "https://flash.jin10.com/detail/20260624210409842800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.8052，较上一交易日官方收盘价跌187点，较上日夜盘收盘跌114点。",
           "url": "https://wallstreetcn.com/livenews/3123914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -377,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
+          "url": "https://wallstreetcn.com/livenews/3124039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "Prosus于6月15-19日按均价39.1859欧元回购股票229.1242万股，合计将近0.898亿欧元（折合约1.037亿美元）。 Naspers同期按均价847.1266南非兰特回购79.0310万股，合计约6.695亿兰特（折合约0.411亿美元）。",
@@ -429,7 +528,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -484,9 +583,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "纽约银日内跌幅达4.0%，报60.01美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "纽约期金跌破4000美元",
+          "url": "https://flash.jin10.com/detail/20260624210034856800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "周二（6月23日）纽约尾盘，美元兑日元大致持平，报161.56日元，日内交投区间为161.74-161.28日元，北京时间15:00、16:01显著跳水，一度逼近6月22日顶部161.93日元（逼近2024年7月3日顶部161.95日元）。 欧元兑日元跌0.42%，连续两个交易日下挫，报183.88日元；英镑兑日元跌0.42%，报213.190日元。",
@@ -520,23 +641,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
+          "url": "https://wallstreetcn.com/livenews/3124026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
+          "url": "https://wallstreetcn.com/livenews/3124023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时16分]"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -617,11 +761,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 21时16分]"
         },
         {
           "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
@@ -724,6 +869,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "油价持续下跌 此前特朗普称伊朗未在海峡收取通行费",
+          "url": "https://flash.jin10.com/detail/20260624210524478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
           "url": "https://wallstreetcn.com/livenews/3123596",
           "source": "华尔街见闻-快讯",
@@ -788,6 +944,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "美国财长贝森特：不确定今年能否在赤字问题上取得进展。 到特朗普任期结束时，赤字/GDP比率可以降至4%以下。",
+          "url": "https://wallstreetcn.com/livenews/3124031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
+          "url": "https://flash.jin10.com/detail/20260624210650083800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210354905800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
+          "url": "https://flash.jin10.com/detail/20260624210245809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
+          "url": "https://flash.jin10.com/detail/20260624210227845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210204398800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
+          "url": "https://flash.jin10.com/detail/20260624210130831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
@@ -843,8 +1104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 21时16分]"
         },
         {
           "title": "董路致谢比亚迪圆少年巴西足球梦",
@@ -860,23 +1121,6 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
-          "url": "https://flash.jin10.com/detail/20260624022839964800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里巴巴",
       "match_count": 1,
       "titles": [
@@ -887,7 +1131,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
