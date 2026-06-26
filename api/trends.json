@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T07:13:48.621128+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-06-26T10:51:13.919786+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 10时51分]"
         },
         {
           "title": "GTA6开预购,80美元买空气",
@@ -39,11 +40,12 @@
           "ranks": [
             14,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 10时51分]"
         },
         {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
@@ -58,13 +60,24 @@
           "time_info": "[01时08分 ~ 05时28分]"
         },
         {
+          "title": "现货黄金再度失守4000美元/盎司，日内跌幅0.68%。",
+          "url": "https://flash.jin10.com/detail/20260626103711929800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "市场消息：三星集团将在未来10年内在韩国投资1000万亿韩元（约合6500亿美元）。",
           "url": "https://flash.jin10.com/detail/20260626064917566800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -175,6 +188,17 @@
           "time_info": "[05时28分 ~ 07时13分]"
         },
         {
+          "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3775489",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
           "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
           "url": "https://wallstreetcn.com/livenews/3124855",
           "source": "华尔街见闻-快讯",
@@ -232,6 +256,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "港元兑美元跌至2025年8月以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3124971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "美国至6月19日当周外国央行持有美国国债 56.56亿美元，前值-21.18亿美元。",
           "url": "https://flash.jin10.com/detail/20260626043059561800",
           "source": "金十数据",
@@ -249,7 +284,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -356,7 +391,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -407,6 +442,28 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
+          "title": "美最高法院裁决支持特朗普强硬移民政策",
+          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
           "url": "https://flash.jin10.com/detail/20260626043110139800",
           "source": "金十数据",
@@ -425,7 +482,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -461,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "据白宫官员透露，特朗普将首次乘坐卡塔尔政府赠送的新总统专机，计划于7月1日前往北达科他州参加活动。",
+          "url": "https://wallstreetcn.com/livenews/3124934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     },
@@ -522,7 +590,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -544,7 +612,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -558,6 +626,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生指数跌超2%，成分股中，舜宇光学科技(02382.HK)跌超12%，联想集团(00992.HK)跌超7%，中芯国际(00981.HK)跌近6%。",
+          "url": "https://flash.jin10.com/detail/20260626103353113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "港股半导体股震荡走低，天数智芯(09903.HK)跌超10%，澜起科技(06809.HK)跌超8%，纳芯微(02676.HK)跌超6%，中芯国际(00981.HK)、兆易创新(03986.HK)、华虹宏力(01347.HK)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260626102648788800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     },
