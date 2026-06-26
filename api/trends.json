@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T14:51:40.076993+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-06-26T18:20:19.385076+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -42,11 +42,12 @@
             16,
             18,
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 14时51分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 18时20分]"
         },
         {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
@@ -189,6 +190,17 @@
           "time_info": "[05时28分 ~ 07时13分]"
         },
         {
+          "title": "“美元升万物落”不会长久？前IIF首席断言：美联储不会加息",
+          "url": "https://www.cls.cn/detail/2409937",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时20分]"
+        },
+        {
           "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
           "url": "https://wallstreetcn.com/articles/3775489",
           "source": "华尔街见闻",
@@ -224,15 +236,26 @@
           "time_info": "[05时28分 ~ 07时13分]"
         },
         {
-          "title": "“美元升万物落”不会长久？前IIF首席断言：美联储不会加息",
-          "url": "https://www.cls.cn/detail/2409937",
-          "source": "财联社热门",
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时20分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时20分"
         },
         {
           "title": "美国银行：建议在美国中期选举之前买入英镑兑美元波动性。",
@@ -252,7 +275,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -263,7 +286,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -277,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "中国东航：拟购买25架A330NEO系列飞机，目录价93.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3125192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "市场消息：微软Xbox游戏机512GB版本的价格将上调100美元，1TB机型价格将上调150美元。",
@@ -334,17 +368,6 @@
           "time_info": "03时52分"
         },
         {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "布伦特原油突破76美元/桶，日内涨3.52%。",
           "url": "https://flash.jin10.com/detail/20260626031838586800",
           "source": "金十数据",
@@ -378,6 +401,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "中国一季度经常帐终值 1843亿美元，初值 1841亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3125178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "周四（6月25日），韩元兑美元最终跌0.02%，报1543.01韩元。",
           "url": "https://wallstreetcn.com/livenews/3124813",
           "source": "华尔街见闻-快讯",
@@ -409,6 +443,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "欧元兑美元涨幅扩大至0.3%，触及日内高点1.1408。",
+          "url": "https://wallstreetcn.com/livenews/3125175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "现货白银日内涨超1.00%，现报58.42美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260626173637840800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
@@ -580,7 +636,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
@@ -641,6 +697,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -684,11 +751,12 @@
           "url": "https://www.zhihu.com/question/2053441953073718137",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
@@ -728,6 +796,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪助力足球小将圆梦美加墨",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8A%A9%E5%8A%9B%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%9C%86%E6%A2%A6%E7%BE%8E%E5%8A%A0%E5%A2%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
