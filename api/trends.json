@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T00:07:30.059665+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-29T02:02:43.042512+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
           "url": "https://www.zhihu.com/question/2054471851032539301",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -59,30 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3125689",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260628220938422800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -92,15 +83,27 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
           "url": "https://wallstreetcn.com/livenews/3125682",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260628220938422800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -117,11 +120,12 @@
           "url": "https://www.toutiao.com/trending/7656406731290840586/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时02分]"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -144,6 +148,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪市值为何蒸发8000亿",
+          "url": "https://www.toutiao.com/trending/7656107637293547529/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
