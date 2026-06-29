@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T07:07:04.287334+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-06-29T10:56:37.489493+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "强势美元回归 暴风雨要来了吗",
@@ -26,11 +26,12 @@
           "url": "https://wallstreetcn.com/articles/3775705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时56分]"
         },
         {
           "title": "布伦特原油期货周一亚市盘初涨1.9%，至每桶73.39美元；WTI原油期货接近每桶70美元。此前美伊停火协议陷入紧张状态。",
@@ -39,7 +40,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -50,7 +51,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -83,9 +84,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "昆仑芯拟在港上市 目标估值500亿美元",
+          "url": "https://www.baidu.com/s?wd=%E6%98%86%E4%BB%91%E8%8A%AF%E6%8B%9F%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82+%E7%9B%AE%E6%A0%87%E4%BC%B0%E5%80%BC500%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "现货黄金周一平开，报4078.61美元/盎司。",
@@ -94,7 +106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -116,7 +128,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -130,12 +142,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "上市不到一个月就进纳指100！SpaceX将迎43亿美元被动资金抢筹",
+          "url": "https://flash.jin10.com/detail/20260629101639159800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8175，下调9点；上一交易日中间价6.8166，上一交易日官方收盘价6.7997，上日夜盘报收6.7978。",
+          "url": "https://wallstreetcn.com/livenews/3125768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -147,6 +181,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 07时07分]"
+        },
+        {
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 10时56分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -164,18 +211,6 @@
           "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
           "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 07时07分]"
-        },
-        {
-          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
@@ -233,6 +268,17 @@
           "time_info": "[00时07分 ~ 05时59分]"
         },
         {
+          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
+          "url": "https://www.cls.cn/detail/2411269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
@@ -242,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照",
+          "url": "https://www.cls.cn/detail/2411031",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
@@ -268,19 +325,59 @@
       ]
     },
     {
+      "keyword_group": "可控核聚变",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "创业板指涨超1%，科创50指数涨超3%，继续刷新历史新高，沪指涨0.17%，深成指涨0.78%，半导体、存储芯片、氟化工、可控核聚变等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3125788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "可控核聚变概念开盘活跃，西部超导涨超10%，百利电气、联创光电、国光电气、常辅股份、哈焊华通纷纷高开，消息上，国家重大科技基础设施“聚变堆主机关键系统综合研究设施”最大的超导部件——环向场磁体完成最后制备工艺，并通过专家验收。",
+          "url": "https://wallstreetcn.com/livenews/3125778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪市值为何蒸发8000亿",
           "url": "https://www.toutiao.com/trending/7656107637293547529/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 10时56分]"
+        },
+        {
+          "title": "博主：比亚迪赢了销量却输给资本",
+          "url": "https://www.toutiao.com/trending/7656616192316018218/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         }
       ]
     }
