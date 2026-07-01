@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T05:23:59.748908+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-02T07:09:56.796382+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 07时09分]"
         },
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -41,17 +41,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "周三（7月1日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周二纽约尾盘跌30点，日内整体交投于6.7902-6.8026元区间。",
-          "url": "https://wallstreetcn.com/livenews/3127624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "布伦特原油期货结算价为每桶71.57美元，下跌1.38美元，跌幅1.89%。",
           "url": "https://flash.jin10.com/detail/20260702025314399800",
           "source": "金十数据",
@@ -63,17 +52,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "必和必拓：已经围绕15亿美元重启智利Cerro Colorado铜矿递交环境许可申请。",
-          "url": "https://wallstreetcn.com/livenews/3127622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
           "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
@@ -83,8 +61,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 07时09分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周二纽约尾盘跌30点，日内整体交投于6.7902-6.8026元区间。",
+          "url": "https://wallstreetcn.com/livenews/3127624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "必和必拓：已经围绕15亿美元重启智利Cerro Colorado铜矿递交环境许可申请。",
+          "url": "https://wallstreetcn.com/livenews/3127622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3127621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
         },
         {
           "title": "周三（7月1日），美联储隔夜逆回购协议（RRP）使用规模为10.01亿美元（交易对手4家），上个交易日报269.00亿美元。",
@@ -99,15 +113,16 @@
           "time_info": "[02时01分 ~ 03时46分]"
         },
         {
-          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3127621",
+          "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
+          "url": "https://wallstreetcn.com/livenews/3127616",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
         },
         {
           "title": "WTI 8月原油期货收报68.58美元/桶。 布伦特8月原油期货收跌1.38美元，跌幅1.89%，报71.57美元/桶。 中东Abu Dhabi Murban原油期货跌5.33%，报65.33美元/桶。 NYMEX 8月天然气期货收报3.22美元/百万英热单位。 NYMEX 8月汽油期货收报2.9452美元/加仑，NYMEX 8月取暖油期货收报3.2179美元/加仑。",
@@ -138,7 +153,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -152,17 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
-          "url": "https://wallstreetcn.com/livenews/3127616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "周三（7月1日），韩元兑美元最终跌0.09%，报1550.11韩元。 韩元全天呈现出W形走势，北京时间09:18曾跌至1559.01韩元，逼近6月5日底部1562.29韩元——2009年3月6日（最低位在1597.45韩元）以来最低位。",
@@ -182,7 +186,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -220,6 +224,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
+          "url": "https://flash.jin10.com/detail/20260702051010821800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "LME期铜收跌76美元，报13298美元/吨。 LME期铝收跌10美元，报3076美元/吨。 LME期锌收跌52美元，报3499美元/吨。 LME期铅收跌10美元，报1866美元/吨。 LME期镍收涨68美元，报16355美元/吨。 LME期锡收涨62美元，报51632美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3127546",
           "source": "华尔街见闻-快讯",
@@ -237,7 +252,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -248,7 +263,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -274,11 +289,36 @@
           "url": "https://flash.jin10.com/detail/20260702044234084800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
+          "url": "https://wallstreetcn.com/livenews/3127615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
+        },
+        {
+          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3127614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 07时09分]"
         },
         {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
@@ -287,7 +327,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -298,7 +338,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -309,7 +349,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -320,29 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3127614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -353,7 +371,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -364,7 +382,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -375,7 +393,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -386,7 +404,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -408,7 +426,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -419,7 +437,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -430,7 +448,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -458,7 +476,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -469,7 +487,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
