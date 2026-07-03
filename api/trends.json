@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:53:58.342008+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-07-03T23:06:52.587083+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -125,6 +125,20 @@
           "time_info": "[06时12分 ~ 08时02分]"
         },
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 23时06分]"
+        },
+        {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
@@ -137,17 +151,16 @@
           "time_info": "[01时41分 ~ 06时12分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            17,
-            14
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时59分 ~ 20时53分]"
+          "time_info": "[15时59分 ~ 23时06分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -186,15 +199,15 @@
           "time_info": "[06时12分 ~ 08时02分]"
         },
         {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 20时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
@@ -527,6 +540,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普认为马斯克会向“特朗普账户”捐赠SpaceX股票",
           "url": "https://flash.jin10.com/detail/20260703055138280800",
           "source": "金十数据",
@@ -541,7 +565,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -569,6 +593,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "据消息人士及信件显示，由于海关平台出现行政故障，刚果（金）主要钴生产商可能无法完成上半年出口配额，从而面临失去部分配额的风险。此次故障可能影响全球主要生产商的电池金属钴出口，最多可能导致约2万吨钴无法出口，按当前价格计算，涉及价值约11亿美元。",
+          "url": "https://flash.jin10.com/detail/20260703224256771800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "数据中心创企Crusoe据悉洽谈融资30亿美元，估值或提高两倍至300亿美元",
           "url": "https://flash.jin10.com/detail/20260703071715955800",
           "source": "金十数据",
@@ -578,6 +613,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 23时06分]"
         },
         {
           "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
@@ -614,18 +662,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 05时01分]"
-        },
-        {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时53分]"
         },
         {
           "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
@@ -686,6 +722,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 05时01分]"
+        },
+        {
+          "title": "阿根廷完成60亿美元的回购协议融资，融资利率为担保隔夜融资利率（SOFR）加400个基点。",
+          "url": "https://flash.jin10.com/detail/20260703223406331800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "现货黄金涨1.3%，报4177.72美元/盎司； 现货白银涨超3%，报62.78美元/盎司。",
@@ -848,7 +895,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1040,8 +1087,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 23时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
