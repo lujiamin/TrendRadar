@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T05:26:22.060727+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-07-07T07:03:26.790492+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "SK海力士ADR发行规模缩减至280亿美元，获大幅超额认购",
@@ -15,41 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
         },
         {
           "title": "美元指数6日微涨",
           "url": "https://flash.jin10.com/detail/20260707045644750800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
         },
         {
           "title": "周一（7月6日）纽约尾盘，现货黄金跌0.32%，报4163.55美元/盎司。 COMEX黄金期货涨1.19%，报4175美元/盎司。 现货白银跌0.62%，报62.0263美元/盎司。 COMEX白银期货涨2.31%，报62.475美元/盎司。 COMEX铜期货涨1.41%，报6.2560美元/磅。 现货铂金跌0.62%，现货钯金跌0.21%。",
           "url": "https://wallstreetcn.com/livenews/3129567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
-          "url": "https://wallstreetcn.com/livenews/3129563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
         },
         {
           "title": "周一（7月6日），美联储隔夜逆回购协议（RRP）使用规模为27.19亿美元（交易对手13家），上个交易日报21.75亿美元。",
@@ -62,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 03时49分]"
+        },
+        {
+          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
+          "url": "https://wallstreetcn.com/livenews/3129563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -100,6 +103,18 @@
           "time_info": "[01时39分 ~ 03时49分]"
         },
         {
+          "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
+          "url": "https://wallstreetcn.com/livenews/3129560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
+        },
+        {
           "title": "交易条款显示：腾讯提议按每股43.25港元的价格出售快手股票。 腾讯提议出售价值15.1亿美元的快手股份。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3129505",
           "source": "华尔街见闻-快讯",
@@ -129,18 +144,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
-          "url": "https://wallstreetcn.com/livenews/3129560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -173,7 +177,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -184,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -200,15 +204,48 @@
           "time_info": "03时49分"
         },
         {
+          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3129570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "交易员对美元持仓创2015年以来最乐观水平",
           "url": "https://flash.jin10.com/detail/20260707042246285800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "周一（7月6日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7942元，较上周五纽约尾盘跌89点，日内整体交投于6.7819-6.7998元区间。",
+          "url": "https://wallstreetcn.com/livenews/3129569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "新兴市场资产在美元跌势中震荡：新兴市场内部观察",
+          "url": "https://wallstreetcn.com/livenews/3129568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "周一（7月6日）纽约尾盘，美元兑日元涨0.46%，报162.08日元，日内交投区间为161.20-162.43日元，悉尼盘初微幅低开、随后持续上扬，北京时间14:00以来高位震荡——持续交投于162.20日元附近、20:58刷新日高，22:00以来略微回吐涨幅。 欧元兑日元涨0.48%，报185.42日元；英镑兑日元涨0.80%，报217.042日元。",
@@ -217,7 +254,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -239,7 +276,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -250,9 +287,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "市场消息：Rivian预计第二季度营收将在15.5亿至16.5亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260707051929797800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：交易员对美元的整体持仓情绪升至2015年以来最乐观水平。",
@@ -261,48 +309,71 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "沃尔玛：下调碎牛肉价格，将每磅售价从6.74美元降至5.94美元。",
+          "url": "https://flash.jin10.com/detail/20260707051918529800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "据知情人士透露，Thrive Holdings融资大约20亿美元，这是首次有外部投资者参与投资。 Altimeter、D1 Capital Partners、日本软银集团参与本轮投资。 此前，该公司已经从（当时的）现有投资者募集10亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3129553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
           "url": "https://news.ifeng.com/c/8uYByScLdvD",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
         },
         {
-          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
-          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
+          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普亲自“指导”沃尔玛降价，多类商品下调，其他零售商被点名“跟进”",
+          "url": "https://flash.jin10.com/detail/20260707065618722800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
-          "url": "https://wallstreetcn.com/livenews/3129566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时03分"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -333,9 +404,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
@@ -384,17 +466,53 @@
           "time_info": "[01时39分 ~ 05时26分]"
         },
         {
+          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
+          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
+        },
+        {
+          "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
+          "url": "https://wallstreetcn.com/livenews/3129566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时03分]"
+        },
+        {
           "title": "特朗普插手世界杯红牌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10,
             7,
-            20
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
+        },
+        {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时26分]"
+          "time_info": "[03时49分 ~ 07时03分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
@@ -409,24 +527,13 @@
           "time_info": "[03时49分 ~ 05时26分]"
         },
         {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 05时26分]"
-        },
-        {
           "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
           "url": "https://flash.jin10.com/detail/20260707044730846800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -448,7 +555,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -484,6 +591,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
+          "url": "https://flash.jin10.com/detail/20260707053241420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
+          "url": "https://wallstreetcn.com/livenews/3129565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
@@ -537,7 +666,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
