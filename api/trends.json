@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T19:53:05.342408+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-09T22:46:21.332717+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时01分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时01分 ~ 19时53分]"
+          "time_info": "[08时16分 ~ 22时46分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -61,18 +73,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时24分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时16分 ~ 19时53分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -163,6 +163,18 @@
           "time_info": "[08时16分 ~ 16时34分]"
         },
         {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 22时46分]"
+        },
+        {
           "title": "特朗普称“今夜可能再打伊朗”",
           "url": "https://news.ifeng.com/c/8ubGSNwf6nd",
           "source": "凤凰网",
@@ -172,18 +184,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 19时53分]"
         },
         {
           "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
@@ -302,6 +302,18 @@
           "time_info": "[12时52分 ~ 16时34分]"
         },
         {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时46分]"
+        },
+        {
           "title": "美国队惨败，比利时首相：我不会刺激特朗普",
           "url": "https://news.ifeng.com/c/8uanN9kF7R0",
           "source": "凤凰网",
@@ -406,17 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时16分]"
-        },
-        {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "伊朗外长：将以行动对特朗普言论作出回应",
@@ -653,7 +654,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
@@ -693,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "市场消息：AI训练初创公司Mercor据悉讨论200亿美元估值事宜。",
+          "url": "https://flash.jin10.com/detail/20260709223953701800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，投资基金购买2033年6月30日到期的7年期美国国债金额为315.59亿美元，低于上月的329.25亿美元。外国投资者购买2033年6月30日到期的7年期美国国债金额为58.64亿美元，高于上月的56.51亿美元。",
@@ -739,6 +751,19 @@
           "time_info": "03时17分"
         },
         {
+          "title": "霉霉婚礼一袋空气被卖5万美元",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%80%E8%A2%8B%E7%A9%BA%E6%B0%94%E8%A2%AB%E5%8D%965%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 22时46分]"
+        },
+        {
           "title": "LME期铜收跌200美元，报13166美元/吨。 LME期铝收跌6美元，报3132美元/吨。 LME期锌收跌53美元，报3519美元/吨。 LME期铅收涨7美元，报1892美元/吨。 LME期镍收跌10美元，报16338美元/吨。 LME期锡收跌1255美元，报52095美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3130830",
           "source": "华尔街见闻-快讯",
@@ -749,18 +774,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 03时17分]"
-        },
-        {
-          "title": "霉霉婚礼一袋空气被卖5万美元",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%80%E8%A2%8B%E7%A9%BA%E6%B0%94%E8%A2%AB%E5%8D%965%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时53分]"
         },
         {
           "title": "万亿美元市值蒸发后，英伟达成\"价值洼地\"，市盈率比标普500还低",
@@ -879,7 +892,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -915,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "美国房价中位数同比上涨1.8%，达到创纪录的440,600美元。",
+          "url": "https://wallstreetcn.com/livenews/3131426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.580%（6月10日为4.538%），投标倍数2.59（前次为2.57）。",
@@ -956,7 +980,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -978,7 +1002,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1016,13 +1040,24 @@
           "time_info": "07时01分"
         },
         {
+          "title": "Mrbeast花了上千万美元的花絮",
+          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E8%8A%B1%E4%BA%86%E4%B8%8A%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E8%8A%B1%E7%B5%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "但斌：长鑫与海力士上市属重大利好，A股有能力诞生万亿美元硬科技龙头",
           "url": "https://flash.jin10.com/detail/20260709192840650800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1069,12 +1104,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "现货白银站上60美元/盎司，日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3131411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -1123,6 +1169,28 @@
           "time_info": "[01时24分 ~ 05时02分]"
         },
         {
+          "title": "Altman不知是否今年IPO，称：OpenAI最新AI模型在智能体编程中Token效率提升54%",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "OpenAI推出GPT-Live语音模型",
           "url": "https://wallstreetcn.com/livenews/3130838",
           "source": "华尔街见闻-快讯",
@@ -1132,6 +1200,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（在被问及2026年上市计划时）“尚不清楚”。",
+          "url": "https://flash.jin10.com/detail/20260709221617441800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（就美国政府持有OpenAI股份的相关报道）其中存在诸多不实之处。",
+          "url": "https://flash.jin10.com/detail/20260709221534485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI最新的AI模型在代理型编程任务中，令牌效率提升了54%。",
+          "url": "https://flash.jin10.com/detail/20260709221515042800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI在与政府沟通后已做出“诸多调整”。",
+          "url": "https://flash.jin10.com/detail/20260709221325723800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：微软将继续是我们最大的客户之一。",
+          "url": "https://flash.jin10.com/detail/20260709221227214800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
@@ -1147,8 +1270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时46分]"
         },
         {
           "title": "港股收盘：恒生指数收跌0.7%，恒生科技指数收涨0.01%。半导体板块领涨，芯智控股涨超27%，兆易创新涨超21%，澜起科技涨超19%，中芯国际涨超10%；MiniMax解禁首日大跌18%。",
@@ -1162,6 +1285,18 @@
           "time_info": "16时34分"
         },
         {
+          "title": "【焦点复盘】科创50涨8.41%创单日历史第四大涨幅，中芯国际等多只成分股创上市新高",
+          "url": "https://www.cls.cn/detail/2421756",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 22时46分]"
+        },
+        {
           "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
@@ -1171,17 +1306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "【焦点复盘】科创50涨8.41%创单日历史第四大涨幅，中芯国际等多只成分股创上市新高",
-          "url": "https://www.cls.cn/detail/2421756",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "港股收盘，恒指收跌0.7%，科指收涨0.01%；半导体概念走强，兆易创新(03986.HK)涨21.8%，澜起科技(06809.HK)涨超19%，中芯国际(00981.HK)涨超10%，华虹宏力(01347.HK)涨超8%。",
