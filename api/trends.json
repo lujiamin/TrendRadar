@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T02:21:41.933468+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-11T04:18:50.045216+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "WTI原油日内跌幅达1.5%，报70.97美元/桶。",
@@ -38,9 +39,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "美元兑日元涨0.4%",
+          "url": "https://wallstreetcn.com/livenews/3132229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7770元，较周四夜盘收盘涨140点。成交量483.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "巴克莱：对2026年和2027年布伦特原油价格分别为每桶96美元和85美元的预测所面临的风险相当平衡。",
@@ -60,7 +83,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -71,7 +94,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -82,7 +105,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -109,6 +132,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "WTI 8月原油期货收跌0.67美元，跌幅0.93%，报71.41美元/桶，本周累计上涨将近3.96%。 布伦特9月原油期货收跌0.29美元，跌幅0.38%，报76.01美元/桶，本周累涨超5.39%。 中东Abu Dhabi Murban原油期货跌0.99%，报70.66美元/桶，本周累涨6.29%。 NYMEX 8月天然气期货收报2.94美元/百万英热单位。 NYMEX 8月汽油期货收报2.9846美元/加仑，NYMEX 8月取暖油期货收报3.5533美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3132221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "SK海力士美国IPO首日开盘上涨超过14.09%，报170美元，盘中市值大约1.25万亿美元。 此前给出的IPO发行价为每份ADS 149美元，通过发行1.779亿份ADS融资大约265亿美元。",
           "url": "https://wallstreetcn.com/livenews/3132172",
           "source": "华尔街见闻-快讯",
@@ -120,13 +154,46 @@
           "time_info": "00时22分"
         },
         {
+          "title": "布伦特原油期货结算价为每桶76.01美元，下跌29美分，跌幅0.38%。",
+          "url": "https://flash.jin10.com/detail/20260711025802605800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "华平投资即将达成超70亿美元的制药公司收购案。 华平投资即将斥资逾70亿美元收购罕见病药房企业 Pantherx Rare。 华平投资将与阿布扎比投资局（ADIA）合作完成此次收购。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3132217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶71.41美元，下跌67美分，跌幅0.93%。",
+          "url": "https://flash.jin10.com/detail/20260711023148406800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "巴克莱：对2026-27年布伦特原油价格分别为96美元和85美元的预期存在风险。",
           "url": "https://wallstreetcn.com/livenews/3132189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         }
@@ -144,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -155,8 +222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -165,9 +232,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时18分]"
         },
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -176,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -187,7 +254,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         }
