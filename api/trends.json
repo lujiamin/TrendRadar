@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T18:23:42.367960+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-07-12T19:55:52.039078+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -110,15 +110,27 @@
           "time_info": "[00时51分 ~ 05时44分]"
         },
         {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "19时55分"
+        },
+        {
+          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
+          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时55分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-12）",
@@ -127,7 +139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -149,7 +161,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -187,11 +199,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时55分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
