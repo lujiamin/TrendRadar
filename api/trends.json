@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T10:13:17.750970+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-07-13T14:10:47.566298+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
@@ -16,19 +16,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时10分]"
         },
         {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
           "url": "https://www.cls.cn/detail/2423960",
           "source": "财联社热门",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 14时10分]"
+        },
+        {
+          "title": "现货黄金跌破4050美元/盎司关口，报4049.95美元/盎司，日内跌幅达1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3132650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "14时10分"
         },
         {
           "title": "立邦涂料据悉将出价86亿美元收购阿克苏诺贝尔的涂料部门。（彭博）",
@@ -40,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.0%，报75美元/桶，据伊朗媒体IRNA，伊朗伊斯兰革命卫队袭击美国在阿曼和巴林的军事资产。",
+          "url": "https://wallstreetcn.com/livenews/3132645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "西班牙批准80亿美元住房计划 未来四年公共住房投资将提高三倍",
@@ -127,6 +150,17 @@
           "time_info": "[06时42分 ~ 07时48分]"
         },
         {
+          "title": "科威特将8月对亚洲出口的超轻原油官方售价（OSP）定为较阿曼/迪拜均价贴水5美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3132643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "现货黄金跌至4080美元/盎司下方，日内跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3132459",
           "source": "华尔街见闻-快讯",
@@ -138,13 +172,24 @@
           "time_info": "07时48分"
         },
         {
+          "title": "WTI原油期货突破75美元/桶，日内涨4.88%。",
+          "url": "https://flash.jin10.com/detail/20260713134513168800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "人民币兑美元中间价报6.7972，上调17点；上一交易日中间价6.7989，上一交易日官方收盘价6.7784，上日夜盘报收6.7770。",
           "url": "https://wallstreetcn.com/livenews/3132507",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -158,12 +203,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "科威特将销往亚洲的超轻质原油8月份官方售价（OSP）定为较阿曼/迪拜原油均价贴水5美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260713133451492800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "印度央行在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3132614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -206,9 +273,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 14时10分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -246,6 +313,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时48分]"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://www.douyin.com/hot/2569217",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
@@ -258,11 +347,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 10时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 14时10分]"
         },
         {
           "title": "苹果指控OpenAI偷窃商业机密",
@@ -271,7 +361,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -282,7 +372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
@@ -299,7 +389,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
