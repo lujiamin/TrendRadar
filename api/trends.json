@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:20:39.608721+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-07-13T21:17:29.796535+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
@@ -150,6 +150,28 @@
           "time_info": "[06时42分 ~ 07时48分]"
         },
         {
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "消息人士：希音目标在8月前于中国香港上市，募资额最高达30亿美元。首次公开募股规模将取决于估值和投资者反馈。",
+          "url": "https://flash.jin10.com/detail/20260713204655277800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "科威特将8月对亚洲出口的超轻原油官方售价（OSP）定为较阿曼/迪拜均价贴水5美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3132643",
           "source": "华尔街见闻-快讯",
@@ -178,7 +200,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -200,7 +222,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -211,7 +233,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -263,7 +285,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -288,6 +310,17 @@
           "time_info": "[00时54分 ~ 07时48分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 21时17分]"
+        },
+        {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
           "url": "https://wallstreetcn.com/livenews/3132432",
           "source": "华尔街见闻-快讯",
@@ -298,17 +331,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 18时20分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -322,6 +344,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 21时17分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -348,15 +381,37 @@
           "time_info": "[06时42分 ~ 07时48分]"
         },
         {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "21时17分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "特朗普命令全国降半旗",
@@ -370,6 +425,50 @@
           "time_info": "14时10分"
         },
         {
+          "title": "美国总统特朗普：我只想收回我们的行动成本，并补偿我们在海峡冒险所付出的代价。",
+          "url": "https://flash.jin10.com/detail/20260713204004244800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "美国总统特朗普：我们将成为（霍尔木兹海峡）“守护天使”。",
+          "url": "https://flash.jin10.com/detail/20260713203923585800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "美国总统特朗普：我们此前一直无偿守卫霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260713203635011800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗总是撕毁协议，所以我就是要狠狠打击他们，我们将控制住海峡，而且将来很可能会主导海峡。",
+          "url": "https://flash.jin10.com/detail/20260713203326724800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "特朗普命令全国降半旗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -379,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "美国总统特朗普：每次伊朗派出无人机，我们都予以猛烈打击。",
+          "url": "https://flash.jin10.com/detail/20260713203250105800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     },
