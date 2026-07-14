@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-14T19:22:59.288669+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-07-14T21:22:25.084937+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时50分 ~ 21时22分]"
+        },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
           "url": "https://wallstreetcn.com/articles/3776814",
@@ -18,21 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 19时22分]"
-        },
-        {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时50分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 21时22分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -43,11 +43,12 @@
             16,
             14,
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 19时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 21时22分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -81,8 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 21时22分]"
         },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -173,6 +174,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 21时22分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -268,18 +282,6 @@
           "time_info": "[06时52分 ~ 07时50分]"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 19时22分]"
-        },
-        {
           "title": "特朗普已通知国会伊朗战事重新爆发",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91",
           "source": "百度热搜",
@@ -300,6 +302,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
@@ -429,7 +442,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -704,7 +717,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -737,7 +750,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -784,12 +797,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -820,7 +844,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -886,7 +910,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -913,6 +937,18 @@
           "time_info": "02时31分"
         },
         {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 21时22分]"
+        },
+        {
           "title": "美国6月政府预算 -1203.05亿美元，前值 -2926亿美元。",
           "url": "https://wallstreetcn.com/livenews/3133035",
           "source": "华尔街见闻-快讯",
@@ -923,18 +959,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 04时10分]"
-        },
-        {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 19时22分]"
         },
         {
           "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
@@ -1034,7 +1058,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1048,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美元指数短线走低约30点，现货黄金短线拉升约70美元",
+          "url": "https://wallstreetcn.com/livenews/3133666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "博世集团（Bosch）计划今后至2031年在美国（运营领域）投资至多75亿美元。 该公司将在2026年于美国启动商业化制造。",
@@ -1089,7 +1124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1111,7 +1146,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1144,9 +1179,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "国际金价失守4100美元，地缘冲突为何没能提振走势？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577078",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "壳牌在200亿美元尼日利亚石油项目中获更多税收减免",
@@ -1155,7 +1201,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1188,7 +1234,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1325,6 +1371,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "花旗集团第二季度营收为247.7亿美元，预期为237亿美元。 第二季度每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.7779，较上一交易日官方收盘价涨38点，较上日夜盘收盘涨31点。",
           "url": "https://wallstreetcn.com/livenews/3133474",
           "source": "华尔街见闻-快讯",
@@ -1339,7 +1396,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪全新B级闪充轿车秦MAX官宣",
@@ -1359,9 +1416,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "专家：比亚迪不是车企",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "专家：视比亚迪为纯车企有失偏颇",
+          "url": "https://www.toutiao.com/trending/7662324954515377718/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "港股汽车股午后持续走高，蔚来-SW(09866.HK)涨超8%，小鹏集团(09868.HK)、理想汽车(02015.HK)涨超3%，比亚迪股份(01211.HK)、广汽集团(02238.HK)涨近3%。",
@@ -1401,8 +1480,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 21时22分]"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
