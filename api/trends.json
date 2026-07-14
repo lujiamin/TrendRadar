@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T15:09:55.880187+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-07-14T17:53:36.499952+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -17,8 +17,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 15时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 17时53分]"
+        },
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 17时53分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -27,23 +40,12 @@
           "ranks": [
             18,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 15时09分]"
-        },
-        {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 15时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 17时53分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -113,6 +115,29 @@
           "time_info": "09时59分"
         },
         {
+          "title": "特朗普的霍尔木兹海峡收费计划细节仍在敲定中。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3133523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普称中东盟友应支付保护费",
           "url": "https://wallstreetcn.com/livenews/3133130",
           "source": "华尔街见闻-快讯",
@@ -136,18 +161,6 @@
           "time_info": "[07时50分 ~ 09时59分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 15时09分]"
-        },
-        {
           "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
           "url": "https://wallstreetcn.com/livenews/3133102",
           "source": "华尔街见闻-快讯",
@@ -158,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 17时53分]"
         },
         {
           "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
@@ -182,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时50分]"
+        },
+        {
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 17时53分]"
         },
         {
           "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
@@ -251,17 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
-          "url": "https://www.zhihu.com/question/2060208521594017084",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
         },
         {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
@@ -341,17 +365,6 @@
           "time_info": "07时50分"
         },
         {
-          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
-          "url": "https://www.cls.cn/detail/2425302",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
           "title": "特朗普威胁打击伊朗“镐山”地下核设施",
           "url": "https://flash.jin10.com/detail/20260714045313095800",
           "source": "金十数据",
@@ -424,9 +437,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -449,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
@@ -561,6 +596,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "白宫官员：特朗普对征收20%通行费计划“非常认真”",
+          "url": "https://flash.jin10.com/detail/20260714172208791800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国总统特朗普：将摧毁“镐头山”（Pickaxe Mountain），并警告伊朗做好准备。",
           "url": "https://wallstreetcn.com/livenews/3133081",
           "source": "华尔街见闻-快讯",
@@ -638,6 +684,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "特朗普称中东盟友应支付保护费",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E4%B8%9C%E7%9B%9F%E5%8F%8B%E5%BA%94%E6%94%AF%E4%BB%98%E4%BF%9D%E6%8A%A4%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国总统特朗普：伊朗谅解备忘录是一次测试，他们没有遵守。",
           "url": "https://flash.jin10.com/detail/20260714041308694800",
           "source": "金十数据",
@@ -696,7 +753,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -708,6 +765,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时50分]"
+        },
+        {
+          "title": "据知情人士透露，印度亿万富翁库马尔·曼加拉姆·比拉旗下集团的一家子公司，已从三菱日联金融集团获得约15亿美元的收购融资，用于收购壳牌(SHEL.N)在印度的可再生能源资产。",
+          "url": "https://flash.jin10.com/detail/20260714173245059800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "现货黄金站上4020美元/盎司，日内涨0.46%。",
@@ -799,6 +867,18 @@
           "time_info": "[02时31分 ~ 04时10分]"
         },
         {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
           "url": "https://wallstreetcn.com/livenews/3133113",
           "source": "华尔街见闻-快讯",
@@ -809,18 +889,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时50分]"
-        },
-        {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 15时09分]"
         },
         {
           "title": "周一（7月13日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7851元，较上周五纽约尾盘跌31点，日内整体交投于6.7780-6.7896元区间。",
@@ -864,7 +932,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1089,6 +1157,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "澳元兑美元AUD/USD日内涨幅达0.50%，现报0.6952。",
+          "url": "https://flash.jin10.com/detail/20260714171812676800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "LME期铜收涨56美元，报13541美元/吨。 LME期铝收涨30美元，报3170美元/吨。 LME期锌收跌50美元，报3566美元/吨。 LME期铅收跌28美元，报1868美元/吨。 LME期镍收涨25美元，报16766美元/吨。 LME期锡收跌527美元，报52598美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3133013",
           "source": "华尔街见闻-快讯",
@@ -1120,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7779，较上一交易日官方收盘价涨38点，较上日夜盘收盘涨31点。",
+          "url": "https://wallstreetcn.com/livenews/3133474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
@@ -1132,11 +1222,12 @@
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 17时53分]"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
@@ -1184,7 +1275,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
