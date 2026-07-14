@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T09:59:05.624258+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-07-14T12:53:50.382755+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时53分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时53分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -49,11 +49,12 @@
           "url": "https://wallstreetcn.com/articles/3776822",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 09时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 12时53分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -63,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时53分]"
         },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -106,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -300,7 +301,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -314,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "特朗普威胁打击伊朗“镐山”地下核设施",
@@ -336,6 +348,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "特朗普：美国可能负责管理霍尔木兹海峡 守护航道应“收费”",
+          "url": "https://www.cls.cn/detail/2425036",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "据AXIOS：美国官员透露，特朗普对沙特王储本·萨勒曼针对也门胡塞武装采取极为罕见的军事行动表示支持。",
@@ -638,7 +672,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -652,6 +686,17 @@
           "time_info": "[00时26分 ~ 07时50分]"
         },
         {
+          "title": "现货黄金站上4020美元/盎司，日内涨0.46%。",
+          "url": "https://flash.jin10.com/detail/20260714123235921800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.8125。",
           "url": "https://wallstreetcn.com/livenews/3133005",
           "source": "华尔街见闻-快讯",
@@ -661,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "韩元兑美元涨幅扩大至0.7%，触及两个月来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3133313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美元指数涨0.3%，刷新日高",
@@ -799,6 +855,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "布伦特原油日内涨幅达7.0%，报81.36美元/桶；WTI原油日内涨幅达7.0%，报76.41美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3133027",
           "source": "华尔街见闻-快讯",
@@ -819,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国光伏巨头进军“卖算力”赛道 CEO声称用户每月能挣数百美元",
+          "url": "https://www.cls.cn/detail/2425149",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美、布两油直线拉升，WTI原油涨超8%，布伦特原油向上触及82美元/桶，日内涨7.98%。",
@@ -937,7 +1015,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -964,6 +1042,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "法兴银行称日本GPIF即便不改资产配置，最多仍能买进760亿美元日债",
+          "url": "https://wallstreetcn.com/livenews/3133281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "LME期铜收涨56美元，报13541美元/吨。 LME期铝收涨30美元，报3170美元/吨。 LME期锌收跌50美元，报3566美元/吨。 LME期铅收跌28美元，报1868美元/吨。 LME期镍收涨25美元，报16766美元/吨。 LME期锡收跌527美元，报52598美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3133013",
           "source": "华尔街见闻-快讯",
@@ -981,7 +1070,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -1000,8 +1089,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
           "url": "https://flash.jin10.com/detail/20260714050653705800",
@@ -1017,7 +1117,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪全新B级闪充轿车秦MAX官宣",
@@ -1029,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "比亚迪多款车型迎来更新",
+          "url": "https://www.toutiao.com/trending/7661456150982148139/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
