@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T12:49:11.441035+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-07-15T15:13:06.847567+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时11分 ~ 12时49分]"
+          "appearance_count": 11,
+          "time_info": "[03时11分 ~ 15时13分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -32,6 +32,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 06时54分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时11分 ~ 15时13分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时54分 ~ 15时13分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -75,20 +103,6 @@
           "time_info": "[01时08分 ~ 04时55分]"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时11分 ~ 12时49分]"
-        },
-        {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
           "url": "https://www.cls.cn/detail/2426473",
           "source": "财联社热门",
@@ -104,18 +118,31 @@
           "time_info": "[04时55分 ~ 12时49分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            1,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时54分 ~ 12时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时53分 ~ 15时13分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -127,31 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
-        },
-        {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时53分 ~ 12时49分]"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 12时49分]"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -182,9 +184,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
@@ -248,16 +262,16 @@
           "time_info": "[07时48分 ~ 12时49分]"
         },
         {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时13分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -306,15 +320,15 @@
           "time_info": "[12时48分 ~ 12时49分]"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "time_info": "[15时12分 ~ 15时13分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -389,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -400,7 +414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -562,7 +576,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "韩国向乌克兰提供一亿美元援助，这对俄罗斯有何影响？",
@@ -623,15 +637,38 @@
           "time_info": "07时48分"
         },
         {
+          "title": "【中国央行：上半年人民币存款增加17.76万亿元】中国央行：6月末，本外币存款余额354.33万亿元，同比增长8.2%。月末人民币存款余额346.44万亿元，同比增长8.2%。上半年人民币存款增加17.76万亿元。其中，住户存款增加7.58万亿元，非金融企业存款增加3.2万亿元，财政性存款增加9715亿元，非银行业金融机构存款增加4.65万亿元。6月末，外币存款余额1.16万亿美元，同比增长13.7%。上半年外币存款增加980亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3134170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "澳新银行：将年末黄金价格预测下调至每盎司4600美元，将未来12个月预测下调至每盎司5400美元。",
           "url": "https://flash.jin10.com/detail/20260715122146880800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时13分]"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：价格上限机制阻止了容量价格飙升至554.72美元/兆瓦天。",
@@ -681,17 +718,6 @@
           "time_info": "[06时54分 ~ 07时48分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
           "title": "美国5月国际资本净流入 1322亿美元，前值 261亿美元。",
           "url": "https://wallstreetcn.com/livenews/3133865",
           "source": "华尔街见闻-快讯",
@@ -722,7 +748,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -788,7 +814,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -802,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美国对伊朗战争账单或达1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260715143751288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "周二（7月14日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报7.95亿美元。",
@@ -843,7 +880,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -865,7 +902,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -986,6 +1023,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何看待比亚迪回应一辆比亚迪唐电机总成脱落事件，称底盘发生严重磕碰，非产品质量问题？",
+          "url": "https://www.zhihu.com/question/2059993881601749194",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 15时13分]"
+        },
+        {
           "title": "专家：比亚迪不是车企",
           "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
           "source": "百度热搜",
@@ -1001,24 +1050,13 @@
           "time_info": "[01时08分 ~ 07时48分]"
         },
         {
-          "title": "如何看待比亚迪回应一辆比亚迪唐电机总成脱落事件，称底盘发生严重磕碰，非产品质量问题？",
-          "url": "https://www.zhihu.com/question/2059993881601749194",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
           "title": "据英国金融时报：比亚迪(01211.HK)高管称表示，即便不进入美国市场，比亚迪也能超越丰田夺取全球销冠宝座。",
           "url": "https://flash.jin10.com/detail/20260715120653321800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
