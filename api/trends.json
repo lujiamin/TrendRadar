@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-17T00:14:52.367593+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-17T02:02:50.214065+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "英镑兑美元日内跌幅达0.5%，报1.3471。",
-          "url": "https://wallstreetcn.com/livenews/3135188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
         {
           "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3135187",
@@ -30,15 +19,50 @@
           "time_info": "00时14分"
         },
         {
+          "title": "必和必拓集团（BHP）公布创纪录的铁矿石产量和更高的实际成交价格。 必和必拓西澳业务在100%权益基础上的年度铁矿石产量达到2.912亿吨，高于去年的2.9亿吨。 在2026财年，铁矿石的平均实际成交价上涨了3%，达到每湿吨84.56美元。 在2027财年，该矿企预计其西澳业务将生产2.86亿-2.98亿吨铁矿石。",
+          "url": "https://wallstreetcn.com/livenews/3135217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "燃料生产商Standard Nuclear（STDN）美国IPO首日开盘破发，报13.50美元，此前给出的IPO发行价为每股15美元。 核电概念股目前普跌，NNE跌10.69%，SMR跌9.63%，OKLO跌9.4%。",
+          "url": "https://wallstreetcn.com/livenews/3135214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "英镑兑美元日内跌幅达0.5%，报1.3471。",
+          "url": "https://wallstreetcn.com/livenews/3135188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
           "title": "世界杯冠军奖金5000万美元",
           "url": "https://www.toutiao.com/trending/7662510119124877348/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
@@ -48,19 +72,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
           "url": "https://wallstreetcn.com/articles/3777047",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "世界杯冠军奖金5000万美元 历史最高",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+          "url": "https://www.zhihu.com/question/2061111911014470002",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
@@ -70,36 +119,91 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
-          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
-          "url": "https://www.zhihu.com/question/2061111911014470002",
-          "source": "知乎",
+          "title": "周四（7月16日），美联储隔夜逆回购协议（RRP）使用规模为1.25亿美元（交易对手1家），上个交易日报1.51亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135208",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
         },
         {
-          "title": "世界杯冠军奖金5000万美元 历史最高",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
-          "source": "百度热搜",
+          "title": "WTI原油日内跌幅达1.0%，报78.31美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3135207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.00%，现报78.13美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260717014238553800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "LME期铜收涨17美元，报13598美元/吨。 LME期铝收涨35美元，报3185美元/吨。 LME期锌收涨48美元，报3594美元/吨。 LME期铅收涨20美元，报1872美元/吨。 LME期镍收涨349美元，报17152美元/吨。 LME期锡收涨376美元，报53156美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3135200",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
+          "url": "https://wallstreetcn.com/livenews/3135199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美元兑瑞郎日内涨幅达0.5%，报0.8091。",
+          "url": "https://wallstreetcn.com/livenews/3135197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "英伟达投资企业Fireworks估值达1750亿美元",
+          "url": "https://wallstreetcn.com/livenews/3135192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -109,8 +213,85 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260717015332023800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫：特朗普总统始终愿意进行外交谈判。",
+          "url": "https://flash.jin10.com/detail/20260717014747492800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
+          "url": "https://wallstreetcn.com/livenews/3135212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫：特朗普总统与副总统万斯在伊朗冲突问题上意见一致。",
+          "url": "https://flash.jin10.com/detail/20260717014735582800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫：（关于以色列内部有人试图让战争无限持续）特朗普总统认同外国势力会试图影响美国公众舆论，这是一个客观事实。",
+          "url": "https://flash.jin10.com/detail/20260717014701100800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260717014539254800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
+          "url": "https://wallstreetcn.com/livenews/3135209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：提词器操作员在预测平台Kalshi上就特朗普的发言内容下注，CFTC正在调查。",
@@ -137,8 +318,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         }
       ]
     }
