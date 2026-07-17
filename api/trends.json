@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T00:11:25.965441+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-18T02:02:19.981334+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -15,19 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
         },
         {
-          "title": "现货白银日内涨幅达1.0%，报56.06美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3135831",
-          "source": "华尔街见闻-快讯",
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
+          "url": "https://flash.jin10.com/detail/20260718013855394800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时02分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报56.08美元/盎司。纽约期银日内涨幅扩大至1.00%，现报56.33美元/盎司。",
@@ -41,15 +52,94 @@
           "time_info": "00时11分"
         },
         {
-          "title": "生死博弈！“特朗普美元”来了",
-          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
-          "source": "凤凰网",
+          "title": "周五（7月17日），美联储隔夜逆回购协议（RRP）使用规模为1亿美元（交易对手1家），上个交易日报1.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135858",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.0%，报56.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时02分]"
+        },
+        {
+          "title": "美银警告：黄金恐跌向3315美元",
+          "url": "https://www.douyin.com/hot/2574420",
+          "source": "抖音",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
+        },
+        {
+          "title": "布伦特原油日内涨3.00%，现报86.64美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260718012417644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260718011612975800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
+          "url": "https://wallstreetcn.com/livenews/3135852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "LME期铜收跌73美元，报13526美元/吨。 LME期铝收跌34美元，报3150美元/吨。 LME期锌收跌68美元，报3526美元/吨。 LME期铅收涨10美元，报1883美元/吨。 LME期镍收跌191美元，报16961美元/吨。 LME期锡收涨74美元，报53230美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3135849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "现货白银站上56美元/盎司，日内涨0.90%。",
@@ -74,6 +164,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
+          "url": "https://wallstreetcn.com/livenews/3135842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
           "title": "机构：美元将回归长期贬值趋势",
           "url": "https://wallstreetcn.com/livenews/3135811",
           "source": "华尔街见闻-快讯",
@@ -85,15 +186,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美银警告：黄金恐跌向3315美元",
-          "url": "https://www.douyin.com/hot/2574420",
-          "source": "抖音",
+          "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
+          "url": "https://flash.jin10.com/detail/20260718004214447800",
+          "source": "金十数据",
           "ranks": [
-            23
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时02分"
         },
         {
           "title": "Meta一度下跌4.9%，刷新日低至632.01美元，失守200日均线。",
@@ -105,12 +206,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
+          "url": "https://wallstreetcn.com/livenews/3135836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -120,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -131,8 +243,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
+          "url": "https://wallstreetcn.com/livenews/3135838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时02分"
         }
       ]
     },
@@ -148,8 +271,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
         }
       ]
     },
@@ -162,11 +285,12 @@
           "url": "https://www.cls.cn/detail/2429746",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时02分]"
         }
       ]
     },
