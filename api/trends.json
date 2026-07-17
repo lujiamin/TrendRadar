@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T03:20:00.273752+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-07-18T04:48:56.593150+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时48分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
           "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时48分]"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
@@ -47,7 +48,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -61,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7752元，较周四夜盘收盘跌41点。成交量481.95亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3135879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "美银警告：黄金恐跌向3315美元",
@@ -110,6 +100,18 @@
           "time_info": "[02时02分 ~ 03时20分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7752元，较周四夜盘收盘跌41点。成交量481.95亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时48分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
           "url": "https://wallstreetcn.com/livenews/3135852",
           "source": "华尔街见闻-快讯",
@@ -145,13 +147,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "市场消息：美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260718041801964800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "苹果公司上调Apple Music订阅价格至11.99美元，之前为10.99美元。 Apple One系列计划当前订阅价格为27.95美元，之前为25.95美元。",
           "url": "https://wallstreetcn.com/livenews/3135876",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -162,7 +175,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -184,7 +197,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -195,9 +208,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX市值较峰值时期蒸发超1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -255,6 +279,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美元指数本周累跌约0.2%",
+          "url": "https://wallstreetcn.com/livenews/3135891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
           "url": "https://flash.jin10.com/detail/20260718004214447800",
           "source": "金十数据",
@@ -291,7 +326,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -301,8 +336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时48分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -316,15 +351,37 @@
           "time_info": "[00时11分 ~ 03时20分]"
         },
         {
+          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
+          "url": "https://flash.jin10.com/detail/20260718043845403800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
           "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
           "url": "https://flash.jin10.com/detail/20260718022504678800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普再次赞赏6月通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3135890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -336,6 +393,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "加拿大野火殃及美国空气，特朗普称将以关税追偿损失",
+          "url": "https://wallstreetcn.com/livenews/3135887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
+          "url": "https://flash.jin10.com/detail/20260718034050546800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美国总统特朗普：6月通胀数据传来“重大好消息”，美国正迎来“黄金时代”。",
+          "url": "https://flash.jin10.com/detail/20260718033729701800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
@@ -352,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时48分]"
         }
       ]
     },
@@ -370,8 +460,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 04时48分]"
         }
       ]
     },
