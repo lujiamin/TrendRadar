@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T18:15:21.321752+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-07-18T19:51:25.176758+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时47分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[07时47分 ~ 19时51分]"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
@@ -311,6 +311,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "乌克兰国防部：2026年上半年，乌克兰军方签署的无人机合同总额约为75亿美元，是去年总量的两倍。其中，FPV无人机所占份额最大。",
+          "url": "https://flash.jin10.com/detail/20260718190003064800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "苹果公司上调Apple Music订阅价格至11.99美元，之前为10.99美元。 Apple One系列计划当前订阅价格为27.95美元，之前为25.95美元。",
           "url": "https://wallstreetcn.com/livenews/3135876",
           "source": "华尔街见闻-快讯",
@@ -501,7 +512,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -535,8 +546,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 18时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 19时51分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -547,8 +558,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 19时51分]"
         },
         {
           "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
@@ -596,8 +607,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时58分 ~ 19时51分]"
         },
         {
           "title": "曝特朗普买股票后在社媒发有利信息",
@@ -633,6 +644,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
+          "url": "https://flash.jin10.com/detail/20260718182916461800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
