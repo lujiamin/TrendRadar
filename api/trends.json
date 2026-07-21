@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-07-22T01:12:15.567704+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T03:12:59.418766+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称很快重击伊朗镐山核设施",
           "url": "https://wallstreetcn.com/livenews/3137693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时12分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时12分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -37,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时12分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -48,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时12分]"
         },
         {
           "title": "特朗普会见黎巴嫩总统奥恩",
@@ -58,9 +60,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
+          "url": "https://wallstreetcn.com/livenews/3137704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "美国总统特朗普宣布与约旦达成贸易协议。",
@@ -69,9 +82,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
+          "url": "https://flash.jin10.com/detail/20260722015056462800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -80,7 +104,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -91,9 +115,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
+          "url": "https://flash.jin10.com/detail/20260722013554217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
@@ -102,7 +137,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -113,7 +148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -124,7 +159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
@@ -132,7 +167,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -146,26 +181,94 @@
           "time_info": "[01时11分 ~ 01时12分]"
         },
         {
+          "title": "周三（8月6日）纽约尾盘，彭博谷物分类指数涨0.42%，报32.19点。 CBOT玉米期货涨0.48%，CBOT小麦期货涨0.67%。 CBOT大豆期货跌0.33%，报12.2225美元/蒲式耳，豆粕期货涨1.43%，豆油期货跌0.78%。 CBOT瘦肉猪期货涨0.54%，活牛期货跌0.74%，饲牛期货跌0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3137719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：五角大楼迫切需要一项总额670亿美元的追加拨款计划。其中包括15亿美元用于解决关键任务燃料短缺问题，以及20亿美元用于补充在战斗中损失或受损的装备。",
+          "url": "https://flash.jin10.com/detail/20260722024541211800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨1.68美元，涨幅将近2.02%，报84.91美元/桶，逼近6月11日收盘位86.16美元。 布伦特9月原油期货收涨1.79美元，涨幅2.00%，报91.01美元/桶，逼近6月10日收盘位91.47美元。 中东Abu Dhabi Murban原油期货涨4.61%，报85.53美元/桶，逼近6月10日收盘位88.16美元。 NYMEX 8月天然气期货收报2.8650美元/百万英热单位。 NYMEX 8月汽油期货收报3.4059美元/加仑，NYMEX 8月取暖油期货收报4.1266美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3137718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3137696",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时12分]"
         },
         {
           "title": "数字货币市场走高，比特币涨向6.7万美元",
           "url": "https://wallstreetcn.com/livenews/3137695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时12分]"
+        },
+        {
+          "title": "纽约期金日内涨2.00%，现报4092.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260722022721637800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时12分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD跌破1.14，为7月14日以来首次，日内跌0.11%。",
+          "url": "https://flash.jin10.com/detail/20260722022118433800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "SpaceX的宏大解禁即将来临，逾千亿美元股票将可上市交易",
@@ -174,15 +277,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "周三（8月6日），美联储隔夜逆回购协议（RRP）使用规模为2.75亿美元（交易对手1家），上个交易日报0.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3137703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -192,8 +306,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时12分]"
+        },
+        {
+          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
+          "url": "https://wallstreetcn.com/livenews/3137702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -202,7 +327,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         }
