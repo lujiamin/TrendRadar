@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-23T05:01:18.221349+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-23T06:10:10.448754+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
+        },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
           "url": "https://wallstreetcn.com/livenews/3138339",
@@ -30,13 +41,25 @@
           "time_info": "03时06分"
         },
         {
+          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
+          "url": "https://www.cls.cn/detail/2434311",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
           "url": "https://flash.jin10.com/detail/20260723044833293800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -50,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
@@ -87,18 +99,6 @@
           "time_info": "[01时11分 ~ 03时06分]"
         },
         {
-          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
-          "url": "https://www.cls.cn/detail/2434311",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
-        },
-        {
           "title": "美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归",
           "url": "https://wallstreetcn.com/articles/3777696",
           "source": "华尔街见闻",
@@ -106,19 +106,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 06时10分]"
         },
         {
           "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2063182962879993810",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 06时10分]"
         },
         {
           "title": "美国天然气期货日内涨幅达3.00%，现报2.951美元/百万英热。",
@@ -138,9 +139,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉：仍然预计2026年资本开支将超过250亿美元。 资本开支将在未来2-3年增长。",
+          "url": "https://wallstreetcn.com/livenews/3138438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国能源部：协议为一项持续数十年、规模达数十亿美元的合作伙伴关系奠定基础，将推动包括核不扩散在内的多项优先经济和战略目标。",
@@ -149,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -160,7 +172,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -171,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -182,7 +194,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -204,7 +216,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -215,7 +227,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -237,7 +249,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -259,7 +271,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -281,7 +293,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -292,7 +304,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -325,7 +337,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -336,9 +348,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "Alphabet二季度投资收益达980亿美元 推动净利润破千亿美元",
+          "url": "https://flash.jin10.com/detail/20260723052711766800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
@@ -347,7 +370,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -363,15 +386,70 @@
           "time_info": "03时06分"
         },
         {
+          "title": "周三（7月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7751元，较周二纽约尾盘跌62点，日内整体交投于6.7678-6.7761元区间。",
+          "url": "https://wallstreetcn.com/livenews/3138418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "Anthropic首席执行官表示，Mythos为IBM和Red Hat创造了数十亿美元的潜在市场规模（TAM）。",
+          "url": "https://flash.jin10.com/detail/20260723051022272800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "金价涨超1%，重返4100美元上方，纽约铜跌1%",
+          "url": "https://wallstreetcn.com/livenews/3138415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "【谷歌母公司上调全年资本开支预期】谷歌母公司Alphabet：预计全年资本开支1950亿-2050亿美元，原来预计1800亿-1900亿美元。仍然预计2027财年资本开支将“大幅”增长。",
+          "url": "https://wallstreetcn.com/livenews/3138414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7750元，较周二夜盘收盘跌85点。成交量360.14亿美元。",
           "url": "https://wallstreetcn.com/livenews/3138367",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "Alphabet二季度录得980亿美元投资收益，推动单季利润大超预期",
+          "url": "https://wallstreetcn.com/livenews/3138410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
@@ -387,8 +465,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -397,21 +475,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -420,6 +486,30 @@
           "ranks": [
             19,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
+        },
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 06时10分]"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -435,17 +525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
         },
         {
           "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
@@ -465,7 +544,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -476,7 +555,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -505,8 +584,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -516,8 +595,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -529,8 +608,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -540,8 +619,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -551,8 +630,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 06时10分]"
         }
       ]
     }
