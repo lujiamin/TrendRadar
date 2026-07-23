@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T04:59:16.103495+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-07-24T06:02:33.845602+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
@@ -26,30 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时59分]"
-        },
-        {
-          "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
-          "url": "https://flash.jin10.com/detail/20260724043339186800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "巴西全力挽救对欧盟18亿美元的肉类出口",
-          "url": "https://wallstreetcn.com/livenews/3139067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的9.04亿美元。",
@@ -61,6 +39,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "金价跌2%，下探4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20260724043339186800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时02分]"
+        },
+        {
+          "title": "巴西全力挽救对欧盟18亿美元的肉类出口",
+          "url": "https://wallstreetcn.com/livenews/3139067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时02分]"
         },
         {
           "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
@@ -87,6 +100,18 @@
           "time_info": "[03时08分 ~ 04时59分]"
         },
         {
+          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时02分]"
+        },
+        {
           "title": "LME期铜收跌214美元，报13594美元/吨。 LME期铝收跌4美元，报3188美元/吨。 LME期锌收跌6美元，报3586美元/吨。 LME期铅收跌3美元，报1894美元/吨。 LME期镍收跌1美元，报53326美元/吨。 LME期锡收跌596美元，报53326美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3139006",
           "source": "华尔街见闻-快讯",
@@ -97,6 +122,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 03时08分]"
+        },
+        {
+          "title": "Alphabet持有的Anthropic股份价值飙升至约1240亿美元",
+          "url": "https://wallstreetcn.com/livenews/3139051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时02分]"
+        },
+        {
+          "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3139048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时02分]"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -111,15 +160,16 @@
           "time_info": "[01时31分 ~ 03时08分]"
         },
         {
-          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139060",
+          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
+          "url": "https://wallstreetcn.com/livenews/3139047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时02分]"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%（5月21日为2.169%），投标倍数2.30（前次2.52）。",
@@ -144,15 +194,37 @@
           "time_info": "03时08分"
         },
         {
+          "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3139073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美元指数23日上涨",
           "url": "https://flash.jin10.com/detail/20260724040944825800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "周四（7月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7775元，较周三纽约尾盘跌24点，日内整体交投于6.7676-6.7786元区间。",
+          "url": "https://wallstreetcn.com/livenews/3139072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "AMD上调AI加速器市场规模预期至1.4万亿美元 正式发布机架级AI系统Helios",
@@ -166,6 +238,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "新加坡GIC将于未来三年向多家对冲基金投资300亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶100.69美元，上涨6.62美元，涨幅7.04%。",
           "url": "https://flash.jin10.com/detail/20260724024913455800",
           "source": "金十数据",
@@ -175,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，交易可能很快达成。OpenRouter此前估值约13亿美元，但若出售，交易价值可能达到约100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260724045732845800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "摩根大通将特斯拉目标价从475.00美元/股下调至445.00美元/股。",
@@ -199,15 +293,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "Alphabet持有的Anthropic股份价值飙升至约1240亿美元",
-          "url": "https://wallstreetcn.com/livenews/3139051",
-          "source": "华尔街见闻-快讯",
+          "title": "美国证券交易委员会（SEC）文件显示，截至6月28日的六个月内，洛克希德马丁收到了约1.4亿美元与先前关税评估相关的退税。目前预计现有关税不会对运营业绩产生重大长期影响。",
+          "url": "https://flash.jin10.com/detail/20260724044612424800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "06时02分"
         },
         {
           "title": "美国原油期货结算价为每桶92.19美元，上涨5.36美元，涨幅6.17%。",
@@ -221,26 +315,15 @@
           "time_info": "03时08分"
         },
         {
-          "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3139048",
-          "source": "华尔街见闻-快讯",
+          "title": "布油期货结算价收于100美元之上",
+          "url": "https://flash.jin10.com/detail/20260724043401080800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
-          "url": "https://wallstreetcn.com/livenews/3139047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "06时02分"
         },
         {
           "title": "英特尔(INTC.O)首席财务官：英特尔计划将2026年的资本支出从180亿美元提高到200亿美元。",
@@ -249,7 +332,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -271,7 +354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -293,7 +376,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -304,7 +387,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -315,7 +398,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -326,7 +409,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -359,7 +442,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -403,7 +486,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -433,7 +516,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -443,8 +526,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -455,8 +538,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时02分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -503,6 +586,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
+          "url": "https://flash.jin10.com/detail/20260724051248877800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -519,11 +613,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时02分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
@@ -631,7 +726,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -642,7 +737,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -653,7 +748,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -664,7 +759,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -760,7 +855,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
