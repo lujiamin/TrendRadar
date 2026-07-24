@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T16:17:10.714425+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-07-24T18:59:47.195735+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 16时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时59分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的9.04亿美元。",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 18时59分]"
         },
         {
           "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
@@ -124,17 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时59分]"
-        },
-        {
-          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
-          "url": "https://www.zhihu.com/question/2063412432022901058",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 16时17分]"
         },
         {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
@@ -226,7 +226,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -292,7 +292,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -319,6 +319,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "花旗：将IBM(IBM.N)目标价从255美元下调至245美元。",
+          "url": "https://flash.jin10.com/detail/20260724183344352800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "周四（7月23日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7775元，较周三纽约尾盘跌24点，日内整体交投于6.7676-6.7786元区间。",
           "url": "https://wallstreetcn.com/livenews/3139072",
           "source": "华尔街见闻-快讯",
@@ -328,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "AMD上调AI加速器市场规模预期至1.4万亿美元 正式发布机架级AI系统Helios",
@@ -427,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "俄罗斯央行：预计2026年基准情景下平均油价为每桶60美元（之前预测为每桶65美元）。",
+          "url": "https://flash.jin10.com/detail/20260724183128236800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "布油期货结算价收于100美元之上",
@@ -572,6 +605,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "为什么美元石油黄金一起涨",
+          "url": "https://www.toutiao.com/trending/7665964732095925779/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "同一个布伦特，报价为什么能差出六美元？",
           "url": "https://flash.jin10.com/detail/20260724125124775800",
           "source": "金十数据",
@@ -622,7 +666,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -636,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：过去六周显示了环境的不确定性。 每桶100美元的油价将给通胀带来影响。 通胀环境已经加剧。 通胀风险偏向上行。 现在急于做决定没有意义。 9月我们将再次获得更多通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3139399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "WTI原油日内涨幅达6.0%，报92.04美元/桶。 美元兑日元涨0.5%，报163.97。",
@@ -666,7 +721,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -751,11 +806,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时08分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[03时08分 ~ 18时59分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -767,6 +823,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时59分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -784,15 +851,17 @@
           "time_info": "[00时09分 ~ 16时17分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时11分 ~ 16时17分]"
+          "time_info": "[13时46分 ~ 18时59分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -872,6 +941,18 @@
           "time_info": "07时56分"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 18时59分]"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -883,35 +964,12 @@
           "time_info": "[00时09分 ~ 03时08分]"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 16时17分]"
-        },
-        {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
           "url": "https://www.cls.cn/detail/2435732",
           "source": "财联社热门",
           "ranks": [
             11,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 16时17分]"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1012,7 +1070,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1078,7 +1136,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -1086,18 +1144,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时59分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -1211,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
