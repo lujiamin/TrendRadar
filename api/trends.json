@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:01:43.686048+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-25T07:08:52.019069+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -285,22 +286,36 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 07时08分]"
         },
         {
           "title": "美元指数24日上涨",
           "url": "https://flash.jin10.com/detail/20260725053410066800",
           "source": "金十数据",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
+        },
+        {
+          "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
+          "url": "https://www.zhihu.com/question/2064132609781798497",
+          "source": "知乎",
+          "ranks": [
+            15,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 07时08分]"
         },
         {
           "title": "巴西工业联合会CNI估计，将有3900种产品面临总计37.5%的美国关税，涉及金额达124亿美元。",
@@ -312,18 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
-          "url": "https://www.zhihu.com/question/2064132609781798497",
-          "source": "知乎",
-          "ranks": [
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 06时01分]"
         },
         {
           "title": "派拉蒙与华纳兄弟探索1110亿美元合并交易暂停",
@@ -338,6 +341,42 @@
           "time_info": "[04时17分 ~ 06时01分]"
         },
         {
+          "title": "周五（7月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7718元，较周四纽约尾盘涨57点，日内整体交投于6.7789-6.7698元区间。 本周，离岸人民币终稿回落，7月21日亚太尾盘曾达到6.7635元。",
+          "url": "https://wallstreetcn.com/livenews/3139655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
+        },
+        {
+          "title": "Vitol向交易员们支付59亿美元，该公司利润在2025年腰斩。",
+          "url": "https://wallstreetcn.com/livenews/3139653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时08分]"
+        },
+        {
           "title": "周五（7月24日），美联储隔夜逆回购协议（RRP）使用规模为6.75亿美元（交易对手2家），上个交易日报9.04亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139590",
           "source": "华尔街见闻-快讯",
@@ -347,28 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "周五（7月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7718元，较周四纽约尾盘涨57点，日内整体交投于6.7789-6.7698元区间。 本周，离岸人民币终稿回落，7月21日亚太尾盘曾达到6.7635元。",
-          "url": "https://wallstreetcn.com/livenews/3139655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "Vitol向交易员们支付59亿美元，该公司利润在2025年腰斩。",
-          "url": "https://wallstreetcn.com/livenews/3139653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "SpaceX(SPCX.O)股价势将跌至自IPO以来的最低收盘价，现跌约4.5%，报113美元。",
@@ -424,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "巴克莱：现货油价可能会引领走势，并在持续3个月的情景下测试150美元/桶。",
@@ -525,11 +531,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 07时08分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -581,8 +588,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 07时08分]"
         }
       ]
     }
