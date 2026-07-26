@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T10:14:35.098625+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-07-26T13:56:06.724113+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 10时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 13时56分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -42,11 +42,24 @@
             6,
             8,
             9,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 10时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 13时56分]"
+        },
+        {
+          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
+          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
         },
         {
           "title": "以总理计划向特朗普递交伊朗情报",
@@ -55,11 +68,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 10时14分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 13时56分]"
         },
         {
           "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
@@ -68,11 +82,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 10时14分]"
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 13时56分]"
         },
         {
           "title": "专家：特朗普一刀切关税得罪全部盟友",
@@ -89,15 +104,16 @@
           "time_info": "[01时55分 ~ 05时50分]"
         },
         {
-          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
-          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
-          "source": "凤凰网",
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/articles/3777934",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -105,11 +121,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 13时56分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -151,6 +168,66 @@
           "time_info": "[04时13分 ~ 07时56分]"
         },
         {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
+          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
+          "url": "https://wallstreetcn.com/articles/3777933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普下令暂停打击伊朗",
+          "url": "https://www.toutiao.com/trending/7666608065243778606/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
           "url": "https://flash.jin10.com/detail/20260725222304302800",
           "source": "金十数据",
@@ -181,75 +258,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/articles/3777934",
-          "source": "华尔街见闻",
+          "title": "美媒曝特朗普暂停打击伊朗内幕",
+          "url": "https://flash.jin10.com/detail/20260726120711583800",
+          "source": "金十数据",
           "ranks": [
-            9
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "13时56分"
         },
         {
-          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
-          "url": "https://wallstreetcn.com/articles/3777933",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普下令暂停打击伊朗",
-          "url": "https://www.toutiao.com/trending/7666608065243778606/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：所有共和党参议员！终止阻挠议事，民主党人一有机会就会这么做，赶快通过《拯救美国法案》，以及其他一切，包括预算和即将到来的债务上限。现在就去做，别等到太晚。",
+          "url": "https://flash.jin10.com/detail/20260726114945161800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "13时56分"
         },
         {
           "title": "特朗普调侃白宫记者",
@@ -269,7 +302,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -290,8 +323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 10时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 13时56分]"
         },
         {
           "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
@@ -320,6 +353,18 @@
           "time_info": "01时56分"
         },
         {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
           "title": "伊朗：在战争及停火期间合计出售180亿美元石油",
           "url": "https://flash.jin10.com/detail/20260726005108655800",
           "source": "金十数据",
@@ -332,24 +377,13 @@
           "time_info": "[03时01分 ~ 04时13分]"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
           "url": "https://www.zhihu.com/question/2064306906437571115",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -357,7 +391,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -383,6 +417,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时56分]"
+        },
+        {
+          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
+          "url": "https://flash.jin10.com/detail/20260726125707233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
+          "url": "https://flash.jin10.com/detail/20260726120623343800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     }
