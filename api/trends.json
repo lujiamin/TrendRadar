@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T18:41:04.482824+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-07-26T19:59:33.398354+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时05分 ~ 16时17分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/articles/3777934",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 19时59分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -54,17 +68,33 @@
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/articles/3777934",
-          "source": "华尔街见闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4,
-            2,
-            1
+            11,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 19时59分]"
+        },
+        {
+          "title": "以总理计划向特朗普递交伊朗情报",
+          "url": "https://wallstreetcn.com/livenews/3139791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            7,
+            16,
+            22,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 19时59分]"
         },
         {
           "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
@@ -77,22 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时14分 ~ 13时56分]"
-        },
-        {
-          "title": "以总理计划向特朗普递交伊朗情报",
-          "url": "https://wallstreetcn.com/livenews/3139791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            7,
-            16,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 18时41分]"
         },
         {
           "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
@@ -111,19 +125,6 @@
           "time_info": "[06时49分 ~ 18时41分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时41分]"
-        },
-        {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
           "url": "https://news.ifeng.com/c/8v4oybcdZW1",
           "source": "凤凰网",
@@ -131,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时59分]"
         },
         {
           "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
@@ -144,34 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时41分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3139792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 18时41分]"
-        },
-        {
-          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
-          "url": "https://wallstreetcn.com/livenews/3139824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 19时59分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -183,8 +158,36 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 19时59分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 19时59分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3139792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            15,
+            21,
+            22,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时41分]"
+          "time_info": "[07时56分 ~ 19时59分]"
         },
         {
           "title": "专家：特朗普一刀切关税得罪全部盟友",
@@ -201,16 +204,27 @@
           "time_info": "[01时55分 ~ 05时50分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
+          "title": "内塔尼亚胡称将赴美会晤特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139827",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            30
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
+          "url": "https://wallstreetcn.com/livenews/3139824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时41分]"
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时59分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -270,11 +284,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时59分]"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时59分]"
         },
         {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
@@ -312,15 +339,27 @@
           "time_info": "[18时40分 ~ 18时41分]"
         },
         {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
+          "title": "英首相回应是否愿公开批评特朗普",
+          "url": "https://flash.jin10.com/detail/20260726163049734800",
+          "source": "金十数据",
           "ranks": [
-            18
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "time_info": "[18时41分 ~ 19时59分]"
+        },
+        {
+          "title": "内塔尼亚胡主持召开内阁会议，讨论会见特朗普及国际刑事法院事宜",
+          "url": "https://flash.jin10.com/detail/20260726185308882800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
@@ -345,15 +384,15 @@
           "time_info": "16时17分"
         },
         {
-          "title": "英首相回应是否愿公开批评特朗普",
-          "url": "https://flash.jin10.com/detail/20260726163049734800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-26）",
+          "url": "https://flash.jin10.com/detail/20260726184334453800",
           "source": "金十数据",
           "ranks": [
-            15
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时41分"
+          "time_info": "19时59分"
         },
         {
           "title": "美媒曝特朗普暂停打击伊朗内幕",
@@ -414,7 +453,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -429,6 +468,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时05分 ~ 13时56分]"
+        },
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 19时59分]"
         },
         {
           "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
@@ -446,17 +498,15 @@
           "time_info": "[00时05分 ~ 06时49分]"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
+          "title": "希音通过港交所上市聆讯：去年营收418亿美元，净利20.6亿美元",
+          "url": "https://wallstreetcn.com/livenews/3139832",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 18时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "伊朗石油部：在战争期间出售了115亿美元的石油，在停火期间出售了65亿美元的石油。",
@@ -494,6 +544,18 @@
           "time_info": "[16时17分 ~ 18时41分]"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时59分]"
+        },
+        {
           "title": "伊朗：在战争及停火期间合计出售180亿美元石油",
           "url": "https://flash.jin10.com/detail/20260726005108655800",
           "source": "金十数据",
@@ -506,15 +568,15 @@
           "time_info": "[03时01分 ~ 04时13分]"
         },
         {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
+          "source": "财联社热门",
           "ranks": [
-            19
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
