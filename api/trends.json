@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:57:07.206201+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-07-27T10:33:30.522880+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -36,11 +36,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时33分]"
         },
         {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -205,13 +217,24 @@
           "time_info": "[01时59分 ~ 03时12分]"
         },
         {
+          "title": "调查：多数美国人认为伊朗冲突比特朗普预期更困难",
+          "url": "https://flash.jin10.com/detail/20260727102142849800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
           "url": "https://flash.jin10.com/detail/20260727065319315800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -241,7 +264,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -252,8 +275,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时33分]"
         },
         {
           "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
@@ -264,8 +287,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时33分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -288,7 +311,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -299,7 +322,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -395,9 +418,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "霍尔木兹风险再度升级 油价重返100美元 海湾国家加速重构原油出口网络",
+          "url": "https://www.cls.cn/detail/2437054",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "布油期货跌超7%，跌破90美元/桶关口。",
@@ -406,15 +451,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "印尼盾兑美元在早盘交易中跌至1美元兑17,970印尼盾。",
+          "url": "https://flash.jin10.com/detail/20260727100551421800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7911，上调28点；上一交易日中间价6.7939，上一交易日官方收盘价6.7744，上日夜盘报收6.7702。",
+          "url": "https://wallstreetcn.com/livenews/3139920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -423,7 +490,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -434,7 +501,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -445,9 +512,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     }
