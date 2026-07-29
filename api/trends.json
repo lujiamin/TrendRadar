@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T20:58:29.622239+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-07-29T23:10:38.049556+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 23时10分]"
         },
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
+          "url": "https://wallstreetcn.com/livenews/3141781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "瑞杰金融：将Visa(V.N)目标价从389美元上调至406美元。",
@@ -181,6 +192,17 @@
           "time_info": "[18时34分 ~ 20时58分]"
         },
         {
+          "title": "因总统专机，波音公司亏损31亿美元",
+          "url": "https://news.ifeng.com/c/8v9y2A2D64e",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时10分]"
+        },
+        {
           "title": "船只支付370万美元竞拍费以加速通过巴拿马运河",
           "url": "https://wallstreetcn.com/livenews/3141201",
           "source": "华尔街见闻-快讯",
@@ -205,17 +227,6 @@
           "time_info": "[02时10分 ~ 04时13分]"
         },
         {
-          "title": "因总统专机，波音公司亏损31亿美元",
-          "url": "https://news.ifeng.com/c/8v9y2A2D64e",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "金价跌超1%，逼近4000美元",
           "url": "https://wallstreetcn.com/livenews/3141200",
           "source": "华尔街见闻-快讯",
@@ -225,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "布油冲破87美元！特朗普警告：将对伊朗“大力打击”",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "WTI原油涨幅扩大至4.00%，现报81.45美元/桶。",
@@ -302,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "上期所原油主力合约夜盘涨幅扩大至超过5%，最新报561.9元人民币/桶。 布伦特原油日内涨幅达6.5%，报87.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3141772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "WTI原油上涨3.00%，现报80.68美元/桶。美媒消息称，伊朗向约旦的美军基地发射导弹。",
@@ -431,7 +464,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -541,7 +574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -706,7 +739,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -733,6 +766,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "现货黄金跌破4000美元/盎司关口，报3999.38美元/盎司，日内跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3141756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "布伦特原油日内跌幅达5.0%，报81.56美元/桶；WTI原油5分钟内下跌0.61美元/桶，报78.59美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3141122",
           "source": "华尔街见闻-快讯",
@@ -747,7 +791,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -772,6 +816,30 @@
           "time_info": "02时10分"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 23时10分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
           "url": "https://flash.jin10.com/detail/20260729014235848800",
           "source": "金十数据",
@@ -794,16 +862,15 @@
           "time_info": "18时35分"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
+          "url": "https://www.cls.cn/detail/2440511",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 20时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -813,8 +880,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 23时10分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -824,8 +891,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 23时10分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -890,7 +957,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -912,7 +979,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -978,7 +1045,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1077,7 +1144,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1110,7 +1177,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1132,7 +1199,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1154,7 +1221,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1232,11 +1299,12 @@
           "url": "https://www.toutiao.com/trending/7666921747123945481/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 23时10分]"
         },
         {
           "title": "比亚迪：公司闪充技术及一众车型发布以来，订单饱满",
@@ -1245,7 +1313,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
