@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T04:49:46.897957+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-30T05:56:16.326213+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "微软未来租赁3290亿美元，之前为1970亿美元。",
@@ -14,18 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "墨式烤肉（Chipotle，CMG）二季度营收33.5亿美元，分析师预期33.3亿美元。 二季度同店销售增长2.2%，分析师预期增长1.33%。 维持全年新开门店预期在350-370家，分析师预期352家。",
-          "url": "https://wallstreetcn.com/livenews/3141902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -37,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "因总统专机，波音公司亏损31亿美元",
@@ -48,8 +37,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
+        },
+        {
+          "title": "美国国务院：将立即全额发放国会为2025财年和2026财年拨付的6亿美元全球疫苗免疫联盟资金。",
+          "url": "https://flash.jin10.com/detail/20260730051716480800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "墨式烤肉（Chipotle，CMG）二季度营收33.5亿美元，分析师预期33.3亿美元。 二季度同店销售增长2.2%，分析师预期增长1.33%。 维持全年新开门店预期在350-370家，分析师预期352家。",
+          "url": "https://wallstreetcn.com/livenews/3141902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时56分]"
+        },
+        {
+          "title": "辛巴克第三财季净营收39亿美元，分析师预期91.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时56分]"
+        },
+        {
+          "title": "Arm控股预计第二财季营收13.3亿-14.3亿美元，分析师预期13.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时56分]"
         },
         {
           "title": "LME期铜收跌104美元，报13581美元/吨。 LME期铝收涨32美元，报3180美元/吨。 LME期锌收跌8美元，报3570美元/吨。 LME期铅收涨5美元，报1900美元/吨。 LME期镍收涨167美元，报17137美元/吨。 LME期锡收涨299美元，报53882美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -63,35 +99,24 @@
           "time_info": "01时11分"
         },
         {
+          "title": "强生公司：维持全年销售额预期在1008亿-1014亿美元不变。",
+          "url": "https://wallstreetcn.com/livenews/3141923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "微软(MSFT.O)：截至6月30日，尚未开始的额外租赁（主要用于数据中心）总额为3291亿美元。",
           "url": "https://flash.jin10.com/detail/20260730042156408800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "辛巴克第三财季净营收39亿美元，分析师预期91.6亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3141896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "Arm控股预计第二财季营收13.3亿-14.3亿美元，分析师预期13.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3141895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -102,7 +127,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -113,9 +138,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "周三（7月29日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7605元——逼近6月16日尾盘报价6.7566元，较周二纽约尾盘涨56点，日内整体交投于6.7745-6.7600元区间。",
+          "url": "https://wallstreetcn.com/livenews/3141916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "市场消息：知名对冲基金千禧年计划新一轮募资，目标规模创纪录达200亿美元。",
@@ -135,7 +171,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -157,9 +193,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "高盛为微软关联数据中心推介54亿美元债务融资",
+          "url": "https://wallstreetcn.com/livenews/3141915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "Meta Platforms(META.O)第二财季现实实验室收入为4.31亿美元，市场预期为4.287亿美元；运营亏损46.2亿美元，市场预期亏损44.5亿美元。",
@@ -168,7 +215,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -190,9 +237,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "SpaceX获得美国太空军16亿美元的合同",
+          "url": "https://flash.jin10.com/detail/20260730045433812800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美元创约一周新低，美联储7月29日宣布维持政策利率不变。",
@@ -212,7 +270,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -223,9 +281,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "SpaceX获得美国太空军16亿美元的合同",
+          "url": "https://wallstreetcn.com/livenews/3141910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "微软Q4营收900亿美元超预期 Azure云收入首破千亿美元",
+          "url": "https://flash.jin10.com/detail/20260730045347051800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "MetaPlatforms(META.O)第二季度自由现金流为7.84亿美元。",
@@ -234,7 +314,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -267,7 +347,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -289,9 +369,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "微软公布新增逾1300亿美元数据中心租赁合同",
+          "url": "https://wallstreetcn.com/livenews/3141904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "微软(MSFT.O)：Azure收入首次超过1000亿美元。",
@@ -300,7 +391,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -341,7 +432,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -351,8 +442,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -363,8 +454,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -380,6 +471,28 @@
           "time_info": "[01时11分 ~ 04时49分]"
         },
         {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 05时56分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 05时56分]"
+        },
+        {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
           "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
           "source": "澎湃新闻",
@@ -387,8 +500,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/livenews/3141924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -398,8 +522,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -409,8 +533,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -421,8 +545,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -432,8 +556,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时06分 ~ 05时56分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时49分]"
+          "time_info": "[05时55分 ~ 05时56分]"
         },
         {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
@@ -442,9 +577,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
+          "url": "https://wallstreetcn.com/livenews/3141911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -453,7 +599,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -464,7 +610,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -475,7 +621,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -497,7 +643,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -508,7 +654,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -519,7 +665,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -558,7 +704,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
