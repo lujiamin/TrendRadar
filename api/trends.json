@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-29T18:35:07.646178+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-07-29T20:58:29.622239+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 20时58分]"
+        },
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 04时13分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 18时35分]"
         },
         {
           "title": "中东旅游业几近熄火：迪拜向国际游客提供价值逾800美元的奖励套餐",
@@ -168,6 +169,18 @@
           "time_info": "[05时59分 ~ 07时01分]"
         },
         {
+          "title": "1股撬动六千万美元仓位！SK海力士“乌龙指”跨市场传导，加密多头遭强平",
+          "url": "https://www.cls.cn/detail/2439990",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 20时58分]"
+        },
+        {
           "title": "船只支付370万美元竞拍费以加速通过巴拿马运河",
           "url": "https://wallstreetcn.com/livenews/3141201",
           "source": "华尔街见闻-快讯",
@@ -192,15 +205,15 @@
           "time_info": "[02时10分 ~ 04时13分]"
         },
         {
-          "title": "1股撬动六千万美元仓位！SK海力士“乌龙指”跨市场传导，加密多头遭强平",
-          "url": "https://www.cls.cn/detail/2439990",
-          "source": "财联社热门",
+          "title": "因总统专机，波音公司亏损31亿美元",
+          "url": "https://news.ifeng.com/c/8v9y2A2D64e",
+          "source": "凤凰网",
           "ranks": [
-            11
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "金价跌超1%，逼近4000美元",
@@ -242,7 +255,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -286,7 +299,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -308,7 +321,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -396,7 +409,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -410,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "永鼎股份：控股子公司苏州鼎芯光电科技有限公司于近一个月收到A客户、B客户关于大功率激光器芯片产品的采购订单，相关订单合计金额分别为5.42亿元人民币（含税）、0.87亿美元（含税）（折合人民币约5.91亿元）。",
+          "url": "https://wallstreetcn.com/livenews/3141686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "WTI原油突破80美元/桶，日内涨2.20%。",
@@ -462,7 +486,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -509,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "韩国市场是否中了美元的圈套",
+          "url": "https://www.toutiao.com/trending/7667904442645089842/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "Lucid集团涨幅扩大至20%，沙特王子Alwaleed bin Talal Al Saud已经耗资1.295亿美元、对这家电动汽车制造商持股5%。",
@@ -665,13 +700,24 @@
           "time_info": "05时59分"
         },
         {
+          "title": "国际原油价格短线拉升，WTI原油日内涨6.00%，现报83.02美元/桶。布伦特原油现涨约5.5%，报86.7美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260729201827909800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "巴克莱：将Paypal(PYPL.O)目标价上调至57美元，此前为55美元。",
           "url": "https://flash.jin10.com/detail/20260729175945634800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -701,7 +747,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -743,7 +789,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -756,8 +802,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 20时58分]"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 20时58分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 20时58分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -771,17 +839,6 @@
           "time_info": "[15时39分 ~ 15时40分]"
         },
         {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗如此气急败坏地想要与我达成一份协议。 我们将让伊朗签署一份协议。 我们将让战争结束。",
           "url": "https://wallstreetcn.com/livenews/3141225",
           "source": "华尔街见闻-快讯",
@@ -792,17 +849,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "铁粉深陷特朗普“杀猪盘”血本无归",
@@ -838,6 +884,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "特朗普称将对伊朗进行猛烈打击 原油价格大涨",
+          "url": "https://wallstreetcn.com/livenews/3141701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
           "url": "https://news.ifeng.com/c/8v8T4vNZVWL",
           "source": "凤凰网",
@@ -847,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "在伊朗发动突然袭击后，特朗普回应：美军将“狠狠干他们一顿”",
+          "url": "https://flash.jin10.com/detail/20260729202902708800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！",
@@ -904,6 +972,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "美国总统特朗普：伊朗昨天的攻击令人意外，我们的部队只有几分钟的时间来拦截伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260729202522532800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "以色列发言人：以色列支持美国总统特朗普选择的任何道路。",
           "url": "https://flash.jin10.com/detail/20260729011243966800",
           "source": "金十数据",
@@ -921,7 +1000,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -954,7 +1033,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -992,6 +1071,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "因美国总统特朗普对伊朗的评论，欧洲天然气价格一度涨5.7%。",
+          "url": "https://flash.jin10.com/detail/20260729202038196800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
           "url": "https://flash.jin10.com/detail/20260729023706734800",
           "source": "金十数据",
@@ -1014,6 +1104,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "美国总统特朗普：美国与沙特的打击行动是与伊拉克政府协调进行的。",
+          "url": "https://flash.jin10.com/detail/20260729201914504800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "特朗普政府将终止联邦医疗保险药品计划补贴。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3141182",
           "source": "华尔街见闻-快讯",
@@ -1025,6 +1126,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美国总统特朗普：美国将对伊朗采取打击，以回应在约旦针对美国目标的攻击。",
+          "url": "https://flash.jin10.com/detail/20260729201730230800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "特朗普在追悼仪式上分发薄荷糖",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
           "source": "百度热搜",
@@ -1034,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普称，（关于伊朗问题）将让他们继续说下去。",
+          "url": "https://flash.jin10.com/detail/20260729201701696800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -1097,6 +1220,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪：公司正加紧提升产能",
+          "url": "https://www.toutiao.com/trending/7666921747123945481/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "比亚迪：公司闪充技术及一众车型发布以来，订单饱满",
+          "url": "https://wallstreetcn.com/livenews/3141691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     }
