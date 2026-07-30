@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T16:16:33.192011+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-07-30T19:03:27.351218+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 60,
+      "match_count": 71,
       "titles": [
         {
           "title": "因总统专机，波音公司亏损31亿美元",
@@ -36,9 +36,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "售价50美元7分钟售罄，从《奥德赛》爆米花桶看影院新金矿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33681062",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "微软未来租赁3290亿美元，之前为1970亿美元。",
@@ -69,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -197,7 +208,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -411,6 +422,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "汇丰控股：将高通(QCOM.O)从180美元下调至165美元。",
+          "url": "https://flash.jin10.com/detail/20260730184330107800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "美元创约一周新低，美联储7月29日宣布维持政策利率不变。",
           "url": "https://wallstreetcn.com/livenews/3141832",
           "source": "华尔街见闻-快讯",
@@ -420,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美方拟购约1700亿美元导弹和核潜艇",
+          "url": "https://www.toutiao.com/trending/7667578252249153572/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "微软(MSFT.O)第四财季自由现金流为196亿美元，下滑23%。",
@@ -453,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD向上触及1.34关口，日内涨0.23%。",
+          "url": "https://flash.jin10.com/detail/20260730184211953800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "周三（7月29日）纽约尾盘，美元兑日元跌0.27%，报163.40日元，日内交投区间为163.91-163.23日元，亚太盘初至北京时间02:00美联储发布决议声明期间呈现出V形反转、之后快速下跌。 欧元兑日元涨0.35%，刷新日高至187.23日元；英镑兑日元涨0.25%，报218.290日元。",
@@ -543,6 +587,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "美元兑日元下跌0.6%至162.35。",
+          "url": "https://wallstreetcn.com/livenews/3142362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "MetaPlatforms(META.O)第二季度自由现金流为7.84亿美元。",
           "url": "https://flash.jin10.com/detail/20260730040712893800",
           "source": "金十数据",
@@ -554,6 +609,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "据报道，欧盟将提供100亿欧元(114亿美元)的资金，用于建设七座人工智能超级工厂。",
+          "url": "https://wallstreetcn.com/livenews/3142361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
           "url": "https://wallstreetcn.com/livenews/3141824",
           "source": "华尔街见闻-快讯",
@@ -563,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
+          "url": "https://www.zhihu.com/question/2065739036937773921",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "布伦特原油站上88美元/桶，日内涨7.40%。",
@@ -609,6 +686,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "富国银行：将微软(MSFT.O)目标价从625美元上调至650美元。",
+          "url": "https://flash.jin10.com/detail/20260730183429598800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "微软公布新增逾1300亿美元数据中心租赁合同",
           "url": "https://wallstreetcn.com/livenews/3141904",
           "source": "华尔街见闻-快讯",
@@ -642,6 +730,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "富国银行：将高通(QCOM.O)目标价从265美元下调至170美元。",
+          "url": "https://flash.jin10.com/detail/20260730183420461800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "美联储宣布利率决议声明之前，美元指数跌0.08%，美元兑日元跌0.02%、美元兑瑞郎涨0.09%，欧元兑美元涨0.11%、英镑兑美元涨0.15%，商品货币澳元兑美元跌0.57%、纽元兑美元跌0.17%、美元兑加元跌0.11%。 标普500指数跌0.61%，道指跌775点、跌幅1.47%，纳指跌0.58%，半导体指数跌3.3%，银行指数跌1.6%，小盘股指跌1.2%。 现货黄金涨幅扩大至0.42%，暂报4045.51美元，白银涨1.40%，暂报57.88美元。 美国10年期国债收益率涨2.8个基点，两年期美债收益率涨2.88个基点、暂报4.3159%。",
           "url": "https://wallstreetcn.com/livenews/3141819",
           "source": "华尔街见闻-快讯",
@@ -651,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "富国银行：将Visa(V.N)目标价从412美元上调至432美元。",
+          "url": "https://flash.jin10.com/detail/20260730183410771800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
@@ -673,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "好未来第一财季净营收7.584亿美元，同比增长32%，市场预估7.078亿美元。 第一财季调整后每ADS收益0.75美元，上年同期0.070美元，市场预估0.26美元。 第一财季毛利率57.8％，上年同期54.9％，市场预估55.5％。",
+          "url": "https://wallstreetcn.com/livenews/3142340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         }
       ]
     },
@@ -704,8 +825,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[06时57分 ~ 19时03分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -794,6 +915,18 @@
           "time_info": "[01时11分 ~ 04时49分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时21分 ~ 19时03分]"
+        },
+        {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
           "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
           "source": "凤凰网",
@@ -838,17 +971,6 @@
           "time_info": "10时21分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时21分 ~ 16时16分]"
-        },
-        {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
           "url": "https://wallstreetcn.com/livenews/3141924",
           "source": "华尔街见闻-快讯",
@@ -861,23 +983,24 @@
           "time_info": "[05时56分 ~ 06时57分]"
         },
         {
-          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
-          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 16时16分]"
-        },
-        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 19时03分]"
+        },
+        {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -935,7 +1058,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1053,7 +1176,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -1121,6 +1244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
