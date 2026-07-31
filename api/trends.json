@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-31T20:53:12.271264+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-07-31T23:16:54.986327+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时08分 ~ 20时53分]"
+          "appearance_count": 8,
+          "time_info": "[08时08分 ~ 23时16分]"
         },
         {
           "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
@@ -35,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 23时16分]"
         },
         {
           "title": "高盛：将苹果(AAPL.O)目标价从370美元下调至360美元。",
@@ -62,6 +64,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时11分 ~ 23时16分]"
+        },
+        {
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时11分 ~ 23时16分]"
         },
         {
           "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
@@ -95,31 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时11分 ~ 20时53分]"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时11分 ~ 20时53分]"
         },
         {
           "title": "股价盘后涨近10%！亚马逊云业务蓬勃发展 上调全年资本支出至2200亿美元",
@@ -266,6 +269,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "苹果(AAPL.O)2026财年Q3营收1094.2亿美元，去年同期940.36亿美元，市场预期1085.78亿美元。",
           "url": "https://flash.jin10.com/detail/20260731043024065800",
           "source": "金十数据",
@@ -338,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -404,7 +418,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -420,6 +434,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "因凡蒂诺提出出售世界杯股份，承诺各足协将获 4000 万美元，此举对足球治理有何影响？",
+          "url": "https://www.zhihu.com/question/2065992656010925972",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "亚马逊(AMZN.O)：过去十二个月的自由现金流降至净流出76亿美元。",
           "url": "https://flash.jin10.com/detail/20260731040526807800",
           "source": "金十数据",
@@ -429,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "印度燃油零售商Q2亏损近20亿美元 为消费者“扛下”能源冲击",
+          "url": "https://flash.jin10.com/detail/20260731221654549800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "意大利家族因460亿美元雷朋财富爆发内斗",
@@ -481,7 +517,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -506,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "现货黄金日内跌幅达2.00%，现报4021.17美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260731221106677800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "亚马逊(AMZN.O)2026年Q2AWS云业务收入为422亿美元，市场预期404.81亿美元。",
@@ -610,7 +657,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -620,8 +667,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 20时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 23时16分]"
         },
         {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
@@ -632,8 +679,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时11分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时11分 ~ 23时16分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -642,11 +689,12 @@
           "ranks": [
             16,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 23时16分]"
         },
         {
           "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
@@ -714,6 +762,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 05时02分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡暂停通行，特朗普“将继续实施强有力的打击”！",
+          "url": "https://flash.jin10.com/detail/20260731224214656800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
