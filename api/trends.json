@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T07:58:19.471684+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-08-01T10:37:53.699740+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 06时07分]"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
         },
         {
           "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
-        },
-        {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时58分]"
         },
         {
           "title": "美元兑日元USD/JPY收复159关口，现报159.12，此前一度跳水逾百点。",
@@ -175,6 +175,29 @@
           "time_info": "[06时07分 ~ 07时58分]"
         },
         {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时37分]"
+        },
+        {
+          "title": "中资离岸可转债热度升温，年内发行规模超210亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美元兑日元短线跳水约70点，现报158.82，日内当前跌幅大约0.5%。",
           "url": "https://wallstreetcn.com/livenews/3143418",
           "source": "华尔街见闻-快讯",
@@ -186,15 +209,15 @@
           "time_info": "03时17分"
         },
         {
-          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3143503",
+          "title": "诺里尔斯克镍业上半年EBITDA达39.4亿美元，同比增长50%",
+          "url": "https://wallstreetcn.com/livenews/3143526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时37分"
         },
         {
           "title": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元（交易对手4家），上个交易日报10.76亿美元。",
@@ -252,6 +275,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美日近30年来首次联手买入日元，美财长备忘录被曝拟买50-100亿美元",
+          "url": "https://flash.jin10.com/detail/20260801084737567800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "索尼影业：《蜘蛛侠》预览票房达到7200万美元，创历史（同期）新高。",
           "url": "https://wallstreetcn.com/livenews/3143383",
           "source": "华尔街见闻-快讯",
@@ -296,6 +330,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "韩国7月贸易帐初值 303.2亿美元，预期295.9亿美元，前值由361.49亿美元修正为360.88亿美元。",
+          "url": "https://flash.jin10.com/detail/20260801080318214800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美元兑日元本周跌2.9%",
           "url": "https://wallstreetcn.com/livenews/3143441",
           "source": "华尔街见闻-快讯",
@@ -321,7 +366,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -380,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时58分]"
+        },
+        {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -450,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国总统特朗普称赞英伟达。",
@@ -560,12 +627,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美媒称特朗普下令再袭伊朗迫其投降",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%86%8D%E8%A2%AD%E4%BC%8A%E6%9C%97%E8%BF%AB%E5%85%B6%E6%8A%95%E9%99%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -618,6 +696,18 @@
           "time_info": "[04时59分 ~ 07时58分]"
         },
         {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时37分]"
+        },
+        {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
           "url": "https://wallstreetcn.com/livenews/3143460",
           "source": "华尔街见闻-快讯",
@@ -630,15 +720,26 @@
           "time_info": "[04时59分 ~ 06时07分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
+          "title": "美媒：OpenAI筹备发布新模型系列Astra，主打多智能体长周期任务协同",
+          "url": "https://flash.jin10.com/detail/20260801095559987800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3143530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时37分"
         },
         {
           "title": "报道：OpenAI本周预览了AI模型Astra",
@@ -647,9 +748,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
+          "url": "https://flash.jin10.com/detail/20260801091854018800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
