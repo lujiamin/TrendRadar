@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-02T00:58:31.908562+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-02T02:01:49.907593+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
+          "url": "https://flash.jin10.com/detail/20260802010534825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "据以色列第13频道：以色列高级官员称，预计特朗普将很快下令恢复战斗。以色列已进入最高警戒状态。",
+          "url": "https://flash.jin10.com/detail/20260802010333953800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
           "url": "https://wallstreetcn.com/articles/3778460",
@@ -15,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -26,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -37,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -48,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -59,8 +81,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
+        },
+        {
+          "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
+          "url": "https://flash.jin10.com/detail/20260802003624770800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "02时01分"
         },
         {
           "title": "特朗普说伊朗确实挺硬气",
@@ -98,19 +131,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "毕业留美工作可能要先交10万美元",
           "url": "https://www.toutiao.com/trending/7668972315778059785/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "美军坠机,1亿美元化成灰",
@@ -120,8 +154,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         },
         {
           "title": "高至2万美元 美签证保证金将涨价并长期化",
@@ -129,6 +163,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪7月销售41.9万辆汽车",
+          "url": "https://www.toutiao.com/trending/7668443476165623850/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "金十整理：2026年7月造车新势力成绩单出炉——比亚迪超41万辆创新高，零跑突破10万大关",
+          "url": "https://flash.jin10.com/detail/20260801203227514800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -148,25 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "比亚迪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十整理：2026年7月造车新势力成绩单出炉——比亚迪超41万辆创新高，零跑突破10万大关",
-          "url": "https://flash.jin10.com/detail/20260801203227514800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 02时01分]"
         }
       ]
     }
