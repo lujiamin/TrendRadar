@@ -1,33 +1,49 @@
 {
-  "generated_at": "2026-08-02T07:53:38.760037+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-08-02T10:13:13.398061+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
           "url": "https://news.ifeng.com/c/8vFPS4k24LG",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[03时17分 ~ 10时13分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 10时13分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 10时13分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -40,19 +56,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 05时50分]"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时53分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -106,6 +109,17 @@
           "time_info": "[03时17分 ~ 07时53分]"
         },
         {
+          "title": "鲁比奥：伊朗从未面对过像特朗普这样的美国总统，“谈判不承担后果”的时代已结束",
+          "url": "https://flash.jin10.com/detail/20260802094803516800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
           "url": "https://flash.jin10.com/detail/20260802021650818800",
           "source": "金十数据",
@@ -142,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时17分]"
+        },
+        {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时13分]"
         },
         {
           "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
@@ -182,17 +208,6 @@
           "time_info": "[02时01分 ~ 03时17分]"
         },
         {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "特朗普说伊朗确实挺硬气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -202,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美媒：沙特王储对特朗普大规模打击伊朗的计划表示担忧，敦促其保持克制",
+          "url": "https://flash.jin10.com/detail/20260802075912944800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
@@ -221,6 +247,44 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美财长笔记本写着“买50-100亿美元的日元”，被拍到后日元升值",
+          "url": "https://news.ifeng.com/c/8vEhnJRdyDi",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 10时13分]"
+        },
+        {
+          "title": "毕业留美工作可能要先交10万美元",
+          "url": "https://www.toutiao.com/trending/7668972315778059785/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20,
+            30,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 10时13分]"
+        },
+        {
+          "title": "美军坠机,1亿美元化成灰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356700&amp;topic_name=%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%9C%BA%2C1%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8C%96%E6%88%90%E7%81%B0",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 10时13分]"
+        },
+        {
           "title": "特朗普媒体公司推出了Truth API，该付费服务​​使订阅用户可以比普通用户更早实时访问“真相社交媒体”（Truth Social）上的帖子。该服务每月费用高达10万美元，主要面向交易公司和企业。",
           "url": "https://flash.jin10.com/detail/20260802044624523800",
           "source": "金十数据",
@@ -231,42 +295,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时53分]"
-        },
-        {
-          "title": "美财长笔记本写着“买50-100亿美元的日元”，被拍到后日元升值",
-          "url": "https://news.ifeng.com/c/8vEhnJRdyDi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时53分]"
-        },
-        {
-          "title": "毕业留美工作可能要先交10万美元",
-          "url": "https://www.toutiao.com/trending/7668972315778059785/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            20,
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时53分]"
-        },
-        {
-          "title": "美军坠机,1亿美元化成灰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356700&amp;topic_name=%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%9C%BA%2C1%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8C%96%E6%88%90%E7%81%B0",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时53分]"
         },
         {
           "title": "高至2万美元 美签证保证金将涨价并长期化",
@@ -284,7 +312,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -294,8 +322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 10时13分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -303,11 +331,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时50分 ~ 10时13分]"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
+          "url": "https://flash.jin10.com/detail/20260802095047745800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
@@ -349,11 +389,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 10时13分]"
         }
       ]
     }
