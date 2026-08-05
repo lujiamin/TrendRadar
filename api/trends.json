@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T14:23:58.067048+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-08-05T17:32:54.517546+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时06分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[05时06分 ~ 17时32分]"
         },
         {
           "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
@@ -64,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -150,6 +150,19 @@
           "time_info": "[01时41分 ~ 08时02分]"
         },
         {
+          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
+          "url": "https://www.zhihu.com/question/2067002987545884316",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时32分]"
+        },
+        {
           "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
           "url": "https://wallstreetcn.com/articles/3778603",
           "source": "华尔街见闻",
@@ -171,6 +184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 14时23分]"
+        },
+        {
+          "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
+          "url": "https://www.cls.cn/detail/2445951",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 17时32分]"
         },
         {
           "title": "LME期铜收涨196美元，报14066美元/吨。 LME期铝收涨2美元，报3223美元/吨。 LME期锌收涨32美元，报3674美元/吨。 LME期铅收涨29美元，报1896美元/吨。 LME期镍收涨133美元，报17193美元/吨。 LME期锡收涨543美元，报55989美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -207,18 +232,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时02分]"
-        },
-        {
-          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
-          "url": "https://www.zhihu.com/question/2067002987545884316",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时23分]"
         },
         {
           "title": "日元对美元汇率小幅下跌",
@@ -271,7 +284,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -293,7 +306,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -304,7 +317,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -320,24 +333,13 @@
           "time_info": "06时58分"
         },
         {
-          "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
-          "url": "https://www.cls.cn/detail/2445951",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "油价下跌美元走弱提振黄金 中东局势降温或推动涨势延续",
           "url": "https://flash.jin10.com/detail/20260805135340153800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -353,15 +355,37 @@
           "time_info": "06时58分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7503，较上一交易日官方收盘价涨30点，较上日夜盘收盘涨7点。",
+          "url": "https://wallstreetcn.com/livenews/3145281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "现货黄金站上4170美元/盎司，刷新7月22日以来新高，日内涨2.29%。",
           "url": "https://flash.jin10.com/detail/20260805135154015800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "美银重申对SpaceX的“买入”评级 目标价235美元",
+          "url": "https://flash.jin10.com/detail/20260805171730621800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "【报道：特朗普政府退还约1000亿美元关税】自从美国最高法院否决其使用紧急权力（征收关税）以来，特朗普政府已发放了约1000亿美元的关税退款。",
@@ -397,6 +421,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "摩根大通将SpaceX目标股价从225美元上调至240美元。",
+          "url": "https://wallstreetcn.com/livenews/3145276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "现货钯金上涨超过7%，报1,745.93美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260805004144296800",
           "source": "金十数据",
@@ -414,9 +449,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "消息人士称，印度正在考虑对天然气消费者征收税费，以资助420亿美元的战略燃料储备扩张计划。拟议液化石油气和液化天然气费用每年可为储备建设筹集15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260805171338659800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "现货黄金日内涨2.00%，现报4159.04美元/盎司。",
@@ -425,7 +471,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -439,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "TD Cowen：将雪佛龙(CVX.N)目标价从200美元上调至205美元。",
+          "url": "https://flash.jin10.com/detail/20260805171226589800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "AMD的CEO苏姿丰在分析师电话会议上预计，数据中心销售将在2027年翻倍。 公司将于2027年推出机架级产品，配备MI500 GPU、Verano CPU、Pensando网络技术，并同时采用铜缆和光纤扩展域。 公司预计将超过2025年金融分析师日提出的年度每股收益20美元的目标。",
@@ -480,7 +537,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -543,8 +600,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时32分]"
         },
         {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
@@ -586,7 +643,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -630,7 +687,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -791,8 +848,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时32分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
