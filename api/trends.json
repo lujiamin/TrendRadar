@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T08:39:01.751946+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-07T11:47:01.121571+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 08时39分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 11时47分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 08时39分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 11时47分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -37,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 08时39分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 11时47分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -48,19 +60,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时38分 ~ 08时39分]"
+          "appearance_count": 4,
+          "time_info": "[08时38分 ~ 11时47分]"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时38分 ~ 08时39分]"
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -72,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时38分 ~ 08时39分]"
+        },
+        {
+          "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
+          "url": "https://www.cls.cn/detail/2447865",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "特朗普签署针对出生公民权的行政令",
@@ -91,9 +125,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "美伊战争弹药消耗真相藏不住了？特朗普紧急追查泄密",
+          "url": "https://flash.jin10.com/detail/20260807105403364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -102,7 +147,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
@@ -113,15 +158,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "特朗普再称对伊朗战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3146368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
@@ -135,13 +191,46 @@
           "time_info": "[08时38分 ~ 08时39分]"
         },
         {
+          "title": "交易员：印度央行可能出售美元以限制卢比的贬值。",
+          "url": "https://flash.jin10.com/detail/20260807113231910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
+          "url": "https://www.cls.cn/detail/2447866",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "Meta被判支付5.67亿美元",
+          "url": "https://www.baidu.com/s?wd=Meta%E8%A2%AB%E5%88%A4%E6%94%AF%E4%BB%985.67%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
           "title": "中信证券：刚果（金）出口禁令或推动铜价加速冲击15000美元/吨以上",
           "url": "https://flash.jin10.com/detail/20260807080356799800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
@@ -152,9 +241,64 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "海关总署公布的数据显示，中国7月集成电路出口金额达387.4亿美元；1-7月累计出口金额达2160亿美元，同比增长99.5%。",
+          "url": "https://wallstreetcn.com/livenews/3146408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "印尼外汇储备在7月底降至1453.4亿美元（外媒更正：非1亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260807110040745800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "中国7月贸易帐(按美元计) 1125亿美元，前值 1256.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3146396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "中国7月进口同比(按美元计) 27.5%，前值 36%。",
+          "url": "https://wallstreetcn.com/livenews/3146395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "中国7月出口同比(按美元计) 23.9%，前值 27%。",
+          "url": "https://wallstreetcn.com/livenews/3146394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
