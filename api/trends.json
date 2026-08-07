@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:42:02.692456+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-08-07T20:52:02.297154+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
@@ -80,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -130,6 +130,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 13时49分]"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时52分]"
         },
         {
           "title": "Meta被判支付5.67亿美元",
@@ -198,17 +210,6 @@
           "time_info": "17时56分"
         },
         {
-          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3146683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "现货钯金日内涨幅达2.00%，现报1401.76美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260807163157365800",
           "source": "金十数据",
@@ -259,7 +260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -270,7 +271,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -314,7 +315,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -339,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "乌克兰7月份外汇储备为511.99亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807200417688800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "中国7月贸易帐(按美元计) 1125亿美元，前值 1256.2亿美元。",
@@ -424,9 +436,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "国际金即将完成筑底？美元短期下行空间仍相对有限 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260807200116059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "现货黄金突破4300美元/盎司，日内涨超1.4%，报4300.04美元/盎司。",
@@ -501,9 +524,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "摩根士丹利：对贝克休斯油服(BKR.O)重新启动覆盖研究，给予超配评级，目标价70美元。",
+          "url": "https://flash.jin10.com/detail/20260807195012072800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "中国7月外汇储备 34187.8亿美元，前值 34162.6亿美元。",
@@ -520,7 +554,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -533,6 +567,34 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[08时38分 ~ 18时48分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时06分 ~ 20时52分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 20时52分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -557,30 +619,15 @@
           "time_info": "[08时38分 ~ 15时06分]"
         },
         {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
           "source": "凤凰网",
           "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时06分 ~ 19时42分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 20时52分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -607,15 +654,15 @@
           "time_info": "[08时38分 ~ 15时06分]"
         },
         {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
+          "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
+          "url": "https://flash.jin10.com/detail/20260807202458983800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 19时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "特朗普：数据中心可能会比石油更重要",
@@ -741,6 +788,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "语气显著软化！特朗普直言不降息不怪沃什，并甩锅“政治化理事会”",
+          "url": "https://flash.jin10.com/detail/20260807200444932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
           "url": "https://flash.jin10.com/detail/20260807073607063800",
           "source": "金十数据",
@@ -821,8 +879,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
         {
           "title": "OpenAI为免费用户升级GPT-5.6 Luna",
           "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
@@ -892,7 +961,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
