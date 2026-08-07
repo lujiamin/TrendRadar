@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T03:49:30.273244+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-08-08T04:35:59.568295+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -58,20 +58,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
         {
-          "title": "摩根大通上调科技债发行预期，今年供应规模将超过5000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146897",
+          "title": "SpaceX收涨15.8%，报133.11美元，最近两天涨23%。",
+          "url": "https://wallstreetcn.com/livenews/3146909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时35分"
+        },
+        {
+          "title": "摩根大通上调科技债发行预期，今年供应规模将超过5000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3146896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
         },
         {
           "title": "周五（8月7日），美联储隔夜逆回购协议（RRP）使用规模为14.50亿美元（交易对手2家），上个交易日报14.29亿美元。",
@@ -98,6 +122,54 @@
           "time_info": "[01时44分 ~ 02时47分]"
         },
         {
+          "title": "美元指数在非农日跌0.4%",
+          "url": "https://wallstreetcn.com/livenews/3146894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
+          "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
+          "title": "本周，ICE原糖期货累涨12.48%，ICE白糖期货涨9.34%。 ICE阿拉比卡咖啡期货累涨0.42%，咖啡“C”期货跌0.32%。罗布斯塔咖啡期货涨0.16%。 纽约可可期货累涨5.62%，周五（8月7日）纽约尾盘，报5847美元/吨，周一涨幅突出。伦敦可可期货累涨1.83%。 芝加哥WCE双低油菜籽期货累涨1.54%。 ICE棉花期货累涨3.17%。",
+          "url": "https://wallstreetcn.com/livenews/3146890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
+          "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3146889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
           "title": "LME期铜收跌28美元，报14076美元/吨。 LME期铝收涨21美元，报3280美元/吨。 LME期锌收跌56美元，报3707美元/吨。 LME期铅收涨2美元，报1887美元/吨。 LME期镍收涨242美元，报17004美元/吨。 LME期锡收跌565美元，报55530美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3146843",
           "source": "华尔街见闻-快讯",
@@ -116,18 +188,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3146896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -138,20 +199,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
         {
-          "title": "美元指数在非农日跌0.4%",
-          "url": "https://wallstreetcn.com/livenews/3146894",
+          "title": "雪佛龙：预计年底资本开支处于指引区间180亿-190亿美元的低端。",
+          "url": "https://wallstreetcn.com/livenews/3146904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时35分"
         },
         {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
@@ -160,18 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -182,7 +232,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -198,26 +248,15 @@
           "time_info": "02时47分"
         },
         {
-          "title": "本周，ICE原糖期货累涨12.48%，ICE白糖期货涨9.34%。 ICE阿拉比卡咖啡期货累涨0.42%，咖啡“C”期货跌0.32%。罗布斯塔咖啡期货涨0.16%。 纽约可可期货累涨5.62%，周五（8月7日）纽约尾盘，报5847美元/吨，周一涨幅突出。伦敦可可期货累涨1.83%。 芝加哥WCE双低油菜籽期货累涨1.54%。 ICE棉花期货累涨3.17%。",
-          "url": "https://wallstreetcn.com/livenews/3146890",
-          "source": "华尔街见闻-快讯",
+          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
+          "url": "https://flash.jin10.com/detail/20260808035655589800",
+          "source": "金十数据",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3146889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时35分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，投资基金买入311.04亿美元2033年7月31日到期的7年期美国国债，此前一个月为315.59亿美元。外国投资者买入52.42亿美元2033年7月31日到期的7年期美国国债，此前一个月为58.64亿美元。",
@@ -226,7 +265,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -259,7 +298,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -270,7 +309,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -281,7 +320,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -292,7 +331,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -314,9 +353,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "摩根大通上调科技债发行预期 今年发债规模将超过5000亿美元",
+          "url": "https://flash.jin10.com/detail/20260808032745759800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "美国6月消费信贷变动 141.73亿美元，预期 116亿美元，前值 -1.82亿美元。",
@@ -325,7 +375,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -336,7 +386,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         }
@@ -344,8 +394,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
           "url": "https://flash.jin10.com/detail/20260808011808390800",
@@ -356,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 04时35分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -378,17 +450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 03时49分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -415,6 +476,18 @@
           "time_info": "[00时48分 ~ 01时44分]"
         },
         {
+          "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
+          "url": "https://wallstreetcn.com/livenews/3146895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
           "url": "https://wallstreetcn.com/livenews/3146844",
           "source": "华尔街见闻-快讯",
@@ -439,15 +512,38 @@
           "time_info": "[01时44分 ~ 02时47分]"
         },
         {
-          "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
-          "url": "https://wallstreetcn.com/livenews/3146895",
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
+          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
+          "url": "https://wallstreetcn.com/livenews/3146882",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时35分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：日本当局与特朗普政府干预过后，8月4日当周，对冲基金将日元空头仓位砍半。 杠杆基金将墨西哥比索净多头头寸推升至2025年12月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3146902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时35分"
         },
         {
           "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
@@ -456,9 +552,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -505,17 +612,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
           "url": "https://flash.jin10.com/detail/20260808005043099800",
           "source": "金十数据",
@@ -525,17 +621,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
-          "url": "https://wallstreetcn.com/livenews/3146882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
@@ -555,7 +640,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -577,7 +662,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         }
@@ -609,6 +694,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.8%，本周累涨约0.3%。 热门中概股里，再鼎医药初步收涨12.2%，大全新能源涨8.8%，晶科能源涨6%，世纪互联涨5%，腾讯涨1.8%，拼多多、阿里巴巴涨超1%，日月光半导体大致持平。 ETF中，ASHS初步收涨2.5%，CQQQ涨1.7%，KWEB涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3146908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     }
