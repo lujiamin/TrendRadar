@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:53:00.893510+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-08-07T17:56:43.345289+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时38分 ~ 08时39分]"
+        },
+        {
+          "title": "伯恩斯坦：将洛克希德马丁(LMT.N)目标价从614美元上调至629美元。",
+          "url": "https://flash.jin10.com/detail/20260807175445707800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美国建筑商Dream Finders已同意以每股33.50美元收购建筑公司Beazer Homes。",
+          "url": "https://wallstreetcn.com/livenews/3146621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "交易员：印度央行可能出售美元以限制卢比的贬值。",
@@ -47,9 +69,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "伯恩斯坦：将SpaceX(SPCX.O)目标价从239美元上调至248美元。",
+          "url": "https://flash.jin10.com/detail/20260807175343133800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "现货白银日内涨幅达5.0%，报64.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
@@ -119,13 +163,24 @@
           "time_info": "11时47分"
         },
         {
+          "title": "日本四大寿险公司债券账面浮亏达960亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "现货钯金日内涨幅达2.00%，现报1401.76美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260807163157365800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -136,7 +191,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -152,13 +207,24 @@
           "time_info": "15时06分"
         },
         {
+          "title": "TD Cowen：将埃克森美孚石油(XOM.N)目标价从155美元上调至168美元。",
+          "url": "https://flash.jin10.com/detail/20260807173546052800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.7501，较上一交易日官方收盘价涨14点，较上日夜盘收盘涨16点。",
           "url": "https://wallstreetcn.com/livenews/3146577",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -180,7 +246,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -191,7 +257,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -246,7 +312,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -268,7 +334,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -279,7 +345,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -290,7 +356,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -301,7 +367,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -309,7 +375,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -320,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 17时56分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -380,8 +446,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 17时56分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -392,8 +458,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 17时56分]"
+        },
+        {
+          "title": "特朗普：数据中心可能会比石油更重要",
+          "url": "https://flash.jin10.com/detail/20260807175232367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -415,8 +492,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时56分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -452,6 +529,39 @@
           "time_info": "[08时38分 ~ 08时39分]"
         },
         {
+          "title": "特朗普民调承压，内外交困陷入“流沙困境”",
+          "url": "https://flash.jin10.com/detail/20260807174925300800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
+          "url": "https://wallstreetcn.com/livenews/3146606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
           "url": "https://wallstreetcn.com/livenews/3146315",
           "source": "华尔街见闻-快讯",
@@ -483,6 +593,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "美国总统特朗普：人工智能比互联网大很多倍。",
+          "url": "https://flash.jin10.com/detail/20260807172841957800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美国总统特朗普：共和党选民对共和党人感到愤怒，对我不感到愤怒。我认为我们会赢得中期选举。",
+          "url": "https://flash.jin10.com/detail/20260807172823003800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "特朗普下令调查美军弹药库存信息泄露",
+          "url": "https://wallstreetcn.com/livenews/3146595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
@@ -552,7 +695,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -584,6 +727,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 15时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南向资金今日净卖出7.78亿元。港股通（沪）方面，腾讯控股、阿里巴巴-W分别获净卖出9.05亿港元、7.01亿港元；净买入额居首，金额为13.22亿港元；港股通（深）方面，腾讯控股、阿里巴巴-W分别获净卖出12.83亿港元、9.84亿港元；净买入额居首，金额为9.03亿港元。",
+          "url": "https://flash.jin10.com/detail/20260807173125315800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     }
