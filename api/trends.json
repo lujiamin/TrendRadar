@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-08T13:40:01.898912+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-08-08T14:42:57.923612+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3146939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            21,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时42分]"
+        },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
           "url": "https://flash.jin10.com/detail/20260808002305574800",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3146939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 13时40分]"
         },
         {
           "title": "市场消息：AeroVironment预计将赢得美国陆军一份价值4亿美元的反无人机系统合同。",
@@ -53,6 +54,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时42分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的14.5亿美元。",
@@ -143,6 +157,32 @@
           "time_info": "[05时34分 ~ 09时11分]"
         },
         {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时42分]"
+        },
+        {
+          "title": "金价突破4400美元",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            29,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 14时42分]"
+        },
+        {
           "title": "摩根大通上调科技债发行预期 今年发债规模将超过5000亿美元",
           "url": "https://flash.jin10.com/detail/20260808032745759800",
           "source": "金十数据",
@@ -152,18 +192,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时35分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时40分]"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
@@ -177,18 +205,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时34分]"
-        },
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时40分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -267,18 +283,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时29分]"
-        },
-        {
-          "title": "金价突破4400美元",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时40分]"
         },
         {
           "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
@@ -434,6 +438,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国财政部：在最新双周报告期内，投资基金买入311.04亿美元2033年7月31日到期的7年期美国国债，此前一个月为315.59亿美元。外国投资者买入52.42亿美元2033年7月31日到期的7年期美国国债，此前一个月为58.64亿美元。",
           "url": "https://flash.jin10.com/detail/20260808030424834800",
           "source": "金十数据",
@@ -561,6 +576,18 @@
       "match_count": 31,
       "titles": [
         {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 14时42分]"
+        },
+        {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
           "source": "澎湃新闻",
@@ -573,20 +600,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时49分 ~ 13时40分]"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 13时40分]"
+          "appearance_count": 12,
+          "time_info": "[03时49分 ~ 14时42分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -608,8 +623,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 14时42分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -937,11 +952,12 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时42分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
