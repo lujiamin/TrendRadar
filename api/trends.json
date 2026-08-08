@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T20:36:50.616298+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-08-08T21:41:38.056963+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时51分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时51分 ~ 21时41分]"
         },
         {
           "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
@@ -65,17 +65,6 @@
           "time_info": "[11时20分 ~ 16时34分]"
         },
         {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年第二季度末现金储备降至3647亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808201415586800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "市场消息：AeroVironment预计将赢得美国陆军一份价值4亿美元的反无人机系统合同。",
           "url": "https://flash.jin10.com/detail/20260808022109456800",
           "source": "金十数据",
@@ -85,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808201231128800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "WTI 9月原油期货收涨0.89美元，涨幅1.15%，报78.18美元/桶，本周累计下跌超过7.66%。 NYMEX 9月天然气期货收报2.6620美元/百万英热单位。 NYMEX 9月汽油期货收报2.9853美元/加仑，NYMEX 9月取暖油期货收报3.9024美元/加仑。",
@@ -118,28 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，保险浮存金约为1775亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808200552629800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "美国总统特朗普：宣布一系列价值30亿美元的矿业项目。",
@@ -174,6 +130,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时35分 ~ 09时11分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年第二季度末现金储备降至3647亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201415586800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
         },
         {
           "title": "摩根大通上调科技债发行预期，今年供应规模将超过5000亿美元",
@@ -212,6 +180,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时23分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201231128800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，保险浮存金约为1775亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200552629800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
         },
         {
           "title": "大摩：预计美联储资产负债表将缩减1.5万亿美元",
@@ -277,6 +281,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时34分]"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时41分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -395,16 +412,40 @@
           "time_info": "[09时11分 ~ 11时20分]"
         },
         {
-          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
-          "url": "https://wallstreetcn.com/livenews/3146989",
-          "source": "华尔街见闻-快讯",
+          "title": "伯克希尔哈撒韦B(BRK.B.N)2026年Q2 EPS为11.91美元。",
+          "url": "https://flash.jin10.com/detail/20260808200528846800",
+          "source": "金十数据",
           "ranks": [
             6,
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时36分]"
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2 EPS为17868美元。",
+          "url": "https://flash.jin10.com/detail/20260808200508475800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
         },
         {
           "title": "周五（8月7日），美联储隔夜逆回购协议（RRP）使用规模为14.50亿美元（交易对手2家），上个交易日报14.29亿美元。",
@@ -419,6 +460,18 @@
           "time_info": "[01时44分 ~ 02时47分]"
         },
         {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年投资收益包括第二季度收益109亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200445518800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -429,6 +482,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时47分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2净利润为256.67亿美元，较上年同期的123.7亿美元大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260808200239743800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2营收为129.83亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200100671800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
         },
         {
           "title": "本周，ICE原糖期货累涨12.48%，ICE白糖期货涨9.34%。 ICE阿拉比卡咖啡期货累涨0.42%，咖啡“C”期货跌0.32%。罗布斯塔咖啡期货涨0.16%。 纽约可可期货累涨5.62%，周五（8月7日）纽约尾盘，报5847美元/吨，周一涨幅突出。伦敦可可期货累涨1.83%。 芝加哥WCE双低油菜籽期货累涨1.54%。 ICE棉花期货累涨3.17%。",
@@ -489,28 +578,6 @@
           "time_info": "03时49分"
         },
         {
-          "title": "伯克希尔哈撒韦B(BRK.B.N)2026年Q2 EPS为11.91美元。",
-          "url": "https://flash.jin10.com/detail/20260808200528846800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
           "url": "https://flash.jin10.com/detail/20260808031924352800",
           "source": "金十数据",
@@ -522,35 +589,13 @@
           "time_info": "03时49分"
         },
         {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2 EPS为17868美元。",
-          "url": "https://flash.jin10.com/detail/20260808200508475800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "伯克希尔：二季度回购股票45亿美元",
           "url": "https://wallstreetcn.com/livenews/3147003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年投资收益包括第二季度收益109亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808200445518800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -561,7 +606,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -577,28 +622,6 @@
           "time_info": "03时49分"
         },
         {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2净利润为256.67亿美元，较上年同期的123.7亿美元大幅增长。",
-          "url": "https://flash.jin10.com/detail/20260808200239743800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "据华尔街日报：白宫官员称，特朗普政府将向四家电池和矿产公司提供超过20亿美元资金支持。电池初创企业Sila Nanotechnologies已获得五角大楼14亿美元贷款。澳大利亚Sunrise Energy Metals已与五角大楼达成4亿美元贷款协议，用于生产钪。",
           "url": "https://flash.jin10.com/detail/20260808031750291800",
           "source": "金十数据",
@@ -610,15 +633,15 @@
           "time_info": "03时49分"
         },
         {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2营收为129.83亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808200100671800",
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：自第三季度（7月1日）起至7月29日，已动用超过33亿美元回购公司股票。",
+          "url": "https://flash.jin10.com/detail/20260808202905426800",
           "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时41分"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。 美国财长贝森特声称：“伊朗政权对数字资产与影子银行网络的依赖，进一步证明经济制裁正在奏效。我们将继续加大经济施压力度。无论是美元、里亚尔还是加密货币，财政部都将追查并瓦解维系该政权运转的非法金融网络。”",
@@ -630,6 +653,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伯克希尔哈撒韦二季度斥资约45亿美元回购股票 为一年多来首次",
+          "url": "https://flash.jin10.com/detail/20260808202446166800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3147002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，投资基金买入311.04亿美元2033年7月31日到期的7年期美国国债，此前一个月为315.59亿美元。外国投资者买入52.42亿美元2033年7月31日到期的7年期美国国债，此前一个月为58.64亿美元。",
@@ -756,7 +812,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -820,8 +876,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 21时41分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -846,6 +902,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时41分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
           "url": "https://flash.jin10.com/detail/20260808001738444800",
           "source": "金十数据",
@@ -855,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "哈塞特称特朗普与沃什经常讨论经济问题",
@@ -920,17 +998,6 @@
           "time_info": "[04时35分 ~ 09时11分]"
         },
         {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时36分]"
-        },
-        {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
           "url": "https://wallstreetcn.com/livenews/3146874",
           "source": "华尔街见闻-快讯",
@@ -978,6 +1045,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时36分]"
+        },
+        {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时41分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -1038,17 +1117,6 @@
           "time_info": "04时35分"
         },
         {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
           "url": "https://flash.jin10.com/detail/20260808031653442800",
           "source": "金十数据",
@@ -1058,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "舒默怒斥特朗普：你在哪个星球",
+          "url": "https://www.toutiao.com/trending/7671480510048452651/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -1173,7 +1252,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
@@ -1212,12 +1291,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时47分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
@@ -1255,6 +1345,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "比亚迪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
+          "url": "https://www.zhihu.com/question/2068423027138859669",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     }
