@@ -1,87 +1,11 @@
 {
-  "generated_at": "2026-08-10T02:33:16.910360+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-08-10T03:29:23.868672+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
-        },
-        {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
-        },
-        {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
-        },
-        {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
-        },
-        {
-          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -92,20 +16,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时29分]"
         },
         {
-          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
+          "url": "https://flash.jin10.com/detail/20260810030225732800",
           "source": "金十数据",
           "ranks": [
-            1,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
+          "url": "https://flash.jin10.com/detail/20260810025259260800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -115,8 +49,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时29分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -144,6 +91,83 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "中芯国际",
       "match_count": 1,
       "titles": [
@@ -156,8 +180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时29分]"
         }
       ]
     }
