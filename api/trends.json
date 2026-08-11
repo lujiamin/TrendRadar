@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T02:56:07.659117+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-08-12T03:59:23.419273+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时59分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时59分]"
         },
         {
           "title": "日元对美元汇率再次大幅下跌",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时59分]"
         },
         {
           "title": "美国原油期货结算价为每桶83.20美元，上涨1.07美元，涨幅1.30%。",
@@ -48,9 +49,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，美元兑日元大致持平，报159.29日元，日内交投区间为158.93-159.39日元。 欧元兑日元跌0.02%，英镑兑日元跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3148222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "周二（8月11日），美联储隔夜逆回购协议（RRP）使用规模为12.50亿美元（交易对手2家），上个交易日报9.75亿美元。",
@@ -148,6 +182,61 @@
           "time_info": "[01时55分 ~ 02时56分]"
         },
         {
+          "title": "墨西哥比索兑美元汇率上涨至17.0862比索兑1美元，创下自2月份以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260812032336778800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE原糖期货涨1.64%，ICE白糖期货涨1.15%。 ICE阿拉比卡咖啡期货冲高回落最终涨0.08%，咖啡“C”期货跌0.35%、报312.80美分/磅、北京时间18:50达到327.55美分。罗布斯塔咖啡期货跌0.37%。 纽约可可期货跌4.97%，报5637美元/吨。伦敦可可期货跌0.17%。 芝加哥WCE双低油菜籽期货跌1.75%。 ICE棉花期货涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3148220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7466元，较周一夜盘收盘涨29点。成交量264.04亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3148213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "截至6月30日，挪威主权财富基金持有SpaceX 0.05%的股份，价值12.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260812030908872800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "美银：美元对CPI低于预期会更为敏感",
+          "url": "https://wallstreetcn.com/livenews/3148210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
           "title": "据相关声明：智利铜委员会Cochilco将2027年平均铜价预估维持在每磅5.10美元。",
           "url": "https://flash.jin10.com/detail/20260812001232384800",
           "source": "金十数据",
@@ -170,6 +259,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "WTI 9月原油期货收涨1.07美元，涨幅1.30%，报83.20美元/桶。 布伦特10月原油期货收涨1.19美元，涨幅1.36%，报88.91美元/桶。 中东Abu Dhabi Murban原油期货涨3.83%，报88.15美元/桶。 NYMEX 9月天然气期货收报2.7670美元/百万英热单位。 NYMEX 9月汽油期货收报3.1366美元/加仑，NYMEX 9月取暖油期货收报4.2525美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3148205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
           "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
           "url": "https://wallstreetcn.com/livenews/3148146",
           "source": "华尔街见闻-快讯",
@@ -179,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "英特尔新股发行规模增至200亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E7%89%B9%E5%B0%94%E6%96%B0%E8%82%A1%E5%8F%91%E8%A1%8C%E8%A7%84%E6%A8%A1%E5%A2%9E%E8%87%B3200%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "瑞穗银行高级策略师Masayuki Nakajima在一份报告中写道：“如果美元/日元明确突破具有重要心理意义的160关口，市场对干预的担忧可能进一步升温。”",
@@ -202,11 +313,12 @@
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时59分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -216,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时59分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -359,11 +471,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 02时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时59分]"
         }
       ]
     }
