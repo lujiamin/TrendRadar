@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T22:18:47.507998+08:00",
-  "total_titles_processed": 1830,
+  "generated_at": "2026-08-11T23:57:05.457511+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 84,
+      "match_count": 89,
       "titles": [
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -18,8 +18,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 23时57分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时58分 ~ 23时57分]"
         },
         {
           "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
@@ -66,20 +80,6 @@
           "time_info": "[00时49分 ~ 07时31分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 22时18分]"
-        },
-        {
           "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
           "url": "https://www.cls.cn/detail/2450754",
           "source": "财联社热门",
@@ -108,18 +108,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
-          "url": "https://wallstreetcn.com/livenews/3148117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -179,6 +168,17 @@
           "time_info": "14时58分"
         },
         {
+          "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
+          "url": "https://wallstreetcn.com/livenews/3148146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
           "url": "https://www.cls.cn/detail/2450953",
           "source": "财联社热门",
@@ -190,6 +190,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时10分 ~ 20时52分]"
+        },
+        {
+          "title": "瑞穗银行高级策略师Masayuki Nakajima在一份报告中写道：“如果美元/日元明确突破具有重要心理意义的160关口，市场对干预的担忧可能进一步升温。”",
+          "url": "https://wallstreetcn.com/livenews/3148145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -253,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时50分]"
+        },
+        {
+          "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
+          "url": "https://wallstreetcn.com/livenews/3148117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时57分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的9.75亿美元。",
@@ -377,6 +400,17 @@
           "time_info": "[18时46分 ~ 19时41分]"
         },
         {
+          "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
+          "url": "https://wallstreetcn.com/articles/3779166",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
+        },
+        {
           "title": "JBS二季度调整后EBITDA为14.3亿美元，分析师预期14.2亿美元。 二季度净营收239亿美元，分析师预期229.7亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147699",
           "source": "华尔街见闻-快讯",
@@ -471,6 +505,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时37分]"
+        },
+        {
+          "title": "日元对美元汇率再次大幅下跌",
+          "url": "https://www.douyin.com/hot/2605380",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "周一（8月10日）纽约尾盘，ICE原糖期货涨0.06%，ICE白糖期货涨0.50%。 ICE阿拉比卡咖啡期货跌0.10%，咖啡“C”期货跌0.22%。罗布斯塔咖啡期货涨0.85%。 纽约可可期货涨2.09%，报6018美元/吨。伦敦可可期货涨0.57%。 芝加哥WCE双低油菜籽期货涨1.91%。 ICE棉花期货跌0.75%。",
@@ -602,6 +647,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "Prosus于8月3-7日按均价41.6201欧元回购股票179.0596万股，合计超0.745亿欧元（折合超0.859亿美元）。 Naspers按均价899.4143南非兰特回购64.1547万股，合计5.770亿兰特（合计0.353亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3148143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
           "url": "https://flash.jin10.com/detail/20260811020633941800",
           "source": "金十数据",
@@ -619,7 +675,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -894,7 +950,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -990,7 +1046,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -1040,17 +1096,6 @@
           "time_info": "[09时16分 ~ 19时41分]"
         },
         {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 22时18分]"
-        },
-        {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
           "url": "https://wallstreetcn.com/articles/3779107",
           "source": "华尔街见闻",
@@ -1062,8 +1107,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 23时57分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时58分 ~ 22时18分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -1089,6 +1145,18 @@
           "time_info": "[00时49分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时57分]"
+        },
+        {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
@@ -1110,17 +1178,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 22时18分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -1184,7 +1241,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1420,7 +1477,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1442,7 +1499,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1486,7 +1543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1519,7 +1576,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1563,7 +1620,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1574,7 +1631,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1596,9 +1653,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
+          "url": "https://flash.jin10.com/detail/20260811224133543800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
@@ -1913,7 +1981,7 @@
     },
     {
       "keyword_group": "比亚迪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
@@ -1926,6 +1994,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 13时02分]"
+        },
+        {
+          "title": "比亚迪2027款海豹06上市",
+          "url": "https://www.toutiao.com/trending/7672587129632882738/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "港股汽车股持续走低，蔚来-SW(09866.HK)、吉利汽车(00175.HK)跌超4%，小鹏集团(09868.HK)跌超3%，比亚迪股份(01211.HK)、赛力斯(09927.HK)等跟跌。",
