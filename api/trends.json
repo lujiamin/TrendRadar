@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T03:55:02.196642+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-08-14T04:37:13.406276+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -15,30 +15,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
         },
         {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260814032112550800",
-          "source": "金十数据",
+          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149309",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "04时37分"
         },
         {
-          "title": "WTI 9月原油期货下跌2.02美元，收于每桶81.25美元，跌幅为2.43%。 布伦特10月原油期货下跌1.91美元，收于每桶87.07美元，跌幅为2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3149297",
+          "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
+          "url": "https://www.cls.cn/detail/2453693",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
+        },
+        {
+          "title": "应用材料第三季度调整后每股收益3.50美元，预期3.42美元。盘后股价下跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3149308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "04时37分"
         },
         {
           "title": "底特律汽车制造商将向白宫提出申诉，称修订后的北美贸易协议可能令他们损失数十亿美元。",
@@ -52,28 +63,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "周四（8月13日）纽约尾盘，美元兑日元涨0.05%，报159.51日元，日内交投区间为159.016-159.560日元。",
-          "url": "https://wallstreetcn.com/livenews/3149295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
-          "url": "https://www.cls.cn/detail/2453693",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
-        },
-        {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3779371",
           "source": "华尔街见闻",
@@ -81,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
         },
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
@@ -93,8 +82,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
+        },
+        {
+          "title": "美元指数13日下跌",
+          "url": "https://flash.jin10.com/detail/20260814032112550800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "WTI 9月原油期货下跌2.02美元，收于每桶81.25美元，跌幅为2.43%。 布伦特10月原油期货下跌1.91美元，收于每桶87.07美元，跌幅为2.15%。",
+          "url": "https://wallstreetcn.com/livenews/3149297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "周四（8月13日）纽约尾盘，美元兑日元涨0.05%，报159.51日元，日内交投区间为159.016-159.560日元。",
+          "url": "https://wallstreetcn.com/livenews/3149295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
         },
         {
           "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
@@ -104,52 +129,137 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时54分 ~ 04时37分]"
         },
         {
           "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
           "url": "https://wallstreetcn.com/livenews/3149294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产增至7.93万亿美元。",
           "url": "https://flash.jin10.com/detail/20260814031448690800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
         },
         {
           "title": "周四（8月13日）伦敦基本金属多数下跌，LME期铜涨0.02%，报14135.5美元/吨。 LME期锡涨0.01%，报55825.0美元/吨。 LME期锌跌0.32%，报3745.0美元/吨。 LME期铅跌1.00%，报1890.5美元/吨。 LME期镍跌1.11%，报16760.0美元/吨。 LME期铝跌2.19%，报3238.0美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3149293",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
         },
         {
           "title": "现货黄金失守4350美元/盎司，日内跌幅1.33%。",
           "url": "https://flash.jin10.com/detail/20260814031401637800",
           "source": "金十数据",
           "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "现货黄金失守4350美元/盎司，日内跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3149290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "纽约联储：交易台计划进行约170亿美元的再投资购买；8月14日至9月14日期间不进行储备管理购买。",
+          "url": "https://flash.jin10.com/detail/20260814030505506800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "纽约联储：交易台计划进行约170亿美元的再投资购买；8月14日至9月14日期间不进行储备管理购买。",
+          "url": "https://wallstreetcn.com/livenews/3149287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7450元，较上一交易日夜盘收盘涨9个基点。",
+          "url": "https://wallstreetcn.com/livenews/3149286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "美光科技(MU.O)：美光创投总资本承诺额增至5.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814040317323800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "现货钯金日内跌超4.00%，现报1309.61美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260814040257440800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "04时37分"
+        },
+        {
+          "title": "美光创投推出2.5亿美元基金，投资下一代人工智能。",
+          "url": "https://flash.jin10.com/detail/20260814040156968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "消息人士：底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能会给其带来数十亿美元的成本。",
@@ -163,57 +273,13 @@
           "time_info": "00时52分"
         },
         {
-          "title": "现货黄金失守4350美元/盎司，日内跌1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3149290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "纽约联储：交易台计划进行约170亿美元的再投资购买；8月14日至9月14日期间不进行储备管理购买。",
-          "url": "https://flash.jin10.com/detail/20260814030505506800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "纽约联储：交易台计划进行约170亿美元的再投资购买；8月14日至9月14日期间不进行储备管理购买。",
-          "url": "https://wallstreetcn.com/livenews/3149287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7450元，较上一交易日夜盘收盘涨9个基点。",
-          "url": "https://wallstreetcn.com/livenews/3149286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
           "title": "市场消息：阿根廷准许境内银行把最高15%的美元存款，用于向企业发放贷款。",
           "url": "https://flash.jin10.com/detail/20260814025032057800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -224,7 +290,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -246,7 +312,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -257,7 +323,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -276,7 +342,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -286,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -297,8 +363,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -312,15 +378,15 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
-          "url": "https://wallstreetcn.com/livenews/3149298",
-          "source": "华尔街见闻-快讯",
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
@@ -334,15 +400,15 @@
           "time_info": "00时52分"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
+          "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
+          "url": "https://flash.jin10.com/detail/20260814040533982800",
+          "source": "金十数据",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -350,11 +416,36 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时37分]"
+        },
+        {
+          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
+          "url": "https://wallstreetcn.com/livenews/3149298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时37分]"
         },
         {
           "title": "霉霉特朗普 版权",
@@ -366,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -461,11 +541,12 @@
           "url": "https://www.toutiao.com/trending/7673470363653341225/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 04时37分]"
         }
       ]
     }
