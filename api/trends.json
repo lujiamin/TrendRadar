@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:03:07.486659+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-08-14T14:10:19.646483+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 12时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 14时10分]"
         },
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
@@ -85,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -373,6 +373,28 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美元兑日元USD/JPY短线下挫逾10点，报159.24。",
+          "url": "https://flash.jin10.com/detail/20260814134121916800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "机构：预估至2030年全球LED通用照明市场规模有望达609.42亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
           "title": "布伦特原油突破86美元/桶，日内涨0.18%。",
           "url": "https://flash.jin10.com/detail/20260814090713502800",
           "source": "金十数据",
@@ -445,7 +467,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -489,15 +511,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "集邦咨询：预估至2030年全球LED通用照明市场规模有望达609.42亿美元",
+          "url": "https://flash.jin10.com/detail/20260814131406400800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -556,8 +589,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时10分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -599,7 +632,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -616,6 +649,18 @@
           "time_info": "[03时55分 ~ 04时37分]"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 14时10分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -628,18 +673,6 @@
           "time_info": "[00时52分 ~ 06时36分]"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时03分]"
-        },
-        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -647,8 +680,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时10分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -673,6 +706,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时37分]"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
@@ -703,7 +747,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -728,6 +772,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "霉霉特朗普 版权",
@@ -769,7 +835,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -849,6 +915,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中芯国际",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
+          "url": "https://flash.jin10.com/detail/20260814091603701800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "中芯国际高管：三季度开出或下线的晶圆使用了新的价格。",
+          "url": "https://wallstreetcn.com/livenews/3149395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "中芯国际赵海军：三季度计入新增产能后的利用率预计维持在约95%高位",
+          "url": "https://flash.jin10.com/detail/20260814091348703800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "港股半导体板块午后回暖，中芯国际(00981.HK)持续走强涨超6%，英诺赛科(02577.HK)涨超3%，纳芯微(02676.HK)、兆易创新(03986.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814134340429800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
+          "url": "https://wallstreetcn.com/livenews/3149386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "中芯国际赵海军：客户提前拉货抵消了部分终端下行影响",
+          "url": "https://flash.jin10.com/detail/20260814091014283800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "中芯国际联合首席执行官赵海军：已提高我们最受欢迎的晶圆的价格。",
+          "url": "https://flash.jin10.com/detail/20260814090640144800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "中芯国际赵海军：二季度海外订单回流，在地化制造继续加强",
+          "url": "https://flash.jin10.com/detail/20260814090551283800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "中芯国际联合首席执行官赵海军：三季度开出或下线的晶圆采用了新的价格。",
+          "url": "https://flash.jin10.com/detail/20260814090045540800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
@@ -948,100 +1119,6 @@
       ]
     },
     {
-      "keyword_group": "中芯国际",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
-          "url": "https://flash.jin10.com/detail/20260814091603701800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际高管：三季度开出或下线的晶圆使用了新的价格。",
-          "url": "https://wallstreetcn.com/livenews/3149395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际赵海军：三季度计入新增产能后的利用率预计维持在约95%高位",
-          "url": "https://flash.jin10.com/detail/20260814091348703800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
-          "url": "https://wallstreetcn.com/livenews/3149386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际赵海军：客户提前拉货抵消了部分终端下行影响",
-          "url": "https://flash.jin10.com/detail/20260814091014283800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：已提高我们最受欢迎的晶圆的价格。",
-          "url": "https://flash.jin10.com/detail/20260814090640144800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际赵海军：二季度海外订单回流，在地化制造继续加强",
-          "url": "https://flash.jin10.com/detail/20260814090551283800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "中芯国际联合首席执行官赵海军：三季度开出或下线的晶圆采用了新的价格。",
-          "url": "https://flash.jin10.com/detail/20260814090045540800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "比亚迪",
       "match_count": 2,
       "titles": [
@@ -1067,6 +1144,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         }
       ]
     }
