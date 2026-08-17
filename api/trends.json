@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T08:56:42.703059+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-08-17T10:18:20.612237+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -37,9 +37,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时18分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -48,9 +48,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时18分]"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时18分]"
         },
         {
           "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
@@ -59,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -73,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         },
         {
           "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
@@ -168,6 +168,28 @@
           "time_info": "[01时15分 ~ 02时21分]"
         },
         {
+          "title": "特朗普称要大幅缩减美韩联合军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时18分]"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
           "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
           "url": "https://wallstreetcn.com/livenews/3150084",
           "source": "华尔街见闻-快讯",
@@ -188,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
+          "url": "https://wallstreetcn.com/livenews/3150151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -320,23 +353,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "特朗普称要大幅缩减美韩联合军演",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -350,27 +372,40 @@
           "time_info": "[01时15分 ~ 08时56分]"
         },
         {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 10时18分]"
+        },
+        {
           "title": "现货白银日内涨超1.00%，现报65.31美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260817084422454800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
         {
-          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
-          "url": "https://www.cls.cn/detail/2455252",
-          "source": "财联社热门",
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 08时56分]"
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时18分]"
         },
         {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
@@ -409,17 +444,6 @@
           "time_info": "[01时15分 ~ 04时16分]"
         },
         {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "现货黄金周一小幅高开，报4380.58美元/盎司。WTI原油高开，报81.66美元/桶。",
           "url": "https://flash.jin10.com/detail/20260817060126495800",
           "source": "金十数据",
@@ -437,9 +461,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月8日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3150143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "新台币兑美元日内上涨0.3%至31.948。",
+          "url": "https://wallstreetcn.com/livenews/3150142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "WTI原油向上触及82美元/桶，日内涨0.59%。",
+          "url": "https://flash.jin10.com/detail/20260817094615553800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "LG电子在巴西巴拉那州启用价值3.1亿美元的智能工厂，该巴西新工厂年产能预计达60万台冰箱。",
+          "url": "https://wallstreetcn.com/livenews/3150139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         }
       ]
     },
@@ -460,6 +528,32 @@
           "time_info": "[01时15分 ~ 08时56分]"
         },
         {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 10时18分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 10时18分]"
+        },
+        {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
@@ -470,30 +564,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 07时15分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 08时56分]"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 08时56分]"
         }
       ]
     },
@@ -507,11 +577,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 08时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 10时18分]"
         }
       ]
     }
