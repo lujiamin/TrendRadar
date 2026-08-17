@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T15:48:11.403052+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-08-17T17:36:49.355776+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 17时36分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 17时36分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -87,17 +87,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
-          "url": "https://flash.jin10.com/detail/20260817063335924800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
@@ -107,8 +96,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时18分 ~ 15时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时18分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
+          "url": "https://flash.jin10.com/detail/20260817063335924800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -127,11 +127,12 @@
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 17时36分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -394,7 +395,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -408,6 +409,30 @@
           "time_info": "[01时15分 ~ 08时56分]"
         },
         {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 17时36分]"
+        },
+        {
+          "title": "华尔街屏息以待！全球首家万亿美元市值银行要出现了？",
+          "url": "https://www.cls.cn/detail/2455607",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时36分]"
+        },
+        {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
@@ -419,29 +444,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 10时18分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 15时48分]"
-        },
-        {
-          "title": "华尔街屏息以待！全球首家万亿美元市值银行要出现了？",
-          "url": "https://www.cls.cn/detail/2455607",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
         },
         {
           "title": "现货白银日内涨超1.00%，现报65.31美元/盎司。",
@@ -461,7 +463,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -589,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
+        },
+        {
+          "title": "Phillip Securities：申对SpaceX(SPCX.O)的“卖出”评级，目标价75美元。仍对高额资本支出、AI客户集中度以及临时性云服务合同保持谨慎，若要推动估值重估，需要客户作出更长期的业务承诺。",
+          "url": "https://flash.jin10.com/detail/20260817171508052800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "LG电子在巴西巴拉那州启用价值3.1亿美元的智能工厂，该巴西新工厂年产能预计达60万台冰箱。",
@@ -756,11 +769,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 17时36分]"
         }
       ]
     }
