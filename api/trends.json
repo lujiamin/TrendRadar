@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T08:58:16.829178+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-18T14:34:43.789664+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -42,6 +42,18 @@
           "time_info": "[00时21分 ~ 07时31分]"
         },
         {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 14时34分]"
+        },
+        {
           "title": "大V：特朗普“金蝉脱壳”是政治失算",
           "url": "https://www.toutiao.com/trending/7675011910084857394/",
           "source": "今日头条",
@@ -53,15 +65,37 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
           "ranks": [
-            4
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 14时34分]"
         },
         {
           "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
@@ -97,17 +131,6 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
           "title": "民调显示特朗普支持率创第二任期内新低",
           "url": "https://wallstreetcn.com/livenews/3150715",
           "source": "华尔街见闻-快讯",
@@ -118,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 08时58分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
@@ -173,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "从调停人到“替罪羊”？特朗普为何突然盯上阿曼",
+          "url": "https://flash.jin10.com/detail/20260818140440429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "土耳其总统埃尔多安与美国总统特朗普通电话。（土耳其媒体Anadolu）",
@@ -255,7 +300,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "谁贡献了俄罗斯上半年734亿美元顺差",
@@ -273,11 +318,12 @@
           "url": "https://www.cls.cn/detail/2456549",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 08时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 14时34分]"
         },
         {
           "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
@@ -313,6 +359,39 @@
           "time_info": "07时31分"
         },
         {
+          "title": "机构：Q2全球前五大NAND Flash品牌合计营收环比增长77% 达688.7亿美元",
+          "url": "https://flash.jin10.com/detail/20260818141316986800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "法拉利首辆纯电车，拍出4000万美元天价",
+          "url": "https://www.cls.cn/detail/2456516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "现货白银失守65美元/盎司，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3150865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "Gravis Robotics：软银将向Gravis Robotics投资2亿美元。",
           "url": "https://flash.jin10.com/detail/20260817233100921800",
           "source": "金十数据",
@@ -333,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "印度国家证券交易所IPO目标估值高达550亿美元，刷新印度历史纪录",
+          "url": "https://wallstreetcn.com/livenews/3150862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "超级富豪家族办公室扎堆SpaceX 持股规模超过38亿美元",
